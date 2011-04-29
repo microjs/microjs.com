@@ -22,7 +22,7 @@ var MicroJS = [
   },
   {
     name: "Underscore",
-    size: "3k",
+    size: "3.0k",
     tags: ["functional", "language", "data"],
     description: "A utility-belt that provides functional programming support that you would expect in Ruby.",
     url: "http://documentcloud.github.com/underscore/"
@@ -57,7 +57,7 @@ var MicroJS = [
   },
   {
     name: "Qwery",
-    size: "1k",
+    size: "1.0k",
     tags: ["css"],
     description: "Qwery is a 1k blazing fast query selector engine allowing you to select elements with CSS1 & CSS2 selectors.",
     url: "https://github.com/ded/qwery"
@@ -78,7 +78,7 @@ var MicroJS = [
   },
   {
     name: "Lawnchair",
-    size: "2k",
+    size: "2.0k",
     tags: ["data","storage","webkit"],
     description: "Sorta like a couch except smaller and outside, also, a client side JSON document store. Perfect for WebKit mobile apps.",
     url: "http://westcoastlogic.com/lawnchair/"
@@ -218,7 +218,7 @@ var MicroJS = [
   },
   {
     name: "Spine",
-    size: "2k",
+    size: "2.0k",
     tags: ["mvc"],
     description: "MVC with real protypical inheritance, controllers, model layer and ORM, Ajax and local storage.",
     url: "http://maccman.github.com/spine/"
@@ -232,9 +232,16 @@ var MicroJS = [
   },
   {
     name: "Bowser",
-    size: "0.25k",
+    size: "0.2k",
     tags: ["feature"],
     description: "A browser detector. Because when there is no features to detect, sometimes you have to browser sniff",
     url: "https://github.com/ded/bowser"
+  },
+  {
+    name: "ES5-Shim",
+    size: "2.0k",
+    tags: ["language", "polyfill"],
+    description: "Compatibility shims so that legacy JavaScript engines behave as closely as possible to ES5.",
+    url: "https://github.com/kriskowal/es5-shim/"
   }
 ];
