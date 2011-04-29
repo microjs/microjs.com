@@ -214,5 +214,12 @@ var MicroJS = [
     tags: ["dom", "events"],
     description: "lets you know when the DOM is ready",
     url: "https://github.com/ded/domready"
+  },
+  {
+    name: "Kizzy",
+    size: "0.6k",
+    tags: ["data", "storage"],
+    description: "Cross Browser caching util leveraging LocalStorage and XML Store with a Memcached interface",
+    url: "https://github.com/ded/Kizzy"
   }
 ];
