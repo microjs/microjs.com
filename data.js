@@ -215,5 +215,12 @@ var MicroJS = [
     tags: ["dom", "events"],
     description: "lets you know when the DOM is ready",
     url: "https://github.com/ded/domready"
+  },
+  {
+    name: "Spine",
+    size: "2k",
+    tags: ["mvc"],
+    description: "MVC with real protypical inheritance, controllers, model layer and ORM, Ajax and local storage.",
+    url: "http://maccman.github.com/spine/"
   }
 ];
