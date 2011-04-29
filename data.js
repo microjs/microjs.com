@@ -155,9 +155,9 @@ var MicroJS = [
   },
   {
     name: "Ender",
-    size: "10k",
-    tags: ["base", "dom", "events", "ajax", "animation", "language"],
-    description: "A open, powerful, micro-to-macro API for composing your own custom JavaScript library. The 'Jeesh' contains a pre-packaged selection of micro-libs.",
+    size: "?k",
+    tags: ["compose"],
+    description: "A open, powerful, micro-to-macro API for composing your own custom JavaScript library.",
     url: "http://ender.no.de/"
   },
   {
@@ -194,6 +194,12 @@ var MicroJS = [
     tags: ["polyfill", "loader"],
     description: "yepnope is an asynchronous conditional resource loader that allows you to load only the scripts that your users need.",
     url: "http://yepnopejs.com/"
+  },
+    name: "ICanHaz",
+    size: "1.8k",
+    tags: ["templating"],
+    description: "Simple & powerful client-side templating for jQuery or Zepto.js.",
+    url: "http://icanhazjs.com/"
   },
   {
     name: "Q",
