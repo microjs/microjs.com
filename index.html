@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Microjs: Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!</title>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <link href='http://fonts.googleapis.com/css?family=Maiden+Orange' rel='stylesheet' type='text/css'>
+<style>
+  html {
+    min-height: 100%;
+  }
+  body {
+    -webkit-text-size-adjust:none;
+    text-align: center;
+    margin: 0;
+    background: #333;
+    background: #111414 no-repeat center top -moz-radial-gradient(top,#2a2e30,#111414);
+    background: #111414 no-repeat top center -webkit-gradient(radial, center top, 0, center top, 600, from(#2a2e30), to(#111414));
+    color: #fff;
+    font: 16px/19px Helvetica, Arial;
+    min-height: 100%;
+  }
+  ul {
+    width: 650px;
+    margin: 20px auto 0 auto;
+  }
+  h1, h2, h3, p.footer strong, p.clue strong { 
+    font-family: 'Maiden Orange', arial, serif; 
+    font-weight: normal;
+  }
+  #header {
+    position: relative;
+  }
+  h1 {
+    padding-top: 50px;
+    color: #fff;
+    margin: 0;
+    font-size: 136px;
+    line-height: 130px;
+    font-weight: normal;
+    text-shadow: 0px -1px 9px rgba(0,0,0,0.4);
+  }
+  h1.overlay {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    -webkit-mask-image: -webkit-gradient(linear, left top,
+      left bottom, from(rgba(0,0,0,1)), to(rgba(0,0,0,0)));
+    text-shadow: none;
+  }
+  h1 span:nth-child(1) { color: #A839B2; }
+  h1 span:nth-child(2) { color: #FF0071; }
+  h1 span:nth-child(3) { color: #ACD030; }
+  h1 span:nth-child(4) { color: #58AA00; }
+  h1 span:nth-child(5) { color: #00AA78; }
+  h1 span:nth-child(6) { color: #0074AE; }
+  h1 span:nth-child(7) { color: #A839B2; }
+  h2 {
+    color: #fff;
+    margin: 0;
+    font-size: 26px;
+    line-height: 30px;
+    font-weight: normal;
+    text-shadow: 0px -1px 5px rgba(0,0,0,0.4);
+  }
+  select {
+    font-size: 25px;
+    background: #000;
+    color: #fff;
+  }
+  ul {
+    list-style-type: none;
+    width: 650px;
+    margin: 0;
+    padding: 0;
+    margin: 20px auto;
+  }
+  li {
+    background: 
+      -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.2)), color-stop(0.5, rgba(255,255,255,0.1)), color-stop(0.501, rgba(255,255,255,0.0)), to(rgba(255,255,255,0.0))),
+      -webkit-gradient(linear, left top, left bottom, from(#3a3e40), to(#2a2e30));
+    width: 650px;
+    height: 100px;
+    border-radius: 25px;
+    -webkit-box-shadow:inset 0 0 20px 0 rgba(0,0,0,0.1), 0 -1px 5px rgba(0,0,0,0.4);
+    margin: 0 0 10px 0;
+    -webkit-font-smoothing: antialiased;
+    text-rendering:optimizeLegibility;
+  }
+  li:hover {
+    background: 
+      -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.1)), color-stop(0.5, rgba(255,255,255,0.2)), color-stop(0.501, rgba(255,255,255,0.1)), to(rgba(255,255,255,0.1))),
+      -webkit-gradient(linear, left top, left bottom, from(#3a3e40), to(#2a2e30));    
+  }
+  li a {
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    padding: 20px;
+    width: 610px;
+    height: 60px;
+  }
+  li h3 {
+    float: left;
+    margin: 0 30px 0 0;
+    border-right: 1px solid rgba(255,255,255,1.0);
+    padding: 0 20px 0 0;
+    height: 60px;
+    line-height: 66px;
+    font-size: 45px;
+    font-weight: normal;
+  }
+  li div.size {
+    float: right;
+    margin: 0 0 0 30px;
+    padding: 0 0 0 20px;
+    line-height: 66px;
+    height: 60px;
+    font-size: 45px;
+    font-weight: normal;
+    border-left: 1px solid rgba(255,255,255,1.0);
+    font-family: 'Maiden Orange', arial, serif;
+  }
+/*  li h3 a {
+    display: inline-block;
+    -webkit-transition: all 0.3s;
+    -webkit-transform: scale(0.9) translate3d(0,0,0);
+  }
+  li h3 a:hover {
+    -webkit-transition: all 0.3s;
+    -webkit-transform: scale(1.0) translate3d(0,0,0);
+  }*/
+  p.footer {
+    width: 400px;
+    padding: 20px 0 40px 0;
+    border-top: 1px solid #58AA00;
+    color: rgba(255,255,255,1);
+    margin: 0 auto;
+    line-height: 20px;
+  }
+  p.footer strong {
+    font-size: 21px;
+  }
+  p.footer a {
+    color: #fff;
+  }
+  p.footer span.asterisk {
+    color: #FF0071;
+    padding: 0 10px;
+  }
+  p.footer span.links {
+    display: block;
+    color: #fff;
+    margin-top: 8px;
+    font-size: 12px;
+  }
+  p.clue {
+    width: 400px;
+    padding: 40px 0 40px 0;
+    border-top: 1px solid #A839B2;
+    color: rgba(255,255,255,1);
+    margin: 40px auto 0 auto;
+    line-height: 20px;
+  }
+  p.clue strong {
+    font-size: 21px;
+    display: block;
+  }
+  #ineed {
+    margin: 10px 0 10px 0;
+  }
+</style>
+</head>
+<body>
+
+<div id="header">
+<h1>
+  <span>m</span><span>i</span><span>c</span><span>r</span><span>o</span><span>j</span><span>s</span>
+</h1>
+<h1 class="overlay">
+  microjs
+</h1>
+</div>
+
+<div id="ineed">
+<select id="ineed_select">
+  <option>I need…</option>
+  <option></option>
+  <option value="base">Base framework</option>
+  <option value="animation">CSS Animation</option>
+  <option value="vector">Vector graphics</option>
+  <option value="templating">Templating</option>
+  <option value="data">Data manipulation</option>
+  <option value="functional">Functional programming</option>
+  <option value="loader">Loader</option>
+  <option value="json">JSON</option>
+  <option value="storage">Persistent storage</option>
+  <option value="mvc">Lightweight MVC</option>
+  <option value="feature">Feature detection</option>
+  <option value="events">Events</option>
+  <option value="polyfill">Polyfills</option>
+</select>
+</div>
+
+<ul id="results">
+</ul>
+
+<p class="clue">
+  <strong>Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!</strong>
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</p>
+
+<p class="footer">
+  <strong>microjs.com</strong> — a micro-site for micro-frameworks
+  <span class="links">
+  &copy; 2011 <a href="http://mir.aculo.us/">Thomas Fuchs</a> <span class="asterisk">✻</span>
+  <a href="https://github.com/madrobby/microjs.com">source on GitHub</a>
+  </span>
+</p>
+
+<a href='https://developer.mozilla.org/en/JavaScript' title='JavaScript'><img src='http://static.jsconf.us/promotejsh.gif' height='150' width='180' alt='JavaScript'/></a>
+
+<script src="data.js"></script>
+<script>
+(function(){
+  function $(id){ return document.getElementById(id) }
+  function t(s,d){for(var p in d)s=s.replace(new RegExp('{'+p+'}','g'),typeof d[p][1]=='f'?d[p]():d[p]);return s;}
+  
+  MicroJS.sort(function(){ return 0.5 - Math.random() });
+  
+  function find(tag){
+    var results = [], i = MicroJS.length;
+    while(i--) if(MicroJS[i].tags.indexOf(tag)>-1) results.push(MicroJS[i]);
+    return results;
+  }
+  
+  function render(results){
+    var html = [], i = results.length;
+    while(i--) html.push(t('<li><a href="{url}"><div class="size">{size}</div><h3>{name}</h3>{description}</a></li>',results[i]))
+    $('results').innerHTML = html.join('');
+  }
+  
+  $('ineed_select').onchange = function(){
+    render(find($('ineed_select').options[$('ineed_select').selectedIndex].value));
+  }
+  
+  render(MicroJS);
+})();
+</script>
+
+<script src="//static.getclicky.com/js" type="text/javascript"></script>
+<script type="text/javascript">try{ clicky.init(66418235); }catch(e){}</script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/66418235ns.gif" /></p></noscript>
+</body>
+</html>
