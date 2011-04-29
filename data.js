@@ -207,5 +207,12 @@ var MicroJS = [
     tags: ["functional", "events"],
     description: "when/defer-style promises for JavaScript (CommonJS/Promises/A,B,D)",
     url: "https://github.com/kriskowal/q"
+  },
+  {
+    name: "domReady",
+    size: "0.2k",
+    tags: ["dom", "events"],
+    description: "lets you know when the DOM is ready",
+    url: "https://github.com/ded/domready"
   }
 ];
