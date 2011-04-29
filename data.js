@@ -173,5 +173,26 @@ var MicroJS = [
     tags: ["templating"],
     description: "Tempo is a JSON rendering engine that enables you to craft data templates in pure HTML.",
     url: "http://twigkit.github.com/tempo/"
+  },
+  {
+    name: "Reqwest",
+    size: "0.9k",
+    tags: ["ajax"],
+    description: "A robust lightweight wrapper for asynchronous http requests.",
+    url: "https://github.com/ded/Reqwest"
+  },
+  {
+    name: "JSON2",
+    size: "1.3k",
+    tags: ["polyfill", "json"],
+    description: "Creates a JSON property in the global object, if there  isn't already one, with stringify and parse methods.",
+    url: "https://github.com/douglascrockford/JSON-js"
+  },
+  {
+    name: "yepnope",
+    size: "1.6k",
+    tags: ["polyfill", "loader"],
+    description: "yepnope is an asynchronous conditional resource loader that allows you to load only the scripts that your users need.",
+    url: "http://yepnopejs.com/"
   }
 ];
