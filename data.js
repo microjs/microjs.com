@@ -195,6 +195,7 @@ var MicroJS = [
     description: "yepnope is an asynchronous conditional resource loader that allows you to load only the scripts that your users need.",
     url: "http://yepnopejs.com/"
   },
+  {
     name: "ICanHaz",
     size: "1.8k",
     tags: ["templating"],
