@@ -81,16 +81,78 @@
     width: 650px;
     height: 100px;
     border-radius: 25px;
-    -webkit-box-shadow:inset 0 0 20px 0 rgba(0,0,0,0.1), 0 -1px 5px rgba(0,0,0,0.4);
     margin: 0 0 10px 0;
     -webkit-font-smoothing: antialiased;
     text-rendering:optimizeLegibility;
   }
+  li:nth-child(6n+1) {
+    background: 
+      -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.2)), color-stop(0.5, rgba(255,255,255,0.1)), color-stop(0.501, rgba(255,255,255,0.0)), to(rgba(255,255,255,0.0))),
+      -webkit-gradient(linear, left top, left bottom, from(#A839B2), to(#6c1075));
+  }
+  li:nth-child(6n+2) {
+    background: 
+      -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.2)), color-stop(0.5, rgba(255,255,255,0.1)), color-stop(0.501, rgba(255,255,255,0.0)), to(rgba(255,255,255,0.0))),
+      -webkit-gradient(linear, left top, left bottom, from(#ff0071), to(#bb0047));
+  }
+  li:nth-child(6n+3) {
+    background: 
+      -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.2)), color-stop(0.5, rgba(255,255,255,0.1)), color-stop(0.501, rgba(255,255,255,0.0)), to(rgba(255,255,255,0.0))),
+      -webkit-gradient(linear, left top, left bottom, from(#acd030), to(#6f9113));
+  }
+  li:nth-child(6n+4) {
+    background: 
+      -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.2)), color-stop(0.5, rgba(255,255,255,0.1)), color-stop(0.501, rgba(255,255,255,0.0)), to(rgba(255,255,255,0.0))),
+      -webkit-gradient(linear, left top, left bottom, from(#58aa00), to(#337100));
+  }
+  li:nth-child(6n+5) {
+    background: 
+      -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.2)), color-stop(0.5, rgba(255,255,255,0.1)), color-stop(0.501, rgba(255,255,255,0.0)), to(rgba(255,255,255,0.0))),
+      -webkit-gradient(linear, left top, left bottom, from(#00aa78), to(#05603e));
+  }
+  li:nth-child(6n+6) {
+    background: 
+      -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.2)), color-stop(0.5, rgba(255,255,255,0.1)), color-stop(0.501, rgba(255,255,255,0.0)), to(rgba(255,255,255,0.0))),
+      -webkit-gradient(linear, left top, left bottom, from(#0074ae), to(#073c66));
+  }
+  
   li:hover {
     background: 
       -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.1)), color-stop(0.5, rgba(255,255,255,0.2)), color-stop(0.501, rgba(255,255,255,0.1)), to(rgba(255,255,255,0.1))),
-      -webkit-gradient(linear, left top, left bottom, from(#3a3e40), to(#2a2e30));    
+      -webkit-gradient(linear, left top, left bottom, from(#3a3e40), to(#2a2e30));
+    -webkit-box-shadow:0 0 100px rgba(255,255,255,0.15);
   }
+  li:hover:nth-child(6n+1) {
+    background: 
+      -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.1)), color-stop(0.5, rgba(255,255,255,0.2)), color-stop(0.501, rgba(255,255,255,0.1)), to(rgba(255,255,255,0.1))),
+      -webkit-gradient(linear, left top, left bottom, from(#A839B2), to(#6c1075));
+  }
+  li:hover:nth-child(6n+2) {
+    background: 
+      -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.1)), color-stop(0.5, rgba(255,255,255,0.2)), color-stop(0.501, rgba(255,255,255,0.1)), to(rgba(255,255,255,0.1))),
+      -webkit-gradient(linear, left top, left bottom, from(#ff0071), to(#bb0047));
+  }
+  li:hover:nth-child(6n+3) {
+    background: 
+      -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.1)), color-stop(0.5, rgba(255,255,255,0.2)), color-stop(0.501, rgba(255,255,255,0.1)), to(rgba(255,255,255,0.1))),
+      -webkit-gradient(linear, left top, left bottom, from(#acd030), to(#6f9113));
+  }
+  li:hover:nth-child(6n+4) {
+    background: 
+      -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.1)), color-stop(0.5, rgba(255,255,255,0.2)), color-stop(0.501, rgba(255,255,255,0.1)), to(rgba(255,255,255,0.1))),
+      -webkit-gradient(linear, left top, left bottom, from(#58aa00), to(#337100));
+  }
+  li:hover:nth-child(6n+5) {
+    background: 
+      -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.1)), color-stop(0.5, rgba(255,255,255,0.2)), color-stop(0.501, rgba(255,255,255,0.1)), to(rgba(255,255,255,0.1))),
+      -webkit-gradient(linear, left top, left bottom, from(#00aa78), to(#05603e));
+  }
+  li:hover:nth-child(6n+6) {
+    background: 
+      -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.1)), color-stop(0.5, rgba(255,255,255,0.2)), color-stop(0.501, rgba(255,255,255,0.1)), to(rgba(255,255,255,0.1))),
+      -webkit-gradient(linear, left top, left bottom, from(#0074ae), to(#073c66));
+  }
+  
   li a {
     color: #fff;
     text-decoration: none;
@@ -130,7 +192,7 @@
     -webkit-transform: scale(1.0) translate3d(0,0,0);
   }*/
   p.footer {
-    width: 400px;
+    width: 450px;
     padding: 20px 0 40px 0;
     border-top: 1px solid #58AA00;
     color: rgba(255,255,255,1);
@@ -144,7 +206,7 @@
     color: #fff;
   }
   p.footer span.asterisk {
-    color: #FF0071;
+    color: #00AA78;
     padding: 0 10px;
   }
   p.footer span.links {
@@ -154,7 +216,7 @@
     font-size: 12px;
   }
   p.clue {
-    width: 400px;
+    width: 450px;
     padding: 40px 0 40px 0;
     border-top: 1px solid #A839B2;
     color: rgba(255,255,255,1);
@@ -162,11 +224,23 @@
     line-height: 20px;
   }
   p.clue strong {
-    font-size: 21px;
+    font-size: 30px;
+    line-height: 37px;
     display: block;
+    color: #0074AE;
+  }
+  p.clue a {
+    color: #FF0071;
   }
   #ineed {
     margin: 10px 0 10px 0;
+  }
+  p {
+    -webkit-font-smoothing: antialiased;
+    text-rendering:optimizeLegibility;
+  }
+  p.promotejs {
+    margin: 0 auto 40px auto;
   }
 </style>
 </head>
@@ -185,10 +259,11 @@
 <select id="ineed_select">
   <option>I need…</option>
   <option></option>
-  <option value="base">Base framework</option>
+  <option value="base">Base/Meta-Framework</option>
+  <option value="dom">DOM Utilities</option>
+  <option value="templating">Templating</option>
   <option value="animation">CSS Animation</option>
   <option value="vector">Vector graphics</option>
-  <option value="templating">Templating</option>
   <option value="data">Data manipulation</option>
   <option value="functional">Functional programming</option>
   <option value="loader">Loader</option>
@@ -197,6 +272,7 @@
   <option value="mvc">Lightweight MVC</option>
   <option value="feature">Feature detection</option>
   <option value="events">Events</option>
+  <option value="webkit">WebKit-specifc libs</option>
   <option value="polyfill">Polyfills</option>
 </select>
 </div>
@@ -205,29 +281,48 @@
 </ul>
 
 <p class="clue">
-  <strong>Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!</strong>
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  <strong>Fantastic Micro-Frameworks and<br> Micro-Libraries for Fun and Profit!</strong>
+  <br>
+  For many projects, classical monolithic JavaScript frameworks like jQuery,
+  Prototype.js, Dojo or YUI are just too much. While they of course bring a
+  wealth of features, they come at a price: features you don't need and large
+  file sizes and long download times—especially annoying for mobile sites and apps.
+  <br><br>
+  Micro-Frameworks to the rescue! Small, precise, to-the-point code that
+  does one thing only, and does it well, without being encumbered by years
+  of cruft, featuritis, and cross-browser madness.
+  <br><br>
+  This sites helps you discover what is available and pick and browse various
+  framework and libraries. Want to add your own?
+  <a href="https://github.com/madrobby/microjs.com">Fork on GitHub</a>,
+  add it to data.js and provide a pull request.
 </p>
 
 <p class="footer">
   <strong>microjs.com</strong> — a micro-site for micro-frameworks
   <span class="links">
   &copy; 2011 <a href="http://mir.aculo.us/">Thomas Fuchs</a> <span class="asterisk">✻</span>
-  <a href="https://github.com/madrobby/microjs.com">source on GitHub</a>
+  <a href="https://github.com/madrobby/microjs.com">source on GitHub</a> <span class="asterisk">✻</span>
+  sizes minified &amp; gzipped
   </span>
 </p>
 
+<p class="promotejs">
 <a href='https://developer.mozilla.org/en/JavaScript' title='JavaScript'><img src='http://static.jsconf.us/promotejsh.gif' height='150' width='180' alt='JavaScript'/></a>
+</p>
 
 <script src="data.js"></script>
 <script>
 (function(){
+  var hash = location.href.split('#');
+  
   function $(id){ return document.getElementById(id) }
   function t(s,d){for(var p in d)s=s.replace(new RegExp('{'+p+'}','g'),typeof d[p][1]=='f'?d[p]():d[p]);return s;}
   
   MicroJS.sort(function(){ return 0.5 - Math.random() });
   
   function find(tag){
+    if(!tag) return MicroJS;
     var results = [], i = MicroJS.length;
     while(i--) if(MicroJS[i].tags.indexOf(tag)>-1) results.push(MicroJS[i]);
     return results;
@@ -240,10 +335,15 @@
   }
   
   $('ineed_select').onchange = function(){
-    render(find($('ineed_select').options[$('ineed_select').selectedIndex].value));
+    var value = $('ineed_select').options[$('ineed_select').selectedIndex].value;
+    render(find(value));
+    if(value) location.href='/#'+value;
   }
   
-  render(MicroJS);
+  if(hash.length>1)
+    render(find(hash[1]))
+  else
+    render(MicroJS);
 })();
 </script>
 
