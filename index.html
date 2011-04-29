@@ -291,7 +291,7 @@
   wealth of features, they come at a price: features you don't need and large
   file sizes and long download times—especially annoying for mobile sites and apps.
   <br><br>
-  Micro-Frameworks to the rescue! Small, precise, to-the-point code that
+  Micro-Frameworks to the rescue! Small, concise, to-the-point code that
   does one thing only, and does it well, without being encumbered by years
   of cruft, featuritis, and cross-browser madness.
   <br><br>
@@ -320,7 +320,7 @@
   var hash = location.href.split('#');
   
   function $(id){ return document.getElementById(id) }
-  function t(s,d){for(var p in d)s=s.replace(new RegExp('{'+p+'}','g'),typeof d[p][1]=='f'?d[p]():d[p]);return s;}
+  function t(s,d){for(var p in d)s=s.replace(new RegExp('{'+p+'}','g'),d[p]);return s;}
   
   MicroJS.sort(function(){ return 0.5 - Math.random() });
   

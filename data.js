@@ -222,5 +222,19 @@ var MicroJS = [
     tags: ["mvc"],
     description: "MVC with real protypical inheritance, controllers, model layer and ORM, Ajax and local storage.",
     url: "http://maccman.github.com/spine/"
+  },
+  {
+    name: "Kizzy",
+    size: "0.6k",
+    tags: ["data", "storage"],
+    description: "Cross Browser caching util leveraging LocalStorage and XML Store with a Memcached interface",
+    url: "https://github.com/ded/Kizzy"
+  },
+  {
+    name: "Bowser",
+    size: "0.25k",
+    tags: ["feature"],
+    description: "A browser detector. Because when there is no features to detect, sometimes you have to browser sniff",
+    url: "https://github.com/ded/bowser"
   }
 ];
