@@ -6,7 +6,7 @@ var MicroJS = [
     description: "Detects native CSS3 and HTML5 features available in the current browser.",
     url: "http://www.modernizr.com/"
   },
-  { 
+  {
     name: "Zepto",
     size: "4.2k",
     tags: ["base", "dom", "webkit", "jquery", "ajax", "events", "mobile"],
@@ -20,14 +20,14 @@ var MicroJS = [
     description: "A super micro tiny dom library for authoring HTML5 mobile web applications, works cross-device and cross-platform.",
     url: "http://xuijs.com/"
   },
-  { 
+  {
     name: "Underscore",
     size: "3k",
     tags: ["functional", "language", "data"],
     description: "A utility-belt that provides functional programming support that you would expect in Ruby.",
     url: "http://documentcloud.github.com/underscore/"
   },
-  { 
+  {
     name: "Backbone",
     size: "3.9k",
     tags: ["mvc", "data", "functional"],
@@ -69,7 +69,7 @@ var MicroJS = [
     description: "Émile is a no-frills stand-alone CSS animation JavaScript framework, named after Émile Cohl, early animator.",
     url: "https://github.com/madrobby/emile"
   },
-  { 
+  {
     name: "Raphaël",
     size: "20k",
     tags: ["graphics", "vector", "SVG"],
@@ -90,7 +90,7 @@ var MicroJS = [
     description: "HTML5 canvas tag support for Internet Explorer.",
     url: "http://code.google.com/p/explorercanvas/"
   },
-  { 
+  {
     name: "Placeholder.js",
     size: "0.4k",
     tags: ["polyfill"],
@@ -194,5 +194,12 @@ var MicroJS = [
     tags: ["polyfill", "loader"],
     description: "yepnope is an asynchronous conditional resource loader that allows you to load only the scripts that your users need.",
     url: "http://yepnopejs.com/"
+  },
+  {
+    name: "Q",
+    size: "1.0k",
+    tags: ["functional", "events"],
+    description: "when/defer-style promises for JavaScript (CommonJS/Promises/A,B,D)",
+    url: "https://github.com/kriskowal/q"
   }
 ];
