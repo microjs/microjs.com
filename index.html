@@ -47,13 +47,12 @@
       left bottom, from(rgba(0,0,0,1)), to(rgba(0,0,0,0)));
     text-shadow: none;
   }
-  h1 span:nth-child(1) { color: #A839B2; }
-  h1 span:nth-child(2) { color: #FF0071; }
-  h1 span:nth-child(3) { color: #ACD030; }
-  h1 span:nth-child(4) { color: #58AA00; }
-  h1 span:nth-child(5) { color: #00AA78; }
-  h1 span:nth-child(6) { color: #0074AE; }
-  h1 span:nth-child(7) { color: #A839B2; }
+  h1 span:nth-child(6n+1) { color: #A839B2; }
+  h1 span:nth-child(6n+2) { color: #FF0071; }
+  h1 span:nth-child(6n+3) { color: #ACD030; }
+  h1 span:nth-child(6n+4) { color: #58AA00; }
+  h1 span:nth-child(6n+5) { color: #00AA78; }
+  h1 span:nth-child(6n+6) { color: #0074AE; }
   h2 {
     color: #fff;
     margin: 0;
@@ -61,6 +60,9 @@
     line-height: 30px;
     font-weight: normal;
     text-shadow: 0px -1px 5px rgba(0,0,0,0.4);
+  }
+  #ineed {
+    font-size: 25px;
   }
   select {
     font-size: 25px;
@@ -225,10 +227,16 @@
   }
   p.clue strong {
     font-size: 30px;
-    line-height: 37px;
+    line-height: 32px;
     display: block;
     color: #0074AE;
   }
+  p.clue strong span:nth-child(6n+1) { color: #A839B2; }
+  p.clue strong span:nth-child(6n+2) { color: #FF0071; }
+  p.clue strong span:nth-child(6n+3) { color: #ACD030; }
+  p.clue strong span:nth-child(6n+4) { color: #58AA00; }
+  p.clue strong span:nth-child(6n+5) { color: #00AA78; }
+  p.clue strong span:nth-child(6n+6) { color: #0074AE; }
   p.clue a {
     color: #FF0071;
   }
@@ -256,8 +264,8 @@
 </div>
 
 <div id="ineed">
-<select id="ineed_select">
-  <option>I need…</option>
+I need <select id="ineed_select">
+  <option></option>
   <option value="base">…a base framework.</option>
   <option value="dom">…a DOM utility.</option>
   <option value="templating">…templating.</option>
@@ -284,7 +292,9 @@
 </ul>
 
 <p class="clue">
-  <strong>Fantastic Micro-Frameworks and<br> Micro-Libraries for Fun and Profit!</strong>
+  <strong><span>Fantastic</span><span> Micro</span>-</span><span>Frameworks</span><span> and</span><br>
+    <span>Micro</span><span>-</span><span>Libraries</span><span> for</span><span> Fun</span> 
+    <span>and</span><span> Profit</span><span>!</span></strong>
   <br>
   For many projects, classical monolithic JavaScript frameworks like jQuery,
   Prototype.js, Dojo or YUI are just too much. While they of course bring a
@@ -337,6 +347,11 @@
     $('results').innerHTML = html.join('');
   }
   
+  function select(tag){
+    var options = $('ineed_select').options, i=options.length;
+    while(i--) if(options[i].value==tag) $('ineed_select').selectedIndex = i;
+  }
+  
   $('ineed_select').onchange = function(){
     var value = $('ineed_select').options[$('ineed_select').selectedIndex].value;
     if(value=="micro") return(alert($('micro').innerHTML));
@@ -344,7 +359,7 @@
     if(value) location.href='/#'+value;
   }
   
-  render(hash.length>1 ? find(hash[1]) : MicroJS);
+  render(hash.length>1 ? (select(hash[1]), find(hash[1])) : MicroJS);
 })();
 </script>
 
