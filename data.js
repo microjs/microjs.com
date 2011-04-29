@@ -58,7 +58,7 @@ var MicroJS = [
   {
     name: "Qwery",
     size: "1k",
-    tags: ["base", "dom"],
+    tags: ["css"],
     description: "Qwery is a 1k blazing fast query selector engine allowing you to select elements with CSS1 & CSS2 selectors.",
     url: "https://github.com/ded/qwery"
   },
