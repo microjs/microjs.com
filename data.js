@@ -222,5 +222,12 @@ var MicroJS = [
     tags: ["data", "storage"],
     description: "Cross Browser caching util leveraging LocalStorage and XML Store with a Memcached interface",
     url: "https://github.com/ded/Kizzy"
+  },
+  {
+    name: "Bowser",
+    size: "0.25k",
+    tags: ["feature"],
+    description: "A browser detector. Because when there is no features to detect, sometimes you have to browser sniff",
+    url: "https://github.com/ded/bowser"
   }
 ];
