@@ -49,13 +49,6 @@ var MicroJS = [
     url: "http://labjs.com/"
   },
   {
-    name: "RequireJS",
-    size: "5.5k",
-    tags: ["loader"],
-    description: "File and module loader with extensive optimization options.",
-    url: "http://requirejs.org/"
-  },
-  {
     name: "Qwery",
     size: "1.0k",
     tags: ["css"],
@@ -63,25 +56,11 @@ var MicroJS = [
     url: "https://github.com/ded/qwery"
   },
   {
-    name: "Sizzle",
-    size: "5.2k",
-    tags: ["css"],
-    description: "Sizzle is a query selector engine allowing you to select elements with CSS1, CSS2 & CSS3 selectors.",
-    url: "http://sizzlejs.com/"
-  },
-  {
     name: "Sly",
-    size: "3k",
+    size: "3.0k",
     tags: ["css"],
     description: "Sly is a query selector engine allowing you to select elements with CSS1, CSS2 & CSS3 selectors.",
     url: "https://github.com/digitarald/sly"
-  },
-  {
-    name: "NWMatcher",
-    size: "6.6k",
-    tags: ["css"],
-    description: "Performance-optimized query selector engine for CSS1, CSS2 & CSS3 selectors.",
-    url: "http://javascript.nwbox.com/NWMatcher/"
   },
   {
     name: "Émile",
@@ -89,13 +68,6 @@ var MicroJS = [
     tags: ["animation"],
     description: "Émile is a no-frills stand-alone CSS animation JavaScript framework, named after Émile Cohl, early animator.",
     url: "https://github.com/madrobby/emile"
-  },
-  {
-    name: "Raphaël",
-    size: "20k",
-    tags: ["graphics", "vector", "SVG"],
-    description: "Raphaël is library that simplifies work with vector graphics on the web, supporting SVG and VML (for IE).",
-    url: "http://raphaeljs.com/"
   },
   {
     name: "Lawnchair",
