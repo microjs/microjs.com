@@ -120,7 +120,7 @@ var MicroJS = [
   },
   {
     name: "Bonzo",
-    size: "1.4k",
+    size: "2.9k",
     tags: ["dom"],
     description: "A simple, to the point, hassle-free, small, library agnostic, extensible DOM utility.",
     url: "https://github.com/ded/bonzo"
@@ -158,7 +158,7 @@ var MicroJS = [
     size: "?k",
     tags: ["compose"],
     description: "A open, powerful, micro-to-macro API for composing your own custom JavaScript library.",
-    url: "http://ender.no.de/"
+    url: "http://ender.no.de"
   },
   {
     name: "Mold",
