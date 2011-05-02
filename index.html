@@ -8,6 +8,9 @@
   html {
     min-height: 100%;
   }
+  * {
+    outline: none;
+  }
   body {
     -webkit-text-size-adjust:none;
     text-align: center;
@@ -47,13 +50,15 @@
       left bottom, from(rgba(0,0,0,1)), to(rgba(0,0,0,0)));
     text-shadow: none;
   }
-  h1 span:nth-child(1) { color: #A839B2; }
-  h1 span:nth-child(2) { color: #FF0071; }
-  h1 span:nth-child(3) { color: #ACD030; }
-  h1 span:nth-child(4) { color: #58AA00; }
-  h1 span:nth-child(5) { color: #00AA78; }
-  h1 span:nth-child(6) { color: #0074AE; }
-  h1 span:nth-child(7) { color: #A839B2; }
+  h1.overlay span {
+    color: #fff !important;
+  }
+  h1 span:nth-child(6n+1) { color: #A839B2; }
+  h1 span:nth-child(6n+2) { color: #FF0071; }
+  h1 span:nth-child(6n+3) { color: #ACD030; }
+  h1 span:nth-child(6n+4) { color: #58AA00; }
+  h1 span:nth-child(6n+5) { color: #00AA78; }
+  h1 span:nth-child(6n+6) { color: #0074AE; }
   h2 {
     color: #fff;
     margin: 0;
@@ -61,6 +66,9 @@
     line-height: 30px;
     font-weight: normal;
     text-shadow: 0px -1px 5px rgba(0,0,0,0.4);
+  }
+  #ineed {
+    font-size: 25px;
   }
   select {
     font-size: 25px;
@@ -225,10 +233,16 @@
   }
   p.clue strong {
     font-size: 30px;
-    line-height: 37px;
+    line-height: 32px;
     display: block;
     color: #0074AE;
   }
+  p.clue strong span:nth-child(6n+1) { color: #A839B2; }
+  p.clue strong span:nth-child(6n+2) { color: #FF0071; }
+  p.clue strong span:nth-child(6n+3) { color: #ACD030; }
+  p.clue strong span:nth-child(6n+4) { color: #58AA00; }
+  p.clue strong span:nth-child(6n+5) { color: #00AA78; }
+  p.clue strong span:nth-child(6n+6) { color: #0074AE; }
   p.clue a {
     color: #FF0071;
   }
@@ -251,31 +265,31 @@
   <span>m</span><span>i</span><span>c</span><span>r</span><span>o</span><span>j</span><span>s</span>
 </h1>
 <h1 class="overlay">
-  microjs
+  <span>m</span><span>i</span><span>c</span><span>r</span><span>o</span><span>j</span><span>s</span>
 </h1>
 </div>
 
 <div id="ineed">
-<select id="ineed_select">
-  <option>I need…</option>
+I need <select id="ineed_select">
   <option></option>
-  <option value="base">base framework</option>
-  <option value="dom">DOM utility</option>
-  <option value="templating">templating</option>
-  <option value="animation">CSS animation</option>
-  <option value="vector">vector graphics</option>
-  <option value="data">data manipulation</option>
-  <option value="functional">functional programming</option>
-  <option value="loader">loader</option>
-  <option value="json">JSON</option>
-  <option value="ajax">AJAX</option>
-  <option value="storage">persistent storage</option>
-  <option value="mvc">lightweight MVC</option>
-  <option value="feature">feature detection</option>
-  <option value="events">events</option>
-  <option value="webkit">WebKit-specifc libs</option>
-  <option value="polyfill">polyfills</option>
-  <option value="compose">…to compose my own framework</option>
+  <option value="base">…a base framework.</option>
+  <option value="dom">…a DOM utility.</option>
+  <option value="templating">…templating.</option>
+  <option value="animation">…CSS animation.</option>
+  <option value="css">…a CSS selector engine.</option>
+  <option value="data">…data manipulation.</option>
+  <option value="functional">…functional programming.</option>
+  <option value="loader">…a JavaScript loader.</option>
+  <option value="json">…JSON.</option>
+  <option value="ajax">…AJAX.</option>
+  <option value="storage">…persistent storage.</option>
+  <option value="mvc">…client-side MVC.</option>
+  <option value="feature">…feature/browser detection.</option>
+  <option value="events">…events!</option>
+  <option value="webkit">…WebKit-specific libraries.</option>
+  <option value="polyfill">…polyfills.</option>
+  <option value="compose">…to compose my own framework!</option>
+  <option value="micro">…to code a site listing micro-frameworks!</option>
 </select>
 </div>
 
@@ -283,25 +297,27 @@
 </ul>
 
 <p class="clue">
-  <strong>Fantastic Micro-Frameworks and<br> Micro-Libraries for Fun and Profit!</strong>
+  <strong><span>Fantastic</span><span> Micro</span>-</span><span>Frameworks</span><span> and</span><br>
+    <span>Micro</span><span>-</span><span>Libraries</span><span> for</span><span> Fun</span> 
+    <span>and</span><span> Profit</span><span>!</span></strong>
   <br>
-  For many projects, classical monolithic JavaScript frameworks like jQuery,
+  For many projects, classic monolithic JavaScript frameworks like jQuery,
   Prototype.js, Dojo or YUI are just too much. While they of course bring a
-  wealth of features, they come at a price: features you don't need and large
+  wealth of features, they come at a price: features you don't need, large
   file sizes and long download times—especially annoying for mobile sites and apps.
   <br><br>
-  Micro-Frameworks to the rescue! Small, precise, to-the-point code that
-  does one thing only, and does it well, without being encumbered by years
+  Micro-frameworks to the rescue! In under 5k they provide concise, to-the-point 
+  code that does one thing only, and does it well, without being encumbered by years
   of cruft, featuritis, and cross-browser madness.
   <br><br>
-  This sites helps you discover what is available and pick and browse various
-  framework and libraries. Want to add your own?
+  This site helps you discover what is available and pick and browse various
+  frameworks and libraries. Want to add your own &lt;5k libs?
   <a href="https://github.com/madrobby/microjs.com">Fork on GitHub</a>,
   add it to data.js and provide a pull request.
 </p>
 
 <p class="footer">
-  <strong>microjs.com</strong> — a micro-site for micro-frameworks
+  <strong>microjs</strong> — a micro-site for micro-frameworks
   <span class="links">
   &copy; 2011 <a href="http://mir.aculo.us/">Thomas Fuchs</a> <span class="asterisk">✻</span>
   <a href="https://github.com/madrobby/microjs.com">source on GitHub</a> <span class="asterisk">✻</span>
@@ -314,38 +330,41 @@
 </p>
 
 <script src="data.js"></script>
-<script>
+<script id="micro">
 (function(){
   var hash = location.href.split('#');
   
-  function $(id){ return document.getElementById(id) }
-  function t(s,d){for(var p in d)s=s.replace(new RegExp('{'+p+'}','g'),typeof d[p][1]=='f'?d[p]():d[p]);return s;}
+  function $(id){return document.getElementById(id)}
+  function t(s,d){for(var p in d)s=s.replace(new RegExp('{'+p+'}','g'),d[p]);return s}
   
-  MicroJS.sort(function(){ return 0.5 - Math.random() });
+  MicroJS.sort(function(){return .5-Math.random()});
   
   function find(tag){
     if(!tag) return MicroJS;
-    var results = [], i = MicroJS.length;
+    var results=[], i=MicroJS.length;
     while(i--) if(MicroJS[i].tags.indexOf(tag)>-1) results.push(MicroJS[i]);
     return results;
   }
   
   function render(results){
-    var html = [], i = results.length;
+    var html=[], i=results.length;
     while(i--) html.push(t('<li><a href="{url}"><div class="size">{size}</div><h3>{name}</h3>{description}</a></li>',results[i]))
     $('results').innerHTML = html.join('');
   }
   
+  function select(tag){
+    var options = $('ineed_select').options, i=options.length;
+    while(i--) if(options[i].value==tag) $('ineed_select').selectedIndex = i;
+  }
+  
   $('ineed_select').onchange = function(){
     var value = $('ineed_select').options[$('ineed_select').selectedIndex].value;
+    if(value=="micro") return(alert($('micro').innerHTML));
     render(find(value));
     if(value) location.href='/#'+value;
   }
   
-  if(hash.length>1)
-    render(find(hash[1]))
-  else
-    render(MicroJS);
+  render(hash.length>1 ? (select(hash[1]), find(hash[1])) : MicroJS);
 })();
 </script>
 
