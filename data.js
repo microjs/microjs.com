@@ -250,5 +250,12 @@ var MicroJS = [
     tags: ["functional"],
     description: "A minimal library for functional operations",
     url: "https://github.com/azer/functools"
+  },
+  {
+    name: "observer",
+    size: "1.0k",
+    tags: ["observer","events"],
+    description: "CommonJS implementation of observer design pattern",
+    url: "https://github.com/azer/observer"
   }
 ];
