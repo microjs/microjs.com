@@ -257,15 +257,15 @@ var MicroJS = [
     tags: ["observer","events"],
     description: "CommonJS implementation of observer design pattern",
     url: "https://github.com/azer/observer"
-  }
-  }    
+  },
+  {
     name: "defer.js",
     size: "4.8k",
     tags: ["loader"],
     description: "Script loader, using the 'Deferred' pattern for async operations.",
     url: "https://github.com/BorisMoore/jsdefer/"
-  }
-  }    
+  },
+  {
     name: "Bootstrap",
     size: "1.3k",
     tags: ["loader"],
