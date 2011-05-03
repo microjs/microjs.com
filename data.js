@@ -243,5 +243,12 @@ var MicroJS = [
     tags: ["loader"],
     description: "Simple, flexible and sane JavaScript loader and build tool for browsers",
     url: "https://github.com/danwrong/loadrunner"
+  },
+  {
+    name: "functools",
+    size: "2.2k",
+    tags: ["functional"],
+    description: "A minimal library for functional operations",
+    url: "https://github.com/azer/functools"
   }
 ];
