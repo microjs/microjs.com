@@ -244,4 +244,11 @@ var MicroJS = [
     description: "Simple, flexible and sane JavaScript loader and build tool for browsers",
     url: "https://github.com/danwrong/loadrunner"
   }
+  }    
+    name: "defer.js",
+    size: "4.8k",
+    tags: ["loader"],
+    description: "Script loader, using the 'Deferred' pattern for async operations.",
+    url: "https://github.com/BorisMoore/jsdefer/"
+  }
 ];
