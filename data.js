@@ -243,5 +243,12 @@ var MicroJS = [
     tags: ["loader"],
     description: "Simple, flexible and sane JavaScript loader and build tool for browsers",
     url: "https://github.com/danwrong/loadrunner"
+  },
+  {
+    name : "RequireJS",
+    size : "5.5k",
+    tags : ["loader"],
+    description : "a JavaScript file and module loader.",
+    url : "http://www.requirejs.org"
   }
 ];
