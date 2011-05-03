@@ -236,5 +236,12 @@ var MicroJS = [
     tags: ["language", "polyfill"],
     description: "Compatibility shims so that legacy JavaScript engines behave as closely as possible to ES5.",
     url: "https://github.com/kriskowal/es5-shim/"
+  },
+  {
+    name: "Loadrunner",
+    size: "2.0k",
+    tags: ["loader"],
+    description: "Simple, flexible and sane JavaScript loader and build tool for browsers",
+    url: "https://github.com/danwrong/loadrunner"
   }
 ];
