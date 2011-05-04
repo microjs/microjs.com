@@ -362,5 +362,12 @@ var MicroJS = [
     tags: ["color"],
     description: "Color conversion functions for switching between hex decimal, RGB, names and arrays.",
     url: "https://github.com/Wolfy87/Color"
+  },
+  {
+    name: "Microajax",
+    size: "2.1k",
+    tags: ["ajax"],
+    description: "One of the smallest and easiest AJAX libraries.",
+    url: "http://code.google.com/p/microajax/"
   }
 ];
