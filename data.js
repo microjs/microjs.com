@@ -299,5 +299,12 @@ var MicroJS = [
     tags: ["CSS","CSS3"],
     description: "Basic CSS DOM manipulation and animation optimized for webkit browsers(Safari, Chrome) for building mobile web apps",
     url: "https://github.com/vladocar/picoCSS"
+  },
+  {
+    name: "H5F.js",
+    size: "1.8k",
+    tags: ["polyfill"],
+    description: "Adds support for HTML5 Forms chapters new field input types, attributes and constraint validation API in non-supporting browsers.",
+    url: "https://github.com/ryanseddon/H5F"
   }
 ];
