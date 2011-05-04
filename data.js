@@ -349,4 +349,11 @@ var MicroJS = [
     description: "A minimalistic library intended to help in using namespaces and class inheritance in JavaScript.",
     url: "https://github.com/tekool/objs"
   }
+  {
+    name: "EventEmitter",
+    size: "0.6k",
+    tags: ["events"],
+    description: "Evented JavaScript for the browser",
+    url: "https://github.com/Wolfy87/EventEmitter"
+  }
 ];
