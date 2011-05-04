@@ -292,5 +292,12 @@ var MicroJS = [
     tags: ["canvas", "2d"],
     description: "LOGO-inspired canvas drawing lib, adds method chaining and polar coordinates for added fun.",
     url: "https://github.com/davebalmer/turtlewax"
+  },
+  {
+    name: "picoCSS",
+    size: "0.35k",
+    tags: ["CSS","CSS3"],
+    description: "Basic CSS DOM manipulation and animation optimized for webkit browsers(Safari, Chrome) for building mobile web apps",
+    url: "https://github.com/vladocar/picoCSS"
   }
 ];
