@@ -292,5 +292,12 @@ var MicroJS = [
     tags: ["canvas", "2d"],
     description: "LOGO-inspired canvas drawing lib, adds method chaining and polar coordinates for added fun.",
     url: "https://github.com/davebalmer/turtlewax"
+  },
+  {
+    name: "nimble",
+    size: "0.8k",
+    tags: ["functional", "async"],
+    description: "Functional flow-control for JavaScript. Combines the most useful features of the underscore and async libraries.",
+    url: "http://caolan.github.com/nimble/"
   }
 ];
