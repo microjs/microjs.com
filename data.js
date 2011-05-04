@@ -278,5 +278,12 @@ var MicroJS = [
     tags: ["loader"],
     description: "Tiny async JavaScript and CSS loader.",
     url: "https://github.com/rgrove/lazyload"
+  },
+  {
+    name: "picoCSS",
+    size: "0.35k",
+    tags: ["CSS","CSS3"],
+    description: "Basic CSS DOM manipulation and animation optimized for webkit browsers(Safari, Chrome) for building mobile web apps",
+    url: "https://github.com/vladocar/picoCSS"
   }
 ];
