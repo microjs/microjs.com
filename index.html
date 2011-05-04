@@ -27,7 +27,7 @@
     width: 650px;
     margin: 20px auto 0 auto;
   }
-  h1, h2, h3, p.footer strong, p.clue strong {
+  h1, h2, h3, p.footer strong, .clue strong {
     font-family: 'Maiden Orange', arial, serif;
     font-weight: normal;
   }
@@ -274,27 +274,32 @@
     margin-top: 8px;
     font-size: 12px;
   }
-  p.clue {
-    width: 450px;
-    padding: 40px 0 40px 0;
+  .clue {
+    margin-top: 40px;
     border-top: 1px solid #A839B2;
+    padding: 30px 0;
+    width: 450px;
+    margin: 40px auto;
+  }
+  div.clue p {
+    width: 450px;
     color: rgba(255,255,255,1);
-    margin: 40px auto 0 auto;
+    margin: 10px auto 0 auto;
     line-height: 20px;
   }
-  p.clue strong {
+  div.clue p strong {
     font-size: 30px;
     line-height: 32px;
     display: block;
     color: #0074AE;
   }
-  p.clue strong span:nth-child(6n+1) { color: #A839B2; }
-  p.clue strong span:nth-child(6n+2) { color: #FF0071; }
-  p.clue strong span:nth-child(6n+3) { color: #ACD030; }
-  p.clue strong span:nth-child(6n+4) { color: #58AA00; }
-  p.clue strong span:nth-child(6n+5) { color: #00AA78; }
-  p.clue strong span:nth-child(6n+6) { color: #0074AE; }
-  p.clue a {
+  .clue strong span:nth-child(6n+1) { color: #A839B2; }
+  .clue strong span:nth-child(6n+2) { color: #FF0071; }
+  .clue strong span:nth-child(6n+3) { color: #ACD030; }
+  .clue strong span:nth-child(6n+4) { color: #58AA00; }
+  .clue strong span:nth-child(6n+5) { color: #00AA78; }
+  .clue strong span:nth-child(6n+6) { color: #0074AE; }
+  .clue a {
     color: #FF0071;
   }
   #ineed {
@@ -352,34 +357,35 @@ I need <select id="ineed_select">
 <ul id="results">
 </ul>
 
-<p class="clue">
-  <strong><span>Fantastic</span><span> Micro</span>-</span><span>Frameworks</span><span> and</span><br>
+<div class="clue">
+  <p><strong><span>Fantastic</span><span> Micro</span>-</span><span>Frameworks</span><span> and</span><br>
     <span>Micro</span><span>-</span><span>Libraries</span><span> for</span><span> Fun</span>
     <span>and</span><span> Profit</span><span>!</span></strong>
-  <br>
-  How much library code do you really need — 50K? 100K? 150K? More? How
-  much of that do you really use?
-  <br><br>
-  Sure, we all love our favorite monolithic frameworks, and sometimes we
+  </p>
+  <p>How much library code do you really need — 50K? 100K? 150K? More? How
+  much of that do you really use?</p>
+
+  <p>Sure, we all love our favorite monolithic frameworks, and sometimes we
   even use them fully. But how often do we reach for the ride-on John
   Deere tractor with air conditioning and six-speaker sound system, when
   a judiciously applied pocketknife would do the trick better, faster,
-  slicker?
-  <br><br>
-  Micro-frameworks are definitely the pocketknives of the JavaScript
+  slicker?</p>
+
+  <p>Micro-frameworks are definitely the pocketknives of the JavaScript
   library world: short, sweet, to the point. And at 5k and under,
   micro-frameworks are very very portable. A micro-framework does one
   thing and one thing only — and does it well. No cruft, no featuritis,
-  no feature creep, no excess anywhere.
-  <br><br>
-  Microjs.com helps you discover the most compact-but-powerful
+  no feature creep, no excess anywhere.</p>
+
+  <p>Microjs.com helps you discover the most compact-but-powerful
   microframeworks, and makes it easy for you to pick one that’ll work
-  for you.
-  <br><br>
-  Want to add your own?
+  for you.</p>
+
+  <p>Want to add your own?
   <a href="https://github.com/madrobby/microjs.com">Fork this site on GitHub</a>,
-  add your framework to data.js and submit a pull request.
-</p>
+  add your framework to data.js and submit a pull request.</p>
+</div>
+
 
 <p class="footer">
   <strong>microjs</strong> — a micro-site for micro-frameworks
@@ -394,7 +400,7 @@ I need <select id="ineed_select">
 <a href='https://developer.mozilla.org/en/JavaScript' title='JavaScript'><img src='http://static.jsconf.us/promotejsh.gif' height='150' width='180' alt='JavaScript'/></a>
 </p>
 
-<script src="data.js"></script>
+<script src="data-min.js"></script>
 <script id="micro">
 (function(){
   var hash = location.href.split('#');
