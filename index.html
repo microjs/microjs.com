@@ -1,19 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <meta charset="utf-8">
   <title>Microjs: Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!</title>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width; initial-scale=0.45">
-  <link href='http://fonts.googleapis.com/css?family=Maiden+Orange' rel='stylesheet' type='text/css'>
+  <link href="http://fonts.googleapis.com/css?family=Maiden+Orange" rel="stylesheet">
 <style>
   html {
     min-height: 100%;
   }
   * {
-    outline: none;
+    outline: 0;
   }
   body {
-    -webkit-text-size-adjust:none;
+    -webkit-text-size-adjust: none;
     text-align: center;
     margin: 0;
     background: #333;
@@ -28,7 +28,7 @@
     margin: 20px auto 0 auto;
   }
   h1, h2, h3, p.footer strong, .clue strong {
-    font-family: 'Maiden Orange', arial, serif;
+    font-family: 'Maiden Orange', arial, sans-serif;
     font-weight: normal;
   }
   #header {
@@ -435,12 +435,12 @@ I need <select id="ineed_select">
     if(value) location.href='/#'+value;
   }
 
-  render(hash.length>1 ? (select(hash[1]), find(hash[1])) : MicroJS);
+  render(hash.length ? (select(hash[1]), find(hash[1])) : MicroJS);
 })();
 </script>
 
-<script src="//static.getclicky.com/js" type="text/javascript"></script>
-<script type="text/javascript">try{ clicky.init(66418235); }catch(e){}</script>
-<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/66418235ns.gif" /></p></noscript>
+<script src="//static.getclicky.com/js"></script>
+<script>try{ clicky.init(66418235); }catch(e){}</script>
+<noscript><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/66418235ns.gif"></noscript>
 </body>
 </html>
