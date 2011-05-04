@@ -278,5 +278,12 @@ var MicroJS = [
     tags: ["loader"],
     description: "Tiny async JavaScript and CSS loader.",
     url: "https://github.com/rgrove/lazyload"
+  },
+  {
+    name: "Valentine",
+    size: "1.5k",
+    tags: ["functional", "language", "data"],
+    description: "JavaScripts functional sister providing iterators, type checking, and basic utils",
+    url: "https://github.com/ded/valentine"
   }
 ];
