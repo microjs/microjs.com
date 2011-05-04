@@ -1,5 +1,12 @@
 var MicroJS = [
   {
+    name: "MinPubSub",
+    size: "0.2k",
+    tags: ["events"],
+    description: "A micro publish/subscribe messaging framework, weighing in at only 280 bytes (198 bytes gzipped)",
+    url: "https://github.com/daniellmb/MinPubSub"
+  },
+  {
     name: "Modernizr",
     size: "3.7k",
     tags: ["feature"],
