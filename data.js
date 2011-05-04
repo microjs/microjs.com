@@ -306,5 +306,12 @@ var MicroJS = [
     tags: ["polyfill"],
     description: "Adds support for HTML5 Forms chapters new field input types, attributes and constraint validation API in non-supporting browsers.",
     url: "https://github.com/ryanseddon/H5F"
+  },
+  {
+    name: "Store.js",
+    size: "1.8k",
+    tags: ["data", "storage"],
+    description: "localStorage wrapper for all browsers without using cookies or flash",
+    url: "https://github.com/marcuswestin/store.js"
   }
 ];
