@@ -348,5 +348,12 @@ var MicroJS = [
     tags: ["language"],
     description: "A minimalistic library intended to help in using namespaces and class inheritance in JavaScript.",
     url: "https://github.com/tekool/objs"
+  },
+  {
+    name: "Microajax",
+    size: "2.1k",
+    tags: ["ajax"],
+    description: "One of the smallest and easiest AJAX libraries.",
+    url: "http://code.google.com/p/microajax/"
   }
 ];
