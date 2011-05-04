@@ -1,5 +1,12 @@
 var MicroJS = [
   {
+    name: "$dom",
+    size: "2.6k",
+    tags: ["dom", "ajax", "events", "animation"],
+    description: "A 5k Javascript library for selecting, styling, traversing and animating DOM elements.",
+    url: "https://github.com/julienw/dollardom"
+  },
+  {
     name: "MinPubSub",
     size: "0.2k",
     tags: ["events"],
