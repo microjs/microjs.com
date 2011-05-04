@@ -355,5 +355,12 @@ var MicroJS = [
     tags: ["events"],
     description: "Evented JavaScript for the browser",
     url: "https://github.com/Wolfy87/EventEmitter"
+  },
+  {
+    name: "Color",
+    size: "1.9k",
+    tags: ["color"],
+    description: "Color conversion functions for switching between hex decimal, RGB, names and arrays.",
+    url: "https://github.com/Wolfy87/Color"
   }
 ];
