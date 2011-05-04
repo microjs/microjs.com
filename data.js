@@ -3,14 +3,14 @@ var MicroJS = [
     name: "$dom",
     size: "2.6k",
     tags: ["dom", "ajax", "events", "animation"],
-    description: "A 5k Javascript library for selecting, styling, traversing and animating DOM elements.",
+    description: "Selecting, styling, traversing and animating DOM elements.",
     url: "https://github.com/julienw/dollardom"
   },
   {
     name: "MinPubSub",
     size: "0.2k",
     tags: ["events"],
-    description: "A micro publish/subscribe messaging framework, weighing in at only 280 bytes (198 bytes gzipped)",
+    description: "A publish/subscribe messaging framework",
     url: "https://github.com/daniellmb/MinPubSub"
   },
   {
@@ -24,29 +24,29 @@ var MicroJS = [
     name: "Zepto",
     size: "4.2k",
     tags: ["base", "dom", "webkit", "jquery", "ajax", "events", "mobile"],
-    description: "jQuery API-compatible micro-framework for mobile WebKit browsers, with DOM manipulation, Ajax and events.",
-    url: "http://zeptojs.com/"
+    description: "jQuery API-compatible framework for mobile WebKit browsers, with DOM manipulation, Ajax and events.",
+    url: "http://zeptojs.com"
   },
   {
     name: "xui",
     size: "4.1k",
     tags: ["base", "dom", "mobile", "ajax", "events", "webkit", "animation"],
-    description: "A super micro tiny dom library for authoring HTML5 mobile web applications, works cross-device and cross-platform.",
-    url: "http://xuijs.com/"
+    description: "DOM library for authoring HTML5 mobile web applications, works cross-device and cross-platform.",
+    url: "http://xuijs.com"
   },
   {
     name: "Underscore",
     size: "3.0k",
     tags: ["functional", "language", "data"],
     description: "A utility-belt that provides functional programming support that you would expect in Ruby.",
-    url: "http://documentcloud.github.com/underscore/"
+    url: "http://documentcloud.github.com/underscore"
   },
   {
     name: "Backbone",
     size: "3.9k",
     tags: ["mvc", "data", "functional"],
     description: "Lightweight MVC—models with custom events, collections with rich enumerables, views and RESTful JSON.",
-    url: "http://documentcloud.github.com/backbone/"
+    url: "http://documentcloud.github.com/backbone"
   },
   {
     name: "Mustache",
@@ -59,14 +59,14 @@ var MicroJS = [
     name: "LABjs",
     size: "2.1k",
     tags: ["loader"],
-    description: "Flexible and light-weight JavaScript dependency loader.",
+    description: "Flexible JavaScript dependency loader.",
     url: "http://labjs.com/"
   },
   {
     name: "Qwery",
     size: "1.0k",
     tags: ["css"],
-    description: "Qwery is a 1k blazing fast query selector engine allowing you to select elements with CSS1 & CSS2 selectors.",
+    description: "Blazing fast query selector engine allowing you to select elements with CSS1 & CSS2 selectors.",
     url: "https://github.com/ded/qwery"
   },
   {
@@ -80,14 +80,14 @@ var MicroJS = [
     name: "Émile",
     size: "0.9k",
     tags: ["animation"],
-    description: "Émile is a no-frills stand-alone CSS animation JavaScript framework, named after Émile Cohl, early animator.",
+    description: "Émile is a no-frills stand-alone CSS animation JavaScript framework",
     url: "https://github.com/madrobby/emile"
   },
   {
     name: "Lawnchair",
     size: "2.0k",
-    tags: ["data","storage","webkit"],
-    description: "Sorta like a couch except smaller and outside, also, a client side JSON document store. Perfect for WebKit mobile apps.",
+    tags: ["data","storage","webkit","mobile"],
+    description: "Client side JSON document store. Perfect for WebKit mobile apps.",
     url: "http://westcoastlogic.com/lawnchair/"
   },
   {
@@ -129,14 +129,14 @@ var MicroJS = [
     name: "Bonzo",
     size: "2.9k",
     tags: ["dom"],
-    description: "A simple, to the point, hassle-free, small, library agnostic, extensible DOM utility.",
+    description: "Hassle-free, library agnostic, extensible DOM utility.",
     url: "https://github.com/ded/bonzo"
   },
   {
     name: "Bean",
     size: "2.4k",
     tags: ["events", "dom"],
-    description: "Bean is a small, slick, cross-platform, framework-agnostic event utility designed for desktop, mobile, and touch-based browsers. ",
+    description: "Bean is a slick, cross-platform, framework-agnostic event utility designed for desktop, mobile, and touch-based browsers. ",
     url: "https://github.com/fat/bean"
   },
   {
@@ -147,7 +147,7 @@ var MicroJS = [
     url: "https://github.com/ded/script.js"
   },
   {
-    name: "Klass.js",
+    name: "Klass",
     size: "0.6k",
     tags: ["language", "class"],
     description: "An expressive, cross platform JavaScript Class provider with a slick, classical interface to prototypal inheritance.",
@@ -161,7 +161,7 @@ var MicroJS = [
     url: "http://classy.pocoo.org/"
   },
   {
-    name: "snack.js",
+    name: "Snack.js",
     size: "3.3k",
     tags: ["base", "dom", "events", "ajax", "language"],
     description: "A tiny, cross-browser, library with DOM manipulation, events, pub/sub, Ajax and language utilities.",
@@ -170,15 +170,15 @@ var MicroJS = [
   {
     name: "Ender",
     size: "?k",
-    tags: ["compose"],
-    description: "A open, powerful, micro-to-macro API for composing your own custom JavaScript library.",
+    tags: ["compose", "base", "mobile"],
+    description: "An open, powerful, micro-to-macro API for composing your own custom JavaScript library.",
     url: "http://ender.no.de"
   },
   {
     name: "Mold",
     size: "1.9k",
     tags: ["templating"],
-    description: "Mold is a very light-weight (200 lines) client-side JavaScript-based templating library.",
+    description: "Mold is a templating library.",
     url: "http://marijnhaverbeke.nl/mold/"
   },
   {
@@ -192,7 +192,7 @@ var MicroJS = [
     name: "Reqwest",
     size: "0.9k",
     tags: ["ajax"],
-    description: "A robust lightweight wrapper for asynchronous http requests.",
+    description: "Robust wrapper for asynchronous http requests.",
     url: "https://github.com/ded/Reqwest"
   },
   {
@@ -227,7 +227,7 @@ var MicroJS = [
     name: "domReady",
     size: "0.2k",
     tags: ["dom", "events"],
-    description: "lets you know when the DOM is ready",
+    description: "Lets you know when the DOM is ready",
     url: "https://github.com/ded/domready"
   },
   {
@@ -269,14 +269,14 @@ var MicroJS = [
     name: "functools",
     size: "2.2k",
     tags: ["functional"],
-    description: "A minimal library for functional operations",
+    description: "A library for functional operations",
     url: "https://github.com/azer/functools"
   },
   {
     name: "observer",
     size: "1.0k",
     tags: ["observer","events"],
-    description: "CommonJS implementation of observer design pattern",
+    description: "CommonJS implementation of the observer design pattern",
     url: "https://github.com/azer/observer"
   },
   {
@@ -297,7 +297,7 @@ var MicroJS = [
     name: "LazyLoad",
     size: "0.9k",
     tags: ["loader"],
-    description: "Tiny async JavaScript and CSS loader.",
+    description: "Async JavaScript and CSS loader.",
     url: "https://github.com/rgrove/lazyload"
   },
   {
@@ -317,7 +317,7 @@ var MicroJS = [
   {
     name: "picoCSS",
     size: "0.35k",
-    tags: ["CSS","CSS3"],
+    tags: ["CSS", "CSS3", "mobile"],
     description: "Basic CSS DOM manipulation and animation optimized for webkit browsers(Safari, Chrome) for building mobile web apps",
     url: "https://github.com/vladocar/picoCSS"
   },
@@ -367,7 +367,7 @@ var MicroJS = [
     name: "Microajax",
     size: "2.1k",
     tags: ["ajax"],
-    description: "One of the smallest and easiest AJAX libraries.",
+    description: "Simple AJAX library.",
     url: "http://code.google.com/p/microajax/"
   }
 ];
