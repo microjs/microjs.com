@@ -81,7 +81,7 @@
     padding: 0;
     margin: 20px auto;
   }
-  li {
+  li a {
     background:
       -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.2)), color-stop(0.5, rgba(255,255,255,0.1)), color-stop(0.501, rgba(255,255,255,0.0)), to(rgba(255,255,255,0.0))),
       -webkit-gradient(linear, left top, left bottom, from(#3a3e40), to(#2a2e30));
@@ -94,7 +94,7 @@
     -webkit-font-smoothing: antialiased;
     text-rendering:optimizeLegibility;
   }
-  li:nth-child(6n+1) {
+  li:nth-child(6n+1) a {
     background: #791982;
     background:
       -moz-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
@@ -103,7 +103,7 @@
       -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.2)), color-stop(0.5, rgba(255,255,255,0.1)), color-stop(0.501, rgba(255,255,255,0.0)), to(rgba(255,255,255,0.0))),
       -webkit-gradient(linear, left top, left bottom, from(#A839B2), to(#6c1075));
   }
-  li:nth-child(6n+2) {
+  li:nth-child(6n+2) a {
     background: #C4004D;
     background:
       -moz-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
@@ -112,7 +112,7 @@
       -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.2)), color-stop(0.5, rgba(255,255,255,0.1)), color-stop(0.501, rgba(255,255,255,0.0)), to(rgba(255,255,255,0.0))),
       -webkit-gradient(linear, left top, left bottom, from(#ff0071), to(#bb0047));
   }
-  li:nth-child(6n+3) {
+  li:nth-child(6n+3) a {
     background: #81A02C;
     background:
       -moz-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
@@ -121,7 +121,7 @@
       -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.2)), color-stop(0.5, rgba(255,255,255,0.1)), color-stop(0.501, rgba(255,255,255,0.0)), to(rgba(255,255,255,0.0))),
       -webkit-gradient(linear, left top, left bottom, from(#acd030), to(#6f9113));
   }
-  li:nth-child(6n+4) {
+  li:nth-child(6n+4) a {
     background: #4A8419;
     background:
       -moz-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
@@ -130,7 +130,7 @@
       -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.2)), color-stop(0.5, rgba(255,255,255,0.1)), color-stop(0.501, rgba(255,255,255,0.0)), to(rgba(255,255,255,0.0))),
       -webkit-gradient(linear, left top, left bottom, from(#58aa00), to(#337100));
   }
-  li:nth-child(6n+5) {
+  li:nth-child(6n+5) a {
     background: #18946D;
     background:
       -moz-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
@@ -139,7 +139,7 @@
       -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.2)), color-stop(0.5, rgba(255,255,255,0.1)), color-stop(0.501, rgba(255,255,255,0.0)), to(rgba(255,255,255,0.0))),
       -webkit-gradient(linear, left top, left bottom, from(#00aa78), to(#05603e));
   }
-  li:nth-child(6n+6) {
+  li:nth-child(6n+6) a {
     background: #1E577F;
     background:
       -moz-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
@@ -149,7 +149,7 @@
       -webkit-gradient(linear, left top, left bottom, from(#0074ae), to(#073c66));
   }
 
-  li:hover {
+  li a:hover, li a:focus {
     background:
       -moz-linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
       -moz-linear-gradient(#3a3e40, #2a2e30);
@@ -160,7 +160,7 @@
     -moz-box-shadow:0 0 50px rgba(255,255,255,0.15);
     -webkit-box-shadow:0 0 100px rgba(255,255,255,0.15);
   }
-  li:hover:nth-child(6n+1) {
+  li:nth-child(6n+1) a:hover, li:nth-child(6n+1) a:focus {
     background:
       -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.1)), color-stop(0.5, rgba(255,255,255,0.2)), color-stop(0.501, rgba(255,255,255,0.1)), to(rgba(255,255,255,0.1))),
       -webkit-gradient(linear, left top, left bottom, from(#A839B2), to(#6c1075));
@@ -168,7 +168,7 @@
       -moz-linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
       -moz-linear-gradient(#A839B2, #6c1075);
   }
-  li:hover:nth-child(6n+2) {
+  li:nth-child(6n+2) a:hover, li:nth-child(6n+2) a:focus {
     background:
       -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.1)), color-stop(0.5, rgba(255,255,255,0.2)), color-stop(0.501, rgba(255,255,255,0.1)), to(rgba(255,255,255,0.1))),
       -webkit-gradient(linear, left top, left bottom, from(#ff0071), to(#bb0047));
@@ -176,7 +176,7 @@
       -moz-linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
       -moz-linear-gradient(#ff0071, #bb0047);
   }
-  li:hover:nth-child(6n+3) {
+  li:nth-child(6n+3) a:hover, li:nth-child(6n+3) a:focus {
     background:
       -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.1)), color-stop(0.5, rgba(255,255,255,0.2)), color-stop(0.501, rgba(255,255,255,0.1)), to(rgba(255,255,255,0.1))),
       -webkit-gradient(linear, left top, left bottom, from(#acd030), to(#6f9113));
@@ -184,7 +184,7 @@
       -moz-linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
       -moz-linear-gradient(#acd030, #6f9113);
   }
-  li:hover:nth-child(6n+4) {
+  li:nth-child(6n+4) a:hover, li:nth-child(6n+4) a:focus {
     background:
       -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.1)), color-stop(0.5, rgba(255,255,255,0.2)), color-stop(0.501, rgba(255,255,255,0.1)), to(rgba(255,255,255,0.1))),
       -webkit-gradient(linear, left top, left bottom, from(#58aa00), to(#337100));
@@ -192,7 +192,7 @@
       -moz-linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
       -moz-linear-gradient(#58aa00, #337100);
   }
-  li:hover:nth-child(6n+5) {
+  li:nth-child(6n+5) a:hover, li:hover:nth-child(6n+5) a:focus {
     background:
       -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.1)), color-stop(0.5, rgba(255,255,255,0.2)), color-stop(0.501, rgba(255,255,255,0.1)), to(rgba(255,255,255,0.1))),
       -webkit-gradient(linear, left top, left bottom, from(#00aa78), to(#05603e));
@@ -200,7 +200,7 @@
       -moz-linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
       -moz-linear-gradient(#00aa78, #05603e);
   }
-  li:hover:nth-child(6n+6) {
+  li:nth-child(6n+6) a:hover, li:nth-child(6n+6) a:focus {
     background:
       -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.1)), color-stop(0.5, rgba(255,255,255,0.2)), color-stop(0.501, rgba(255,255,255,0.1)), to(rgba(255,255,255,0.1))),
       -webkit-gradient(linear, left top, left bottom, from(#0074ae), to(#073c66));
@@ -348,7 +348,7 @@ I need <select id="ineed_select">
 </div>
 
 <p>
-<a href="http://twitter.com/share" class="twitter-share-button" data-url="http://microjs.com/" data-count="horizontal" data-via="thomasfuchs">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<a href="http://twitter.com/share" class="twitter-share-button" data-url="http://microjs.com/" data-count="horizontal" data-via="thomasfuchs">Tweet</a><script src="http://platform.twitter.com/widgets.js"></script>
 </p>
 
 <ul id="results">
@@ -387,7 +387,7 @@ I need <select id="ineed_select">
 <p class="footer">
   <strong>microjs</strong> — a micro-site for micro-frameworks
   <span class="links">
-  &copy; 2011 <a href="http://mir.aculo.us/">Thomas Fuchs</a> <span class="asterisk">✻</span>
+  &copy; 2011 <a href="//mir.aculo.us/">Thomas Fuchs</a> <span class="asterisk">✻</span>
   <a href="https://github.com/madrobby/microjs.com">source on GitHub</a> <span class="asterisk">✻</span>
   sizes minified &amp; gzipped
   </span>
