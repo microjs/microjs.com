@@ -147,6 +147,13 @@ var MicroJS = [
     url: "https://github.com/ded/klass"
   },
   {
+    name: "Classy",
+    size: "0.6k",
+    tags: ["language", "class"],
+    description: "Classy is a small JavaScript library that implements Python inspired classes for JavaScript.",
+    url: "http://classy.pocoo.org/"
+  },
+  {
     name: "snack.js",
     size: "3.3k",
     tags: ["base", "dom", "events", "ajax", "language"],
