@@ -313,5 +313,12 @@ var MicroJS = [
     tags: ["data", "storage"],
     description: "localStorage wrapper for all browsers without using cookies or flash",
     url: "https://github.com/marcuswestin/store.js"
+  },
+  {
+    name: "Handlebars",
+    size: "5k",
+    tags: ["templating"],
+    description: "Build semantic templates effectively with no frustration.",
+    url: "http://handlebars.strobeapp.com"
   }
 ];
