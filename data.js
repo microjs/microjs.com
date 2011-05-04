@@ -1,5 +1,12 @@
 var MicroJS = [
   {
+    name: "jQuery",
+    size: "Don't ask",
+    tags: ["base", "dom", "templating", "animation", "css", "data", "functional", "loader", "json", "ajax", "storage", "mvc", "feature", "events", "webkit", "polyfill", "compose", "micro", "canvas"],
+    description: "The kitchen sink.",
+    url: "http://jquery.com/"
+  },
+  {
     name: "$dom",
     size: "2.6k",
     tags: ["dom", "ajax", "events", "animation"],
