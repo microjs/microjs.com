@@ -278,5 +278,12 @@ var MicroJS = [
     tags: ["loader"],
     description: "Tiny async JavaScript and CSS loader.",
     url: "https://github.com/rgrove/lazyload"
+  },
+  {
+    name: "TurtleWax",
+    size: "0.7k",
+    tags: ["canvas", "2d"],
+    description: "LOGO-inspired canvas drawing lib, adds method chaining and polar coordinates for added fun.",
+    url: "https://github.com/davebalmer/turtlewax"
   }
 ];
