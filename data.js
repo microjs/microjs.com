@@ -285,5 +285,12 @@ var MicroJS = [
     tags: ["functional", "language", "data"],
     description: "JavaScripts functional sister providing iterators, type checking, and basic utils",
     url: "https://github.com/ded/valentine"
+  },
+  {
+    name: "TurtleWax",
+    size: "0.7k",
+    tags: ["canvas", "2d"],
+    description: "LOGO-inspired canvas drawing lib, adds method chaining and polar coordinates for added fun.",
+    url: "https://github.com/davebalmer/turtlewax"
   }
 ];
