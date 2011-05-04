@@ -292,5 +292,11 @@ var MicroJS = [
     tags: ["canvas", "2d"],
     description: "LOGO-inspired canvas drawing lib, adds method chaining and polar coordinates for added fun.",
     url: "https://github.com/davebalmer/turtlewax"
+  },{
+    name: "H5F.js",
+    size: "1.8k",
+    tags: ["polyfill"],
+    description: "Adds support for HTML5 Forms chapters new field input types, attributes and constraint validation API in non-supporting browsers.",
+    url: "https://github.com/ryanseddon/H5F"
   }
 ];
