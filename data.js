@@ -327,5 +327,12 @@ var MicroJS = [
     tags: ["templating"],
     description: "Build semantic templates effectively with no frustration.",
     url: "http://handlebars.strobeapp.com"
+  },
+  {
+    name: "Objs",
+    size: "0.5k",
+    tags: ["language"],
+    description: "A minimalistic library intended to help in using namespaces and class inheritance in JavaScript.",
+    url: "https://github.com/tekool/objs"
   }
 ];
