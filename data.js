@@ -8,8 +8,16 @@ var MicroJS = [
     source: "https://github.com/julienw/dollardom/raw/master/$dom.min.js"
   },
   {
+    name: "HEX/RGB",
+    size: "0.1k",
+    tags: ["color"],
+    description: "Two way color conversion for Hexadecimal and RGB integer colors",
+    url: "https://github.com/daniellmb/HEX-RGB-Conversion",
+    source: ""
+  },
+  {
     name: "MinPubSub",
-    size: "0.2k",
+    size: "0.1k",
     tags: ["events"],
     description: "A publish/subscribe messaging framework",
     url: "https://github.com/daniellmb/MinPubSub",
@@ -106,7 +114,7 @@ var MicroJS = [
   {
     name: "ExplorerCanvas",
     size: "4.3k",
-    tags: ["polyfill"],
+    tags: ["polyfill", "canvas"],
     description: "HTML5 canvas tag support for Internet Explorer.",
     url: "http://code.google.com/p/explorercanvas/",
     source: ""
@@ -354,14 +362,14 @@ var MicroJS = [
   {
     name: "TurtleWax",
     size: "0.7k",
-    tags: ["canvas", "2d"],
+    tags: ["canvas", "graphics"],
     description: "LOGO-inspired canvas drawing lib, adds method chaining and polar coordinates for added fun.",
     url: "https://github.com/davebalmer/turtlewax",
     source: "" // Multiple files...
   },
   {
     name: "picoCSS",
-    size: "0.35k",
+    size: "0.4k",
     tags: ["CSS", "CSS3", "mobile"],
     description: "Basic CSS DOM manipulation and animation optimized for webkit browsers(Safari, Chrome) for building mobile web apps",
     url: "https://github.com/vladocar/picoCSS",
@@ -385,7 +393,7 @@ var MicroJS = [
   },
   {
     name: "Handlebars",
-    size: "5k",
+    size: "5.0k",
     tags: ["templating"],
     description: "Build semantic templates effectively with no frustration.",
     url: "http://handlebars.strobeapp.com",
@@ -422,5 +430,45 @@ var MicroJS = [
     description: "Simple AJAX library.",
     url: "http://code.google.com/p/microajax/",
     source: "http://microajax.googlecode.com/files/microajax.minified.js"
+  },
+  {
+    name: "Fermata",
+    size: "1.9k",
+    tags: ["ajax"],
+    description: "Succinct native REST client, for client-side web apps and node.js. Turns URLs into magic JavaScript objects.",
+    url: "https://github.com/andyet/fermata",
+    source: ""
+  },
+  {
+    name: "Base64.js",
+    size: "0.9k",
+    tags: ["polyfill"],
+    description: "`window.btoa` and `window.atob` for browsers which don't provide these functions.",
+    url: "https://bitbucket.org/davidchambers/base64.js",
+    source: ""
+  },
+  {
+    name: "Mibbu",
+    size: "4.4k",
+    tags: ["games", "canvas"],
+    description: "Microframework for fast game prototyping using Canvas & DOM",
+    url: "https://github.com/michalbe/mibbu",
+    source: ""
+  },
+  {
+    name: "Estro",
+    size: "1.0k",
+    tags: ["functional","language"],
+    description: "Estro adds useful methods to strings.",
+    url: "https://github.com/Nijikokun/Estro",
+    source: ""
+  },
+  {
+    name: "nimble",
+    size: "0.8k",
+    tags: ["functional", "async"],
+    description: "Functional flow-control for JavaScript. Combines features of the underscore and async libraries.",
+    url: "http://caolan.github.com/nimble/",
+    source: ""
   }
 ];
