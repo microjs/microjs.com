@@ -13,7 +13,7 @@ var MicroJS = [
     tags: ["color"],
     description: "Two way color conversion for Hexadecimal and RGB integer colors",
     url: "https://github.com/daniellmb/HEX-RGB-Conversion",
-    source: ""
+    source: "https://github.com/daniellmb/HEX-RGB-Conversion/raw/master/hex-rgb.js"
   },
   {
     name: "MinPubSub",
@@ -437,7 +437,7 @@ var MicroJS = [
     tags: ["ajax"],
     description: "Succinct native REST client, for client-side web apps and node.js. Turns URLs into magic JavaScript objects.",
     url: "https://github.com/andyet/fermata",
-    source: ""
+    source: "https://github.com/andyet/fermata/raw/master/fermata.js"
   },
   {
     name: "Base64.js",
@@ -445,7 +445,7 @@ var MicroJS = [
     tags: ["polyfill"],
     description: "`window.btoa` and `window.atob` for browsers which don't provide these functions.",
     url: "https://bitbucket.org/davidchambers/base64.js",
-    source: ""
+    source: "https://bitbucket.org/davidchambers/base64.js/raw/default/base64.min.js"
   },
   {
     name: "Mibbu",
@@ -453,7 +453,7 @@ var MicroJS = [
     tags: ["games", "canvas"],
     description: "Microframework for fast game prototyping using Canvas & DOM",
     url: "https://github.com/michalbe/mibbu",
-    source: ""
+    source: "https://github.com/michalbe/mibbu/raw/master/mibbu-min.js"
   },
   {
     name: "Estro",
@@ -461,7 +461,7 @@ var MicroJS = [
     tags: ["functional","language"],
     description: "Estro adds useful methods to strings.",
     url: "https://github.com/Nijikokun/Estro",
-    source: ""
+    source: "https://github.com/Nijikokun/Estro/raw/master/estro.min.js"
   },
   {
     name: "nimble",
@@ -469,6 +469,6 @@ var MicroJS = [
     tags: ["functional", "async"],
     description: "Functional flow-control for JavaScript. Combines features of the underscore and async libraries.",
     url: "http://caolan.github.com/nimble/",
-    source: ""
+    source: "https://github.com/caolan/nimble/raw/master/nimble.min.js"
   }
 ];
