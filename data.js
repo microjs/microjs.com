@@ -7,8 +7,15 @@ var MicroJS = [
     url: "https://github.com/julienw/dollardom"
   },
   {
+    name: "HEX &lt;=&gt; RGB Conversion",
+    size: "0.1k",
+    tags: ["conversion"],
+    description: "Two way color conversion for Hexadecimal and RGB integer colors",
+    url: "https://github.com/daniellmb/HEX-RGB-Conversion"
+  },
+  {
     name: "MinPubSub",
-    size: "0.2k",
+    size: "0.1k",
     tags: ["events"],
     description: "A publish/subscribe messaging framework",
     url: "https://github.com/daniellmb/MinPubSub"
