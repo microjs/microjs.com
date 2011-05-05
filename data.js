@@ -383,5 +383,12 @@ var MicroJS = [
     tags: ["polyfill"],
     description: "`window.btoa` and `window.atob` for browsers which don't provide these functions.",
     url: "https://bitbucket.org/davidchambers/base64.js"
+  },
+  {
+    name: "Estro",
+    size: "1k",
+    tags: ["functional","language"],
+    description: "Estro is a tiny Extended Object helper enables you to get more out of the core classes without being obtrusive.",
+    url: "https://github.com/Nijikokun/Estro"
   }
 ];
