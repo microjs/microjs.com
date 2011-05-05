@@ -329,6 +329,7 @@ var MicroJS = [
     url: "https://github.com/ryanseddon/H5F"
   },
   {
+<<<<<<< HEAD
     name: "Store.js",
     size: "1.8k",
     tags: ["data", "storage"],
@@ -369,5 +370,12 @@ var MicroJS = [
     tags: ["ajax"],
     description: "Simple AJAX library.",
     url: "http://code.google.com/p/microajax/"
+  },
+  {
+    name: "Fermata",
+    size: "1.9k",
+    tags: ["ajax"],
+    description: "Succinct native REST client, for client-side web apps and node.js. Turns URLs into magic JavaScript objects.",
+    url: "https://github.com/andyet/fermata"
   }
 ];
