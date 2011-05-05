@@ -383,5 +383,12 @@ var MicroJS = [
     tags: ["polyfill"],
     description: "`window.btoa` and `window.atob` for browsers which don't provide these functions.",
     url: "https://bitbucket.org/davidchambers/base64.js"
+  },
+  {
+    name: "jQuery Timemachine",
+    size: "2.0k",
+    tags: ["loader", "jquery"],
+    description: "A small JS library to run JS code in the namespace of a certain jQuery version",
+    url: "https://github.com/kozie/jQuery-Timemachine"
   }
 ];
