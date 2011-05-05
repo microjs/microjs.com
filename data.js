@@ -404,5 +404,12 @@ var MicroJS = [
     tags: ["functional","language"],
     description: "Estro adds useful methods to strings.",
     url: "https://github.com/Nijikokun/Estro"
+  },
+  {
+    name: "nimble",
+    size: "0.8k",
+    tags: ["functional", "async"],
+    description: "Functional flow-control for JavaScript. Combines features of the underscore and async libraries.",
+    url: "http://caolan.github.com/nimble/"
   }
 ];
