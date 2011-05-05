@@ -376,5 +376,12 @@ var MicroJS = [
     tags: ["ajax"],
     description: "Succinct native REST client, for client-side web apps and node.js. Turns URLs into magic JavaScript objects.",
     url: "https://github.com/andyet/fermata"
+  },
+  {
+    name: "Base64.js",
+    size: "0.9k",
+    tags: ["polyfill"],
+    description: "`window.btoa` and `window.atob` for browsers which don't provide these functions.",
+    url: "https://bitbucket.org/davidchambers/base64.js"
   }
 ];
