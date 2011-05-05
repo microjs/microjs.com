@@ -383,5 +383,12 @@ var MicroJS = [
     tags: ["polyfill"],
     description: "`window.btoa` and `window.atob` for browsers which don't provide these functions.",
     url: "https://bitbucket.org/davidchambers/base64.js"
+  },
+  {
+    name: "Sizzle.js",
+    size: "4k",
+    tags: ["dom"],
+    description: "A pure-JavaScript CSS selector engine designed to be easily dropped in to a host library.",
+    url: "http://github.com/jquery/sizzle/zipball/master"
   }
 ];
