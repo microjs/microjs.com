@@ -77,6 +77,13 @@ var MicroJS = [
     url: "https://github.com/ded/qwery"
   },
   {
+    name: "Slick",
+    size: "18.0k",
+    tags: ["css"],
+    description: "Best tested selector engine evar. 58+ thousand assertions passing in all browsers. CSS1–CSS3 selectors & custom extensions like 'reverse combinators'.",
+    url: "http://mootools.net/core/9e15b95be69c7c57e6afddf823c03857"
+  },
+  {
     name: "Sly",
     size: "3.0k",
     tags: ["css"],
