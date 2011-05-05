@@ -383,5 +383,12 @@ var MicroJS = [
     tags: ["polyfill"],
     description: "`window.btoa` and `window.atob` for browsers which don't provide these functions.",
     url: "https://bitbucket.org/davidchambers/base64.js"
+  },
+  {
+    name: "Mibbu",
+    size: "4.35KB",
+    tags: ["game development"],
+    description: "Microframework for fast game prototyping using Canvas & DOM",
+    url: "https://github.com/michalbe/mibbu"
   }
 ];
