@@ -369,5 +369,12 @@ var MicroJS = [
     tags: ["ajax"],
     description: "Simple AJAX library.",
     url: "http://code.google.com/p/microajax/"
+  },
+  {
+    name: "Mibbu",
+    size: "4.35k",
+    tags: ["games"],
+    description: "First Javascript Game MicroFramework.",
+    url: "http://mibbu.eu"
   }
 ];
