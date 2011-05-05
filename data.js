@@ -93,7 +93,7 @@ var MicroJS = [
   {
     name: "ExplorerCanvas",
     size: "4.3k",
-    tags: ["polyfill"],
+    tags: ["polyfill", "canvas"],
     description: "HTML5 canvas tag support for Internet Explorer.",
     url: "http://code.google.com/p/explorercanvas/"
   },
@@ -310,7 +310,7 @@ var MicroJS = [
   {
     name: "TurtleWax",
     size: "0.7k",
-    tags: ["canvas", "2d"],
+    tags: ["canvas", "graphics"],
     description: "LOGO-inspired canvas drawing lib, adds method chaining and polar coordinates for added fun.",
     url: "https://github.com/davebalmer/turtlewax"
   },
@@ -386,8 +386,8 @@ var MicroJS = [
   },
   {
     name: "Mibbu",
-    size: "4.35KB",
-    tags: ["game development"],
+    size: "4.4k",
+    tags: ["games", "canvas"],
     description: "Microframework for fast game prototyping using Canvas & DOM",
     url: "https://github.com/michalbe/mibbu"
   }
