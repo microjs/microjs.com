@@ -161,6 +161,13 @@ var MicroJS = [
     url: "http://classy.pocoo.org/"
   },
   {
+    name: "Milk",
+    size: "1.9k",
+    tags: ["templating"],
+    description: "Spec-compatible (v1.1+λ) Mustache templating: written in CoffeeScript, runnable anywhere.",
+    url: "https://github.com/pvande/Milk"
+  },
+  {
     name: "snack.js",
     size: "3.3k",
     tags: ["base", "dom", "events", "ajax", "language"],
