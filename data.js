@@ -411,5 +411,12 @@ var MicroJS = [
     tags: ["functional", "async"],
     description: "Functional flow-control for JavaScript. Combines features of the underscore and async libraries.",
     url: "http://caolan.github.com/nimble/"
+  },
+  {
+    name: "js.class",
+    size: "1.8k",
+    tags: ["functional","class","extend"],
+    description: "JS.Class is small and powerfull library for easily create and extend JS objects.",
+    url: "http://code.google.com/p/jsclassextend/"
   }
 ];
