@@ -411,5 +411,12 @@ var MicroJS = [
     tags: ["functional", "async"],
     description: "Functional flow-control for JavaScript. Combines features of the underscore and async libraries.",
     url: "http://caolan.github.com/nimble/"
+  },
+  {
+    name: "jWorkflow",
+    size: "0.7k",
+    tags: ["functional", "workflow", "async"],
+    description: "Simple, buildable, repeatable workflows for client or serverside javascript",
+    url: "http://github.com/tinyhippos/jWorkflow"
   }
 ];
