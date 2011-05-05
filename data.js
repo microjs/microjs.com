@@ -234,7 +234,7 @@ var MicroJS = [
     name: "Spine",
     size: "2.0k",
     tags: ["mvc"],
-    description: "MVC with real protypical inheritance, controllers, model layer and ORM, Ajax and local storage.",
+    description: "MVC with real prototypal inheritance, controllers, model layer and ORM, Ajax and local storage.",
     url: "http://maccman.github.com/spine/"
   },
   {
