@@ -390,5 +390,12 @@ var MicroJS = [
     tags: ["games", "canvas"],
     description: "Microframework for fast game prototyping using Canvas & DOM",
     url: "https://github.com/michalbe/mibbu"
+  },
+  {
+    name: "Estro",
+    size: "1.0k",
+    tags: ["functional","language"],
+    description: "Estro adds useful methods to strings.",
+    url: "https://github.com/Nijikokun/Estro"
   }
 ];
