@@ -411,5 +411,19 @@ var MicroJS = [
     tags: ["functional", "async"],
     description: "Functional flow-control for JavaScript. Combines features of the underscore and async libraries.",
     url: "http://caolan.github.com/nimble/"
+  },
+  {
+    name: "JS-Signals",
+    size: "0.9k",
+    tags: ["events"],
+    description: "Custom Event/Messaging system for JavaScript.",
+    url: "http://millermedeiros.github.com/js-signals/"
+  },
+  {
+    name: "Crossroads.js",
+    size: "1.2k",
+    tags: ["route", "events"],
+    description: "Powerful and Flexible JavaScript URL routing/dispatch for server-side and client-side applications.",
+    url: "http://millermedeiros.github.com/crossroads.js/"
   }
 ];
