@@ -316,7 +316,7 @@ var MicroJS = [
   },
   {
     name: "picoCSS",
-    size: "0.35k",
+    size: "0.4k",
     tags: ["CSS", "CSS3", "mobile"],
     description: "Basic CSS DOM manipulation and animation optimized for webkit browsers(Safari, Chrome) for building mobile web apps",
     url: "https://github.com/vladocar/picoCSS"
@@ -329,7 +329,6 @@ var MicroJS = [
     url: "https://github.com/ryanseddon/H5F"
   },
   {
-<<<<<<< HEAD
     name: "Store.js",
     size: "1.8k",
     tags: ["data", "storage"],
@@ -338,7 +337,7 @@ var MicroJS = [
   },
   {
     name: "Handlebars",
-    size: "5k",
+    size: "5.0k",
     tags: ["templating"],
     description: "Build semantic templates effectively with no frustration.",
     url: "http://handlebars.strobeapp.com"
