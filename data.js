@@ -348,5 +348,12 @@ var MicroJS = [
     tags: ["language"],
     description: "A minimalistic library intended to help in using namespaces and class inheritance in JavaScript.",
     url: "https://github.com/tekool/objs"
+  },
+  {
+    name: "scaleApp",
+    size: "6.4k",
+    tags: ["mvc","jquery","language"],
+    description: "A framework for scalable MVC One-Page-Applications build on top of jQuery.",
+    url: "https://github.com/flosse/scaleApp"
   }
 ];
