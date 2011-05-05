@@ -369,5 +369,12 @@ var MicroJS = [
     tags: ["ajax"],
     description: "Simple AJAX library.",
     url: "http://code.google.com/p/microajax/"
+  },
+  {
+    name: "Base64.js",
+    size: "0.9k",
+    tags: ["polyfill"],
+    description: "`window.btoa` and `window.atob` for browsers which don't provide these functions.",
+    url: "https://bitbucket.org/davidchambers/base64.js"
   }
 ];
