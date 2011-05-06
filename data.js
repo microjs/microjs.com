@@ -470,5 +470,13 @@ var MicroJS = [
     description: "Functional flow-control for JavaScript. Combines features of the underscore and async libraries.",
     url: "http://caolan.github.com/nimble/",
     source: "https://github.com/caolan/nimble/raw/master/nimble.min.js"
+  },
+  {
+    name: "Artemia",
+    size: "2.52k",
+    tags: ["data","storage"],
+    description: "Artemia is a clientside document store. It's very very inspired by Lawnchair but with specific features.",
+    url: "https://github.com/k33g/artemia/",
+    source: "https://github.com/k33g/artemia/raw/master/js/minified/artemia.pkg.lite.min.js"
   }
 ];
