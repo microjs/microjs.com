@@ -456,14 +456,6 @@ var MicroJS = [
     source: "https://github.com/michalbe/mibbu/raw/master/mibbu-min.js"
   },
   {
-    name: "Estro",
-    size: "1.0k",
-    tags: ["functional","language"],
-    description: "Estro adds useful methods to strings.",
-    url: "https://github.com/Nijikokun/Estro",
-    source: "https://github.com/Nijikokun/Estro/raw/master/estro.min.js"
-  },
-  {
     name: "nimble",
     size: "0.8k",
     tags: ["functional", "async"],

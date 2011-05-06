@@ -20,4 +20,6 @@ Want to add your own? Fork this site on GitHub, add your framework to data.js
 and submit a pull request. When adding your source URL, we recommend a minified
 file with a name that's unlikely to change (no version numbers).
 
+NOTE: We will only accept code released under a MIT/BSD-style licenses (or comparable).
+
 The code/website is released under a MIT License.
