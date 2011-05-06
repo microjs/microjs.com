@@ -493,5 +493,19 @@ var MicroJS = [
     description: "Cross-browser DOM events, with keystroke handling, hashchange, mouseenter/leave.",
     url: "https://github.com/kbjr/Events.js",
     source: "https://github.com/kbjr/Events.js/raw/master/events.min.js"
+  },
+  {
+    name: "JS-Signals",
+    size: "0.9k",
+    tags: ["events"],
+    description: "Custom Event/Messaging system for JavaScript.",
+    url: "http://millermedeiros.github.com/js-signals/"
+  },
+  {
+    name: "Crossroads.js",
+    size: "1.2k",
+    tags: ["route", "events"],
+    description: "Powerful JavaScript URL routing/dispatch for server-side and client-side applications.",
+    url: "http://millermedeiros.github.com/crossroads.js/"
   }
 ];
