@@ -470,5 +470,12 @@ var MicroJS = [
     description: "A simple, four method API for differential inheritance and AOP.",
     url: "https://github.com/rpflorence/loom",
     source: "https://github.com/rpflorence/loom/blob/master/src/loom.js"
+  },
+  {
+    name: "jWorkflow",
+    size: "0.7k",
+    tags: ["functional", "workflow", "async"],
+    description: "Simple, buildable, repeatable workflows for client or serverside javascript",
+    url: "http://github.com/tinyhippos/jWorkflow"
   }
 ];
