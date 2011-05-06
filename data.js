@@ -472,7 +472,6 @@ var MicroJS = [
     source: "https://github.com/caolan/nimble/raw/master/nimble.min.js"
   },
   {
-<<<<<<< HEAD
     name: "loom",
     size: "0.5k",
     tags: ["functional"],
@@ -516,5 +515,12 @@ var MicroJS = [
     description: "Artemia is a clientside document store, inspired by Lawnchair.",
     url: "https://github.com/k33g/artemia/",
     source: "https://github.com/k33g/artemia/raw/master/js/minified/artemia.pkg.lite.min.js"
+  },
+  {
+    name: "js.class",
+    size: "1.8k",
+    tags: ["functional","class","extend"],
+    description: "Class-based OO for JavaScript.",
+    url: "http://code.google.com/p/jsclassextend/"
   }
 ];
