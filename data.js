@@ -457,7 +457,7 @@ var MicroJS = [
   },
   {
     name: "Mibbu",
-    size: "4.4k",
+    size: "1.8k",
     tags: ["games", "canvas"],
     description: "Microframework for fast game prototyping using Canvas & DOM",
     url: "https://github.com/michalbe/mibbu",
