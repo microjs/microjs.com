@@ -485,5 +485,13 @@ var MicroJS = [
     tags: ["functional", "workflow", "async"],
     description: "Simple, buildable, repeatable workflows for client or serverside javascript",
     url: "http://github.com/tinyhippos/jWorkflow"
+  },
+  {
+    name: "Events.js",
+    size: "4.2k",
+    tags: ["events", "dom"],
+    description: "Cross-browser DOM events, with keystroke handling, hashchange, mouseenter/leave.",
+    url: "https://github.com/kbjr/Events.js",
+    source: "https://github.com/kbjr/Events.js/raw/master/events.min.js"
   }
 ];
