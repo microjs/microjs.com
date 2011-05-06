@@ -192,12 +192,12 @@ var MicroJS = [
     source: "https://github.com/mitsuhiko/classy/raw/master/classy.js"
   },
   {
-    name: "Snack.js",
-    size: "3.3k",
+    name: "SnackJS",
+    size: "3.4k",
     tags: ["base", "dom", "events", "ajax", "language"],
     description: "A tiny, cross-browser, library with DOM manipulation, events, pub/sub, Ajax and language utilities.",
     url: "http://snackjs.com/",
-    source: "https://github.com/rpflorence/snack/raw/master/server.js"
+    source: "https://github.com/rpflorence/snack/tarball/master"
   },
   {
     name: "Ender",
@@ -470,5 +470,13 @@ var MicroJS = [
     description: "Functional flow-control for JavaScript. Combines features of the underscore and async libraries.",
     url: "http://caolan.github.com/nimble/",
     source: "https://github.com/caolan/nimble/raw/master/nimble.min.js"
+  },
+  {
+    name: "loom",
+    size: "0.5k",
+    tags: ["functional"],
+    description: "A simple, four method API for differential inheritance and AOP.",
+    url: "https://github.com/rpflorence/loom",
+    source: "https://github.com/rpflorence/loom/tarball/master"
   }
 ];
