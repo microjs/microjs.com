@@ -469,6 +469,6 @@ var MicroJS = [
     tags: ["functional"],
     description: "A simple, four method API for differential inheritance and AOP.",
     url: "https://github.com/rpflorence/loom",
-    source: "https://github.com/rpflorence/loom/tarball/master"
+    source: "https://github.com/rpflorence/loom/blob/master/src/loom.js"
   }
 ];
