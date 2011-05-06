@@ -470,5 +470,13 @@ var MicroJS = [
     description: "Functional flow-control for JavaScript. Combines features of the underscore and async libraries.",
     url: "http://caolan.github.com/nimble/",
     source: "https://github.com/caolan/nimble/raw/master/nimble.min.js"
+  },
+  {
+    name: "Events.js",
+    size: "4.2k",
+    tags: ["events"],
+    description: "A super-awesome JavaScript event handler library",
+    url: "https://github.com/kbjr/Events.js",
+    source: "https://github.com/kbjr/Events.js/raw/master/events.min.js"
   }
 ];
