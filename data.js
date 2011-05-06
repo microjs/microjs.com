@@ -207,6 +207,13 @@ var MicroJS = [
     source: "https://github.com/pvande/Milk/raw/master/dist/v1.2.0/milk.min.js"
   },
   {
+    name: "SugarSkull",
+    size: "3.8k",
+    tags: ["spa"],
+    description: "A lightweight, full featured client side router for single page apps.",
+    url: "http://github.com/hij1nx/SugarSkull"
+  },
+  {
     name: "snack.js",
     size: "3.3k",
     tags: ["base", "dom", "events", "ajax", "language"],
