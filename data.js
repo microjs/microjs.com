@@ -64,6 +64,13 @@ var MicroJS = [
     source: "http://documentcloud.github.com/backbone/backbone-min.js"
   },
   {
+    name: "Weld",
+    size: "3.9k",
+    tags: ["templating"],
+    description: "Completely unobtrusive, full featured, works in Node.js or the Browser, awesome built-in debugger.",
+    url: "http://www.github.com/hij1nx/weld"
+  },
+  {
     name: "Mustache",
     size: "1.5k",
     tags: ["templating"],
