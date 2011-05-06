@@ -192,12 +192,20 @@ var MicroJS = [
     source: "https://github.com/mitsuhiko/classy/raw/master/classy.js"
   },
   {
-    name: "SnackJS",
-    size: "3.4k",
+    name: "Milk",
+    size: "1.9k",
+    tags: ["templating"],
+    description: "Spec-compatible (v1.1+λ) Mustache templating: written in CoffeeScript, runnable anywhere.",
+    url: "https://github.com/pvande/Milk",
+    source: "https://github.com/pvande/Milk/raw/master/dist/v1.2.0/milk.min.js"
+  },
+  {
+    name: "snack.js",
+    size: "3.3k",
     tags: ["base", "dom", "events", "ajax", "language"],
     description: "A tiny, cross-browser, library with DOM manipulation, events, pub/sub, Ajax and language utilities.",
     url: "http://snackjs.com/",
-    source: "https://github.com/rpflorence/snack/tarball/master"
+    source: "https://github.com/rpflorence/snack/raw/master/builds/snack-min.js"
   },
   {
     name: "Ender",
