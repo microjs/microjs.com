@@ -472,6 +472,7 @@ var MicroJS = [
     source: "https://github.com/caolan/nimble/raw/master/nimble.min.js"
   },
   {
+<<<<<<< HEAD
     name: "loom",
     size: "0.5k",
     tags: ["functional"],
@@ -507,5 +508,13 @@ var MicroJS = [
     tags: ["route", "events"],
     description: "Powerful JavaScript URL routing/dispatch for server-side and client-side applications.",
     url: "http://millermedeiros.github.com/crossroads.js/"
+  },
+  {
+    name: "Artemia",
+    size: "2.5k",
+    tags: ["data", "storage"],
+    description: "Artemia is a clientside document store, inspired by Lawnchair.",
+    url: "https://github.com/k33g/artemia/",
+    source: "https://github.com/k33g/artemia/raw/master/js/minified/artemia.pkg.lite.min.js"
   }
 ];
