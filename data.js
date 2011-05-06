@@ -475,7 +475,7 @@ var MicroJS = [
     name: "Events.js",
     size: "4.2k",
     tags: ["events"],
-    description: "",
+    description: "A super-awesome JavaScript event handler library",
     url: "https://github.com/kbjr/Events.js",
     source: "https://github.com/kbjr/Events.js/raw/master/events.min.js"
   }
