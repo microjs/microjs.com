@@ -64,6 +64,13 @@ var MicroJS = [
     source: "http://documentcloud.github.com/backbone/backbone-min.js"
   },
   {
+    name: "Weld",
+    size: "3.9k",
+    tags: ["templating"],
+    description: "Completely unobtrusive, full featured, works in Node.js or the Browser, awesome built-in debugger.",
+    url: "http://www.github.com/hij1nx/weld"
+  },
+  {
     name: "Mustache",
     size: "1.5k",
     tags: ["templating"],
@@ -198,6 +205,13 @@ var MicroJS = [
     description: "Spec-compatible (v1.1+λ) Mustache templating: written in CoffeeScript, runnable anywhere.",
     url: "https://github.com/pvande/Milk",
     source: "https://github.com/pvande/Milk/raw/master/dist/v1.2.0/milk.min.js"
+  },
+  {
+    name: "SugarSkull",
+    size: "3.8k",
+    tags: ["spa"],
+    description: "A lightweight, full featured client side router for single page apps.",
+    url: "http://github.com/hij1nx/SugarSkull"
   },
   {
     name: "snack.js",
