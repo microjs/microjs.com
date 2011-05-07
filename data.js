@@ -383,5 +383,12 @@ var MicroJS = [
     tags: ["polyfill"],
     description: "`window.btoa` and `window.atob` for browsers which don't provide these functions.",
     url: "https://bitbucket.org/davidchambers/base64.js"
+  },
+  {
+    name: "drew.js",
+    size: "2.1k",
+    tags: ["templating"],
+    description: "drew.js is a small JavaScript template engine that render JSON.",
+    url: "http://github.com/drewjs/drew.js"
   }
 ];
