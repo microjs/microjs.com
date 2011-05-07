@@ -536,5 +536,12 @@ var MicroJS = [
     tags: ["functional","class","extend"],
     description: "Class-based OO for JavaScript.",
     url: "http://code.google.com/p/jsclassextend/"
+  },
+  {
+    name: "Satisfy",
+    size: "2.3k",
+    tags: ["html","css","selector"],
+    description: "CSS Selector to HTML generator.",
+    url: "https://github.com/jamespadolsey/satisfy/"
   }
 ];
