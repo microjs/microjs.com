@@ -543,5 +543,12 @@ var MicroJS = [
     tags: ["html","css","selector"],
     description: "CSS Selector to HTML generator.",
     url: "https://github.com/jamespadolsey/satisfy/"
+  },
+  {
+    name: "jXHR",
+    size: "624b",
+    tags: ["json","json-p","xhr","ajax","cross-domain"],
+    description: "JSON-P based cross-domain Ajax wrapped in the XHR API.",
+    url: "http://mulletxhr.com"
   }
 ];
