@@ -16,10 +16,25 @@ and does it well. No cruft, no featuritis, no feature creep, no excess anywhere.
 Microjs.com helps you discover the most compact-but-powerful microframeworks,
 and makes it easy for you to pick one that’ll work for you. 
 
+SUBMITTING NEW LIBRARIES AND FRAMEWORKS:
+
 Want to add your own? Fork this site on GitHub, add your framework to data.js
 and submit a pull request. When adding your source URL, we recommend a minified
 file with a name that's unlikely to change (no version numbers).
 
+* Must not have dependencies.(1)
+* Must do something useful, and must not be just a demo
+* Must be MIT/BSD-license or similiar
+* Add to "data.js"
+* Has to <5k, minified and gzipped
+* Needs a "url" that points to readme/docs & code-download (ideally GitHub)
+* Needs a "source" attribute that points at a single-file, ready-to-use download of the library/framework (can be minified or not)
+* Prefer hand-coded/hand-optimized JavaScript over generated/cross-compiled code.
+* Running "make" should work and not return an error. To run make, you'll need node/npm installed with the uglify-js package available: npm install uglify-js -g
+* (We're adding an automated size checker soon!)
+
+(1) It's ok to target a specific platform, like node.js, or WebKit.
+
 NOTE: We will only accept code released under a MIT/BSD-style licenses (or comparable).
 
-The code/website is released under a MIT License.
+The microjs.com code/website is released under a MIT License.
