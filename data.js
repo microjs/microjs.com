@@ -546,9 +546,16 @@ var MicroJS = [
   },
   {
     name: "jXHR",
-    size: "624b",
+    size: "0.6k",
     tags: ["json","json-p","xhr","ajax","cross-domain"],
     description: "JSON-P based cross-domain Ajax wrapped in the XHR API.",
     url: "http://mulletxhr.com"
+  },
+  {
+    name: "Ekho",
+    size: "1.1k",
+    tags: ["events"],
+    description: "DOM-agnostic event library, with bubbling.",
+    url: "https://bitbucket.org/killdream/ekho"
   }
 ];
