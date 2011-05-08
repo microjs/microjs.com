@@ -414,14 +414,6 @@ var MicroJS = [
     source: "https://github.com/marcuswestin/store.js/raw/master/store.min.js"
   },
   {
-    name: "Handlebars",
-    size: "5.0k",
-    tags: ["templating"],
-    description: "Build semantic templates effectively with no frustration.",
-    url: "http://handlebars.strobeapp.com",
-    source: ""
-  },
-  {
     name: "Objs",
     size: "0.5k",
     tags: ["language"],
