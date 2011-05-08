@@ -543,5 +543,12 @@ var MicroJS = [
     tags: ["html","css","selector"],
     description: "CSS Selector to HTML generator.",
     url: "https://github.com/jamespadolsey/satisfy/"
+  },
+  {
+    name: "JSON.minify",
+    size: "402b",
+    tags: ["json"],
+    description: "Strip out // and /*..*/ comments from JSON before parsing.",
+    url: "https://github.com/getify/JSON.minify"
   }
 ];
