@@ -95,6 +95,14 @@ var MicroJS = [
     source: "https://github.com/ded/qwery/raw/master/qwery.min.js"
   },
   {
+    name: "Slick",
+    size: "5.0k",
+    tags: ["css"],
+    description: "Most accurate selector engine ever. 58+ thousand assertions passing in all browsers. CSS3 selectors and extensions like 'reverse combinators'. Extremely modular and customizable. Faster and more accurate than native querySelector. Slick.js is a standalone MooTools project.",
+    url: "https://github.com/mootools/slick",
+    source: "http://mootools.net/core/826c8f047c6ae21b10342f3112de2cbf"
+  },
+  {
     name: "Sly",
     size: "3.0k",
     tags: ["css"],
