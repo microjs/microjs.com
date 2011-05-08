@@ -564,5 +564,21 @@ var MicroJS = [
     description: "A simple wrapper for Javascript's built-in hash storage.",
     url: "http://benbscholz.github.com/jaylist",
     source: "http://github.com/benbscholz/jaylist/raw/master/src/list.min.js"
+  },
+  {
+    name: "LeviRoutes",
+    size: "817b",
+    tags: ["history", "route"],
+    description: "A basic routes framework for JS that hooks in to HTML5 history",
+    url: "http://leviroutes.com",
+    source: "http://github.com/PaulKinlan/leviroutes/raw/master/routes-min.js"
+  },
+  {
+    name: "FormfactorJS",
+    size: "1.4k",
+    tags: ["formfactor", "loader"],
+    description: "A formfactor detection library, to help developers target tablet, tvs, desktops and handhelds (or anything you choose)",
+    url: "http://formfactorjs.com",
+    source: "http://github.com/PaulKinlan/formfactor/raw/master/formfactor-min.js"
   }
 ];
