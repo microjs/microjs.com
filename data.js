@@ -550,5 +550,13 @@ var MicroJS = [
     tags: ["json"],
     description: "Strip out // and /*..*/ comments from JSON before parsing.",
     url: "https://github.com/getify/JSON.minify"
+  },
+  {
+    name: "jaylist",
+    size: "919b",
+    tages: ["functional", "extend", "data"],
+    description: "A simple wrapper for Javascript's built-in hash storage."
+    url: "https://benbscholz.github.com/jaylist",
+    source: "https://github.com/benbscholz/jaylist/raw/master/src/list.min.js"
   }
 ];
