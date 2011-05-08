@@ -557,5 +557,20 @@ var MicroJS = [
     tags: ["events"],
     description: "DOM-agnostic event library, with bubbling.",
     url: "https://bitbucket.org/killdream/ekho"
+  },
+  {
+    name: "JSON.minify",
+    size: "0.4k",
+    tags: ["json"],
+    description: "Strip out // and /*..*/ comments from JSON before parsing.",
+    url: "http://github.com/getify/JSON.minify"
+  },
+  {
+    name: "jaylist",
+    size: "0.9k",
+    tags: ["functional", "extend", "data"],
+    description: "A simple wrapper for Javascript's built-in hash storage.",
+    url: "http://benbscholz.github.com/jaylist",
+    source: "http://github.com/benbscholz/jaylist/raw/master/src/list.min.js"
   }
 ];
