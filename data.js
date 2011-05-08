@@ -549,6 +549,7 @@ var MicroJS = [
     tags: ["events"],
     description: "DOM-agnostic event library, with bubbling.",
     url: "https://bitbucket.org/killdream/ekho"
+    source: "https://bitbucket.org/killdream/ekho/raw/tip/dist/ekho.min.js"
   },
   {
     name: "JSON.minify",
