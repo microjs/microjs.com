@@ -26,7 +26,7 @@ file with a name that's unlikely to change (no version numbers).
 * Must do something useful, and must not be just a demo
 * Must be MIT/BSD-license or similiar
 * Add to "data.js"
-* Has to <5k, minified and gzipped
+* Has to be <5k, minified and gzipped (2)
 * Needs a "url" that points to readme/docs & code-download (ideally GitHub)
 * Needs a "source" attribute that points at a single-file, ready-to-use download of the library/framework (can be minified or not)
 * Prefer hand-coded/hand-optimized JavaScript over generated/cross-compiled code.
@@ -34,6 +34,12 @@ file with a name that's unlikely to change (no version numbers).
 * (We're adding an automated size checker soon!)
 
 (1) It's ok to target a specific platform, like node.js, or WebKit.
+
+To test minification from the command-line, you can run: 
+    
+    uglifyjs yourlib.js | gzip -9f | wc
+    
+The last number is the minified and compressed size in bytes.
 
 NOTE: We will only accept code released under a MIT/BSD-style licenses (or comparable).
 
