@@ -589,5 +589,13 @@ var MicroJS = [
     description: "A formfactor detection library, to help developers target tablet, tvs, desktops and handhelds (or anything you choose)",
     url: "http://formfactorjs.com",
     source: "http://github.com/PaulKinlan/formfactor/raw/master/formfactor-min.js"
+  },
+  {
+    name: "thumbs.js",
+    size: "0.6k",
+    tags: ["polyfill"],
+    description: "Add touch event support to the desktop and other mouse-based browsers.",
+    url: "http://mwbrooks.github.com/thumbs.js/",
+    source: "https://github.com/mwbrooks/thumbs.js/blob/master/lib/thumbs.js"
   }
 ];
