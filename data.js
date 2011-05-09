@@ -589,5 +589,13 @@ var MicroJS = [
     description: "A formfactor detection library, to help developers target tablet, tvs, desktops and handhelds (or anything you choose)",
     url: "http://formfactorjs.com",
     source: "http://github.com/PaulKinlan/formfactor/raw/master/formfactor-min.js"
+  },
+  {
+    name: "DOMBuilder",
+    size: "2.8k",
+    tags: ["dom", "html"],
+    description: "Declarative builder with (mostly) interchangeable DOM or HTML output",
+    url: "https://github.com/insin/DOMBuilder",
+    source: "https://github.com/insin/DOMBuilder/raw/master/DOMBuilder.min.js"
   }
 ];
