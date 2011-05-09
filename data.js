@@ -589,5 +589,21 @@ var MicroJS = [
     description: "A formfactor detection library, to help developers target tablet, tvs, desktops and handhelds (or anything you choose)",
     url: "http://formfactorjs.com",
     source: "http://github.com/PaulKinlan/formfactor/raw/master/formfactor-min.js"
+  },
+  {
+    name: "my.common.js",
+    size: "1.0k",
+    tags: ["loader", "commonjs"],
+    description: "A CommonJS-like script/module loader.",
+    url: "https://github.com/jiem/my-common",
+    source: "http://myjs.fr/my-common/my.common.min.js"
+  },
+  {
+    name: "my.class.js",
+    size: "0.6k",
+    tags: ["language", "class"],
+    description: "Probably the fastest JS class system. No wrappers.",
+    url: "https://github.com/jiem/my-class",
+    source: "http://myjs.fr/my-class/my.class.min.js"
   }
 ];
