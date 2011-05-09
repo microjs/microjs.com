@@ -151,6 +151,14 @@ var MicroJS = [
     source: ""
   },
   {
+    name: "BuildSugar",
+    size: "196 bytes",
+    tags: ["templating"],
+    description: "Bizarrely clean & simple syntax sugar for building HTML/XML strings",
+    url: "http://jsfiddle.net/SubtleGradient/4W3RR/",
+    source: "https://gist.github.com/278016#file_bs.sg.js"
+  },
+  {
     name: "Tweet-Templ",
     size: "0.1k",
     tags: ["templating"],
