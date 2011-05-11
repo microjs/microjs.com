@@ -589,5 +589,12 @@ var MicroJS = [
     description: "A formfactor detection library, to help developers target tablet, tvs, desktops and handhelds (or anything you choose)",
     url: "http://formfactorjs.com",
     source: "http://github.com/PaulKinlan/formfactor/raw/master/formfactor-min.js"
+  },
+  {
+    name: "Augment.js",
+    size: "1.4k",
+    tags: ["polyfill"],
+    description: "Enables use of modern JavaScript by augmenting built in objects with the latest JavaScript methods.",
+    url: "http://augmentjs.com"
   }
 ];
