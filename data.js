@@ -231,11 +231,11 @@ var MicroJS = [
   },
   {
     name: "Ender",
-    size: "36k",
+    size: "?k",
     tags: ["compose", "base", "mobile"],
     description: "An open, powerful, micro-to-macro API for composing your own custom JavaScript library.",
     url: "http://ender.no.de",
-    source: "http://ender-js.s3.amazonaws.com/ender.min.js"
+    source: "http://enderjs.com/js/ender.js"
   },
   {
     name: "Mold",
