@@ -510,6 +510,14 @@ var MicroJS = [
     source: "https://github.com/rpflorence/loom/blob/master/src/loom.js"
   },
   {
+    name: "MooTools Base Modules",
+    size: "4.2k",
+    tags: ["base", "compose", "extend", "feature", "functional", "language", "polyfill", "data", "mobile"],
+    description: "Embrace JavaScript everywhere. MooTools Base: Type, Native, Array, String, Number, Function, Object. Polyfills and low-level JavaScript power tools. Get them all or pick only the few you need. Very well tested. Extensive browser and server-side support. Stable APIs.",
+    url: "http://mootools.net/docs/core/Core/Core",
+    source: "http://mootools.net/core/fa138c31b32e0936fff89bb598a22182"
+  },
+  {
     name: "jWorkflow",
     size: "0.7k",
     tags: ["functional", "workflow", "async"],
