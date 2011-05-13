@@ -111,6 +111,14 @@ var MicroJS = [
     source: "https://github.com/digitarald/sly/raw/master/Sly-min.js"
   },
   {
+    name: "Puma",
+    size: "2.5k",
+    tags: ["css"],
+    description: "Super lightweight and extremely extensible CSS selector engine. Scanner and parser can be used separately from the engine.",
+    url: "https://github.com/alpha123/Puma",
+    source: "https://github.com/alpha123/Puma/raw/master/src/puma-uncompressed.js"
+  },
+  {
     name: "Émile",
     size: "0.9k",
     tags: ["animation"],
