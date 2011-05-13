@@ -589,5 +589,13 @@ var MicroJS = [
     description: "A formfactor detection library, to help developers target tablet, tvs, desktops and handhelds (or anything you choose)",
     url: "http://formfactorjs.com",
     source: "http://github.com/PaulKinlan/formfactor/raw/master/formfactor-min.js"
+  },
+  {
+    name: "Head JS",
+    size: "2.8k",
+    tags: ["loader", "polyfill", "feature"],
+    description: "An asynchronous loader library, with HTML5 and CSS3 polyfills",
+    url: "http://headjs.com",
+    source: "https://github.com/headjs/headjs/raw/master/dist/head.min.js"
   }
 ];
