@@ -583,6 +583,14 @@ var MicroJS = [
     source: "http://github.com/benbscholz/jaylist/raw/master/src/list.min.js"
   },
   {
+    name: "SubtleLocationProxy",
+    size: "0.8k",
+    tags: ["history", "route", "spa"],
+    description: "Proxy the location of one window, frame or iframe to the hash of another and vice-versa. It's handy for making your iframes bookmarkable. Used in production. Very stable. Limited IE6 support. Supports deeply nested bookmarkable iframes without even trying.",
+    url: "https://github.com/subtleGradient/SubtleLocationProxy.js",
+    source: "https://github.com/subtleGradient/SubtleLocationProxy.js/raw/master/SubtleLocationProxy.js"
+  },
+  {
     name: "LeviRoutes",
     size: "817b",
     tags: ["history", "route"],
