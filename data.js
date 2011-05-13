@@ -604,5 +604,13 @@ var MicroJS = [
     tags: ["polyfill"],
     description: "Enables use of modern JavaScript by augmenting built in objects with the latest JavaScript methods.",
     url: "http://augmentjs.com"
+  },
+  {
+    name: "thumbs.js",
+    size: "0.6k",
+    tags: ["polyfill"],
+    description: "Add touch event support to the desktop and other mouse-based browsers.",
+    url: "http://mwbrooks.github.com/thumbs.js/",
+    source: "https://github.com/mwbrooks/thumbs.js/blob/master/lib/thumbs.js"
   }
 ];
