@@ -114,7 +114,7 @@ var MicroJS = [
     name: "Puma",
     size: "2.5k",
     tags: ["css"],
-    description: "Super lightweight and extremely extensible CSS selector engine. Scanner and parser can be used separately from the engine.",
+    description: "Extensible CSS selector engine. Scanner and parser can be used separately from the engine.",
     url: "https://github.com/alpha123/Puma",
     source: "https://github.com/alpha123/Puma/raw/master/src/puma-uncompressed.js"
   },
