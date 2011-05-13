@@ -612,5 +612,13 @@ var MicroJS = [
     description: "Add touch event support to the desktop and other mouse-based browsers.",
     url: "http://mwbrooks.github.com/thumbs.js/",
     source: "https://github.com/mwbrooks/thumbs.js/blob/master/lib/thumbs.js"
+  },
+  {
+    name: "DOMBuilder",
+    size: "2.8k",
+    tags: ["dom", "html"],
+    description: "Declarative builder with (mostly) interchangeable DOM or HTML output",
+    url: "https://github.com/insin/DOMBuilder",
+    source: "https://github.com/insin/DOMBuilder/raw/master/DOMBuilder.min.js"
   }
 ];
