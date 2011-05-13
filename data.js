@@ -628,5 +628,21 @@ var MicroJS = [
     description: "Declarative builder with (mostly) interchangeable DOM or HTML output",
     url: "https://github.com/insin/DOMBuilder",
     source: "https://github.com/insin/DOMBuilder/raw/master/DOMBuilder.min.js"
+  },
+  {
+    name: "my.common.js",
+    size: "1.0k",
+    tags: ["loader", "commonjs"],
+    description: "A CommonJS-like script/module loader.",
+    url: "https://github.com/jiem/my-common",
+    source: "http://myjs.fr/my-common/my.common.min.js"
+  },
+  {
+    name: "my.class.js",
+    size: "0.6k",
+    tags: ["language", "class"],
+    description: "Probably the fastest JS class system. No wrappers.",
+    url: "https://github.com/jiem/my-class",
+    source: "http://myjs.fr/my-class/my.class.min.js"
   }
 ];
