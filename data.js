@@ -98,7 +98,7 @@ var MicroJS = [
     name: "Slick",
     size: "5.0k",
     tags: ["css"],
-    description: "Most accurate selector engine ever. 58+ thousand assertions passing in all browsers. CSS3 selectors and extensions like 'reverse combinators'. Extremely modular and customizable. Faster and more accurate than native querySelector. Slick.js is a standalone MooTools project.",
+    description: "Accurate selector engine w/ CSS3 selectors and extensions like 'reverse combinators'.",
     url: "https://github.com/mootools/slick",
     source: "http://mootools.net/core/826c8f047c6ae21b10342f3112de2cbf"
   },
@@ -583,10 +583,10 @@ var MicroJS = [
     source: "http://github.com/benbscholz/jaylist/raw/master/src/list.min.js"
   },
   {
-    name: "SubtleLocationProxy",
+    name: "LocationProxy",
     size: "0.8k",
     tags: ["history", "route", "spa"],
-    description: "Proxy the location of one window, frame or iframe to the hash of another and vice-versa. It's handy for making your iframes bookmarkable. Used in production. Very stable. Limited IE6 support. Supports deeply nested bookmarkable iframes without even trying.",
+    description: "Proxy the location of one window, frame or iframe to the hash of another and vice-versa.",
     url: "https://github.com/subtleGradient/SubtleLocationProxy.js",
     source: "https://github.com/subtleGradient/SubtleLocationProxy.js/raw/master/SubtleLocationProxy.js"
   },

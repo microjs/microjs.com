@@ -87,13 +87,16 @@
   }
   li a {
     width: 650px;
-    height: 100px;
+    height: 90px;
     -moz-border-radius: 25px;
     -webkit-border-radius: 25px;
     border-radius: 25px;
     margin: 0 0 10px 0;
     -webkit-font-smoothing: antialiased;
     text-rendering:optimizeLegibility;
+    overflow: hidden;
+    padding-bottom: 10px;
+    text-overflow: ellipsis;
   }
   li:nth-child(6n+1) a {
     background: #791982;
