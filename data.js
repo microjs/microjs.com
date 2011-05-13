@@ -597,5 +597,12 @@ var MicroJS = [
     description: "An asynchronous loader library, with HTML5 and CSS3 polyfills",
     url: "http://headjs.com",
     source: "https://github.com/headjs/headjs/raw/master/dist/head.min.js"
+  },
+  {
+    name: "Augment.js",
+    size: "1.4k",
+    tags: ["polyfill"],
+    description: "Enables use of modern JavaScript by augmenting built in objects with the latest JavaScript methods.",
+    url: "http://augmentjs.com"
   }
 ];
