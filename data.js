@@ -1,5 +1,13 @@
 var MicroJS = [
   {
+    name: "BabaJS",
+    size: "10k",
+    tags: ["template", "engine"],
+    description: "The most comprehensive javascript template engine",
+    url: "http://www.amirharel.com/2011/04/26/babajs/",
+    source: "https://github.com/mrharel/babajs"
+  },   
+  {
     name: "$dom",
     size: "2.6k",
     tags: ["dom", "ajax", "events", "animation"],
