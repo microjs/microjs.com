@@ -589,5 +589,21 @@ var MicroJS = [
     description: "A formfactor detection library, to help developers target tablet, tvs, desktops and handhelds (or anything you choose)",
     url: "http://formfactorjs.com",
     source: "http://github.com/PaulKinlan/formfactor/raw/master/formfactor-min.js"
+  },
+  {
+    name: "htmlentities.js",
+    size: "0.2k",
+    tags: ["htmlentities", "decode", "encode", "dom"],
+    description: "A minimal html entities decoder/encoder using DOM.",
+    url: "https://github.com/jussi-kalliokoski/htmlentities.js",
+    source: "https://github.com/jussi-kalliokoski/htmlentities.js/raw/master/htmlentities.min.js"
+  },
+  {
+    name: "binary.js",
+    size: "0.5k",
+    tags: ["binary", "decode", "encode"],
+    description: "A fast, small, robust and extensible binary conversion library.",
+    url: "https://github.com/jussi-kalliokoski/htmlentities.js/raw/master/htmlentities.min.j://github.com/jussi-kalliokoski/binary.js",
+    source: "https://github.com/jussi-kalliokoski/binary.js/raw/master/binary.min.js"
   }
 ];
