@@ -603,7 +603,7 @@ var MicroJS = [
     size: "0.5k",
     tags: ["binary", "decode", "encode"],
     description: "A fast, small, robust and extensible binary conversion library.",
-    url: "https://github.com/jussi-kalliokoski/htmlentities.js/raw/master/htmlentities.min.j://github.com/jussi-kalliokoski/binary.js",
+    url: "https://github.com/jussi-kalliokoski/binary.js",
     source: "https://github.com/jussi-kalliokoski/binary.js/raw/master/binary.min.js"
   }
 ];
