@@ -121,7 +121,7 @@ var MicroJS = [
   {
     name: "Émile",
     size: "0.9k",
-    tags: ["animation"],
+    tags: ["animation","jsanimation"],
     description: "Émile is a no-frills stand-alone CSS animation JavaScript framework",
     url: "https://github.com/madrobby/emile",
     source: "https://github.com/madrobby/emile/raw/master/emile.min.js"
@@ -680,7 +680,7 @@ var MicroJS = [
   {
     name: "C-qwncr",
     size: "0.5k",
-    tags: ["async", "jsanimation"],
+    tags: ["async", "animation", "jsanimation"],
     description: "An animation sequencing library that prevents complex animations from starting again before they've completed.",
     url: "https://github.com/vsa-partners/c-qwncr",
     source: "https://github.com/vsa-partners/c-qwncr/blob/master/js/c-qwncr.js"
