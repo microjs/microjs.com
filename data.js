@@ -676,5 +676,13 @@ var MicroJS = [
     description: "A fast, small, robust and extensible binary conversion library.",
     url: "https://github.com/jussi-kalliokoski/binary.js",
     source: "https://github.com/jussi-kalliokoski/binary.js/raw/master/binary.min.js"
+  },
+  {
+    name: "C-qwncr",
+    size: "0.5k",
+    tags: ["async", "jsanimation"],
+    description: "An animation sequencing library that prevents complex animations from starting again before they've completed.",
+    url: "https://github.com/vsa-partners/c-qwncr",
+    source: "https://github.com/vsa-partners/c-qwncr/blob/master/js/c-qwncr.js"
   }
 ];
