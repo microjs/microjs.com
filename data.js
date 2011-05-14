@@ -589,5 +589,13 @@ var MicroJS = [
     description: "A formfactor detection library, to help developers target tablet, tvs, desktops and handhelds (or anything you choose)",
     url: "http://formfactorjs.com",
     source: "http://github.com/PaulKinlan/formfactor/raw/master/formfactor-min.js"
+  },
+  {
+    name: "C-qwncr",
+    size: "0.5k",
+    tags: ["async", "jsanimation"],
+    description: "An animation sequencing library that prevents complex animations from starting again before they've completed.",
+    url: "https://github.com/vsa-partners/c-qwncr",
+    source: "https://github.com/vsa-partners/c-qwncr/blob/master/js/c-qwncr.js"
   }
 ];
