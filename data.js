@@ -160,7 +160,7 @@ var MicroJS = [
   },
   {
     name: "BuildSugar",
-    size: "196 bytes",
+    size: "0.2k",
     tags: ["templating"],
     description: "Bizarrely clean & simple syntax sugar for building HTML/XML strings",
     url: "http://jsfiddle.net/SubtleGradient/4W3RR/",
@@ -660,5 +660,21 @@ var MicroJS = [
     description: "Probably the fastest JS class system. No wrappers.",
     url: "https://github.com/jiem/my-class",
     source: "http://myjs.fr/my-class/my.class.min.js"
+  },
+  {
+    name: "htmlentities.js",
+    size: "0.2k",
+    tags: ["htmlentities", "decode", "encode", "dom"],
+    description: "A minimal html entities decoder/encoder using DOM.",
+    url: "https://github.com/jussi-kalliokoski/htmlentities.js",
+    source: "https://github.com/jussi-kalliokoski/htmlentities.js/raw/master/htmlentities.min.js"
+  },
+  {
+    name: "binary.js",
+    size: "0.5k",
+    tags: ["binary", "decode", "encode"],
+    description: "A fast, small, robust and extensible binary conversion library.",
+    url: "https://github.com/jussi-kalliokoski/binary.js",
+    source: "https://github.com/jussi-kalliokoski/binary.js/raw/master/binary.min.js"
   }
 ];
