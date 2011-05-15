@@ -684,5 +684,13 @@ var MicroJS = [
     description: "An animation sequencing library that prevents complex animations from starting again before they've completed.",
     url: "https://github.com/vsa-partners/c-qwncr",
     source: "https://github.com/vsa-partners/c-qwncr/blob/master/js/c-qwncr.js"
+  },
+  {
+    name: "lscache",
+    size: "0.9k",
+    tags: ["data", "storage"],
+    description: "A localStorage-based memcache-inspired client-side caching library.",
+    url: "https://github.com/pamelafox/lscache",
+    source: "https://github.com/pamelafox/lscache/blob/master/lscache.js"
   }
 ];
