@@ -700,13 +700,21 @@ var MicroJS = [
     description: "A (seemingly backwards) JS class builder with support for runtime patching",
     url: "https://github.com/jakobo/sslac",
     source: "https://github.com/Jakobo/Sslac/blob/master/src/sslac.js"
-  }
+  },
   {
     name: "ShinyCar",
     size: "2.8k",
-    tags: ["HTML5", "localstorage"]
-    description: "Set localStorage keys and values as objects"
+    tags: ["data", "storage"],
+    description: "Set localStorage keys and values as objects",
     url: "https://github.com/Poincare/ShinyCar",
     source: "https://github.com/Poincare/ShinyCar/blob/master/shinycar-minified.js"
+  },
+  {
+    name: "lscache",
+    size: "0.9k",
+    tags: ["data", "storage"],
+    description: "A localStorage-based memcache-inspired client-side caching library.",
+    url: "https://github.com/pamelafox/lscache",
+    source: "https://github.com/pamelafox/lscache/blob/master/lscache.js"
   }
 ];
