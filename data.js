@@ -692,5 +692,13 @@ var MicroJS = [
     description: "Syntactic sugar for JavaScript's setTimeout() and setInterval().",
     url: "https://github.com/ChiperSoft/Timed",
     source: "https://github.com/ChiperSoft/Timed/blob/master/timed.js"
+  },
+  {
+    name: "Sslac",
+    size: "2.88k",
+    tags: ["language", "class"],
+    description: "A (seemingly backwards) JS class builder with support for runtime patching",
+    url: "https://github.com/jakobo/sslac",
+    source: "https://github.com/Jakobo/Sslac/blob/master/src/sslac.js"
   }
 ];
