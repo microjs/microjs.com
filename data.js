@@ -684,5 +684,13 @@ var MicroJS = [
     description: "An animation sequencing library that prevents complex animations from starting again before they've completed.",
     url: "https://github.com/vsa-partners/c-qwncr",
     source: "https://github.com/vsa-partners/c-qwncr/blob/master/js/c-qwncr.js"
+  },
+  {
+    name: "Timed",
+    size: "0.7k",
+    tags: ["functional", "sugar"],
+    description: "Syntactic sugar for JavaScript's setTimeout() and setInterval().",
+    url: "https://github.com/ChiperSoft/Timed",
+    source: "https://github.com/ChiperSoft/Timed/blob/master/timed.js"
   }
 ];
