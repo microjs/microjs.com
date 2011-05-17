@@ -693,4 +693,12 @@ var MicroJS = [
     url: "https://github.com/ChiperSoft/Timed",
     source: "https://github.com/ChiperSoft/Timed/blob/master/timed.js"
   }
+  {
+    name: "ShinyCar",
+    size: "2.8k",
+    tags: ["HTML5", "localstorage"]
+    description: "Set localStorage keys and values as objects"
+    url: "https://github.com/Poincare/ShinyCar",
+    source: "https://github.com/Poincare/ShinyCar"
+  }
 ];
