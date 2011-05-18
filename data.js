@@ -701,4 +701,12 @@ var MicroJS = [
     url: "https://github.com/jakobo/sslac",
     source: "https://github.com/Jakobo/Sslac/blob/master/src/sslac.js"
   }
+  {
+    name: "ShinyCar",
+    size: "2.8k",
+    tags: ["HTML5", "localstorage"]
+    description: "Set localStorage keys and values as objects"
+    url: "https://github.com/Poincare/ShinyCar",
+    source: "https://github.com/Poincare/ShinyCar/blob/master/shinycar-minified.js"
+  }
 ];
