@@ -591,7 +591,7 @@ var MicroJS = [
     source: "http://github.com/benbscholz/jaylist/raw/master/src/list.min.js"
   },
   {
-    name: "LocationProxy",
+    name: "SubtleLocationProxy",
     size: "0.8k",
     tags: ["history", "route", "spa"],
     description: "Proxy the location of one window, frame or iframe to the hash of another and vice-versa.",
@@ -695,7 +695,7 @@ var MicroJS = [
   },
   {
     name: "Sslac",
-    size: "2.88k",
+    size: "2.9k",
     tags: ["language", "class"],
     description: "A (seemingly backwards) JS class builder with support for runtime patching",
     url: "https://github.com/jakobo/sslac",
@@ -716,5 +716,13 @@ var MicroJS = [
     description: "A localStorage-based memcache-inspired client-side caching library.",
     url: "https://github.com/pamelafox/lscache",
     source: "https://github.com/pamelafox/lscache/blob/master/lscache.js"
+  },
+  {
+    name: "Evidence",
+    size: "4.1k",
+    tags: ["testing"],
+    description: "Evidence is a JavaScript unit testing library. This fork exclusively uses the console to log.",
+    url: "https://github.com/madrobby/evidence",
+    source: "https://github.com/madrobby/evidence/blob/master/src/evidence.js"
   }
 ];
