@@ -41,6 +41,9 @@ To test minification from the command-line, you can run:
     
 The last number is the minified and compressed size in bytes.
 
-NOTE: We will only accept code released under a MIT/BSD-style licenses (or comparable).
+We will only accept code released under a MIT/BSD-style licenses (or comparable).
+
+Please note that Microjs.com is a curated site and that we reserve the right to refuse
+any listing for any reason.
 
 The microjs.com code/website is released under a MIT License.
