@@ -724,5 +724,13 @@ var MicroJS = [
     description: "Evidence is a JavaScript unit testing library. This fork exclusively uses the console to log.",
     url: "https://github.com/madrobby/evidence",
     source: "https://github.com/madrobby/evidence/blob/master/src/evidence.js"
+  },
+  {
+    name: "DragDrop",
+    size: "1.4k",
+    tags: ["dragdrop", "ui"],
+    description: "Drag-and-Drop functionality for advanced UI development.",
+    url: "https://github.com/kbjr/DragDrop",
+    source: "https://github.com/kbjr/DragDrop/blob/master/drag-drop.js"
   }
 ];
