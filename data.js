@@ -732,4 +732,5 @@ var MicroJS = [
     description: "Drag-and-Drop functionality for advanced UI development.",
     url: "https://github.com/kbjr/DragDrop",
     source: "https://github.com/kbjr/DragDrop/blob/master/drag-drop.js"
+  }
 ];
