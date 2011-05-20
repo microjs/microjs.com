@@ -725,4 +725,12 @@ var MicroJS = [
     url: "https://github.com/madrobby/evidence",
     source: "https://github.com/madrobby/evidence/blob/master/src/evidence.js"
   }
+  {
+    name: "Jaml",
+    size: "1.4k",
+    tags: ["templating"],
+    description: "Jaml tries to emulate Ruby’s Haml library, making it easy to generate HTML in your JavaScript projects.",
+    url: "http://edspencer.github.com/jaml/",
+    source: "https://github.com/edspencer/jaml/raw/master/Jaml-all.js"
+  },
 ];
