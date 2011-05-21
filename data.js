@@ -56,14 +56,6 @@ var MicroJS = [
     source: "http://documentcloud.github.com/underscore/underscore-min.js"
   },
   {
-    name: "Backbone",
-    size: "3.9k",
-    tags: ["mvc", "data", "functional"],
-    description: "Lightweight MVC—models with custom events, collections with rich enumerables, views and RESTful JSON.",
-    url: "http://documentcloud.github.com/backbone",
-    source: "http://documentcloud.github.com/backbone/backbone-min.js"
-  },
-  {
     name: "Weld",
     size: "3.9k",
     tags: ["templating"],
