@@ -716,5 +716,13 @@ var MicroJS = [
     description: "Evidence is a JavaScript unit testing library. This fork exclusively uses the console to log.",
     url: "https://github.com/madrobby/evidence",
     source: "https://github.com/madrobby/evidence/blob/master/src/evidence.js"
+  },
+  {
+    name: "ClassIE",
+    size: "0.2k",
+    tags: ["css","ie","detection"],
+    description: "ClassIE is an unobstrusive library which detects Internet Explorer version for JS and CSS sides",
+    url: "https://github.com/pyrsmk/classie",
+    source: "https://github.com/pyrsmk/classie/blob/master/classie.min.js"
   }
 ];
