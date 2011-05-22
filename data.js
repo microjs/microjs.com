@@ -727,7 +727,7 @@ var MicroJS = [
   },
   {
     name: "ClassIE",
-    size: "0.2k",
+    size: "0.3k",
     tags: ["css","ie","detection"],
     description: "ClassIE is an unobstrusive library which detects Internet Explorer version for JS and CSS sides",
     url: "https://github.com/pyrsmk/classie",
