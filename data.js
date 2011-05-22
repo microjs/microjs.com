@@ -56,14 +56,6 @@ var MicroJS = [
     source: "http://documentcloud.github.com/underscore/underscore-min.js"
   },
   {
-    name: "Backbone",
-    size: "3.9k",
-    tags: ["mvc", "data", "functional"],
-    description: "Lightweight MVC—models with custom events, collections with rich enumerables, views and RESTful JSON.",
-    url: "http://documentcloud.github.com/backbone",
-    source: "http://documentcloud.github.com/backbone/backbone-min.js"
-  },
-  {
     name: "Weld",
     size: "3.9k",
     tags: ["templating"],
@@ -724,5 +716,13 @@ var MicroJS = [
     description: "Evidence is a JavaScript unit testing library. This fork exclusively uses the console to log.",
     url: "https://github.com/madrobby/evidence",
     source: "https://github.com/madrobby/evidence/blob/master/src/evidence.js"
+  },
+  {
+    name: "ClassIE",
+    size: "0.3k",
+    tags: ["css","ie","detection"],
+    description: "ClassIE is an unobstrusive library which detects Internet Explorer version for JS and CSS sides",
+    url: "https://github.com/pyrsmk/classie",
+    source: "https://github.com/pyrsmk/classie/blob/master/classie.min.js"
   }
 ];
