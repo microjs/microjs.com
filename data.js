@@ -220,7 +220,7 @@ var MicroJS = [
     tags: ["language", "class"],
     description: "OORJa = Object Oriented Javascript",
     url: "http://maxpert.github.com/oorja/",
-    source: "https://github.com/maxpert/oorja/"
+    source: "https://github.com/maxpert/oorja/raw/master/Class.js"
   },
   {
     name: "Classy",
