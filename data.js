@@ -215,6 +215,14 @@ var MicroJS = [
     source: "https://github.com/ded/klass/raw/700e1eb6d86ed78caa9a2d675673f648e9a54b2e/klass.min.js"
   },
   {
+    name: "OORJa",
+    size: "1.5k",
+    tags: ["language", "class"],
+    description: "OORJa = Object Oriented Javascript",
+    url: "http://maxpert.github.com/oorja/",
+    source: "https://github.com/maxpert/oorja/raw/master/Class.js"
+  },
+  {
     name: "Classy",
     size: "0.6k",
     tags: ["language", "class"],
