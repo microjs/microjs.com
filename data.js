@@ -740,7 +740,7 @@ var MicroJS = [
     description: "Drag-and-Drop functionality for advanced UI development.",
     url: "https://github.com/kbjr/DragDrop",
     source: "https://github.com/kbjr/DragDrop/blob/master/drag-drop.js"
-  }
+  },
   {
     name: "Jaml",
     size: "1.4k",
@@ -748,5 +748,5 @@ var MicroJS = [
     description: "Jaml tries to emulate Ruby’s Haml library, making it easy to generate HTML in your JavaScript projects.",
     url: "http://edspencer.github.com/jaml/",
     source: "https://github.com/edspencer/jaml/raw/master/Jaml-all.js"
-  },
+  }
 ];
