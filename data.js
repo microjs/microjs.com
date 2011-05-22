@@ -732,5 +732,13 @@ var MicroJS = [
     description: "ClassIE is an unobstrusive library which detects Internet Explorer version for JS and CSS sides",
     url: "https://github.com/pyrsmk/classie",
     source: "https://github.com/pyrsmk/classie/blob/master/classie.min.js"
+  },
+  {
+    name: "DragDrop",
+    size: "1.4k",
+    tags: ["dragdrop", "ui"],
+    description: "Drag-and-Drop functionality for advanced UI development.",
+    url: "https://github.com/kbjr/DragDrop",
+    source: "https://github.com/kbjr/DragDrop/blob/master/drag-drop.js"
   }
 ];
