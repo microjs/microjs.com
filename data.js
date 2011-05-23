@@ -764,5 +764,12 @@ var MicroJS = [
     description: "Jaml tries to emulate Ruby’s Haml library, making it easy to generate HTML in your JavaScript projects.",
     url: "http://edspencer.github.com/jaml/",
     source: "https://github.com/edspencer/jaml/raw/master/Jaml-all.js"
+  },
+  {
+    name: "Async GA",
+    size: "0.2k",
+    tags: ["analytics"],
+    description: "Reduced Google's original analytics snippet by one third, with better performance.",
+    url: "http://mathiasbynens.be/notes/async-analytics-snippet"
   }
 ];
