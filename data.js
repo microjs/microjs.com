@@ -771,5 +771,12 @@ var MicroJS = [
     tags: ["analytics"],
     description: "Reduced Google's original analytics snippet by one third, with better performance.",
     url: "http://mathiasbynens.be/notes/async-analytics-snippet"
+  },
+  {
+    name: "JSONSelect",
+    size: "2.7k",
+    tags: ["data", "json"],
+    description: "CSS-like selectors for JSON.",
+    url: "http://jsonselect.org"
   }
 ];
