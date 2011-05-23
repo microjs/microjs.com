@@ -742,6 +742,14 @@ var MicroJS = [
     source: "https://github.com/pyrsmk/classie/blob/master/classie.min.js"
   },
   {
+    name: "Sheethub",
+    size: "4.0k",
+    tags: ["dom"],
+    description: "The cross-browser CSS API",
+    url: "https://github.com/pyrsmk/sheethub",
+    source: "https://github.com/pyrsmk/sheethub/blob/master/sheethub.min.js"
+  },
+  {
     name: "DragDrop",
     size: "1.4k",
     tags: ["dragdrop", "ui"],
