@@ -778,5 +778,13 @@ var MicroJS = [
     description: "An animator that lets you tween in parallel on multiple elements, from integers to colors in a single high-performant loop",
     url: "https://github.com/ded/morpheus",
     source: "https://github.com/ded/morpheus/raw/master/morpheus.min.js"
+  },
+  {
+    name: "microjungle",
+    size: "0.3k",
+    tags: ["templating"],
+    description: "very simple and powerful client-side HTML via JSON templating engine.",
+    url: "https://github.com/deepsweet/microjungle",
+    source: "https://github.com/deepsweet/microjungle/raw/master/src/microjungle.min.js"
   }
 ];
