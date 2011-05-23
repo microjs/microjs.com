@@ -207,6 +207,14 @@ var MicroJS = [
     source: "https://github.com/ded/klass/raw/700e1eb6d86ed78caa9a2d675673f648e9a54b2e/klass.min.js"
   },
   {
+    name: "OORJa",
+    size: "1.5k",
+    tags: ["language", "class"],
+    description: "OORJa = Object Oriented Javascript",
+    url: "http://maxpert.github.com/oorja/",
+    source: "https://github.com/maxpert/oorja/raw/master/Class.js"
+  },
+  {
     name: "Classy",
     size: "0.6k",
     tags: ["language", "class"],
@@ -716,5 +724,59 @@ var MicroJS = [
     description: "Evidence is a JavaScript unit testing library. This fork exclusively uses the console to log.",
     url: "https://github.com/madrobby/evidence",
     source: "https://github.com/madrobby/evidence/blob/master/src/evidence.js"
+  },
+  {
+    name: "ClassIE",
+    size: "0.3k",
+    tags: ["feature"],
+    description: "ClassIE is an unobstrusive library which detects Internet Explorer version for JS and CSS sides",
+    url: "https://github.com/pyrsmk/classie",
+    source: "https://github.com/pyrsmk/classie/blob/master/classie.min.js"
+  },
+  {
+    name: "Sheethub",
+    size: "4.0k",
+    tags: ["dom"],
+    description: "The cross-browser CSS API",
+    url: "https://github.com/pyrsmk/sheethub",
+    source: "https://github.com/pyrsmk/sheethub/blob/master/sheethub.min.js"
+  },
+  {
+    name: "DragDrop",
+    size: "1.4k",
+    tags: ["dragdrop", "ui"],
+    description: "Drag-and-Drop functionality for advanced UI development.",
+    url: "https://github.com/kbjr/DragDrop",
+    source: "https://github.com/kbjr/DragDrop/blob/master/drag-drop.js"
+  },
+  {
+    name: "Jaml",
+    size: "1.4k",
+    tags: ["templating"],
+    description: "Jaml tries to emulate Ruby’s Haml library, making it easy to generate HTML in your JavaScript projects.",
+    url: "http://edspencer.github.com/jaml/",
+    source: "https://github.com/edspencer/jaml/raw/master/Jaml-all.js"
+  },
+  {
+    name: "Async GA",
+    size: "0.2k",
+    tags: ["analytics"],
+    description: "Reduced Google's original analytics snippet by one third, with better performance.",
+    url: "http://mathiasbynens.be/notes/async-analytics-snippet"
+  },
+  {
+    name: "JSONSelect",
+    size: "2.7k",
+    tags: ["data", "json"],
+    description: "CSS-like selectors for JSON.",
+    url: "http://jsonselect.org"
+  },
+  {
+    name: "Morpheus",
+    size: "1.3k",
+    tags: ["animation", "jsanimation", "color"],
+    description: "An animator that lets you tween in parallel on multiple elements, from integers to colors in a single high-performant loop",
+    url: "https://github.com/ded/morpheus",
+    source: "https://github.com/ded/morpheus/raw/master/morpheus.min.js"
   }
 ];
