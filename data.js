@@ -766,7 +766,7 @@ var MicroJS = [
   },
   {
     name: "JSONSelect",
-    size: "1.9k",
+    size: "1.7k",
     tags: ["data", "json"],
     description: "CSS-like selectors for JSON.",
     url: "http://jsonselect.org"
