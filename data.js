@@ -72,9 +72,9 @@ var MicroJS = [
   },
   {
     name: "LABjs",
-    size: "2.1k",
+    size: "2.2k",
     tags: ["loader"],
-    description: "Flexible JavaScript dependency loader.",
+    description: "The *performance* script loader: on-demand parallel script loading with ordered execution for dependencies.",
     url: "http://labjs.com/",
     source: "https://github.com/getify/LABjs/raw/master/LAB.min.js"
   },
