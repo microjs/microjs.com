@@ -794,5 +794,13 @@ var MicroJS = [
     description: "very simple and powerful client-side HTML via JSON templating engine.",
     url: "https://github.com/deepsweet/microjungle",
     source: "https://github.com/deepsweet/microjungle/raw/master/src/microjungle.min.js"
+  },
+  {
+    name: "environ",
+    size: "1.3k",
+    tags: ["feature"],
+    description: "Cross platform environment detection library.",
+    url: "https://github.com/azer/environ",
+    source: "https://github.com/azer/environ/raw/master/lib/environ.js"
   }
 ];
