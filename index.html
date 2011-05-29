@@ -87,13 +87,16 @@
   }
   li a {
     width: 650px;
-    height: 100px;
+    height: 90px;
     -moz-border-radius: 25px;
     -webkit-border-radius: 25px;
     border-radius: 25px;
     margin: 0 0 10px 0;
     -webkit-font-smoothing: antialiased;
     text-rendering:optimizeLegibility;
+    overflow: hidden;
+    padding-bottom: 10px;
+    text-overflow: ellipsis;
   }
   li:nth-child(6n+1) a {
     background: #791982;
@@ -139,7 +142,7 @@
   }
   li:nth-child(6n+3) a {
     background: #81A02C;
-    background: 
+    background:
       -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.2)), color-stop(0.5, rgba(255,255,255,0.1)), color-stop(0.501, rgba(255,255,255,0.0)), to(rgba(255,255,255,0.0))),
       -webkit-gradient(linear, left top, left bottom, from(#acd030), to(#6f9113));
     background:
@@ -160,7 +163,7 @@
   }
   li:nth-child(6n+4) a {
     background: #4A8419;
-    background: 
+    background:
       -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.2)), color-stop(0.5, rgba(255,255,255,0.1)), color-stop(0.501, rgba(255,255,255,0.0)), to(rgba(255,255,255,0.0))),
       -webkit-gradient(linear, left top, left bottom, from(#58aa00), to(#337100));
     background:
@@ -486,6 +489,7 @@ I need <select id="ineed_select">
   <option value="dom">…a DOM utility.</option>
   <option value="templating">…templating.</option>
   <option value="animation">…CSS animation.</option>
+  <option value="jsanimation">…JavaScript animation.</option>
   <option value="css">…a CSS selector engine.</option>
   <option value="data">…data manipulation.</option>
   <option value="class">…a Class system.</option>
@@ -493,7 +497,8 @@ I need <select id="ineed_select">
   <option value="loader">…a JavaScript loader.</option>
   <option value="json">…JSON.</option>
   <option value="ajax">…AJAX.</option>
-  <option value="games">…write a game.</option>
+  <option value="testing">…unit testing.</option>
+  <option value="games">…to write a game.</option>
   <option value="canvas">…to do CANVAS/2D graphics!</option>
   <option value="color">…to convert colors.</option>
   <option value="spa">…single page apps.</option>
@@ -502,11 +507,12 @@ I need <select id="ineed_select">
   <option value="feature">…feature/browser detection.</option>
   <option value="events">…events!</option>
   <option value="webkit">…WebKit-specific libraries.</option>
+  <option value="mobile">…mobile-specific libraries.</option>
   <option value="polyfill">…polyfills.</option>
+  <option value="analytics">…analytics.</option>
+  <option value="async">…asynchronous programming</option>
   <option value="compose">…to compose my own framework!</option>
   <option value="micro">…to code a site listing micro-frameworks!</option>
-  <option value="canvas">…to do something cool with the canvas tag!</option>
-  <option value="async">…asynchronous programming</option>
 </select>
 </div>
 
@@ -518,7 +524,7 @@ I need <select id="ineed_select">
 </ul>
 
 <div class="clue">
-  <p><strong><span>Fantastic</span><span> Micro</span>-</span><span>Frameworks</span><span> and</span><br>
+  <p><strong><span>Fantastic</span><span> Micro</span><span>-</span><span>Frameworks</span><span> and</span><br>
     <span>Micro</span><span>-</span><span>Libraries</span><span> for</span><span> Fun</span>
     <span>and</span><span> Profit</span><span>!</span></strong>
   </p>
@@ -544,6 +550,14 @@ I need <select id="ineed_select">
   <p>Want to add your own?
   <a href="https://github.com/madrobby/microjs.com">Fork this site on GitHub</a>,
   add your framework to data.js and submit a pull request.</p>
+
+  <p style="margin-top:30px">
+    <strong><span>Can't</span> <span>get</span> <span>enough</span><span>?</span></strong>
+  </p>
+  <p>
+    <a href="http://140byt.es/">140byt.es</a> provides
+    tweet-sized JavaScript goodness!
+  </p>
 </div>
 
 
