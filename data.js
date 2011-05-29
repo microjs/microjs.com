@@ -794,6 +794,5 @@ var MicroJS = [
     description: "very simple and powerful client-side HTML via JSON templating engine.",
     url: "https://github.com/deepsweet/microjungle",
     source: "https://github.com/deepsweet/microjungle/raw/master/src/microjungle.min.js"
->>>>>>> upstream/master
   }
 ];
