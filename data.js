@@ -802,5 +802,13 @@ var MicroJS = [
     description: "Cross platform environment detection library.",
     url: "https://github.com/azer/environ",
     source: "https://github.com/azer/environ/raw/master/lib/environ.js"
+  },
+  {
+    name: "state-machine",
+    size: "0.5k",
+    tags: ["data", "games", "statemachine"],
+    description: "A finite state machine, useful in game development",
+    url: "https://github.com/jakesgordon/javascript-state-machine",
+    source: "https://github.com/jakesgordon/javascript-state-machine/raw/master/state-machine.min.js"
   }
 ];
