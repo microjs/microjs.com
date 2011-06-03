@@ -810,5 +810,13 @@ var MicroJS = [
     description: "A finite state machine, useful in game development",
     url: "https://github.com/jakesgordon/javascript-state-machine",
     source: "https://github.com/jakesgordon/javascript-state-machine/raw/master/state-machine.min.js"
+  },
+ {
+    name: "Obscura",
+    size: "1.5k",
+    tags: ["canvas", "image", "manipulation"],
+    description: "Canvas based image manipulation library",
+    url: "https://github.com/OiNutter/Obscura",
+    source: "https://github.com/OiNutter/Obscura/raw/master/dist/release/obscura.min.js"
   }
 ];
