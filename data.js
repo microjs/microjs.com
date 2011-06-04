@@ -818,5 +818,13 @@ var MicroJS = [
     description: "A finite state machine, useful in game development",
     url: "https://github.com/jakesgordon/javascript-state-machine",
     source: "https://github.com/jakesgordon/javascript-state-machine/raw/master/state-machine.min.js"
+  },
+  {
+    name: "extend.js",
+    size: "0.6k",
+    tags: ["namespace", "extend"],
+    description: "A simple way to define and extend namespaces",
+    url: "https://github.com/searls/extend.js",
+    source: "https://github.com/searls/extend.js/raw/master/lib/extend.0.0.1.min.js"
   }
 ];
