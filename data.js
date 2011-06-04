@@ -826,5 +826,13 @@ var MicroJS = [
     description: "A simple CSS Transitions animation framework",
     url: "http://mikemctiernan.github.com/Janis/",
     source: "https://github.com/MikeMcTiernan/Janis/raw/master/janis.js"
+  },
+  {
+    name: "extend.js",
+    size: "0.6k",
+    tags: ["namespace", "extend"],
+    description: "A simple way to define and extend namespaces",
+    url: "https://github.com/searls/extend.js",
+    source: "https://github.com/searls/extend.js/raw/master/lib/extend.0.0.1.min.js"
   }
 ];
