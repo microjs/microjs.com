@@ -818,5 +818,13 @@ var MicroJS = [
     description: "A finite state machine, useful in game development",
     url: "https://github.com/jakesgordon/javascript-state-machine",
     source: "https://github.com/jakesgordon/javascript-state-machine/raw/master/state-machine.min.js"
+  },
+  {
+    name: "Janis",
+    size: "1.2k",
+    tags: ["animation", "ui", "transitions"],
+    description: "A simple CSS Transitions animation framework",
+    url: "http://mikemctiernan.github.com/Janis/",
+    source: "https://github.com/MikeMcTiernan/Janis/raw/master/janis.js"
   }
 ];
