@@ -2,7 +2,7 @@ var MicroJS = [
   {
     name: "GSet",
     size: "1.8k",
-    tags: ["data", "base"],
+    tags: ["data", "compose"],
     description: "Share and control public proxies of private objects, with same-name getter/setters.",
     url: "https://github.com/bemson/GSet/",
     source: "https://github.com/bemson/GSet/raw/master/gset-min.js"
