@@ -834,5 +834,13 @@ var MicroJS = [
     description: "A simple way to define and extend namespaces",
     url: "https://github.com/searls/extend.js",
     source: "https://github.com/searls/extend.js/raw/master/lib/extend.0.0.1.min.js"
+  },
+  {
+    name: "micro-selector",
+    size: "0.7k",
+    tags: ["css"],
+    description: "A micro, super fast, scope limited, javascript selector engine to be used anywhere",
+    url: "https://github.com/fabiomcosta/micro-selector",
+    source: "https://github.com/fabiomcosta/micro-selector/blob/master/dist/uSelector.js"
   }
 ];
