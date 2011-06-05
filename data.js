@@ -837,10 +837,10 @@ var MicroJS = [
   },
   {
     name: "micro-selector",
-    size: "0.7k",
+    size: "0.8k",
     tags: ["css"],
     description: "A micro, super fast, scope limited, javascript selector engine to be used anywhere",
     url: "https://github.com/fabiomcosta/micro-selector",
-    source: "https://github.com/fabiomcosta/micro-selector/blob/master/dist/uSelector.js"
+    source: "https://github.com/fabiomcosta/micro-selector/raw/master/dist/uSelector.js"
   }
 ];
