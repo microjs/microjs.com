@@ -601,7 +601,7 @@ var MicroJS = [
   },
   {
     name: "jaylist",
-    size: "0.5k",
+    size: "0.6k",
     tags: ["functional", "extend", "data"],
     description: "A simple wrapper for Javascript's built-in hash storage.",
     url: "http://benbscholz.github.com/jaylist",
