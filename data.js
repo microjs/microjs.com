@@ -859,5 +859,14 @@ var MicroJS = [
     description: "A platform detection library that works on nearly all JavaScript platforms.",
     url: "https://github.com/bestiejs/platform.js",
     source: "https://raw.github.com/bestiejs/platform.js/master/platform.js"
+  },
+  {
+    name: "Hypher",
+    size: "0.9k",
+    tags: ["hyphenation"],
+    description: "Fast and small hyphenation engine for Node.js and the browser",
+    url: "https://github.com/bramstein/Hypher",
+    source: "https://github.com/bramstein/Hypher/raw/master/lib/hypher.js"
   }
 ];
+
