@@ -834,5 +834,13 @@ var MicroJS = [
     description: "A simple way to define and extend namespaces",
     url: "https://github.com/searls/extend.js",
     source: "https://github.com/searls/extend.js/raw/master/lib/extend.0.0.1.min.js"
+  },
+  {
+    name: "Hypher",
+    size: "0.9k",
+    tags: ["hyphenation"],
+    description: "Fast and small hyphenation engine for Node.js and the browser",
+    url: "https://github.com/bramstein/Hypher",
+    source: "https://github.com/bramstein/Hypher/raw/master/lib/hypher.js"
   }
 ];
