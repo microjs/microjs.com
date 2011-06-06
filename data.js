@@ -834,5 +834,13 @@ var MicroJS = [
     description: "A simple way to define and extend namespaces",
     url: "https://github.com/searls/extend.js",
     source: "https://github.com/searls/extend.js/raw/master/lib/extend.0.0.1.min.js"
+  },
+  {
+    name: "System.js",
+    size: "0.5k",
+    tags: ["feature-tests", "user-agent", "system"],
+    description: "Generates a JavaScript object with the user's system information.",
+    url: "https://github.com/mrdoob/system.js",
+    source: "https://raw.github.com/mrdoob/system.js/master/src/System.js"
   }
 ];
