@@ -834,5 +834,13 @@ var MicroJS = [
     description: "A simple way to define and extend namespaces",
     url: "https://github.com/searls/extend.js",
     source: "https://github.com/searls/extend.js/raw/master/lib/extend.0.0.1.min.js"
+  },
+  {
+    name: "tinyJS",
+    size: "3.9k",
+    tags: ["toolkit", "selectors", "methods", "helpers", "networking"],
+    description: "A tiny yet complete toolkit"
+    url: "http://tinyjs.sourceforge.net/tiny.js",
+    source: "http://tinyjs.sourceforge.net/tiny-min.js"
   }
 ];
