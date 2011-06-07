@@ -75,8 +75,9 @@ var MicroJS = [
     name: "Weld",
     size: "3.9k",
     tags: ["templating"],
-    description: "Completely unobtrusive, full featured, works in Node.js or the Browser, awesome built-in debugger.",
-    url: "http://www.github.com/hij1nx/weld"
+    description: "Completely unobtrusive, full featured template antimatter. Works in Node.js or the Browser, awesome built-in debugger.",
+    url: "http://www.github.com/hij1nx/weld",
+    source: "https://raw.github.com/hij1nx/weld/master/lib/weld.min.js"
   },
   {
     name: "Mustache",
