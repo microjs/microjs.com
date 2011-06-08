@@ -820,6 +820,7 @@ var MicroJS = [
     url: "https://github.com/jakesgordon/javascript-state-machine",
     source: "https://github.com/jakesgordon/javascript-state-machine/raw/master/state-machine.min.js"
   },
+<<<<<<< HEAD
   {
     name: "Janis",
     size: "1.2k",
@@ -894,6 +895,14 @@ var MicroJS = [
     description: "A micro, super fast, scope limited, javascript selector engine to be used anywhere",
     url: "https://github.com/fabiomcosta/micro-selector",
     source: "https://github.com/fabiomcosta/micro-selector/raw/master/dist/uSelector.js"
+  },
+  {
+    name: "Obscura",
+    size: "1.5k",
+    tags: ["canvas", "image", "manipulation"],
+    description: "Canvas based image manipulation library",
+    url: "https://github.com/OiNutter/Obscura",
+    source: "https://github.com/OiNutter/Obscura/raw/master/dist/release/obscura.min.js"
   }
 ];
 
