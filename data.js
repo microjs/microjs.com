@@ -839,6 +839,7 @@ var MicroJS = [
   {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     name: "System.js",
     size: "0.5k",
     tags: ["feature"],
@@ -885,6 +886,14 @@ var MicroJS = [
     description:"A powerful events library that can be used with or without the DOM",
     url:"https://github.com/arexkun/Vine",
     source:"https://raw.github.com/arexkun/Vine/master/vine.js"
+  },
+  {
+    name: "micro-selector",
+    size: "0.8k",
+    tags: ["css"],
+    description: "A micro, super fast, scope limited, javascript selector engine to be used anywhere",
+    url: "https://github.com/fabiomcosta/micro-selector",
+    source: "https://github.com/fabiomcosta/micro-selector/raw/master/dist/uSelector.js"
   }
 ];
 
