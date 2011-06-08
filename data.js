@@ -834,5 +834,29 @@ var MicroJS = [
     description: "A simple way to define and extend namespaces",
     url: "https://github.com/searls/extend.js",
     source: "https://github.com/searls/extend.js/raw/master/lib/extend.0.0.1.min.js"
+  },
+  {
+    name: "System.js",
+    size: "0.5k",
+    tags: ["feature"],
+    description: "Generates a JavaScript object with the user's system information.",
+    url: "https://github.com/mrdoob/system.js",
+    source: "https://raw.github.com/mrdoob/system.js/master/src/System.js"
+  },
+  {
+    name: "Benchmark.js",
+    size: "4.95k",
+    tags: ["benchmark", "testing"],
+    description: "A benchmarking library that works on nearly all JavaScript platforms, supports high-resolution timers, and returns statistically significant results. As used on jsPerf.com.",
+    url: "http://benchmarkjs.com/",
+    source: "https://raw.github.com/bestiejs/benchmark.js/master/benchmark.js"
+  },
+  {
+    name: "Platform.js",
+    size: "2.7k",
+    tags: ["feature"],
+    description: "A platform detection library that works on nearly all JavaScript platforms.",
+    url: "https://github.com/bestiejs/platform.js",
+    source: "https://raw.github.com/bestiejs/platform.js/master/platform.js"
   }
 ];
