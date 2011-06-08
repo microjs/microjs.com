@@ -838,7 +838,7 @@ var MicroJS = [
   {
     name: "System.js",
     size: "0.5k",
-    tags: ["feature", "feature-tests", "user-agent", "system"],
+    tags: ["feature"],
     description: "Generates a JavaScript object with the user's system information.",
     url: "https://github.com/mrdoob/system.js",
     source: "https://raw.github.com/mrdoob/system.js/master/src/System.js"
@@ -846,7 +846,7 @@ var MicroJS = [
   {
     name: "Benchmark.js",
     size: "4.95k",
-    tags: ["benchmark", "performance", "testing"],
+    tags: ["benchmark", "testing"],
     description: "A benchmarking library that works on nearly all JavaScript platforms, supports high-resolution timers, and returns statistically significant results. As used on jsPerf.com.",
     url: "http://benchmarkjs.com/",
     source: "https://raw.github.com/bestiejs/benchmark.js/master/benchmark.js"
@@ -854,7 +854,7 @@ var MicroJS = [
   {
     name: "Platform.js",
     size: "2.7k",
-    tags: ["feature", "feature-tests", "user-agent", "system"],
+    tags: ["feature"],
     description: "A platform detection library that works on nearly all JavaScript platforms.",
     url: "https://github.com/bestiejs/platform.js",
     source: "https://raw.github.com/bestiejs/platform.js/master/platform.js"
