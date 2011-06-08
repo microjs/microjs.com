@@ -834,5 +834,13 @@ var MicroJS = [
     description: "A simple way to define and extend namespaces",
     url: "https://github.com/searls/extend.js",
     source: "https://github.com/searls/extend.js/raw/master/lib/extend.0.0.1.min.js"
+  },
+  {
+    name:"Vine",
+    size:"1.7k",
+    tags:["events!"],
+    description:"A powerful events library that can be used with or without the DOM",
+    url:"https://github.com/arexkun/Vine",
+    source:"https://raw.github.com/arexkun/Vine/master/vine.js"
   }
 ];
