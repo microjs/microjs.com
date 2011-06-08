@@ -872,7 +872,7 @@ var MicroJS = [
     name: "tinyJS",
     size: "3.9k",
     tags: ["base","css","functional"],
-    description: "A tiny yet complete toolkit"
+    description: "A tiny yet complete toolkit",
     url: "http://tinyjs.sourceforge.net/tiny.js",
     source: "http://tinyjs.sourceforge.net/tiny-min.js"
   },
