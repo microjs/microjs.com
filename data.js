@@ -837,6 +837,7 @@ var MicroJS = [
     source: "https://github.com/searls/extend.js/raw/master/lib/extend.0.0.1.min.js"
   },
   {
+<<<<<<< HEAD
     name: "System.js",
     size: "0.5k",
     tags: ["feature"],
@@ -867,6 +868,14 @@ var MicroJS = [
     description: "Fast and small hyphenation engine for Node.js and the browser",
     url: "https://github.com/bramstein/Hypher",
     source: "https://github.com/bramstein/Hypher/raw/master/lib/hypher.js"
+  },
+  {
+    name: "tinyJS",
+    size: "3.9k",
+    tags: ["base","css","functional"],
+    description: "A tiny yet complete toolkit"
+    url: "http://tinyjs.sourceforge.net/tiny.js",
+    source: "http://tinyjs.sourceforge.net/tiny-min.js"
   }
 ];
 
