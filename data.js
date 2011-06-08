@@ -820,7 +820,6 @@ var MicroJS = [
     url: "https://github.com/jakesgordon/javascript-state-machine",
     source: "https://github.com/jakesgordon/javascript-state-machine/raw/master/state-machine.min.js"
   },
-<<<<<<< HEAD
   {
     name: "Janis",
     size: "1.2k",
@@ -838,9 +837,6 @@ var MicroJS = [
     source: "https://github.com/searls/extend.js/raw/master/lib/extend.0.0.1.min.js"
   },
   {
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
     name: "System.js",
     size: "0.5k",
     tags: ["feature"],
