@@ -838,6 +838,7 @@ var MicroJS = [
   },
   {
 <<<<<<< HEAD
+<<<<<<< HEAD
     name: "System.js",
     size: "0.5k",
     tags: ["feature"],
@@ -876,6 +877,14 @@ var MicroJS = [
     description: "A tiny yet complete toolkit"
     url: "http://tinyjs.sourceforge.net/tiny.js",
     source: "http://tinyjs.sourceforge.net/tiny-min.js"
+  },
+  {
+    name:"Vine",
+    size:"1.7k",
+    tags:["events"],
+    description:"A powerful events library that can be used with or without the DOM",
+    url:"https://github.com/arexkun/Vine",
+    source:"https://raw.github.com/arexkun/Vine/master/vine.js"
   }
 ];
 
