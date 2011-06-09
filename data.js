@@ -899,6 +899,15 @@ var MicroJS = [
     description: "Canvas based image manipulation library",
     url: "https://github.com/OiNutter/Obscura",
     source: "https://github.com/OiNutter/Obscura/raw/master/dist/release/obscura.min.js"
+  },
+  {
+    name: "asEvented",
+    size: "0.2k",
+    tags: ["events", "functional"],
+    description: "Micro event emitter which provides the observer pattern to JavaScript object",
+    url: "https://github.com/mkuklis/asEvented",
+    source: "https://github.com/mkuklis/asEvented/blob/master/asevented.min.js"
   }
+  
 ];
 
