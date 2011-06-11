@@ -899,6 +899,14 @@ var MicroJS = [
     description: "Canvas based image manipulation library",
     url: "https://github.com/OiNutter/Obscura",
     source: "https://github.com/OiNutter/Obscura/raw/master/dist/release/obscura.min.js"
+  },
+  {
+    name: "R2",
+    size: "4.62k",
+    tags: ["mobile", "webapp"],
+    description: "R2 is a small Android webapp framework and soon for iOS5.",
+    url: "https://github.com/k33g/r2/",
+    source: "https://raw.github.com/k33g/r2/master/js/r2.min.js"
   }
 ];
 
