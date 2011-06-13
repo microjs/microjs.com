@@ -700,7 +700,7 @@ var MicroJS = [
     tags: ["async", "animation", "jsanimation"],
     description: "An animation sequencing library that prevents complex animations from starting again before they've completed.",
     url: "https://github.com/vsa-partners/c-qwncr",
-    source: "https://github.com/vsa-partners/c-qwncr/blob/master/js/c-qwncr.js"
+    source: "https://raw.github.com/vsa-partners/c-qwncr/master/js/c-qwncr.js"
   },
   {
     name: "Timed",
@@ -899,6 +899,14 @@ var MicroJS = [
     description: "Canvas based image manipulation library",
     url: "https://github.com/OiNutter/Obscura",
     source: "https://github.com/OiNutter/Obscura/raw/master/dist/release/obscura.min.js"
+  },
+  {
+    name: "Shifty",
+    size: "2.3k",
+    tags: ["animation", "jsanimation"],
+    description: "A teeny tiny tweening engine in JavaScript.",
+    url: "https://github.com/jeremyckahn/shifty",
+    source: "https://raw.github.com/jeremyckahn/shifty/master/builds/shifty.min.js"
   }
 ];
 
