@@ -899,6 +899,14 @@ var MicroJS = [
     description: "Canvas based image manipulation library",
     url: "https://github.com/OiNutter/Obscura",
     source: "https://github.com/OiNutter/Obscura/raw/master/dist/release/obscura.min.js"
+  },
+  {
+    name: "Fidel",
+    size: "0.6k",
+    tags: ["controller", "mvc"],
+    description: "A simple, elegant ui controller library. Inspired by spine and backbone.js",
+    url: "https://github.com/jgallen23/fidel",
+    source: "https://raw.github.com/jgallen23/fidel/master/fidel.min.js"
   }
 ];
 
