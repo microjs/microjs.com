@@ -831,10 +831,10 @@ var MicroJS = [
   {
     name: "extend.js",
     size: "0.6k",
-    tags: ["namespace", "extend"],
+    tags: ["base", "language", "feature"],
     description: "A simple way to define and extend namespaces",
     url: "https://github.com/searls/extend.js",
-    source: "https://raw.github.com/searls/extend.js/master/lib/extend.0.0.1.min.js"
+    source: "https://raw.github.com/searls/extend.js/master/lib/extend-min.js"
   },
   {
     name: "System.js",
