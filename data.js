@@ -899,6 +899,14 @@ var MicroJS = [
     description: "Canvas based image manipulation library",
     url: "https://github.com/OiNutter/Obscura",
     source: "https://github.com/OiNutter/Obscura/raw/master/dist/release/obscura.min.js"
+  },
+  {
+    name: "Tangle",
+    size: "1.8k",
+    tags: ["dom", "interactive", "ui"],
+    description: "Tangle.js is a lightweight library that provides a simple API for tangling up the values in your document.",
+    url: "https://github.com/worrydream/Tangle",
+    source: "http://worrydream.com/Tangle/Tangle.js"
   }
 ];
 
