@@ -24,6 +24,14 @@ var MicroJS = [
     source: "https://raw.github.com/julienw/dollardom/master/$dom.min.js"
   },
   {
+    name: "DOMBrew",
+    size: "0.9k",
+    tags: ["dom", "dom-builder"],
+    description: "Clean API high performance DOM builder",
+    url: "https://github.com/glebm/DOMBrew",
+    source: "https://raw.github.com/glebm/DOMBrew/master/dombrew.min.js"
+  },
+  {
     name: "HEX/RGB",
     size: "0.1k",
     tags: ["color"],
