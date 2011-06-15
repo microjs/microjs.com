@@ -846,7 +846,7 @@ var MicroJS = [
   },
   {
     name: "Benchmark.js",
-    size: "4.95k",
+    size: "4.9k",
     tags: ["benchmark", "testing"],
     description: "A benchmarking library that works on nearly all JavaScript platforms, supports high-resolution timers, and returns statistically significant results. As used on jsPerf.com.",
     url: "http://benchmarkjs.com/",
