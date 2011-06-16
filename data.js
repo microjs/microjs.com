@@ -755,16 +755,16 @@ var MicroJS = [
     size: "0.3k",
     tags: ["feature"],
     description: "ClassIE is an unobstrusive library which detects Internet Explorer version for JS and CSS sides",
-    url: "https://github.com/pyrsmk/classie",
-    source: "https://github.com/pyrsmk/classie/blob/master/classie.min.js"
+    url: "https://github.com/pyrsmk/ClassIE",
+    source: "https://github.com/pyrsmk/ClassIE/blob/master/classie.min.js"
   },
   {
     name: "Sheethub",
     size: "4.0k",
     tags: ["dom"],
     description: "The cross-browser CSS API",
-    url: "https://github.com/pyrsmk/sheethub",
-    source: "https://github.com/pyrsmk/sheethub/blob/master/sheethub.min.js"
+    url: "https://github.com/pyrsmk/Sheethub",
+    source: "https://github.com/pyrsmk/Sheethub/blob/master/sheethub.min.js"
   },
   {
     name: "DragDrop",
