@@ -915,6 +915,14 @@ var MicroJS = [
     description: "A teeny tiny tweening engine in JavaScript.",
     url: "https://github.com/jeremyckahn/shifty",
     source: "https://raw.github.com/jeremyckahn/shifty/master/builds/shifty.min.js"
+  },
+  {
+    name: "whenever.js",
+    size: "3.6k",
+    tags: ["events"],
+    descriptoin: "Specify your app's behavior using a syntax that read's like English",
+    url: "https://github.com/paulca/whenever.js",
+    source: "https://raw.github.com/paulca/whenever.js/master/whenever.js"
   }
 ];
 
