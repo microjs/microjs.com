@@ -1,5 +1,13 @@
 var MicroJS = [
   {
+    name: "genData",
+    size: "0.8k",
+    tags: ["data"],
+    description: "A normalization pattern to build, query, and manipulate everything.",
+    url: "https://github.com/bemson/genData/",
+    source: "https://raw.github.com/bemson/genData/master/gendata-min.js"
+  },
+  {
     name: "GSet",
     size: "1.8k",
     tags: ["data", "compose"],
