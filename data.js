@@ -915,6 +915,14 @@ var MicroJS = [
     description: "A teeny tiny tweening engine in JavaScript.",
     url: "https://github.com/jeremyckahn/shifty",
     source: "https://raw.github.com/jeremyckahn/shifty/master/builds/shifty.min.js"
+  },
+  {
+    name: "csonv.js",
+    size: "1.2k",
+    tags: ["fetch csv", "csv parser", "client-side csv data"],
+    description: "A tiny library to fetch relational CSV data at client-side just like JSON",
+    url: "http://archan937.github.com/csonv.js",
+    source: "https://raw.github.com/archan937/csonv.js/master/releases/latest/csonv.min.js"
   }
 ];
 
