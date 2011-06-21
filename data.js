@@ -920,9 +920,17 @@ var MicroJS = [
     name: "whenever.js",
     size: "3.6k",
     tags: ["events"],
-    descriptoin: "Specify your app's behavior using a syntax that read's like English",
+    description: "Specify your app's behavior using a syntax that read's like English",
     url: "https://github.com/paulca/whenever.js",
     source: "https://raw.github.com/paulca/whenever.js/master/whenever.js"
+  },
+  {
+    name: "Templ",
+    size: "3.4k",
+    tags: ["templating"],
+    description: "Simple and light templating solution with Django style syntax.",
+    url: "https://github.com/dfsq/Templ",
+    source: "https://raw.github.com/dfsq/Templ/master/templ.min.js"
   }
 ];
 
