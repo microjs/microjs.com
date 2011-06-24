@@ -920,7 +920,7 @@ var MicroJS = [
     name: "whenever.js",
     size: "3.6k",
     tags: ["events"],
-    descriptoin: "Specify your app's behavior using a syntax that read's like English",
+    description: "Specify your app's behavior using a syntax that read's like English",
     url: "https://github.com/paulca/whenever.js",
     source: "https://raw.github.com/paulca/whenever.js/master/whenever.js"
   },
@@ -928,7 +928,7 @@ var MicroJS = [
     name: "require.js",
     size: "2.1k",
     tags: ["events"],
-    description: "A tiny javascript/javascript template loader with cache control.",
+    description: "A tiny javascript loader with cache control.",
     url: "https://github.com/CapMousse/require.js",
     source: "https://raw.github.com/CapMousse/require.js/master/require-min.js"
   }
