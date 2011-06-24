@@ -923,6 +923,14 @@ var MicroJS = [
     descriptoin: "Specify your app's behavior using a syntax that read's like English",
     url: "https://github.com/paulca/whenever.js",
     source: "https://raw.github.com/paulca/whenever.js/master/whenever.js"
+  },
+  {
+    name: "require.js",
+    size: "2.1k",
+    tags: ["events"],
+    description: "A tiny javascript/javascript template loader with cache control.",
+    url: "https://github.com/CapMousse/require.js",
+    source: "https://raw.github.com/CapMousse/require.js/master/require-min.js"
   }
 ];
 
