@@ -927,7 +927,7 @@ var MicroJS = [
   {
     name: "require.js",
     size: "2.1k",
-    tags: ["events"],
+    tags: ["loader"],
     description: "A tiny javascript loader with cache control.",
     url: "https://github.com/CapMousse/require.js",
     source: "https://raw.github.com/CapMousse/require.js/master/require-min.js"
