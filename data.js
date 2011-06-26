@@ -931,6 +931,14 @@ var MicroJS = [
     description: "A tiny javascript loader with cache control.",
     url: "https://github.com/CapMousse/require.js",
     source: "https://raw.github.com/CapMousse/require.js/master/require-min.js"
+  },
+  {
+    name: "Placeholder Enhanced",
+    size: "0.7k",
+    tags: ["polyfill"],
+    description: "Enhance the use of HTML5 placeholder attribute, cross-browser usage & styling",
+    url: "https://github.com/dciccale/placeholder-enhanced",
+    source: "http://dciccale.github.com/placeholder-enhanced/js/jquery.placeholder-enhanced.js"
   }
 ];
 
