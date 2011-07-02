@@ -931,6 +931,14 @@ var MicroJS = [
     description: "A tiny javascript loader with cache control.",
     url: "https://github.com/CapMousse/require.js",
     source: "https://raw.github.com/CapMousse/require.js/master/require-min.js"
+  },
+  {
+    name: "Species",
+    size: "0.38k",
+    tags: ["language", "class"],
+    description: "JS Class structure, Java style OOP",
+    url: "https://github.com/k33g/species",
+    source: "https://raw.github.com/k33g/species/master/js/species.min.js"
   }
 ];
 
