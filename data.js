@@ -931,6 +931,14 @@ var MicroJS = [
     description: "A tiny javascript loader with cache control.",
     url: "https://github.com/CapMousse/require.js",
     source: "https://raw.github.com/CapMousse/require.js/master/require-min.js"
+  },
+  {
+    name: "dLite.js",
+    size: "4.2k",
+    tags: ["dom", "events"],
+    description: "Library offers you the functions you always use",
+    url: "http://www.robertnyman.com/dlite/",
+    source: ""
   }
 ];
 
