@@ -931,6 +931,13 @@ var MicroJS = [
     description: "A tiny javascript loader with cache control.",
     url: "https://github.com/CapMousse/require.js",
     source: "https://raw.github.com/CapMousse/require.js/master/require-min.js"
+  },
+  {
+    name: "NBL.js",
+    size: "0.6k",
+    tags: ["loader"],
+    description: "JavaScript loader that loads asynchronously, in order or both. Every script its own callback. Also available with CSS and image preloading.",
+    url: "http://berklee.github.com/nbl/",
+    source: "https://raw.github.com/berklee/nbl/master/nbl.min.js"
   }
 ];
-
