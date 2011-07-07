@@ -926,7 +926,7 @@ var MicroJS = [
   },
   {
     name: "Templ",
-    size: "3.4k",
+    size: "3.1k",
     tags: ["templating"],
     description: "Simple and light templating solution with Django style syntax.",
     url: "https://github.com/dfsq/Templ",
