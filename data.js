@@ -931,6 +931,14 @@ var MicroJS = [
     description: "A tiny javascript loader with cache control.",
     url: "https://github.com/CapMousse/require.js",
     source: "https://raw.github.com/CapMousse/require.js/master/require-min.js"
+  },
+  {
+    name: "tofu",
+    size: "0.1k",
+    tags: ["templating"],
+    description: "Tofu is a logic-less, tweet-size JavaScript templating engine.",
+    url: "https://github.com/haochi/tofu",
+    source: "https://raw.github.com/haochi/tofu/master/tofu.min.js"
   }
 ];
 
