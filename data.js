@@ -931,6 +931,14 @@ var MicroJS = [
     description: "A tiny javascript loader with cache control.",
     url: "https://github.com/CapMousse/require.js",
     source: "https://raw.github.com/CapMousse/require.js/master/require-min.js"
+  },
+  {
+    name: "resistance",
+    size: "0.5k",
+    tags: ["async", "flow"],
+    description: "A tiny javascript async flow control library.",
+    url: "https://github.com/jgallen23/resistance",
+    source: "https://raw.github.com/jgallen23/resistance/master/resistance.min.js"
   }
 ];
 
