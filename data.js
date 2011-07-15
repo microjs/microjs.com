@@ -931,6 +931,14 @@ var MicroJS = [
     description: "A tiny javascript loader with cache control.",
     url: "https://github.com/CapMousse/require.js",
     source: "https://raw.github.com/CapMousse/require.js/master/require-min.js"
+  },
+  {
+    name: "newT.js",
+    size: "4.6k",
+    tags: ["dom", "templating", "dom-builder"],
+    description: "Tasty JavaScript Templating",
+    url: "http://newtjs.org",
+    source: "https://raw.github.com/jeffreytierney/newT/master/newT.min.js"
   }
 ];
 
