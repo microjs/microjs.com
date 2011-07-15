@@ -8,6 +8,14 @@ var MicroJS = [
     source: "https://raw.github.com/bemson/GSet/master/gset-min.js"
   },
   {
+    name: "Slang",
+    size: "0.3k",
+    tags: ["string", "functional", "language"],
+    description: "A collection of utility functions for strings",
+    url: "https://github.com/devongovett/slang",
+    source: "https://raw.github.com/devongovett/slang/master/slang.min.js"
+  },
+  {
     name: "Backbone",
     size: "3.9k",
     tags: ["mvc", "data", "functional"],
