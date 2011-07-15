@@ -931,6 +931,14 @@ var MicroJS = [
     description: "A tiny javascript loader with cache control.",
     url: "https://github.com/CapMousse/require.js",
     source: "https://raw.github.com/CapMousse/require.js/master/require-min.js"
+  },
+  {
+    name: "Templ8",
+    size: "5k",
+    tags: ["Template", "Templating"],
+    description: "Fast, light weight & extendable client/ server template engine with Django'ish style syntax. Can be used for much more than just generating HTML.",
+    url: "https://github.com/constantology/Templ8",
+    source: "https://raw.github.com/constantology/Templ8/master/Templ8.client.min.js"
   }
 ];
 
