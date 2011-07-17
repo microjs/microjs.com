@@ -934,7 +934,7 @@ var MicroJS = [
   },
   {
     name: "Species",
-    size: "0.38k",
+    size: "0.78k",
     tags: ["language", "class"],
     description: "JS Class structure, Java style OOP",
     url: "https://github.com/k33g/species",
