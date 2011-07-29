@@ -939,6 +939,14 @@ var MicroJS = [
     description: "A tiny javascript loader with cache control.",
     url: "https://github.com/CapMousse/require.js",
     source: "https://raw.github.com/CapMousse/require.js/master/require-min.js"
+  },
+  {
+    name: "Sylvester",
+    size: "13.2k",
+    tags: ["svg","vector", "matrix","math"],
+    description: "A js library for mathematics with vectors and matrices",
+    url: "http://sylvester.jcoglan.com/",
+    source: "http://sylvester.jcoglan.com/assets/sylvester-0-1-3.zip"
   }
 ];
 
