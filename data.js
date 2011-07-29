@@ -641,8 +641,8 @@ var MicroJS = [
   },
   {
     name: "LeviRoutes",
-    size: "817b",
-    tags: ["history", "route"],
+    size: "0.8k",
+    tags: ["history", "route", "spa"],
     description: "A basic routes framework for JS that hooks in to HTML5 history",
     url: "http://leviroutes.com",
     source: "https://raw.github.com/PaulKinlan/leviroutes/master/routes-min.js"
@@ -950,7 +950,7 @@ var MicroJS = [
   },
   {
     name: "Sylvester",
-    size: "13.2k",
+    size: "5.0k",
     tags: ["svg","vector", "matrix","math"],
     description: "A js library for mathematics with vectors and matrices",
     url: "http://sylvester.jcoglan.com/",
