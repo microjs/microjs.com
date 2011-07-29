@@ -925,12 +925,12 @@ var MicroJS = [
     source: "https://raw.github.com/paulca/whenever.js/master/whenever.js"
   },
   {
-    name: "require.js",
-    size: "1k",
+    name: "Include.js",
+    size: "0.7k",
     tags: ["loader"],
-    description: "A tiny javascript loader with cache control.",
-    url: "http://capmousse.github.com/require.js/",
-    source: "https://raw.github.com/CapMousse/require.js/master/require-min.js"
+    description: "A tiny javascript loader with cache control. 0.4k gziped",
+    url: "http://capmousse.github.com/include.js/",
+    source: "https://raw.github.com/CapMousse/include.js/master/include-min.js"
   }
 ];
 
