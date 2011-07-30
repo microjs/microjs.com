@@ -2,7 +2,7 @@ var MicroJS = [
   {
     name: "Standalone-Deferred",
     size: "2.8k",
-    tags: ["data"],
+    tags: ["jquery", "deferred", "promise"],
     description: "A standalone implementation of Deferreds fully compatible with jQuery 1.5+.",
     url: "https://github.com/warpdesign/Standalone-Deferred",
     source: "https://github.com/warpdesign/Standalone-Deferred/blob/master/js/deferred.min.js"
