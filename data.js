@@ -955,6 +955,15 @@ var MicroJS = [
     description: "A js library for mathematics with vectors and matrices",
     url: "http://sylvester.jcoglan.com/",
     source: "http://sylvester.jcoglan.com/assets/sylvester-0-1-3.zip"
+  },
+  {
+    name: "Species",
+    size: "1.55k",
+    tags: ["language", "class"],
+    description: "Species is a Javascript Class structure, with Java style OOP, and AOP ability, watchable members, inheritance and ability to call super members, ... MIT License",
+    url: "https://github.com/k33g/species",
+    source: "https://raw.github.com/k33g/species/master/js/species.min.js"
   }
+
 ];
 
