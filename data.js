@@ -1,4 +1,4 @@
-var MicroJS = [
+﻿var MicroJS = [
   {
     name: "genData",
     size: "0.6k",
@@ -819,6 +819,14 @@ var MicroJS = [
     description: "An animator that lets you tween in parallel on multiple elements, from integers to colors in a single high-performant loop",
     url: "https://github.com/ded/morpheus",
     source: "https://raw.github.com/ded/morpheus/master/morpheus.min.js"
+  },
+  {
+    name: "Viper",
+    size: "1.4k",
+    tags: ["animation", "jsanimation", "color", "text"],
+    description: "A friendly library for changing a property of an object over time. Supports animating numbers, colors, and even strings.",
+    url: "https://github.com/alpha123/Viper",
+    source: "https://raw.github.com/alpha123/Viper/master/src/viper-uncompressed.js"
   },
   {
     name: "microjungle",
