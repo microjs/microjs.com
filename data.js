@@ -963,6 +963,14 @@
     description: "A tiny javascript loader with cache control.",
     url: "http://capmousse.github.com/include.js/",
     source: "https://raw.github.com/CapMousse/include.js/master/include-min.js"
+  },
+  {
+    name: "asEvented",
+    size: "0.2k",
+    tags: ["events", "functional"],
+    description: "Micro event emitter which provides the observer pattern to JavaScript objects.",
+    url: "https://github.com/mkuklis/asEvented",
+    source: "https://github.com/mkuklis/asEvented/blob/master/asevented.min.js"
   }
 ];
 
