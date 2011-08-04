@@ -941,20 +941,20 @@ var MicroJS = [
     source: "https://raw.github.com/paulca/whenever.js/master/whenever.js"
   },
   {
-    name: "require.js",
-    size: "2.1k",
-    tags: ["events"],
-    description: "A tiny javascript loader with cache control.",
-    url: "https://github.com/CapMousse/require.js",
-    source: "https://raw.github.com/CapMousse/require.js/master/require-min.js"
-  },
-  {
     name: "Sylvester",
     size: "5.0k",
     tags: ["svg","vector", "matrix","math"],
     description: "A js library for mathematics with vectors and matrices",
     url: "http://sylvester.jcoglan.com/",
     source: "http://sylvester.jcoglan.com/assets/sylvester-0-1-3.zip"
+  },
+  {
+    name: "Include.js",
+    size: "0.6k",
+    tags: ["loader"],
+    description: "A tiny javascript loader with cache control.",
+    url: "http://capmousse.github.com/include.js/",
+    source: "https://raw.github.com/CapMousse/include.js/master/include-min.js"
   }
 ];
 
