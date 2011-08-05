@@ -955,6 +955,14 @@ var MicroJS = [
     description: "A js library for mathematics with vectors and matrices",
     url: "http://sylvester.jcoglan.com/",
     source: "http://sylvester.jcoglan.com/assets/sylvester-0-1-3.zip"
+  },
+  {
+    name: "Morf",
+    size: "4.7k",
+    tags: ["animation", "jsanimation"],
+    description: "A Javascript work-around for hardware accelerated CSS3 transitions with custom easing functions.",
+    url: "https://github.com/joelambert/morf",
+    source: "http://www.joelambert.co.uk/morf/js/morf.min.js"
   }
 ];
 
