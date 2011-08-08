@@ -1,5 +1,13 @@
 ﻿var MicroJS = [
   {
+    name: "Lettering Animate",
+    size: "1K",
+    tags: ["animation"],
+    description: "an extension of the 'lettering plugin', it iterates through each letter separated by the lettering and animates it.",
+    url: "https://github.com/giuliandrimba/jquery-lettering-animate",
+    source: "https://github.com/giuliandrimba/jquery-lettering-animate/tree/master/script"
+  },
+  {
     name: "genData",
     size: "0.6k",
     tags: ["data"],
