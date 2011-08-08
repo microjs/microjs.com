@@ -910,7 +910,7 @@
   },
   {
     name:"Vine",
-    size:"1.6k",
+    size:"0.9k",
     tags:["events"],
     description:"An events library that supports binding, unbinding, and triggering events on DOM elements or JavaScript Objects",
     url:"https://github.com/arexkun/Vine",
