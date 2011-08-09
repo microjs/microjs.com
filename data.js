@@ -971,6 +971,14 @@
     description: "Micro event emitter which provides the observer pattern to JavaScript objects.",
     url: "https://github.com/mkuklis/asEvented",
     source: "https://github.com/mkuklis/asEvented/blob/master/asevented.min.js"
+  },
+  {
+    name: "Unlimit",
+    size: "0.4k",
+    tags: ["base"],
+    description: "Allows for chaining with native JavaScript objects without extending objects' prototypes.",
+    url: "http://limeblack.github.com/UnlimitJS/",
+    source: "https://github.com/limeblack/UnlimitJS/blob/master/unlimit.js"
   }
 ];
 
