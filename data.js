@@ -928,7 +928,7 @@ var MicroJS = [
     name: "Include.js",
     size: "0.6k",
     tags: ["loader"],
-    description: "A tiny javascript loader with cache control. 0.4k gziped",
+    description: "A tiny but heavy on-demand async javascript loader",
     url: "http://capmousse.github.com/include.js/",
     source: "https://raw.github.com/CapMousse/include.js/master/include-min.js"
   }
