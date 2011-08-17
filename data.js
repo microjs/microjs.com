@@ -971,6 +971,14 @@
     description: "Micro event emitter which provides the observer pattern to JavaScript objects.",
     url: "https://github.com/mkuklis/asEvented",
     source: "https://github.com/mkuklis/asEvented/blob/master/asevented.min.js"
+  },
+  {
+    name: "Date-Utils",
+    size: "3.1k",
+    tags: ["date", "polyfill"],
+    description: "Lightweight Date Polyfill with a lot of flexibility.",
+    url: "https://github.com/JerrySievert/node-date-utils",
+    source: "https://github.com/JerrySievert/node-date-utils/blob/master/lib/date-utils.min.js"
   }
 ];
 
