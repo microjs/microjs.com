@@ -971,6 +971,22 @@
     description: "Micro event emitter which provides the observer pattern to JavaScript objects.",
     url: "https://github.com/mkuklis/asEvented",
     source: "https://github.com/mkuklis/asEvented/blob/master/asevented.min.js"
+  },
+  {
+    name: "yal.js",
+    size: "1 Kb",
+    tags: ["loader"],
+    description: "the cross browsers micro size JS loader",
+    url: "https://github.com/WebReflection/yal.js",
+    source: "https://github.com/WebReflection/yal.js/blob/master/build/yal.min.js"
+  },
+  {
+    name: "wru",
+    size: "2 Kb",
+    tags: ["testing"],
+    description: "essential unit test framework compatible with browsers, node.js, and Rhino",
+    url: "https://github.com/WebReflection/wru",
+    source: "https://github.com/WebReflection/wru/blob/master/build/wru.min.js"
   }
 ];
 
