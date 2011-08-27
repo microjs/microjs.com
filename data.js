@@ -971,6 +971,14 @@
     description: "Micro event emitter which provides the observer pattern to JavaScript objects.",
     url: "https://github.com/mkuklis/asEvented",
     source: "https://github.com/mkuklis/asEvented/blob/master/asevented.min.js"
+  },
+  {
+    name: "typogr.js",
+    size: "1.8k",
+    tags: ["dom", "data", "css", "text", "ui", "typography", "hyphenation"],
+    description: "Provides a set of functions which automatically apply various transformations to plain text in order to yield typographically-improved HTML",
+    url: "https://github.com/ekalinin/typogr.js",
+    source: "https://github.com/ekalinin/typogr.js/blob/master/typogr.min.js"
   }
 ];
 
