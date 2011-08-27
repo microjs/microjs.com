@@ -971,6 +971,14 @@
     description: "Micro event emitter which provides the observer pattern to JavaScript objects.",
     url: "https://github.com/mkuklis/asEvented",
     source: "https://github.com/mkuklis/asEvented/blob/master/asevented.min.js"
+  },
+  {
+    name: 'Keymaster',
+    size: '0.7k',
+    tags: ["events"],
+    description: "Define scoped keyboard shortcuts, including modifier keys.",
+    url: "https://github.com/madrobby/keymaster",
+    source: "https://github.com/madrobby/keymaster/blob/master/keymaster.min.js"
   }
 ];
 
