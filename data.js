@@ -979,6 +979,14 @@
     description: "Define scoped keyboard shortcuts, including modifier keys.",
     url: "https://github.com/madrobby/keymaster",
     source: "https://github.com/madrobby/keymaster/blob/master/keymaster.min.js"
+  },
+  {
+    name: "Maddy",
+    size: "2.3k",
+    tags: ["functional", "language", "data"],
+    description: "A functional object operations library.",
+    url: "http://kitcambridge.github.com/maddy",
+    source: "http://kitcambridge.github.com/maddy/lib/maddy.min.js"
   }
 ];
 
