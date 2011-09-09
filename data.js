@@ -1066,5 +1066,13 @@
     description: "Allows for chaining with native JavaScript objects without extending objects' prototypes.",
     url: "http://limeblack.github.com/UnlimitJS/",
     source: "https://github.com/limeblack/UnlimitJS/blob/master/unlimit.js"
+  },
+  {
+    name: "Placeholder Enhanced",
+    size: "0.7k",
+    tags: ["polyfill"],
+    description: "Enhance the use of HTML5 placeholder attribute, cross-browser usage & styling",
+    url: "https://github.com/dciccale/placeholder-enhanced",
+    source: "http://dciccale.github.com/placeholder-enhanced/js/jquery.placeholder-enhanced.js"
   }
 ];
