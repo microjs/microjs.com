@@ -944,7 +944,7 @@
     name: "whenever.js",
     size: "3.6k",
     tags: ["events"],
-    description: "Specify your app's behavior using a syntax that read's like English",
+    description: "Specify your app's behavior using a syntax that reads like English",
     url: "https://github.com/paulca/whenever.js",
     source: "https://raw.github.com/paulca/whenever.js/master/whenever.js"
   },
