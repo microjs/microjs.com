@@ -957,12 +957,10 @@
     source: "http://sylvester.jcoglan.com/assets/sylvester-0-1-3.zip"
   },
   {
-<<<<<<< HEAD
-<<<<<<< HEAD
     name: "Include.js",
     size: "0.6k",
     tags: ["loader"],
-    description: "A tiny javascript loader with cache control.",
+    description: "A tiny on-demand async javascript loader.",
     url: "http://capmousse.github.com/include.js/",
     source: "https://raw.github.com/CapMousse/include.js/master/include-min.js"
   },
