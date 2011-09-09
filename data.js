@@ -1004,6 +1004,7 @@
     source: "https://github.com/madrobby/keymaster/blob/master/keymaster.min.js"
   },
   {
+<<<<<<< HEAD
     name: "Date-Utils",
     size: "3.1k",
     tags: ["date", "polyfill"],
@@ -1034,5 +1035,13 @@
     description: "Java style OOP, and AOP ability, watchable members, inheritance and ability to call super members.",
     url: "https://github.com/k33g/species",
     source: "https://raw.github.com/k33g/species/master/js/species.min.js"
+  },
+  {
+    name: "Maddy",
+    size: "2.3k",
+    tags: ["functional", "language", "data"],
+    description: "A functional object operations library.",
+    url: "http://kitcambridge.github.com/maddy",
+    source: "http://kitcambridge.github.com/maddy/lib/maddy.min.js"
   }
 ];
