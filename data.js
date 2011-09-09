@@ -996,8 +996,6 @@
     source: "https://github.com/mkuklis/asEvented/blob/master/asevented.min.js"
   },
   {
-<<<<<<< HEAD
-<<<<<<< HEAD
     name: 'Keymaster',
     size: '1.5k',
     tags: ["events"],
