@@ -27,6 +27,7 @@ file with a name that's unlikely to change (no version numbers).
   * Must not have dependencies.(1)
   * Must do something useful, and must not be just a demo
   * Must be MIT/BSD-license or similiar
+  * Templating engines and loaders will only be added if they're outstanding and exceptional.
   * Add to "data.js"
   * Has to be <5k, minified and gzipped (2)
   * Needs a "url" that points to readme/docs & code-download (ideally GitHub)
