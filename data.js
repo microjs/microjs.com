@@ -1004,7 +1004,6 @@
     source: "https://github.com/madrobby/keymaster/blob/master/keymaster.min.js"
   },
   {
-<<<<<<< HEAD
     name: "Date-Utils",
     size: "3.1k",
     tags: ["date", "polyfill"],
@@ -1043,5 +1042,13 @@
     description: "A functional object operations library.",
     url: "http://kitcambridge.github.com/maddy",
     source: "http://kitcambridge.github.com/maddy/lib/maddy.min.js"
+  },
+  {
+    name: "resistance",
+    size: "0.5k",
+    tags: ["async", "flow"],
+    description: "A tiny javascript async flow control library.",
+    url: "https://github.com/jgallen23/resistance",
+    source: "https://raw.github.com/jgallen23/resistance/master/resistance.min.js"
   }
 ];
