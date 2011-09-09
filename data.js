@@ -958,6 +958,7 @@
   },
   {
 <<<<<<< HEAD
+<<<<<<< HEAD
     name: "Include.js",
     size: "0.6k",
     tags: ["loader"],
@@ -1004,6 +1005,14 @@
     description: "Provides ransformations to plain text for typographically-improved HTML.",
     url: "https://github.com/ekalinin/typogr.js",
     source: "https://github.com/ekalinin/typogr.js/blob/master/typogr.min.js"
+  },
+  { 
+    name: "Species",
+    size: "1.55k",
+    tags: ["language", "class"],
+    description: "Java style OOP, and AOP ability, watchable members, inheritance and ability to call super members.",
+    url: "https://github.com/k33g/species",
+    source: "https://raw.github.com/k33g/species/master/js/species.min.js"
   }
 ];
 
