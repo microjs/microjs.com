@@ -996,6 +996,7 @@
     source: "https://github.com/mkuklis/asEvented/blob/master/asevented.min.js"
   },
   {
+<<<<<<< HEAD
     name: 'Keymaster',
     size: '1.5k',
     tags: ["events"],
@@ -1050,5 +1051,13 @@
     description: "A tiny javascript async flow control library.",
     url: "https://github.com/jgallen23/resistance",
     source: "https://raw.github.com/jgallen23/resistance/master/resistance.min.js"
+  },
+  {
+    name: "wru",
+    size: "2.0k",
+    tags: ["testing"],
+    description: "essential unit test framework compatible with browsers, node.js, and Rhino",
+    url: "https://github.com/WebReflection/wru",
+    source: "https://github.com/WebReflection/wru/blob/master/build/wru.min.js"
   }
 ];
