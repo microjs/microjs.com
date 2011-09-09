@@ -591,9 +591,16 @@
   {
     name: "Crossroads.js",
     size: "1.2k",
-    tags: ["route", "events"],
+    tags: ["route", "events", "spa"],
     description: "Powerful JavaScript URL routing/dispatch for server-side and client-side applications.",
     url: "http://millermedeiros.github.com/crossroads.js/"
+  },
+  {
+    name: "Hasher",
+    size: "1.0k",
+    tags: ["spa"],
+    description: "Browser history manager for rich-media applications.",
+    url: "https://github.com/millermedeiros/Hasher"
   },
   {
     name: "Artemia",
