@@ -37,11 +37,9 @@ file with a name that's unlikely to change (no version numbers).
 
 (1) It's ok to target a specific platform, like node.js, or WebKit.
 
-To test minification from the command-line, you can run:
+(2) To check the minified and compressed size of your library from the command line, run:
 
-    $ uglifyjs yourlib.js | gzip -9f | wc
-
-The last number is the minified and compressed size in bytes.
+    $ uglifyjs yourlib.js | gzip -9f | wc -c
 
 We will only accept code released under a MIT/BSD-style licenses (or comparable).
 
