@@ -979,6 +979,14 @@
     description: "Define scoped keyboard shortcuts, including modifier keys.",
     url: "https://github.com/madrobby/keymaster",
     source: "https://github.com/madrobby/keymaster/blob/master/keymaster.min.js"
+  },
+  {
+    name: "$ [Hex 24]",
+    size: "0.8k",
+    tags: ["loader"],
+    description: "$ is a javascript loader with built-in dependency management designed for the development of modular javascript applications.",
+    url: "https://github.com/dansward/0x24",
+    source: "https://raw.github.com/dansward/0x24/master/js/lib/dev/$.js"
   }
 ];
 
