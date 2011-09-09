@@ -997,6 +997,7 @@
   },
   {
 <<<<<<< HEAD
+<<<<<<< HEAD
     name: 'Keymaster',
     size: '1.5k',
     tags: ["events"],
@@ -1059,5 +1060,13 @@
     description: "essential unit test framework compatible with browsers, node.js, and Rhino",
     url: "https://github.com/WebReflection/wru",
     source: "https://github.com/WebReflection/wru/blob/master/build/wru.min.js"
+  },
+  {
+    name: "Unlimit",
+    size: "0.4k",
+    tags: ["functional", "language"],
+    description: "Allows for chaining with native JavaScript objects without extending objects' prototypes.",
+    url: "http://limeblack.github.com/UnlimitJS/",
+    source: "https://github.com/limeblack/UnlimitJS/blob/master/unlimit.js"
   }
 ];
