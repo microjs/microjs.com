@@ -979,6 +979,14 @@
     description: "Define scoped keyboard shortcuts, including modifier keys.",
     url: "https://github.com/madrobby/keymaster",
     source: "https://github.com/madrobby/keymaster/blob/master/keymaster.min.js"
+  },
+  {
+    name: 'Markup.js',
+    size: '1.7k',
+    tags: ["templating"],
+    description: "A simple yet surprisingly powerful template system for JavaScript.",
+    url: "https://github.com/adammark/Markup.js",
+    source: "https://github.com/adammark/Markup.js/blob/master/src/markup.min.js"
   }
 ];
 
