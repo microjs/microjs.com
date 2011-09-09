@@ -957,6 +957,7 @@
     source: "http://sylvester.jcoglan.com/assets/sylvester-0-1-3.zip"
   },
   {
+<<<<<<< HEAD
     name: "Include.js",
     size: "0.6k",
     tags: ["loader"],
@@ -987,6 +988,14 @@
     description: "Lightweight Date Polyfill with a lot of flexibility.",
     url: "https://github.com/JerrySievert/node-date-utils",
     source: "https://github.com/JerrySievert/node-date-utils/blob/master/lib/date-utils.min.js"
+  },
+  {
+    name: "Morf",
+    size: "4.7k",
+    tags: ["animation", "jsanimation"],
+    description: "A Javascript work-around for hardware accelerated CSS3 transitions with custom easing functions.",
+    url: "https://github.com/joelambert/morf",
+    source: "http://www.joelambert.co.uk/morf/js/morf.min.js"
   }
 ];
 
