@@ -996,6 +996,14 @@
     description: "A Javascript work-around for hardware accelerated CSS3 transitions with custom easing functions.",
     url: "https://github.com/joelambert/morf",
     source: "http://www.joelambert.co.uk/morf/js/morf.min.js"
+  },
+  {
+    name: "typogr.js",
+    size: "1.8k",
+    tags: ["dom", "data", "css", "text", "ui", "typography", "hyphenation"],
+    description: "Provides ransformations to plain text for typographically-improved HTML.",
+    url: "https://github.com/ekalinin/typogr.js",
+    source: "https://github.com/ekalinin/typogr.js/blob/master/typogr.min.js"
   }
 ];
 
