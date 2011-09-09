@@ -1,9 +1,9 @@
-﻿var MicroJS = 
+﻿var MicroJS = [
   {
     name: "Prevel Framework",
     size: "4.8k",
     tags: ["dom", "ajax", "events", "css"],
-    description: "All-purpose development tool (CSS query selector, DOM, Ajax, etc). Faster than most of popular libraries (jQuery, Prototype, ...).",
+    description: "All-purpose development tool (CSS query selector, DOM, Ajax, etc).",
     url: "https://github.com/chernikovalexey/Prevel",
     source: "https://raw.github.com/chernikovalexey/Prevel/master/prevel-full.js"
   },
@@ -1029,4 +1029,3 @@
     source: "https://raw.github.com/k33g/species/master/js/species.min.js"
   }
 ];
-
