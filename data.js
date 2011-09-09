@@ -974,11 +974,19 @@
   },
   {
     name: 'Keymaster',
-    size: '0.7k',
+    size: '1.5k',
     tags: ["events"],
     description: "Define scoped keyboard shortcuts, including modifier keys.",
     url: "https://github.com/madrobby/keymaster",
     source: "https://github.com/madrobby/keymaster/blob/master/keymaster.min.js"
+  },
+  {
+    name: "Date-Utils",
+    size: "3.1k",
+    tags: ["date", "polyfill"],
+    description: "Lightweight Date Polyfill with a lot of flexibility.",
+    url: "https://github.com/JerrySievert/node-date-utils",
+    source: "https://github.com/JerrySievert/node-date-utils/blob/master/lib/date-utils.min.js"
   }
 ];
 
