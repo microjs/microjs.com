@@ -1,7 +1,7 @@
 ﻿var MicroJS = [
   {
     name: "TinyDOM",
-    size: "2.7k",
+    size: "1.4k",
     tags: ["dom"],
     description: "A very small DOM manipulation framework",
     url: "https://github.com/ctult/TinyDOM",
