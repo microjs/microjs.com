@@ -1,5 +1,13 @@
 ﻿var MicroJS = [
   {
+    name: "TinyDOM",
+    size: "2.7k",
+    tags: ["dom"],
+    description: "A very small DOM manipulation framework",
+    url: "https://github.com/ctult/TinyDOM",
+    source: "https://raw.github.com/ctult/TinyDOM/master/tinyDOM.js"
+  },
+  {
     name: "Prevel Framework",
     size: "4.8k",
     tags: ["dom", "ajax", "events", "css"],
