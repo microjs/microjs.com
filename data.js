@@ -1074,5 +1074,12 @@
     description: "Enhance the use of HTML5 placeholder attribute, cross-browser usage & styling",
     url: "https://github.com/dciccale/placeholder-enhanced",
     source: "http://dciccale.github.com/placeholder-enhanced/js/jquery.placeholder-enhanced.js"
+  },
+  {
+    name: "Supplement.js",
+    size: "1.4k",
+    tags: ["functional", "language", "data", "sugar"],
+    description: "A small collection of utility functions to make working with JavaScript that much sweeter and more expressive.",
+    url: "http://supplementjs.com"
   }
 ];
