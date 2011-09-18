@@ -1074,5 +1074,14 @@
     description: "Enhance the use of HTML5 placeholder attribute, cross-browser usage & styling",
     url: "https://github.com/dciccale/placeholder-enhanced",
     source: "http://dciccale.github.com/placeholder-enhanced/js/jquery.placeholder-enhanced.js"
+  },
+  {
+    name: "audio-fx",
+    size: "1.2k",
+    tags: ["audio", "games"],
+    description: "A HTML5 Audio Library",
+    url: "https://github.com/jakesgordon/javascript-audio-fx",
+    source: "https://raw.github.com/jakesgordon/javascript-audio-fx/master/audio-fx.min.js"
   }
+
 ];
