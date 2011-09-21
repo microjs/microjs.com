@@ -161,9 +161,9 @@
   },
   {
     name: "Jaguar",
-    size: "2.5k",
+    size: "3.1k",
     tags: ["css"],
-    description: "A lightweight, extensible, and fast selector engine with excellent support for matchesSelector(), commonly used in event delegation.",
+    description: "A lightweight, extensible, and fast selector engine with excellent support for matchesSelector(), commonly used in event delegation. Jaguar supports all CSS1, CSS2, and most CSS3 selectors.",
     url: "https://github.com/alpha123/Jaguar",
     source: "https://raw.github.com/alpha123/Jaguar/master/src/jaguar.js"
   },
