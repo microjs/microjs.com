@@ -1082,6 +1082,14 @@
     description: "A HTML5 Audio Library",
     url: "https://github.com/jakesgordon/javascript-audio-fx",
     source: "https://raw.github.com/jakesgordon/javascript-audio-fx/master/audio-fx.min.js"
+  },
+  {
+    name: "Swipe",
+    size: "1.2k",
+    tags: ["jsanimation","mobile"],
+    description: "A lightweight 1-to-1 mobile slider. Optimized for touch devices.",
+    url: "https://github.com/bradbirdsall/Swipe",
+    source: "https://raw.github.com/bradbirdsall/Swipe/master/swipe.min.js"
   }
 
 ];
