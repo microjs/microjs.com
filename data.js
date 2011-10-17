@@ -1090,6 +1090,13 @@
     description: "A lightweight 1-to-1 mobile slider. Optimized for touch devices.",
     url: "https://github.com/bradbirdsall/Swipe",
     source: "https://raw.github.com/bradbirdsall/Swipe/master/swipe.min.js"
+  },
+  { 
+    name: "hsi.js",
+    size: "1.1k",
+    tags: ["color"],
+    description: "A small RGB <-> HSI converter.",
+    url: "https://github.com/e-/hsi.js",
+    source: "https://raw.github.com/e-/hsi.js/master/hsi.min.js"
   }
-
 ];
