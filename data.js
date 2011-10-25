@@ -1,4 +1,4 @@
-﻿var MicroJS = [
+var MicroJS = [
   {
     name: "Prevel Framework",
     size: "4.8k",
@@ -1090,6 +1090,14 @@
     description: "A lightweight 1-to-1 mobile slider. Optimized for touch devices.",
     url: "https://github.com/bradbirdsall/Swipe",
     source: "https://raw.github.com/bradbirdsall/Swipe/master/swipe.min.js"
+  },
+  {
+    name: "EditrJS",
+    size: "1.7k",
+    tags: ["manipulation","image", "editing"],
+    description: "A very simple image editing library with a chainable api.",
+    url: "https://github.com/narfdre/Editr",
+    source: "https://github.com/narfdre/Editr/blob/master/Editr.js"
   }
 
 ];
