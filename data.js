@@ -807,7 +807,7 @@
   },
   {
     name: "DragDrop",
-    size: "1.7k",
+    size: "1.8k",
     tags: ["dragdrop", "ui"],
     description: "Drag-and-Drop functionality for advanced UI development.",
     url: "https://github.com/kbjr/DragDrop",
