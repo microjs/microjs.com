@@ -1093,14 +1093,6 @@
   },
   {
     name: "Happen",
-    size: "1.5k",
-    tags: ["events" ],
-    description: "General purpose event triggering",
-    url: "https://github.com/tmcw/happen",
-    source: "https://raw.github.com/tmcw/happen/master/src/happen.js"
-  },
-  {
-    name: "Happen",
     size: "0.3k",
     tags: ["events" ],
     description: "General purpose event triggering",
