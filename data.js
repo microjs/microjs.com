@@ -1101,7 +1101,7 @@
   },
   {
     name: "Happen",
-    size: "1.5k",
+    size: "0.3k",
     tags: ["events" ],
     description: "General purpose event triggering",
     url: "https://github.com/tmcw/happen",
