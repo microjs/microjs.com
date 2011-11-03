@@ -8,6 +8,14 @@ var MicroJS = [
     source: "https://raw.github.com/ctult/TinyDOM/master/tinyDOM.js"
   },
   {
+    name: "cssFx",
+    size: "3.7k",
+    tags: ["css", "css3", "polyfill"],
+    description: "cssFx is a standalone polyfill that inserts the vendor-specific CSS3 properties necessary for old and new browsers.",
+    url: "http://imsky.github.com/cssFx/",
+    source: "https://raw.github.com/imsky/cssFx/master/cssfx.js"
+  },
+  {
     name: "Prevel Framework",
     size: "4.8k",
     tags: ["dom", "ajax", "events", "css"],
