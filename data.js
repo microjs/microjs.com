@@ -1218,5 +1218,12 @@ var MicroJS = [
     description: "Easily kick-off page specific Javascript.",
     url: "https://github.com/sandeepjain/fayer",
     source: "https://raw.github.com/sandeepjain/fayer/master/src/fayer.min.js"
+  },
+  {
+    name: "Supplement.js",
+    size: "1.4k",
+    tags: ["functional", "language", "data", "sugar"],
+    description: "A small collection of utility functions to make working with JavaScript that much sweeter and more expressive.",
+    url: "http://supplementjs.com"
   }
 ];
