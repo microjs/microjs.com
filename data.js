@@ -1090,6 +1090,13 @@
     description: "A lightweight 1-to-1 mobile slider. Optimized for touch devices.",
     url: "https://github.com/bradbirdsall/Swipe",
     source: "https://raw.github.com/bradbirdsall/Swipe/master/swipe.min.js"
+  },
+  {
+    name: "Fayer",
+    size: "0.94k",
+    tags: ["functional"],
+    description: "Easily kick-off page specific Javascript.",
+    url: "https://github.com/sandeepjain/fayer",
+    source: "https://raw.github.com/sandeepjain/fayer/master/src/fayer.min.js"
   }
-
 ];
