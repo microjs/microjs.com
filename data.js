@@ -1130,5 +1130,13 @@
     description: "An absurdly fast selector engine. Supports CSS3/CSS4 selectors - faster than Sizzle.",
     url: "https://github.com/chjj/zest",
     source: "https://raw.github.com/chjj/zest/master/lib/zest.js"
+  },
+  {
+    name: "Cookie Monster",
+    size: "0.7k",
+    tags: ["cookies", "data", "store"],
+    description: "A lightweight cookie library",
+    url: "https://github.com/jgallen23/cookie-monster",
+    source: "https://raw.github.com/jgallen23/cookie-monster/master/dist/monster.min.js"
   }
 ];
