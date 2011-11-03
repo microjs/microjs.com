@@ -1,4 +1,4 @@
-﻿var MicroJS = [
+var MicroJS = [
   {
     name: "TinyDOM",
     size: "1.4k",
@@ -1138,5 +1138,13 @@
     description: "A lightweight cookie library",
     url: "https://github.com/jgallen23/cookie-monster",
     source: "https://raw.github.com/jgallen23/cookie-monster/master/dist/monster.min.js"
+  },
+  {
+    name: "EditrJS",
+    size: "1.7k",
+    tags: ["manipulation","image", "editing"],
+    description: "A very simple image editing library with a chainable api.",
+    url: "https://github.com/narfdre/Editr",
+    source: "https://github.com/narfdre/Editr/blob/master/Editr.js"
   }
 ];
