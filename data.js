@@ -1090,6 +1090,13 @@
     description: "A lightweight 1-to-1 mobile slider. Optimized for touch devices.",
     url: "https://github.com/bradbirdsall/Swipe",
     source: "https://raw.github.com/bradbirdsall/Swipe/master/swipe.min.js"
+  },
+  {
+    name: "Happen",
+    size: "0.3k",
+    tags: ["events" ],
+    description: "General purpose event triggering",
+    url: "https://github.com/tmcw/happen",
+    source: "https://raw.github.com/tmcw/happen/master/src/happen.js"
   }
-
 ];
