@@ -16,6 +16,46 @@ var MicroJS = [
     source: "https://raw.github.com/imsky/cssFx/master/cssfx.js"
   },
   {
+    name: "shorttag.js",
+    size: "0.5k",
+    tags: ["templating"],
+    description: "templating engine for node and browser.",
+    url: "https://github.com/jeromeetienne/shorttag.js",
+    source: "https://github.com/jeromeetienne/shorttag.js/blob/master/lib/shorttag.js"
+  },
+  {
+    name: "microcache.js",
+    size: "0.3k",
+    tags: ["data", "storage", "cache"],
+    description: "in-memory cache for node and browser.",
+    url: "https://github.com/jeromeetienne/microcache.js",
+    source: "https://github.com/jeromeetienne/MicroCache.js/blob/master/microcache.js"
+  },
+  {
+    name: "microevent.js",
+    size: "0.5k",
+    tags: ["events", "node"],
+    description: "event emitter for any javascript object for node and browser.",
+    url: "https://github.com/jeromeetienne/microevent.js",
+    source: "https://github.com/jeromeetienne/microevent.js/blob/master/microevent.js"
+  },
+  {
+    name: "dropinrequire.js",
+    size: "0.3k",
+    tags: ["loader", "commonjs", "require", "node"],
+    description: "dropin replacement for require() in browser.",
+    url: "http://jeromeetienne.github.com/dropinrequire.js/",
+    source: "https://github.com/jeromeetienne/dropinrequire.js/blob/master/dropin_require.js"
+  },
+  {
+    name: "gowiththeflow.js",
+    size: "0.3k",
+    tags: ["functional", "async", "defered"],
+    description: "Async flow control micro library for node and browser.",
+    url: "https://github.com/jeromeetienne/gowiththeflow.js",
+    source: "https://github.com/jeromeetienne/gowiththeflow.js/blob/master/gowiththeflow.js"
+  },
+  {
     name: "Prevel Framework",
     size: "4.8k",
     tags: ["dom", "ajax", "events", "css"],
