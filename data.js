@@ -1116,14 +1116,13 @@ var MicroJS = [
     source: "https://raw.github.com/jakesgordon/javascript-audio-fx/master/audio-fx.min.js"
   },
   {
-    name: "Swipe",
+    name: "swipe",
     size: "1.2k",
     tags: ["jsanimation","mobile"],
     description: "A lightweight 1-to-1 mobile slider. Optimized for touch devices.",
     url: "https://github.com/bradbirdsall/Swipe",
     source: "https://raw.github.com/bradbirdsall/Swipe/master/swipe.min.js"
   },
-<<<<<<< HEAD
   {
     name: "Happen",
     size: "0.3k",
@@ -1163,5 +1162,13 @@ var MicroJS = [
     description: "A small RGB <-> HSI converter.",
     url: "https://github.com/e-/hsi.js",
     source: "https://raw.github.com/e-/hsi.js/master/hsi.min.js"
+  },
+  {
+    name: "colorspaces.js",
+    size: "1.3k",
+    tags: ["color"],
+    description: "Convert between RGB and several CIE color spaces for smarter color manipulation.",
+    url: "http://boronine.github.com/colorspaces.js",
+    source: "https://raw.github.com/boronine/colorspaces.js/master/colorspaces.min.js"
   }
 ];
