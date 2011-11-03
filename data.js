@@ -1027,7 +1027,7 @@
     url: "https://github.com/ekalinin/typogr.js",
     source: "https://github.com/ekalinin/typogr.js/blob/master/typogr.min.js"
   },
-  { 
+  {
     name: "Species",
     size: "1.55k",
     tags: ["language", "class"],
@@ -1090,6 +1090,13 @@
     description: "A lightweight 1-to-1 mobile slider. Optimized for touch devices.",
     url: "https://github.com/bradbirdsall/Swipe",
     source: "https://raw.github.com/bradbirdsall/Swipe/master/swipe.min.js"
+  },
+  {
+    name: "zest",
+    size: "2.2k",
+    tags: ["css", "selector", "dom"],
+    description: "An absurdly fast selector engine. Supports CSS3/CSS4 selectors - faster than Sizzle.",
+    url: "https://github.com/chjj/zest",
+    source: "https://raw.github.com/chjj/zest/master/lib/zest.js"
   }
-
 ];
