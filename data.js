@@ -1115,6 +1115,7 @@ var MicroJS = [
     url: "https://github.com/bradbirdsall/Swipe",
     source: "https://raw.github.com/bradbirdsall/Swipe/master/swipe.min.js"
   },
+<<<<<<< HEAD
   {
     name: "Happen",
     size: "0.3k",
@@ -1146,5 +1147,13 @@ var MicroJS = [
     description: "A very simple image editing library with a chainable api.",
     url: "https://github.com/narfdre/Editr",
     source: "https://github.com/narfdre/Editr/blob/master/Editr.js"
+  },
+  { 
+    name: "hsi.js",
+    size: "1.1k",
+    tags: ["color"],
+    description: "A small RGB <-> HSI converter.",
+    url: "https://github.com/e-/hsi.js",
+    source: "https://raw.github.com/e-/hsi.js/master/hsi.min.js"
   }
 ];
