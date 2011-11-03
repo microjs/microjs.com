@@ -1210,5 +1210,13 @@ var MicroJS = [
     description: "Convert between RGB and several CIE color spaces for smarter color manipulation.",
     url: "http://boronine.github.com/colorspaces.js",
     source: "https://raw.github.com/boronine/colorspaces.js/master/colorspaces.min.js"
+  },
+  {
+    name: "Fayer",
+    size: "0.9k",
+    tags: ["functional"],
+    description: "Easily kick-off page specific Javascript.",
+    url: "https://github.com/sandeepjain/fayer",
+    source: "https://raw.github.com/sandeepjain/fayer/master/src/fayer.min.js"
   }
 ];
