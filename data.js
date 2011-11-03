@@ -1209,5 +1209,13 @@ var MicroJS = [
     tags: ["functional", "language", "data", "sugar"],
     description: "A small collection of utility functions to make working with JavaScript that much sweeter and more expressive.",
     url: "http://supplementjs.com"
+  },
+  {
+    name: "SpeculOOs",
+    size: "0.5k",
+    tags: ["language", "class"],
+    description: "Simple Javascript Class notation, CoffeeScript (full) compliant !",
+    url: "https://github.com/k33g/speculoos#readme",
+    source: "https://raw.github.com/k33g/speculoos/master/speculoos.min.js"
   }
 ];
