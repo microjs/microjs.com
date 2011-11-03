@@ -1209,5 +1209,13 @@ var MicroJS = [
     tags: ["functional", "language", "data", "sugar"],
     description: "A small collection of utility functions to make working with JavaScript that much sweeter and more expressive.",
     url: "http://supplementjs.com"
+  },
+  {
+    name: "140medley",
+    size: "0.8k",
+    tags: ["dom", "selector", "events", "templating", "ajax", "storage"],
+    description: "A micro-framework or a collection of small, helpful utilities for common javascript tasks.",
+    url: "https://github.com/honza/140medley",
+    source: "https://raw.github.com/honza/140medley/master/140medley.min.js"
   }
 ];
