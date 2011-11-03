@@ -1140,14 +1140,6 @@ var MicroJS = [
     source: "https://github.com/limeblack/UnlimitJS/blob/master/unlimit.js"
   },
   {
-    name: "Placeholder Enhanced",
-    size: "0.7k",
-    tags: ["polyfill"],
-    description: "Enhance the use of HTML5 placeholder attribute, cross-browser usage & styling",
-    url: "https://github.com/dciccale/placeholder-enhanced",
-    source: "http://dciccale.github.com/placeholder-enhanced/js/jquery.placeholder-enhanced.js"
-  },
-  {
     name: "audio-fx",
     size: "1.2k",
     tags: ["audio", "games"],
