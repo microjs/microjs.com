@@ -814,6 +814,14 @@
     source: "https://github.com/pyrsmk/Sheethub/blob/master/sheethub.min.js"
   },
   {
+    name: "nut",
+    size: "0.7k",
+    tags: ["css"],
+    description: "The concise CSS selector engine",
+    url: "https://github.com/pyrsmk/nut",
+    source: "https://github.com/pyrsmk/nut/blob/master/nut.min.js"
+  },
+  {
     name: "DragDrop",
     size: "1.8k",
     tags: ["dragdrop", "ui"],
