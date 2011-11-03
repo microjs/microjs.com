@@ -822,6 +822,14 @@
     source: "https://github.com/pyrsmk/nut/blob/master/nut.min.js"
   },
   {
+    name: "molt",
+    size: "0.9k",
+    tags: ["dom"],
+    description: "Images updater for media devices",
+    url: "https://github.com/pyrsmk/molt",
+    source: "https://github.com/pyrsmk/molt/blob/master/molt.min.js"
+  },
+  {
     name: "DragDrop",
     size: "1.8k",
     tags: ["dragdrop", "ui"],
