@@ -1043,7 +1043,7 @@
     url: "https://github.com/ekalinin/typogr.js",
     source: "https://github.com/ekalinin/typogr.js/blob/master/typogr.min.js"
   },
-  { 
+  {
     name: "Species",
     size: "1.55k",
     tags: ["language", "class"],
@@ -1114,5 +1114,13 @@
     description: "General purpose event triggering",
     url: "https://github.com/tmcw/happen",
     source: "https://raw.github.com/tmcw/happen/master/src/happen.js"
+  },
+  {
+    name: "zest",
+    size: "2.2k",
+    tags: ["css", "selector", "dom"],
+    description: "An absurdly fast selector engine. Supports CSS3/CSS4 selectors - faster than Sizzle.",
+    url: "https://github.com/chjj/zest",
+    source: "https://raw.github.com/chjj/zest/master/lib/zest.js"
   }
 ];
