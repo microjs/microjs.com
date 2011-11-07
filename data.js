@@ -1179,7 +1179,7 @@ var MicroJS = [
     url: "https://github.com/narfdre/Editr",
     source: "https://github.com/narfdre/Editr/blob/master/Editr.js"
   },
-  { 
+  {
     name: "hsi.js",
     size: "1.1k",
     tags: ["color"],
@@ -1209,5 +1209,13 @@ var MicroJS = [
     tags: ["functional", "language", "data", "sugar"],
     description: "A small collection of utility functions to make working with JavaScript that much sweeter and more expressive.",
     url: "http://supplementjs.com"
+  },
+  {
+    name: "marked",
+    size: "2.1k",
+    tags: ["markdown", "markup", "parser"],
+    description: "A markdown parser and compiler. Built for speed.",
+    url: "https://github.com/chjj/marked",
+    source: "https://raw.github.com/chjj/marked/master/lib/marked.js"
   }
 ];
