@@ -1236,7 +1236,7 @@ var MicroJS = [
   },
   {
     name: "aug",
-    size: "0.35k",
+    size: "0.4k",
     tags: ["extend", "augment"],
     description: "A object extend utility",
     url: "https://github.com/jgallen23/aug",
