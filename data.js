@@ -1233,5 +1233,13 @@ var MicroJS = [
     description: "A markdown parser and compiler. Built for speed.",
     url: "https://github.com/chjj/marked",
     source: "https://raw.github.com/chjj/marked/master/lib/marked.js"
+  },
+  {
+    name: "aug",
+    size: "0.35k",
+    tags: ["extend", "augment"],
+    description: "A object extend utility",
+    url: "https://github.com/jgallen23/aug",
+    source: "https://raw.github.com/jgallen23/aug/master/dist/aug.js"
   }
 ];
