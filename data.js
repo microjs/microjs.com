@@ -1233,5 +1233,13 @@ var MicroJS = [
     description: "A markdown parser and compiler. Built for speed.",
     url: "https://github.com/chjj/marked",
     source: "https://raw.github.com/chjj/marked/master/lib/marked.js"
+  },
+  {
+    name: "mathmethods.js",
+    size: "0.5k",
+    tags: ["math", "language", "sugar"],
+    description: "Give `Number.prototype` the `Math` methods it deserves.",
+    url: "https://bitbucket.org/davidchambers/mathmethods.js",
+    source: "https://bitbucket.org/davidchambers/mathmethods.js/raw/default/mathmethods.min.js"
   }
 ];
