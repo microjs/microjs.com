@@ -1241,5 +1241,13 @@ var MicroJS = [
     description: "Give `Number.prototype` the `Math` methods it deserves.",
     url: "https://bitbucket.org/davidchambers/mathmethods.js",
     source: "https://bitbucket.org/davidchambers/mathmethods.js/raw/default/mathmethods.min.js"
+  },
+  {
+    name: "path.js",
+    size: "2.8K",
+    tags: ["route"],
+    description: "Simple, lightweight routing for web browsers",
+    url: "http://mtrpcic.github.com/pathjs/",
+    source: "https://github.com/mtrpcic/pathjs"
   }
 ];
