@@ -931,6 +931,14 @@ var MicroJS = [
     description: "A tiny but heavy on-demand async javascript loader",
     url: "http://capmousse.github.com/include.js/",
     source: "https://raw.github.com/CapMousse/include.js/master/include-min.js"
+  },
+  {
+    name: "T-Lite",
+    size: "1k",
+    tags: ["templating"],
+    description: "A lite but powerfull javascript template engine",
+    url: "https://github.com/CapMousse/T-Lite",
+    source: "https://github.com/CapMousse/T-Lite/blob/master/tlite.js"
   }
 ];
 
