@@ -839,23 +839,23 @@ var MicroJS = [
   },
   {
     name: "ClassIE",
-    size: "0.3k",
+    size: "0.2k",
     tags: ["feature"],
     description: "ClassIE is an unobstrusive library which detects Internet Explorer version for JS and CSS sides",
     url: "https://github.com/pyrsmk/ClassIE",
-    source: "https://github.com/pyrsmk/ClassIE/blob/master/src/classie.js"
+    source: "https://github.com/pyrsmk/ClassIE/blob/master/src/ClassIE.js"
   },
   {
     name: "Sheethub",
-    size: "4.0k",
+    size: "1.5k",
     tags: ["dom"],
-    description: "The cross-browser CSS API",
+    description: "A CSS backdoor API for providing awesome scripts in a centralized way",
     url: "https://github.com/pyrsmk/Sheethub",
-    source: "https://github.com/pyrsmk/Sheethub/blob/master/src/sheethub.js"
+    source: "https://github.com/pyrsmk/Sheethub/blob/master/src/Sheethub.js"
   },
   {
     name: "nut",
-    size: "1.0k",
+    size: "0.9k",
     tags: ["css"],
     description: "The concise CSS selector engine",
     url: "https://github.com/pyrsmk/nut",
@@ -863,7 +863,7 @@ var MicroJS = [
   },
   {
     name: "molt",
-    size: "0.7k",
+    size: "0.6k",
     tags: ["dom","responsive"],
     description: "Image updater for responsive designs",
     url: "https://github.com/pyrsmk/molt",
@@ -871,7 +871,7 @@ var MicroJS = [
   },
   {
     name: "W",
-    size: "0.7k",
+    size: "0.6k",
     tags: ["dom","responsive"],
     description: "Width management tool for responsive designs",
     url: "https://github.com/pyrsmk/W",
@@ -879,9 +879,9 @@ var MicroJS = [
   },
   {
     name: "toast",
-    size: "0.3k",
+    size: "0.6k",
     tags: ["dom","loader"],
-    description: "Just a synchroneous resource loader",
+    description: "A tiny and powerful resource loader",
     url: "https://github.com/pyrsmk/toast",
     source: "https://github.com/pyrsmk/toast/blob/master/src/toast.js"
   },
