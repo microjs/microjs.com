@@ -1,4 +1,68 @@
-﻿var MicroJS = [
+var MicroJS = [
+  {
+    name: "TinyDOM",
+    size: "1.4k",
+    tags: ["dom"],
+    description: "A very small DOM manipulation framework",
+    url: "https://github.com/ctult/TinyDOM",
+    source: "https://raw.github.com/ctult/TinyDOM/master/tinyDOM.js"
+  },
+  {
+    name: "cssFx",
+    size: "3.7k",
+    tags: ["css", "css3", "polyfill"],
+    description: "cssFx is a standalone polyfill that inserts the vendor-specific CSS3 properties necessary for old and new browsers.",
+    url: "http://imsky.github.com/cssFx/",
+    source: "https://raw.github.com/imsky/cssFx/master/cssfx.js"
+  },
+  {
+    name: "shorttag.js",
+    size: "0.5k",
+    tags: ["templating"],
+    description: "templating engine for node and browser.",
+    url: "https://github.com/jeromeetienne/shorttag.js",
+    source: "https://github.com/jeromeetienne/shorttag.js/blob/master/lib/shorttag.js"
+  },
+  {
+    name: "microcache.js",
+    size: "0.3k",
+    tags: ["data", "storage", "cache"],
+    description: "in-memory cache for node and browser.",
+    url: "https://github.com/jeromeetienne/microcache.js",
+    source: "https://github.com/jeromeetienne/MicroCache.js/blob/master/microcache.js"
+  },
+  {
+    name: "microevent.js",
+    size: "0.5k",
+    tags: ["events", "node"],
+    description: "event emitter for any javascript object for node and browser.",
+    url: "https://github.com/jeromeetienne/microevent.js",
+    source: "https://github.com/jeromeetienne/microevent.js/blob/master/microevent.js"
+  },
+  {
+    name: "dropinrequire.js",
+    size: "0.3k",
+    tags: ["loader", "commonjs", "require", "node"],
+    description: "dropin replacement for require() in browser.",
+    url: "http://jeromeetienne.github.com/dropinrequire.js/",
+    source: "https://github.com/jeromeetienne/dropinrequire.js/blob/master/dropin_require.js"
+  },
+  {
+    name: "gowiththeflow.js",
+    size: "0.3k",
+    tags: ["functional", "async", "defered"],
+    description: "Async flow control micro library for node and browser.",
+    url: "https://github.com/jeromeetienne/gowiththeflow.js",
+    source: "https://github.com/jeromeetienne/gowiththeflow.js/blob/master/gowiththeflow.js"
+  },
+  {
+    name: "Prevel Framework",
+    size: "4.8k",
+    tags: ["dom", "ajax", "events", "css"],
+    description: "All-purpose development tool (CSS query selector, DOM, Ajax, etc).",
+    url: "https://github.com/chernikovalexey/Prevel",
+    source: "https://raw.github.com/chernikovalexey/Prevel/master/prevel-full.js"
+  },
   {
     name: "genData",
     size: "0.6k",
@@ -144,12 +208,12 @@
     source: "https://raw.github.com/digitarald/sly/master/Sly-min.js"
   },
   {
-    name: "Puma",
-    size: "2.5k",
+    name: "Jaguar",
+    size: "3.1k",
     tags: ["css"],
-    description: "Extensible CSS selector engine. Scanner and parser can be used separately from the engine.",
-    url: "https://github.com/alpha123/Puma",
-    source: "https://raw.github.com/alpha123/Puma/master/src/puma-uncompressed.js"
+    description: "A lightweight, extensible, and fast selector engine with excellent support for matchesSelector(), commonly used in event delegation. Jaguar supports all CSS1, CSS2, and most CSS3 selectors.",
+    url: "https://github.com/alpha123/Jaguar",
+    source: "https://raw.github.com/alpha123/Jaguar/master/src/jaguar.js"
   },
   {
     name: "Émile",
@@ -520,7 +584,7 @@
   },
   {
     name: "Base64.js",
-    size: "0.9k",
+    size: "0.5k",
     tags: ["polyfill"],
     description: "`window.btoa` and `window.atob` for browsers which don't provide these functions.",
     url: "https://bitbucket.org/davidchambers/base64.js",
@@ -575,9 +639,16 @@
   {
     name: "Crossroads.js",
     size: "1.2k",
-    tags: ["route", "events"],
+    tags: ["route", "events", "spa"],
     description: "Powerful JavaScript URL routing/dispatch for server-side and client-side applications.",
     url: "http://millermedeiros.github.com/crossroads.js/"
+  },
+  {
+    name: "Hasher",
+    size: "1.0k",
+    tags: ["spa"],
+    description: "Browser history manager for rich-media applications.",
+    url: "https://github.com/millermedeiros/Hasher"
   },
   {
     name: "Artemia",
@@ -768,23 +839,63 @@
   },
   {
     name: "ClassIE",
-    size: "0.3k",
+    size: "0.2k",
     tags: ["feature"],
     description: "ClassIE is an unobstrusive library which detects Internet Explorer version for JS and CSS sides",
     url: "https://github.com/pyrsmk/ClassIE",
-    source: "https://github.com/pyrsmk/ClassIE/blob/master/classie.min.js"
+    source: "https://github.com/pyrsmk/ClassIE/blob/master/src/ClassIE.js"
   },
   {
     name: "Sheethub",
-    size: "4.0k",
-    tags: ["dom"],
-    description: "The cross-browser CSS API",
+    size: "1.5k",
+    tags: ["polyfill"],
+    description: "A CSS backdoor API for providing awesome scripts in a centralized way",
     url: "https://github.com/pyrsmk/Sheethub",
-    source: "https://github.com/pyrsmk/Sheethub/blob/master/sheethub.min.js"
+    source: "https://github.com/pyrsmk/Sheethub/blob/master/src/Sheethub.js"
+  },
+  {
+    name: "nut",
+    size: "0.9k",
+    tags: ["css"],
+    description: "The concise CSS selector engine",
+    url: "https://github.com/pyrsmk/nut",
+    source: "https://github.com/pyrsmk/nut/blob/master/src/nut.js"
+  },
+  {
+    name: "molt",
+    size: "0.6k",
+    tags: ["responsive"],
+    description: "Image updater for responsive designs",
+    url: "https://github.com/pyrsmk/molt",
+    source: "https://github.com/pyrsmk/molt/blob/master/src/molt.js"
+  },
+  {
+    name: "W",
+    size: "0.6k",
+    tags: ["responsive"],
+    description: "Width management tool for responsive designs",
+    url: "https://github.com/pyrsmk/W",
+    source: "https://github.com/pyrsmk/W/blob/master/src/W.js"
+  },
+  {
+    name: "toast",
+    size: "0.6k",
+    tags: ["loader"],
+    description: "A tiny and powerful resource loader",
+    url: "https://github.com/pyrsmk/toast",
+    source: "https://github.com/pyrsmk/toast/blob/master/src/toast.js"
+  },
+  {
+    name: "mediatizr",
+    size: "1.0k",
+    tags: ["polyfill","responsive"],
+    description: "A tiny and powerful resource loader",
+    url: "https://github.com/pyrsmk/toast",
+    source: "https://github.com/pyrsmk/toast/blob/master/src/toast.js"
   },
   {
     name: "DragDrop",
-    size: "1.4k",
+    size: "1.8k",
     tags: ["dragdrop", "ui"],
     description: "Drag-and-Drop functionality for advanced UI development.",
     url: "https://github.com/kbjr/DragDrop",
@@ -910,9 +1021,9 @@
   },
   {
     name:"Vine",
-    size:"1.7k",
+    size:"0.9k",
     tags:["events"],
-    description:"A powerful events library that can be used with or without the DOM",
+    description:"An events library that supports binding, unbinding, and triggering events on DOM elements or JavaScript Objects",
     url:"https://github.com/arexkun/Vine",
     source:"https://raw.github.com/arexkun/Vine/master/vine.js"
   },
@@ -944,7 +1055,7 @@
     name: "whenever.js",
     size: "3.6k",
     tags: ["events"],
-    description: "Specify your app's behavior using a syntax that read's like English",
+    description: "Specify your app's behavior using a syntax that reads like English",
     url: "https://github.com/paulca/whenever.js",
     source: "https://raw.github.com/paulca/whenever.js/master/whenever.js"
   },
@@ -960,7 +1071,7 @@
     name: "Include.js",
     size: "0.6k",
     tags: ["loader"],
-    description: "A tiny javascript loader with cache control.",
+    description: "A tiny on-demand async javascript loader.",
     url: "http://capmousse.github.com/include.js/",
     source: "https://raw.github.com/CapMousse/include.js/master/include-min.js"
   },
@@ -971,6 +1082,172 @@
     description: "Micro event emitter which provides the observer pattern to JavaScript objects.",
     url: "https://github.com/mkuklis/asEvented",
     source: "https://github.com/mkuklis/asEvented/blob/master/asevented.min.js"
+  },
+  {
+    name: 'Keymaster',
+    size: '1.5k',
+    tags: ["events"],
+    description: "Define scoped keyboard shortcuts, including modifier keys.",
+    url: "https://github.com/madrobby/keymaster",
+    source: "https://github.com/madrobby/keymaster/blob/master/keymaster.min.js"
+  },
+  {
+    name: "Date-Utils",
+    size: "3.1k",
+    tags: ["date", "polyfill"],
+    description: "Lightweight Date Polyfill with a lot of flexibility.",
+    url: "https://github.com/JerrySievert/node-date-utils",
+    source: "https://github.com/JerrySievert/node-date-utils/blob/master/lib/date-utils.min.js"
+  },
+  {
+    name: "Morf",
+    size: "4.7k",
+    tags: ["animation", "jsanimation"],
+    description: "A Javascript work-around for hardware accelerated CSS3 transitions with custom easing functions.",
+    url: "https://github.com/joelambert/morf",
+    source: "http://www.joelambert.co.uk/morf/js/morf.min.js"
+  },
+  {
+    name: "typogr.js",
+    size: "1.8k",
+    tags: ["dom", "data", "css", "text", "ui", "typography", "hyphenation"],
+    description: "Provides ransformations to plain text for typographically-improved HTML.",
+    url: "https://github.com/ekalinin/typogr.js",
+    source: "https://github.com/ekalinin/typogr.js/blob/master/typogr.min.js"
+  },
+  {
+    name: "Species",
+    size: "1.55k",
+    tags: ["language", "class"],
+    description: "Java style OOP, and AOP ability, watchable members, inheritance and ability to call super members.",
+    url: "https://github.com/k33g/species",
+    source: "https://raw.github.com/k33g/species/master/js/species.min.js"
+  },
+  {
+    name: "Maddy",
+    size: "2.3k",
+    tags: ["functional", "language", "data"],
+    description: "A functional object operations library.",
+    url: "http://kitcambridge.github.com/maddy",
+    source: "http://kitcambridge.github.com/maddy/lib/maddy.min.js"
+  },
+  {
+    name: "resistance",
+    size: "0.5k",
+    tags: ["async", "flow"],
+    description: "A tiny javascript async flow control library.",
+    url: "https://github.com/jgallen23/resistance",
+    source: "https://raw.github.com/jgallen23/resistance/master/resistance.min.js"
+  },
+  {
+    name: "wru",
+    size: "2.0k",
+    tags: ["testing"],
+    description: "essential unit test framework compatible with browsers, node.js, and Rhino",
+    url: "https://github.com/WebReflection/wru",
+    source: "https://github.com/WebReflection/wru/blob/master/build/wru.min.js"
+  },
+  {
+    name: "Unlimit",
+    size: "0.4k",
+    tags: ["functional", "language"],
+    description: "Allows for chaining with native JavaScript objects without extending objects' prototypes.",
+    url: "http://limeblack.github.com/UnlimitJS/",
+    source: "https://github.com/limeblack/UnlimitJS/blob/master/unlimit.js"
+  },
+  {
+    name: "audio-fx",
+    size: "1.2k",
+    tags: ["audio", "games"],
+    description: "A HTML5 Audio Library",
+    url: "https://github.com/jakesgordon/javascript-audio-fx",
+    source: "https://raw.github.com/jakesgordon/javascript-audio-fx/master/audio-fx.min.js"
+  },
+  {
+    name: "swipe",
+    size: "1.2k",
+    tags: ["jsanimation","mobile"],
+    description: "A lightweight 1-to-1 mobile slider. Optimized for touch devices.",
+    url: "https://github.com/bradbirdsall/Swipe",
+    source: "https://raw.github.com/bradbirdsall/Swipe/master/swipe.min.js"
+  },
+  {
+    name: "Happen",
+    size: "0.3k",
+    tags: ["events" ],
+    description: "General purpose event triggering",
+    url: "https://github.com/tmcw/happen",
+    source: "https://raw.github.com/tmcw/happen/master/src/happen.js"
+  },
+  {
+    name: "zest",
+    size: "2.2k",
+    tags: ["css", "selector", "dom"],
+    description: "An absurdly fast selector engine. Supports CSS3/CSS4 selectors - faster than Sizzle.",
+    url: "https://github.com/chjj/zest",
+    source: "https://raw.github.com/chjj/zest/master/lib/zest.js"
+  },
+  {
+    name: "Cookie Monster",
+    size: "0.7k",
+    tags: ["cookies", "data", "store"],
+    description: "A lightweight cookie library",
+    url: "https://github.com/jgallen23/cookie-monster",
+    source: "https://raw.github.com/jgallen23/cookie-monster/master/dist/monster.min.js"
+  },
+  {
+    name: "EditrJS",
+    size: "1.7k",
+    tags: ["manipulation","image", "editing"],
+    description: "A very simple image editing library with a chainable api.",
+    url: "https://github.com/narfdre/Editr",
+    source: "https://github.com/narfdre/Editr/blob/master/Editr.js"
+  },
+  {
+    name: "hsi.js",
+    size: "1.1k",
+    tags: ["color"],
+    description: "A small RGB <-> HSI converter.",
+    url: "https://github.com/e-/hsi.js",
+    source: "https://raw.github.com/e-/hsi.js/master/hsi.min.js"
+  },
+  {
+    name: "colorspaces.js",
+    size: "1.3k",
+    tags: ["color"],
+    description: "Convert between RGB and several CIE color spaces for smarter color manipulation.",
+    url: "http://boronine.github.com/colorspaces.js",
+    source: "https://raw.github.com/boronine/colorspaces.js/master/colorspaces.min.js"
+  },
+  {
+    name: "Fayer",
+    size: "0.9k",
+    tags: ["functional"],
+    description: "Easily kick-off page specific Javascript.",
+    url: "https://github.com/sandeepjain/fayer",
+    source: "https://raw.github.com/sandeepjain/fayer/master/src/fayer.min.js"
+  },
+  {
+    name: "Supplement.js",
+    size: "1.4k",
+    tags: ["functional", "language", "data", "sugar"],
+    description: "A small collection of utility functions to make working with JavaScript that much sweeter and more expressive.",
+    url: "http://supplementjs.com"
+  },
+  {
+    name: "marked",
+    size: "2.1k",
+    tags: ["markdown", "markup", "parser"],
+    description: "A markdown parser and compiler. Built for speed.",
+    url: "https://github.com/chjj/marked",
+    source: "https://raw.github.com/chjj/marked/master/lib/marked.js"
+  },
+  {
+    name: "mathmethods.js",
+    size: "0.5k",
+    tags: ["math", "language", "sugar"],
+    description: "Give `Number.prototype` the `Math` methods it deserves.",
+    url: "https://bitbucket.org/davidchambers/mathmethods.js",
+    source: "https://bitbucket.org/davidchambers/mathmethods.js/raw/default/mathmethods.min.js"
   }
 ];
-
