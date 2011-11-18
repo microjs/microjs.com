@@ -848,7 +848,7 @@ var MicroJS = [
   {
     name: "Sheethub",
     size: "1.5k",
-    tags: ["dom"],
+    tags: ["polyfill"],
     description: "A CSS backdoor API for providing awesome scripts in a centralized way",
     url: "https://github.com/pyrsmk/Sheethub",
     source: "https://github.com/pyrsmk/Sheethub/blob/master/src/Sheethub.js"
@@ -864,7 +864,7 @@ var MicroJS = [
   {
     name: "molt",
     size: "0.6k",
-    tags: ["dom","responsive"],
+    tags: ["responsive"],
     description: "Image updater for responsive designs",
     url: "https://github.com/pyrsmk/molt",
     source: "https://github.com/pyrsmk/molt/blob/master/src/molt.js"
@@ -872,7 +872,7 @@ var MicroJS = [
   {
     name: "W",
     size: "0.6k",
-    tags: ["dom","responsive"],
+    tags: ["responsive"],
     description: "Width management tool for responsive designs",
     url: "https://github.com/pyrsmk/W",
     source: "https://github.com/pyrsmk/W/blob/master/src/W.js"
@@ -880,7 +880,15 @@ var MicroJS = [
   {
     name: "toast",
     size: "0.6k",
-    tags: ["dom","loader"],
+    tags: ["loader"],
+    description: "A tiny and powerful resource loader",
+    url: "https://github.com/pyrsmk/toast",
+    source: "https://github.com/pyrsmk/toast/blob/master/src/toast.js"
+  },
+  {
+    name: "mediatizr",
+    size: "1.0k",
+    tags: ["polyfill","responsive"],
     description: "A tiny and powerful resource loader",
     url: "https://github.com/pyrsmk/toast",
     source: "https://github.com/pyrsmk/toast/blob/master/src/toast.js"
