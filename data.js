@@ -670,7 +670,7 @@ var MicroJS = [
     size: "2.3k",
     tags: ["html","css","selector"],
     description: "CSS Selector to HTML generator.",
-    url: "https://github.com/jamespadolsey/satisfy/"
+    url: "https://github.com/padolsey/satisfy/"
   },
   {
     name: "jXHR",
