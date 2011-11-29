@@ -1249,5 +1249,13 @@ var MicroJS = [
     description: "Give `Number.prototype` the `Math` methods it deserves.",
     url: "https://bitbucket.org/davidchambers/mathmethods.js",
     source: "https://bitbucket.org/davidchambers/mathmethods.js/raw/default/mathmethods.min.js"
+  },
+  {
+    name: "scaleApp.js",
+    size: "2.1k",
+    tags: ["spa","base","events"],
+    description: "scaleApp is a tiny JavaScript framework for scalable One-Page-Applications",
+    url: "https://github.com/flosse/scaleApp",
+    source: "http://scaleapp.org/build/scaleApp.min.js"
   }
 ];
