@@ -1249,5 +1249,13 @@ var MicroJS = [
     description: "Give `Number.prototype` the `Math` methods it deserves.",
     url: "https://bitbucket.org/davidchambers/mathmethods.js",
     source: "https://bitbucket.org/davidchambers/mathmethods.js/raw/default/mathmethods.min.js"
+  },
+  {
+    name: "Amanda",
+    size: "2k",
+    tags: ["json", "validation", "json schema", "schema"],
+    description: "JSON Schema validator",
+    url: "https://github.com/Baggz/Amanda",
+    source: "https://raw.github.com/Baggz/Amanda/master/dist/amanda.min.js"
   }
 ];
