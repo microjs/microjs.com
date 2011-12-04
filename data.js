@@ -1257,5 +1257,13 @@ var MicroJS = [
     description: "RFC-4122 Compliant Random (v4) UUID Generator",
     url: "https://github.com/makeable/uuid-v4.js",
     source: "https://raw.github.com/makeable/uuid-v4.js/master/uuid-v4.min.js"
+  },
+  {
+    name: "notificon.js",
+    size: "0.8k",
+    tags: ["notification", "alert", "browser", "canvas", "tab"],
+    description: "Dynamic tab favicon notifications/alerts",
+    url: "https://github.com/makeable/Notificon",
+    source: "https://raw.github.com/makeable/Notificon/master/notificon.min.js"
   }
 ];
