@@ -1249,5 +1249,21 @@ var MicroJS = [
     description: "Give `Number.prototype` the `Math` methods it deserves.",
     url: "https://bitbucket.org/davidchambers/mathmethods.js",
     source: "https://bitbucket.org/davidchambers/mathmethods.js/raw/default/mathmethods.min.js"
+  },
+  {
+    name: "uuid-v4.js",
+    size: "0.2k",
+    tags: ["random", "uuid", "data", "browser", "commonjs", "node"],
+    description: "RFC-4122 Compliant Random (v4) UUID Generator",
+    url: "https://github.com/makeable/uuid-v4.js",
+    source: "https://raw.github.com/makeable/uuid-v4.js/master/uuid-v4.min.js"
+  },
+  {
+    name: "notificon.js",
+    size: "0.8k",
+    tags: ["notification", "alert", "browser", "canvas", "tab"],
+    description: "Dynamic tab favicon notifications/alerts",
+    url: "https://github.com/makeable/Notificon",
+    source: "https://raw.github.com/makeable/Notificon/master/notificon.min.js"
   }
 ];
