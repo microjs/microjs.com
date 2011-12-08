@@ -1265,5 +1265,13 @@ var MicroJS = [
     description: "Dynamic tab favicon notifications/alerts",
     url: "https://github.com/makeable/Notificon",
     source: "https://raw.github.com/makeable/Notificon/master/notificon.min.js"
+  },
+  {
+    name: "Humane JS",
+    size: "1.3k",
+    tags: ["notification","alert"],
+    description: "A simple, modern, browser notification system",
+    url: "http://wavded.github.com/humane-js/",
+    source: "https://raw.github.com/wavded/humane-js/master/humane.js"
   }
 ];
