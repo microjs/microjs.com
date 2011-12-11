@@ -1265,5 +1265,13 @@ var MicroJS = [
     description: "Dynamic tab favicon notifications/alerts",
     url: "https://github.com/makeable/Notificon",
     source: "https://raw.github.com/makeable/Notificon/master/notificon.min.js"
+  },
+  {
+    name: "JSFace",
+    size: "1k",
+    tags: ["oop", "language", "commonjs", "node"],
+    description: "Object-Oriented Programming library",
+    url: "https://github.com/tannhu/jsface",
+    source: "https://raw.github.com/tannhu/jsface/master/jsface.js"
   }
 ];
