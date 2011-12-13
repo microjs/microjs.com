@@ -34,11 +34,11 @@ file with a name that's unlikely to change (no version numbers).
   * Needs a "source" attribute that points at a single-file, ready-to-use download of the library/framework (can be minified or not)
   * Prefer hand-coded/hand-optimized JavaScript over generated/cross-compiled code.
   * Running "make" should work and not return an error. To run make, you'll need node/npm installed with the uglify-js package available: npm install uglify-js -g
-  * (We're adding an automated size checker soon!)
+  * Run the automated size checker with "make check" (you'll need to install the dev dependencies first with `npm install --dev`) and update any sizes that may have changed since the last commit
 
 (1) It's ok to target a specific platform, like node.js, or WebKit.
 
-(2) To check the minified and compressed size of your library from the command line, run:
+(2) To check the minified and compressed size of your library from the command line, either use "make check" or run:
 
     $ uglifyjs yourlib.js | gzip -9f | wc -c
 
