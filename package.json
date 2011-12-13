@@ -1,0 +1,10 @@
+{
+    "name": "microjs.com"
+  , "version": "1.0.0"
+  , "devDependencies": {
+        "async": "*"
+      , "colors": "*"
+      , "uglify-js": "*"
+      , "gzip": "*"
+    }
+}
