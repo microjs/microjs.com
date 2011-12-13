@@ -889,9 +889,9 @@ var MicroJS = [
     name: "mediatizr",
     size: "1.0k",
     tags: ["polyfill","responsive"],
-    description: "A tiny and powerful resource loader",
-    url: "https://github.com/pyrsmk/toast",
-    source: "https://github.com/pyrsmk/toast/blob/master/src/toast.js"
+    description: "Media queries support to incapable browsers",
+    url: "https://github.com/pyrsmk/mediatizr",
+    source: "https://github.com/pyrsmk/toast/blob/master/src/mediatizr.js"
   },
   {
     name: "DragDrop",
