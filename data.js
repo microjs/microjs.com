@@ -1265,5 +1265,13 @@ var MicroJS = [
     description: "Dynamic tab favicon notifications/alerts",
     url: "https://github.com/makeable/Notificon",
     source: "https://raw.github.com/makeable/Notificon/master/notificon.min.js"
+  },
+  {
+    name: "Traversty",
+    size: "1.3k",
+    tags: ["dom"],
+    description: "Headache-free DOM traversal using PrototypeJS inspired up(), down(), next() and previous() with selector and index arguments. Ideal for use with Ender.",
+    url: "https://github.com/rvagg/traversty",
+    source: "https://raw.github.com/rvagg/traversty/master/traversty.js"
   }
 ];
