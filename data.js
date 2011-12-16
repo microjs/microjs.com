@@ -522,5 +522,19 @@ var MicroJS = [
     tags: ["functional","class","extend"],
     description: "Class-based OO for JavaScript.",
     url: "http://code.google.com/p/jsclassextend/"
+  },
+  {
+    name: "Callbacks.js",
+    size: "1.2k",
+    tags: ["events","dispatcher","static","callbacks"],
+    url: "https://github.com/dperrymorrow/callbacks.js",
+    source: "https://raw.github.com/dperrymorrow/callbacks.js/master/callbacks-min.js"
+  },
+  {
+    name: "Router.js",
+    size: "1.2k",
+    tags: ["routing","rails"],
+    url: "https://github.com/dperrymorrow/router.js",
+    source: "https://raw.github.com/dperrymorrow/router.js/master/router-min.js"
   }
 ];
