@@ -148,9 +148,9 @@ var MicroJS = [
     name: "Zepto",
     size: "4.2k",
     tags: ["base", "dom", "webkit", "jquery", "ajax", "events", "mobile"],
-    description: "jQuery API-compatible framework for mobile WebKit browsers, with DOM manipulation, Ajax and events.",
+    description: "jQuery API-compatible framework for modern web browsers. Optional Ajax, Events, Data and Touch modules.",
     url: "http://zeptojs.com",
-    source: "http://zeptojs.com/downloads/zepto-0.8.zip!/zepto-0.8/dist/zepto.js"
+    source: "https://raw.github.com/madrobby/zepto/master/src/zepto.js"
   },
   {
     name: "xui",
