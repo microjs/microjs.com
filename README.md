@@ -21,20 +21,20 @@ SUBMITTING NEW LIBRARIES AND FRAMEWORKS:
 -------
 
 Want to add your own? Fork this site on GitHub, add your framework to data.js
-and submit a pull request. When adding your source URL, we recommend a minified
+and submit a pull request. When adding your source URL, please use an un-minified
 file with a name that's unlikely to change (no version numbers).
 
-  * Must not have dependencies.(1)
+  * Must not have dependencies (1)
   * Must do something useful, and must not be just a demo
   * Must be MIT/BSD-license or similiar
   * Templating engines and loaders will only be added if they're outstanding and exceptional.
   * Add to "data.js"
   * Has to be <5k, minified and gzipped (2)
   * Needs a "url" that points to readme/docs & code-download (ideally GitHub)
-  * Needs a "source" attribute that points at a single-file, ready-to-use download of the library/framework (can be minified or not)
+  * Needs a "source" attribute that points at a single-file, ready-to-use download of the library/framework (unminified) (3)
+  * Please provide a "size" attribute as a sanity-check for the automated size checker
   * Prefer hand-coded/hand-optimized JavaScript over generated/cross-compiled code.
-  * Running "make" should work and not return an error. To run make, you'll need node/npm installed with the uglify-js package available: npm install uglify-js -g
-  * Run the automated size checker with "make check" (you'll need to install the dev dependencies first with `npm install --dev`) and update any sizes that may have changed since the last commit
+  * Running "make" should work and not return an error. To run make, you'll need node/npm installed.
 
 (1) It's ok to target a specific platform, like node.js, or WebKit.
 
@@ -42,7 +42,25 @@ file with a name that's unlikely to change (no version numbers).
 
     $ uglifyjs yourlib.js | gzip -9f | wc -c
 
-We will only accept code released under a MIT/BSD-style licenses (or comparable).
+(3) If your source very small, you can simply included the whole thing in the source attribute as a string.
+If your source is split across multiple files, you can use an array of URLs (it's preferrable to just have
+a single source). If your source is released in a ZIP file you can point to the ZIP's URL and append a
+`!/zip/entry.js` to the end so the compiler knows where to look (it's still preferrable to just have a
+single source URL!)
+
+### Using make / build ###
+
+`make deps` will run `npm install --dev` to install the dependencies of the data compiler.
+
+`make compile` will run the compiler. The compiler reads *data.js* and checks the *source* of
+each entry. It will calculate the raw, minified and gzipped sizes of the entries.
+
+You will see **warnings** where entries need to be checked and **errors** where entries will be
+excluded.
+
+If you wish to see details of all entries, you can run the `./build -v` command.
+
+### All rights reserved ###
 
 Please note that Microjs.com is a curated site and that we reserve the right to refuse
 any listing for any reason.

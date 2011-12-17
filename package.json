@@ -6,5 +6,6 @@
       , "colors": "*"
       , "uglify-js": "*"
       , "gzip": "*"
+      , "zip": "*"
     }
 }
