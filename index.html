@@ -21,7 +21,7 @@
     background: -o-radial-gradient(center top, circle closest-corner, #2A2E30, #111414);
     background: radial-gradient(center top, circle closest-corner, #2A2E30, #111414);
     color: #fff;
-    font: 16px/19px Helvetica, Arial;
+    font: 15px/19px Helvetica, Arial;
     min-height: 100%;
   }
   ul {
@@ -376,7 +376,7 @@
     padding: 0 20px 0 0;
     height: 60px;
     line-height: 66px;
-    font-size: 45px;
+    font-size: 40px;
   }
   li div.size {
     float: right;
@@ -384,11 +384,12 @@
     padding: 0 0 0 20px;
     line-height: 66px;
     height: 60px;
-    font-size: 45px;
+    font-size: 40px;
     font-weight: normal;
     border-left: 1px solid rgba(255,255,255,1.0);
     font-family: 'Maiden Orange', arial, serif;
-	width:60px;
+    width: 100px;
+    white-space: nowrap;
   }
 /*  li h3 a {
     display: inline-block;
@@ -601,7 +602,7 @@ I need … <select id="ineed_select">
     var value = $('ineed_select').options[$('ineed_select').selectedIndex].value;
     if(value=="micro") return(alert($('micro').innerHTML));
     render(find(value));
-    if(value) location.href='/#'+value;
+    if(value) location.href=location.href.replace(/(#.*$)|($)/,'#'+value);
   }
 
   render(hash.length ? (select(hash[1]), find(hash[1])) : MicroJS);
