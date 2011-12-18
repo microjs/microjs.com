@@ -528,6 +528,7 @@ var MicroJS = [
     size: "1.2k",
     tags: ["events","dispatcher","static","callbacks"],
     url: "https://github.com/dperrymorrow/callbacks.js",
+    description: "Event dispatching, can be used either as static or instance based.",
     source: "https://raw.github.com/dperrymorrow/callbacks.js/master/callbacks-min.js"
   },
   {
@@ -535,6 +536,7 @@ var MicroJS = [
     size: "1.2k",
     tags: ["routing","rails"],
     url: "https://github.com/dperrymorrow/router.js",
+    description: "controller/action convention for javascript. home/index would automatically instantiate Home js class and fire index action.",
     source: "https://raw.github.com/dperrymorrow/router.js/master/router-min.js"
   }
 ];
