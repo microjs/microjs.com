@@ -1317,5 +1317,13 @@ var MicroJS = [
     description: "A micro-framework or a collection of small, helpful utilities for common javascript tasks.",
     url: "https://github.com/honza/140medley",
     source: "https://raw.github.com/honza/140medley/master/140medley.js"
+  },
+  {
+    name: "Radio.js",
+    size: "0.8k",
+    tags: ["events"],
+    description: "Chainable publish/subscribe framework",
+    url: "http://radio.uxder.com",
+    source: "https://raw.github.com/uxder/Radio/master/radio.js"
   }
 ];
