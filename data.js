@@ -9,6 +9,14 @@
 
 var MicroJS = [
   {
+    name: "Panzer",
+    size: "2.5k",
+    tags: ["compose", "data"],
+    description: "A comprehensive node-tree solution, for smart data",
+    url: "https://github.com/bemson/Panzer",
+    source: "https://github.com/bemson/Panzer/raw/master/src/panzer.js"
+  },
+  {
     name: "TinyDOM",
     size: "1.4k",
     tags: ["dom"],
