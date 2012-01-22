@@ -18,7 +18,7 @@ var MicroJS = [
   },
   {
     name: "TinyDOM",
-    size: "1.4k",
+    size: "0.4k",
     tags: ["dom"],
     description: "A very small DOM manipulation framework",
     url: "https://github.com/ctult/TinyDOM",
@@ -26,7 +26,7 @@ var MicroJS = [
   },
   {
     name: "cssFx",
-    size: "3.7k",
+    size: "2.4k",
     tags: ["css", "css3", "polyfill"],
     description: "cssFx is a standalone polyfill that inserts the vendor-specific CSS3 properties necessary for old and new browsers.",
     url: "http://imsky.github.com/cssFx/",
@@ -50,7 +50,7 @@ var MicroJS = [
   },
   {
     name: "microevent.js",
-    size: "0.5k",
+    size: "0.3k",
     tags: ["events", "node"],
     description: "event emitter for any javascript object for node and browser.",
     url: "https://github.com/jeromeetienne/microevent.js",
@@ -72,6 +72,7 @@ var MicroJS = [
     url: "https://github.com/jeromeetienne/gowiththeflow.js",
     source: "https://raw.github.com/jeromeetienne/gowiththeflow.js/master/gowiththeflow.js"
   },
+  /* Too big, 5.5kb 
   {
     name: "Prevel Framework",
     size: "4.8k",
@@ -80,6 +81,7 @@ var MicroJS = [
     url: "https://github.com/chernikovalexey/Prevel",
     source: "https://raw.github.com/chernikovalexey/Prevel/master/prevel-full.js"
   },
+  */
   {
     name: "genData",
     size: "0.6k",
@@ -98,7 +100,7 @@ var MicroJS = [
   },
   {
     name: "Slang",
-    size: "0.3k",
+    size: "1.2k",
     tags: ["string", "functional", "language"],
     description: "A collection of utility functions for strings",
     url: "https://github.com/devongovett/slang",
@@ -118,7 +120,7 @@ var MicroJS = [
     tags: ["dom", "ajax", "events", "animation"],
     description: "Selecting, styling, traversing and animating DOM elements.",
     url: "https://github.com/julienw/dollardom",
-    source: "https://raw.github.com/julienw/dollardom/master/$dom.dev.js"
+    source: "https://raw.github.com/julienw/dollardom/master/src/dollardom.js"
   },
   {
     name: "DOMBrew",
@@ -138,7 +140,7 @@ var MicroJS = [
   },
   {
     name: "MinPubSub",
-    size: "0.1k",
+    size: "0.2k",
     tags: ["events"],
     description: "A publish/subscribe messaging framework",
     url: "https://github.com/daniellmb/MinPubSub",
@@ -179,7 +181,7 @@ var MicroJS = [
   },
   {
     name: "Weld",
-    size: "3.9k",
+    size: "2.1k",
     tags: ["templating"],
     description: "Completely unobtrusive, full featured template antimatter. Works in Node.js or the Browser, awesome built-in debugger.",
     url: "http://www.github.com/hij1nx/weld",
@@ -209,6 +211,7 @@ var MicroJS = [
     url: "https://github.com/ded/qwery",
     source: "https://raw.github.com/ded/qwery/master/qwery.js"
   },
+  /* Too big, 5.5 kb
   {
     name: "Slick",
     size: "5.0k",
@@ -219,6 +222,7 @@ var MicroJS = [
               "https://raw.github.com/mootools/slick/master/Source/Slick.Parser.js",
               "https://raw.github.com/mootools/slick/master/Source/slick.js" ]
   },
+  */
   {
     name: "Sly",
     size: "3.0k",
@@ -251,6 +255,7 @@ var MicroJS = [
     url: "http://westcoastlogic.com/lawnchair/",
     source: "http://westcoastlogic.com/lawnchair/downloads/lawnchair-0.6.1.js"
   },
+  /* Too Big 7kb
   {
     name: "ExplorerCanvas",
     size: "4.3k",
@@ -259,6 +264,7 @@ var MicroJS = [
     url: "http://code.google.com/p/explorercanvas/",
     source: "http://explorercanvas.googlecode.com/svn/trunk/excanvas.js"
   },
+  */
   {
     name: "Placeholder.js",
     size: "0.4k",
@@ -333,7 +339,7 @@ var MicroJS = [
   },
   {
     name: "OORJa",
-    size: "1.5k",
+    size: "0.6k",
     tags: ["language", "class"],
     description: "OORJa = Object Oriented Javascript",
     url: "http://maxpert.github.com/oorja/",
@@ -429,7 +435,7 @@ var MicroJS = [
   },
   {
     name: "Q",
-    size: "1.0k",
+    size: "2.3k",
     tags: ["functional", "events"],
     description: "when/defer-style promises for JavaScript (CommonJS/Promises/A,B,D)",
     url: "https://github.com/kriskowal/q",
@@ -487,7 +493,7 @@ var MicroJS = [
   },
   {
     name: "functools",
-    size: "2.2k",
+    size: "0.6k",
     tags: ["functional"],
     description: "A library for functional operations",
     url: "https://github.com/azer/functools",
@@ -495,7 +501,7 @@ var MicroJS = [
   },
   {
     name: "observer",
-    size: "1.0k",
+    size: "0.4k",
     tags: ["observer","events"],
     description: "CommonJS implementation of the observer design pattern",
     url: "https://github.com/azer/observer",
@@ -503,7 +509,7 @@ var MicroJS = [
   },
   {
     name: "defer.js",
-    size: "4.8k",
+    size: "2.4k",
     tags: ["loader"],
     description: "Script loader, using the 'Deferred' pattern for async operations.",
     url: "https://github.com/BorisMoore/jsdefer/",
@@ -511,7 +517,7 @@ var MicroJS = [
   },
   {
     name: "Bootstrap",
-    size: "1.3k",
+    size: "0.7k",
     tags: ["loader"],
     description: "A small, simple bootloader. No frills. Black and white label.",
     url: "https://bitbucket.org/scott_koon/bootstrap",
@@ -559,7 +565,7 @@ var MicroJS = [
   },
   {
     name: "Store.js",
-    size: "1.8k",
+    size: "0.9k",
     tags: ["data", "storage"],
     description: "localStorage wrapper for all browsers without using cookies or flash",
     url: "https://github.com/marcuswestin/store.js",
@@ -591,7 +597,7 @@ var MicroJS = [
   },
   {
     name: "Microajax",
-    size: "2.1k",
+    size: "0.4k",
     tags: ["ajax"],
     description: "Simple AJAX library.",
     url: "http://code.google.com/p/microajax/",
@@ -679,7 +685,7 @@ var MicroJS = [
   },
   {
     name: "Artemia",
-    size: "2.5k",
+    size: "1.6k",
     tags: ["data", "storage"],
     description: "Artemia is a clientside document store, inspired by Lawnchair.",
     url: "https://github.com/k33g/artemia/",
@@ -689,7 +695,7 @@ var MicroJS = [
   },
   {
     name: "js.class",
-    size: "1.8k",
+    size: "0.4k",
     tags: ["functional","class","extend"],
     description: "Class-based OO for JavaScript.",
     url: "http://code.google.com/p/jsclassextend/",
@@ -697,7 +703,7 @@ var MicroJS = [
   },
   {
     name: "Satisfy",
-    size: "2.3k",
+    size: "0.9k",
     tags: ["html","css","selector"],
     description: "CSS Selector to HTML generator.",
     url: "https://github.com/padolsey/satisfy",
@@ -777,7 +783,7 @@ var MicroJS = [
   },
   {
     name: "thumbs.js",
-    size: "0.6k",
+    size: "0.3k",
     tags: ["polyfill"],
     description: "Add touch event support to the desktop and other mouse-based browsers.",
     url: "http://mwbrooks.github.com/thumbs.js/",
@@ -793,7 +799,7 @@ var MicroJS = [
   },
   {
     name: "my.common.js",
-    size: "1.0k",
+    size: "0.6k",
     tags: ["loader", "commonjs"],
     description: "A CommonJS-like script/module loader.",
     url: "https://github.com/jiem/my-common",
@@ -801,7 +807,7 @@ var MicroJS = [
   },
   {
     name: "my.class.js",
-    size: "0.6k",
+    size: "0.3k",
     tags: ["language", "class"],
     description: "Probably the fastest JS class system. No wrappers.",
     url: "https://github.com/jiem/my-class",
@@ -841,7 +847,7 @@ var MicroJS = [
   },
   {
     name: "Sslac",
-    size: "2.9k",
+    size: "1.2k",
     tags: ["language", "class"],
     description: "A (seemingly backwards) JS class builder with support for runtime patching",
     url: "https://github.com/jakobo/sslac",
@@ -849,7 +855,7 @@ var MicroJS = [
   },
   {
     name: "ShinyCar",
-    size: "2.8k",
+    size: "1k",
     tags: ["data", "storage"],
     description: "Set localStorage keys and values as objects",
     url: "https://github.com/Poincare/ShinyCar",
@@ -857,7 +863,7 @@ var MicroJS = [
   },
   {
     name: "lscache",
-    size: "0.9k",
+    size: "0.6k",
     tags: ["data", "storage"],
     description: "A localStorage-based memcache-inspired client-side caching library.",
     url: "https://github.com/pamelafox/lscache",
@@ -881,7 +887,7 @@ var MicroJS = [
   },
   {
     name: "Sheethub",
-    size: "1.5k",
+    size: "0.8k",
     tags: ["polyfill"],
     description: "A CSS backdoor API for providing awesome scripts in a centralized way",
     url: "https://github.com/pyrsmk/Sheethub",
@@ -889,7 +895,7 @@ var MicroJS = [
   },
   {
     name: "nut",
-    size: "0.9k",
+    size: "0.5k",
     tags: ["css"],
     description: "The concise CSS selector engine",
     url: "https://github.com/pyrsmk/nut",
@@ -913,7 +919,7 @@ var MicroJS = [
   },
   {
     name: "toast",
-    size: "0.6k",
+    size: "0.4k",
     tags: ["loader"],
     description: "A tiny and powerful resource loader",
     url: "https://github.com/pyrsmk/toast",
@@ -921,11 +927,11 @@ var MicroJS = [
   },
   {
     name: "mediatizr",
-    size: "1.0k",
+    size: "0.4k",
     tags: ["polyfill","responsive"],
-    description: "A tiny and powerful resource loader",
-    url: "https://github.com/pyrsmk/toast",
-    source: "https://raw.github.com/pyrsmk/toast/master/src/toast.js"
+    description: "Adds media queries support to incapable browsers",
+    url: "https://github.com/pyrsmk/mediatizr",
+    source: "https://raw.github.com/pyrsmk/mediatizr/master/src/mediatizr.js"
   },
   {
     name: "DragDrop",
@@ -991,7 +997,7 @@ var MicroJS = [
   },
   {
     name: "environ",
-    size: "1.3k",
+    size: "0.5k",
     tags: ["feature"],
     description: "Cross platform environment detection library.",
     url: "https://github.com/azer/environ",
@@ -999,7 +1005,7 @@ var MicroJS = [
   },
   {
     name: "state-machine",
-    size: "0.5k",
+    size: "1.0k",
     tags: ["data", "games", "statemachine"],
     description: "A finite state machine, useful in game development",
     url: "https://github.com/jakesgordon/javascript-state-machine",
@@ -1016,7 +1022,7 @@ var MicroJS = [
   // requires Underscore, dependency allowed?
   {
     name: "extend.js",
-    size: "0.6k",
+    size: "0.3k",
     tags: ["base", "language", "feature"],
     description: "A simple way to define and extend namespaces",
     url: "https://github.com/searls/extend.js",
@@ -1030,6 +1036,7 @@ var MicroJS = [
     url: "https://github.com/mrdoob/system.js",
     source: "https://raw.github.com/mrdoob/system.js/master/src/System.js"
   },
+  /* Too big: 8.1 kb
   {
     name: "Benchmark.js",
     size: "4.9k",
@@ -1038,6 +1045,7 @@ var MicroJS = [
     url: "http://benchmarkjs.com/",
     source: "https://raw.github.com/bestiejs/benchmark.js/master/benchmark.js"
   },
+  */
   {
     name: "Platform.js",
     size: "2.7k",
@@ -1092,16 +1100,17 @@ var MicroJS = [
     tags: ["animation", "jsanimation"],
     description: "A teeny tiny tweening engine in JavaScript.",
     url: "https://github.com/jeremyckahn/shifty",
-    source: "https://raw.github.com/jeremyckahn/shifty/master/shifty.js"
+    source: "https://raw.github.com/jeremyckahn/shifty/master/dist/shifty.js"
   },
   {
     name: "whenever.js",
-    size: "3.6k",
+    size: "0.7k",
     tags: ["events"],
     description: "Specify your app's behavior using a syntax that reads like English",
     url: "https://github.com/paulca/whenever.js",
     source: "https://raw.github.com/paulca/whenever.js/master/whenever.js"
   },
+  /* Links to a zip file, needs to link to a JS file, couldn't find a reference to a pure js file on the site.
   {
     name: "Sylvester",
     size: "5.0k",
@@ -1110,6 +1119,7 @@ var MicroJS = [
     url: "http://sylvester.jcoglan.com/",
     source: "http://sylvester.jcoglan.com/assets/sylvester-0-1-3.zip"
   },
+  */
   {
     name: "Include.js",
     size: "0.6k",
@@ -1160,7 +1170,7 @@ var MicroJS = [
   },
   {
     name: "Species",
-    size: "1.55k",
+    size: "0.6k",
     tags: ["language", "class"],
     description: "Java style OOP, and AOP ability, watchable members, inheritance and ability to call super members.",
     url: "https://github.com/k33g/species",
@@ -1200,7 +1210,7 @@ var MicroJS = [
   },
   {
     name: "audio-fx",
-    size: "1.2k",
+    size: "0.6k",
     tags: ["audio", "games"],
     description: "A HTML5 Audio Library",
     url: "https://github.com/jakesgordon/javascript-audio-fx",
@@ -1240,7 +1250,7 @@ var MicroJS = [
   },
   {
     name: "EditrJS",
-    size: "1.7k",
+    size: "0.5k",
     tags: ["manipulation","image", "editing"],
     description: "A very simple image editing library with a chainable api.",
     url: "https://github.com/narfdre/Editr",
@@ -1248,7 +1258,7 @@ var MicroJS = [
   },
   {
     name: "hsi.js",
-    size: "1.1k",
+    size: "0.6k",
     tags: ["color"],
     description: "A small RGB <-> HSI converter.",
     url: "https://github.com/e-/hsi.js",
@@ -1264,7 +1274,7 @@ var MicroJS = [
   },
   {
     name: "Fayer",
-    size: "0.9k",
+    size: "0.5k",
     tags: ["functional"],
     description: "Easily kick-off page specific Javascript.",
     url: "https://github.com/sandeepjain/fayer",
@@ -1320,7 +1330,7 @@ var MicroJS = [
   },
   {
     name: "140medley",
-    size: "0.8k",
+    size: "0.5k",
     tags: ["dom", "selector", "events", "templating", "ajax", "storage"],
     description: "A micro-framework or a collection of small, helpful utilities for common javascript tasks.",
     url: "https://github.com/honza/140medley",
