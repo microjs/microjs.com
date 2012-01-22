@@ -9,6 +9,14 @@
 
 var MicroJS = [
   {
+    name: "Minion",
+    size: "3.7k",
+    tags: ["class", "inheritance", "namespace", "dependency management", "publish", "subscribe", "notifications"],
+    description: "Cross-Platform & Cross-Browser Classical Inheritance in JavaScript",
+    url: "https://github.com/gigafied/minion",
+    source: "https://raw.github.com/gigafied/minion/master/dist/minion-latest.js"
+  },
+  {
     name: "TinyDOM",
     size: "1.4k",
     tags: ["dom"],
