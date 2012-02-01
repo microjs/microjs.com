@@ -1325,5 +1325,13 @@ var MicroJS = [
     description: "Keyboard events simulator. (Compatible with AMD)",
     url: "https://github.com/gtramontina/keyvent.js",
     source: "https://raw.github.com/gtramontina/keyvent.js/master/keyvent.js"
+  },
+  {
+    name: "draggable.js",
+    size: "0.4k",
+    tags: ["dom", "css", "css3", "amd"],
+    description: "Make your dom elements draggable easily. (Compatible with AMD)",
+    url: "https://github.com/gtramontina/draggable.js",
+    source: "https://raw.github.com/gtramontina/draggable.js/master/draggable.js"
   }
 ];
