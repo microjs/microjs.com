@@ -98,7 +98,7 @@ var MicroJS = [
   },
   {
     name: "Backbone",
-    size: "3.9k",
+    size: "5.3k",
     tags: ["mvc", "data", "functional"],
     description: "Lightweight MVC—models with custom events, collections with rich enumerables, views and RESTful JSON.",
     url: "http://documentcloud.github.com/backbone",
