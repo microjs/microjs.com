@@ -1369,5 +1369,13 @@ var MicroJS = [
     description: "scaleApp is a tiny JavaScript framework for scalable one-page-applications",
     url: "http://scaleapp.org/",
     source: "http://scaleapp.org/build/scaleApp.js"
+  },
+  {
+    name: "Humane JS",
+    size: "1.3k",
+    tags: ["notification", "alert"],
+    description: "A simple, modern, browser notification system",
+    url: "http://wavded.github.com/humane-js/",
+    source: "https://raw.github.com/wavded/humane-js/master/humane.js"
   }
 ];
