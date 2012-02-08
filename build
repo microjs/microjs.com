@@ -4,7 +4,11 @@
 
 var inFile = 'data.js'
   , outFile = 'data-min.js'
+  , main = require('./lib/main')
+  , stats = require('./lib/stats')
 
-require('./lib/main')
-  .create(inFile, outFile, process.argv.indexOf('-v') !== -1)
-  .start()
+!(process.argv.indexOf('-s') != -1
+  ? stats.create(inFile)
+  : main.create(inFile, outFile, process.argv.indexOf('-v') != -1)
+).start()
+
