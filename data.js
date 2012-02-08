@@ -1317,5 +1317,13 @@ var MicroJS = [
     description: "A micro-framework or a collection of small, helpful utilities for common javascript tasks.",
     url: "https://github.com/honza/140medley",
     source: "https://raw.github.com/honza/140medley/master/140medley.js"
+  },
+  {
+	  name: "ancestry.js",
+	  size: "0.4k",
+	  tags: ["class", "extend", "commonjs", "amd"],
+	  description: "Simple, yet powerful inheritance library to make polymorphism super-constructors work propertly.",
+	  url: "https://github.com/jasonwyatt/ancestry.js",
+	  source: "https://raw.github.com/jasonwyatt/ancestry.js/master/ancestry.js"
   }
 ];
