@@ -2,13 +2,17 @@
 
 // see lib/main.js for info
 
-var inFile = 'data.js'
-  , outFile = 'data-min.js'
+var config = {
+        inFile: 'data.js'
+      , outFile: 'data-min.js'
+      , sizeExceptions: [
+            'Backbone'
+          , 'Zepto'
+        ]
+      , verbose: process.argv.indexOf('-s') != -1
+    }
   , main = require('./lib/main')
   , stats = require('./lib/stats')
 
-!(process.argv.indexOf('-s') != -1
-  ? stats.create(inFile)
-  : main.create(inFile, outFile, process.argv.indexOf('-v') != -1)
-).start()
+!(process.argv.indexOf('-s') != -1 ? stats : main).create(config).start()
 
