@@ -1317,5 +1317,21 @@ var MicroJS = [
     description: "A micro-framework or a collection of small, helpful utilities for common javascript tasks.",
     url: "https://github.com/honza/140medley",
     source: "https://raw.github.com/honza/140medley/master/140medley.js"
+  },
+  {
+    name: "keyvent.js",
+    size: "0.6k",
+    tags: ["dom", "events", "amd"],
+    description: "Keyboard events simulator. (Compatible with AMD)",
+    url: "https://github.com/gtramontina/keyvent.js",
+    source: "https://raw.github.com/gtramontina/keyvent.js/master/keyvent.js"
+  },
+  {
+    name: "draggable.js",
+    size: "0.4k",
+    tags: ["dom", "css", "css3", "amd"],
+    description: "Make your dom elements draggable easily. (Compatible with AMD)",
+    url: "https://github.com/gtramontina/draggable.js",
+    source: "https://raw.github.com/gtramontina/draggable.js/master/draggable.js"
   }
 ];
