@@ -1361,5 +1361,13 @@ var MicroJS = [
     description: "Simple, lightweight routing for web browsers",
     url: "http://mtrpcic.github.com/pathjs/",
     source: "https://raw.github.com/mtrpcic/pathjs/master/path.js"
+  },
+  {
+    name: "scaleApp.js",
+    size: "2.1k",
+    tags: ["spa", "base", "events"],
+    description: "scaleApp is a tiny JavaScript framework for scalable one-page-applications",
+    url: "http://scaleapp.org/",
+    source: "http://scaleapp.org/build/scaleApp.js"
   }
 ];
