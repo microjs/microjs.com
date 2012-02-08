@@ -1353,5 +1353,13 @@ var MicroJS = [
     description: "A object extend utility",
     url: "https://github.com/jgallen23/aug",
     source: "https://raw.github.com/jgallen23/aug/master/dist/aug.js"
+  },
+  {
+    name: "path.js",
+    size: "1k",
+    tags: ["route"],
+    description: "Simple, lightweight routing for web browsers",
+    url: "http://mtrpcic.github.com/pathjs/",
+    source: "https://raw.github.com/mtrpcic/pathjs/master/path.js"
   }
 ];
