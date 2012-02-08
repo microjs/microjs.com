@@ -11,8 +11,8 @@ var MicroJS = [
   {
     name: "Minion",
     size: "3.7k",
-    tags: ["class", "inheritance", "namespace", "dependency management", "publish", "subscribe", "notifications"],
-    description: "Cross-Platform & Cross-Browser Classical Inheritance in JavaScript",
+    tags: ["class", "inheritance", "namespace", "dependencies", "pubsub", "notifications"],
+    description: "Cross-platform & cross-browser classical inheritance in JavaScript",
     url: "https://github.com/gigafied/minion",
     source: "https://raw.github.com/gigafied/minion/master/dist/minion-latest.js"
   },
@@ -28,7 +28,7 @@ var MicroJS = [
     name: "cssFx",
     size: "2.4k",
     tags: ["css", "css3", "polyfill"],
-    description: "cssFx is a standalone polyfill that inserts the vendor-specific CSS3 properties necessary for old and new browsers.",
+    description: "Standalone polyfill that inserts the vendor-specific CSS3 properties necessary for old and new browsers.",
     url: "http://imsky.github.com/cssFx/",
     source: "https://raw.github.com/imsky/cssFx/master/cssfx.js"
   },
@@ -136,12 +136,14 @@ var MicroJS = [
     tags: ["color"],
     description: "Two way color conversion for Hexadecimal and RGB integer colors",
     url: "https://github.com/daniellmb/HEX-RGB-Conversion",
-    source: "https://raw.github.com/daniellmb/HEX-RGB-Conversion/master/hex-rgb.src.js"
+    source: "https://raw.github.com/daniellmb/HEX-RGB-Conversion/master/hex-rgb.src.js",
+    tinyminify: true // this source has a ton of comments so the minified version is tiny compared to raw, so
+                     // we overrule the sanity-check that compares the sizes and would otherwise reject this
   },
   {
     name: "MinPubSub",
     size: "0.2k",
-    tags: ["events"],
+    tags: ["events", "pubsub"],
     description: "A publish/subscribe messaging framework",
     url: "https://github.com/daniellmb/MinPubSub",
     source: "https://raw.github.com/daniellmb/MinPubSub/master/minpubsub.src.js"
@@ -1242,7 +1244,7 @@ var MicroJS = [
   },
   {
     name: "Cookie Monster",
-    size: "0.7k",
+    size: "0.5k",
     tags: ["cookies", "data", "store"],
     description: "A lightweight cookie library",
     url: "https://github.com/jgallen23/cookie-monster",
@@ -1338,7 +1340,7 @@ var MicroJS = [
   },
   {
     name: "SpeculOOs",
-    size: "0.5k",
+    size: "0.3k",
     tags: ["language", "class"],
     description: "Simple JavaScript Class notation, fully CoffeeScript compliant",
     url: "https://github.com/k33g/speculoos",
