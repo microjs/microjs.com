@@ -1345,5 +1345,13 @@ var MicroJS = [
     description: "Simple JavaScript Class notation, fully CoffeeScript compliant",
     url: "https://github.com/k33g/speculoos",
     source: "https://raw.github.com/k33g/speculoos/master/speculoos.js"
+  },
+  {
+    name: "aug",
+    size: "0.2k",
+    tags: ["extend", "augment"],
+    description: "A object extend utility",
+    url: "https://github.com/jgallen23/aug",
+    source: "https://raw.github.com/jgallen23/aug/master/dist/aug.js"
   }
 ];
