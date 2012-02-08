@@ -1317,5 +1317,13 @@ var MicroJS = [
     description: "A micro-framework or a collection of small, helpful utilities for common javascript tasks.",
     url: "https://github.com/honza/140medley",
     source: "https://raw.github.com/honza/140medley/master/140medley.js"
+  },
+  {
+    name: "String::format",
+    size: "0.5k",
+    tags: ["string", "language", "sugar"],
+    description: "Adds a `format` method to `String.prototype`. Inspired by Python's `str.format()`.",
+    url: "https://bitbucket.org/davidchambers/string-format",
+    source: "https://bitbucket.org/davidchambers/string-format/raw/default/string-format.js"
   }
 ];
