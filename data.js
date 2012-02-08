@@ -327,7 +327,7 @@ var MicroJS = [
     name: "OORJa",
     size: "1.5k",
     tags: ["language", "class"],
-    description: "OORJa = Object Oriented Javascript",
+    description: "OORJa = Object Oriented JavaScript",
     url: "http://maxpert.github.com/oorja/",
     source: "https://raw.github.com/maxpert/oorja/master/Class.js"
   },
@@ -723,7 +723,7 @@ var MicroJS = [
     name: "jaylist",
     size: "0.8k",
     tags: ["functional", "extend", "data"],
-    description: "A simple wrapper for Javascript's built-in hash storage.",
+    description: "A simple wrapper for JavaScript's built-in hash storage.",
     url: "http://benbscholz.github.com/jaylist",
     source: "https://raw.github.com/benbscholz/jaylist/master/src/jaylist.js"
   },
@@ -1138,7 +1138,7 @@ var MicroJS = [
     name: "Morf",
     size: "4.7k",
     tags: ["animation", "jsanimation"],
-    description: "A Javascript work-around for hardware accelerated CSS3 transitions with custom easing functions.",
+    description: "A JavaScript work-around for hardware accelerated CSS3 transitions with custom easing functions.",
     url: "https://github.com/joelambert/morf",
     source: "http://www.joelambert.co.uk/morf/js/morf.js"
   },
@@ -1258,7 +1258,7 @@ var MicroJS = [
     name: "Fayer",
     size: "0.9k",
     tags: ["functional"],
-    description: "Easily kick-off page specific Javascript.",
+    description: "Easily kick-off page specific JavaScript.",
     url: "https://github.com/sandeepjain/fayer",
     source: "https://raw.github.com/sandeepjain/fayer/master/src/fayer.js"
   },
@@ -1317,5 +1317,13 @@ var MicroJS = [
     description: "A micro-framework or a collection of small, helpful utilities for common javascript tasks.",
     url: "https://github.com/honza/140medley",
     source: "https://raw.github.com/honza/140medley/master/140medley.js"
+  },
+  {
+    name: "SpeculOOs",
+    size: "0.5k",
+    tags: ["language", "class"],
+    description: "Simple JavaScript Class notation, fully CoffeeScript compliant",
+    url: "https://github.com/k33g/speculoos",
+    source: "https://raw.github.com/k33g/speculoos/master/speculoos.js"
   }
 ];
