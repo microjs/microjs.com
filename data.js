@@ -9,6 +9,14 @@
 
 var MicroJS = [
   {
+    name: "one-color",
+    size: "2.0k",
+    tags: ["color"],
+    description: "Browser/node color library. Implicit color space conversions, chainable channel methods and CSS convenience methods. RGB, HSV, HSL, CMYK with alpha channel",
+    url: "https://github.com/One-com/one-color",
+    source: "https://raw.github.com/One-com/one-color/master/one-color-debug.js"
+  },
+  {
     name: "TinyDOM",
     size: "1.4k",
     tags: ["dom"],
