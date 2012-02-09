@@ -577,14 +577,14 @@ I need … <select id="ineed_select">
 
   function $(id){return document.getElementById(id)}
   function t(s,d){for(var p in d)s=s.replace(new RegExp('{'+p+'}','g'),d[p]);return s}
-  function contains(a,e){for (var i=0,l=a.length;i<l;i++){if (a[i]===e)return i}return -1}
+  var contains = [].indexOf ? function(a,e){return a.indexOf(e)!=-1}:function(a,e){for (var i=0,l=a.length;i<l;i++){if (a[i]===e)return 1}return 0}
 
   MicroJS.sort(function(){return .5-Math.random()});
 
   function find(tag){
     if(!tag) return MicroJS;
     var results=[], i=MicroJS.length;
-    while(i--) if(contains(MicroJS[i].tags,tag)>-1) results.push(MicroJS[i]);
+    while(i--) if(contains(MicroJS[i].tags,tag)) results.push(MicroJS[i]);
     return results;
   }
 
