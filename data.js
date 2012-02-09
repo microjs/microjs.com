@@ -1377,5 +1377,13 @@ var MicroJS = [
     description: "A simple, modern, browser notification system",
     url: "http://wavded.github.com/humane-js/",
     source: "https://raw.github.com/wavded/humane-js/master/humane.js"
+  },
+  {
+    name: "JSFace",
+    size: "1k",
+    tags: ["oop", "language", "commonjs", "node", "class"],
+    description: "An object-oriented programming library",
+    url: "https://github.com/tannhu/jsface",
+    source: "https://raw.github.com/tannhu/jsface/master/jsface.js"
   }
 ];
