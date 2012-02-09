@@ -131,14 +131,6 @@ var MicroJS = [
     source: "https://raw.github.com/devongovett/slang/master/slang.js"
   },
   {
-    name: "Backbone",
-    size: "5.3k",
-    tags: ["mvc", "data", "functional"],
-    description: "Lightweight MVC—models with custom events, collections with rich enumerables, views and RESTful JSON.",
-    url: "http://documentcloud.github.com/backbone",
-    source: "http://documentcloud.github.com/backbone/backbone.js"
-  },
-  {
     name: "$dom",
     size: "2.6k",
     tags: ["dom", "events", "animation"],
