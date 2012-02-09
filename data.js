@@ -33,6 +33,14 @@ var MicroJS = [
     source: "https://raw.github.com/One-com/one-color/master/one-color-debug.js"
   },
   {
+    name: "Simplify.js",
+    size: "0.6k",
+    tags: ["math", "geometry", "simplification", "polyline"],
+    description: "A tiny high-performance JavaScript 2D/3D polyline simplification library.",
+    url: "http://mourner.github.com/simplify-js/",
+    source: "https://raw.github.com/mourner/simplify-js/master/simplify.js"
+  },
+  {
     name: "TinyDOM",
     size: "0.4k",
     tags: ["dom"],
