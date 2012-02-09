@@ -602,7 +602,7 @@ I need … <select id="ineed_select">
     var value = $('ineed_select').options[$('ineed_select').selectedIndex].value;
     if(value=="micro") return(alert($('micro').innerHTML));
     render(find(value));
-    if(value) location.href=location.href.replace(/(#.*$)|($)/,'#'+value);
+    location.href=location.href.replace(/(#.*$)|($)/,value?'#'+value:'');
   }
 
   render(hash.length ? (select(hash[1]), find(hash[1])) : MicroJS);
