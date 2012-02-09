@@ -577,13 +577,14 @@ I need … <select id="ineed_select">
 
   function $(id){return document.getElementById(id)}
   function t(s,d){for(var p in d)s=s.replace(new RegExp('{'+p+'}','g'),d[p]);return s}
+  function contains(a,e){for (var i=0,l=a.length;i<l;i++){if (a[i]===e)return i}return -1}
 
   MicroJS.sort(function(){return .5-Math.random()});
 
   function find(tag){
     if(!tag) return MicroJS;
     var results=[], i=MicroJS.length;
-    while(i--) if(MicroJS[i].tags.indexOf(tag)>-1) results.push(MicroJS[i]);
+    while(i--) if(contains(MicroJS[i].tags,tag)>-1) results.push(MicroJS[i]);
     return results;
   }
 
@@ -602,7 +603,7 @@ I need … <select id="ineed_select">
     var value = $('ineed_select').options[$('ineed_select').selectedIndex].value;
     if(value=="micro") return(alert($('micro').innerHTML));
     render(find(value));
-    location.href=location.href.replace(/(#.*$)|($)/,value?'#'+value:'');
+    location.href=location.href.replace(/(#.*$)|($)/,'#'+value);
   }
 
   render(hash.length ? (select(hash[1]), find(hash[1])) : MicroJS);
