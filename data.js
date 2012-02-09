@@ -141,7 +141,7 @@ var MicroJS = [
   {
     name: "$dom",
     size: "2.6k",
-    tags: ["dom", "ajax", "events", "animation"],
+    tags: ["dom", "events", "animation"],
     description: "Selecting, styling, traversing and animating DOM elements.",
     url: "https://github.com/julienw/dollardom",
     source: "https://raw.github.com/julienw/dollardom/master/src/dollardom.js"
