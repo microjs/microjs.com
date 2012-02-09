@@ -25,6 +25,14 @@ var MicroJS = [
     source: "https://raw.github.com/bemson/Panzer/master/src/panzer.js"
   },
   {
+    name: "one-color",
+    size: "2.0k",
+    tags: ["color"],
+    description: "Browser/node color library. Implicit color space conversions, chainable channel methods and CSS convenience methods. RGB, HSV, HSL, CMYK with alpha channel",
+    url: "https://github.com/One-com/one-color",
+    source: "https://raw.github.com/One-com/one-color/master/one-color-debug.js"
+  },
+  {
     name: "TinyDOM",
     size: "0.4k",
     tags: ["dom"],
