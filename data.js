@@ -1385,5 +1385,13 @@ var MicroJS = [
     description: "An object-oriented programming library",
     url: "https://github.com/tannhu/jsface",
     source: "https://raw.github.com/tannhu/jsface/master/jsface.js"
+  },
+  {
+    name: "Radio.js",
+    size: "0.4k",
+    tags: ["events", "pubsub"],
+    description: "Chainable publish/subscribe framework",
+    url: "http://radio.uxder.com",
+    source: "https://raw.github.com/uxder/Radio/master/radio.js"
   }
 ];
