@@ -1409,5 +1409,21 @@ var MicroJS = [
     description: "Chainable publish/subscribe framework",
     url: "http://radio.uxder.com",
     source: "https://raw.github.com/uxder/Radio/master/radio.js"
+  },
+  {
+    name: "keyvent.js",
+    size: "0.6k",
+    tags: ["dom", "events", "amd"],
+    description: "Keyboard events simulator.",
+    url: "https://github.com/gtramontina/keyvent.js",
+    source: "https://raw.github.com/gtramontina/keyvent.js/master/keyvent.js"
+  },
+  {
+    name: "draggable.js",
+    size: "0.4k",
+    tags: ["dom", "css", "css3", "amd"],
+    description: "Make your dom elements draggable easily.",
+    url: "http://gtramontina.github.com/draggable.js/",
+    source: "https://raw.github.com/gtramontina/draggable.js/master/draggable.js"
   }
 ];
