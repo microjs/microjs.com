@@ -17,6 +17,14 @@ var MicroJS = [
     source: "https://raw.github.com/gigafied/minion/master/dist/minion-latest.js"
   },
   {
+    name: "Panzer",
+    size: "2.5k",
+    tags: ["data"],
+    description: "A comprehensive node-tree solution, for smart data",
+    url: "https://github.com/bemson/Panzer",
+    source: "https://raw.github.com/bemson/Panzer/master/src/panzer.js"
+  },
+  {
     name: "TinyDOM",
     size: "0.4k",
     tags: ["dom"],
