@@ -7,5 +7,6 @@
       , "uglify-js": "*"
       , "gzip": "*"
       , "zip": "*"
+      , "request": "*"
     }
 }

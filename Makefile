@@ -2,7 +2,7 @@ compile: deps
 	@./build
 
 deps:
-	@npm install --dev
+	@npm install
 
 deploy: compile
 	scp index.html microjs:/home/madrobby/htdocs/microjs.com/index.html
