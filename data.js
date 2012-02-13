@@ -1441,5 +1441,13 @@ var MicroJS = [
     description: "A lite but powerfull javascript template engine",
     url: "https://github.com/CapMousse/T-Lite",
     source: "https://raw.github.com/CapMousse/T-Lite/master/tlite.js"
+  },
+  {
+    name: "String::format",
+    size: "0.5k",
+    tags: ["string", "language", "sugar"],
+    description: "Adds a `format` method to `String.prototype`. Inspired by Python's `str.format()`.",
+    url: "https://bitbucket.org/davidchambers/string-format",
+    source: "https://bitbucket.org/davidchambers/string-format/raw/default/string-format.js"
   }
 ];
