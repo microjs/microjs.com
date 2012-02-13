@@ -1465,5 +1465,13 @@ var MicroJS = [
     url: "https://github.com/dperrymorrow/router.js",
     description: "controller/action convention for javascript. home/index would automatically instantiate Home js class and fire index action.",
     source: "https://raw.github.com/dperrymorrow/router.js/master/router-min.js"
+  },
+  {
+    name: "Blueshell",
+    size: "0.5k",
+    tags: ["inheritance", "prototype", "class"],
+    description: "A microlibrary for inheritance with prototypal inheritance tools allowing class-like construction.",
+    url: "https://github.com/jgnewman/blueshell",
+    source: "https://raw.github.com/jgnewman/blueshell/master/js/blueshell.js"
   }
 ];
