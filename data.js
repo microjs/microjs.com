@@ -1473,5 +1473,13 @@ var MicroJS = [
     description: "A microlibrary for inheritance with prototypal inheritance tools allowing class-like construction.",
     url: "https://github.com/jgnewman/blueshell",
     source: "https://raw.github.com/jgnewman/blueshell/master/js/blueshell.js"
+  },
+  {
+    name: "ancestry.js",
+    size: "0.4k",
+    tags: ["class", "extend", "commonjs", "amd"],
+    description: "Simple, yet powerful inheritance library to make polymorphism and super-constructors work propertly.",
+    url: "https://github.com/jasonwyatt/ancestry.js",
+    source: "https://raw.github.com/jasonwyatt/ancestry.js/master/ancestry.js"
   }
 ];
