@@ -1433,5 +1433,13 @@ var MicroJS = [
     description: "Make your dom elements draggable easily.",
     url: "http://gtramontina.github.com/draggable.js/",
     source: "https://raw.github.com/gtramontina/draggable.js/master/draggable.js"
+  },
+  {
+    name: "T-Lite",
+    size: "0.5k",
+    tags: ["templating"],
+    description: "A lite but powerfull javascript template engine",
+    url: "https://github.com/CapMousse/T-Lite",
+    source: "https://raw.github.com/CapMousse/T-Lite/master/tlite.js"
   }
 ];
