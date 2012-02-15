@@ -8,5 +8,6 @@
       , "gzip": "*"
       , "zip": "*"
       , "request": "*"
+      , "date-utils": "*"
     }
 }

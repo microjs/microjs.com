@@ -5,6 +5,7 @@
 var config = {
         inFile: 'data.js'
       , outFile: 'data-min.js'
+      , githubLastPushCutoffMonths: 6
       , sizeExceptions: [
             'Backbone'
           , 'Zepto'
