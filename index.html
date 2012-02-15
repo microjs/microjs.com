@@ -369,14 +369,48 @@
       linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
       linear-gradient(#0074ae, #073c66);
   }
-  li h3 {
+  li .title {
     float: left;
     margin: 0 30px 0 0;
     border-right: 1px solid rgba(255,255,255,1.0);
     padding: 0 20px 0 0;
     height: 60px;
-    line-height: 66px;
+  }
+  li h3 {
+    display: inline;
+    line-height: 56px;
     font-size: 40px;
+  }
+  .title .gh {
+    padding: 0 auto;
+    margin-top: -6px;
+  }
+  .title .gh div, .title .gh span {
+  background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAABECAYAAACI7LWAAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAlVJREFUeNrsls9LVFEUx9/zd+b4q5hFpmMYiCCI+0ChVbsWIQNC0m5WQaJEgrtauhVajTtdOaL/gLgzBJ9Ku8QfUJAQM+WiiPT5Pfq9cbpz38ygCS7egY+8e98533vfOXfu0Q/D0LuKVTnm0iAAolwgIefSRd6yA5IAOVAAGZBS71KcK9AnYd5pAXmxCtJWsBYZok/OFpCgQypnwwsTx0Ah9pY+h4z5KxBwi54ScFmWPhnGeD6rIH+amZYfZRI/CHbp122qsAeOQU8FlWuh754WMLZbgcC+q4yhKk26ghwkOE6ZHWyBUZDluBu8U+ssgWHwguNRxhy4ymjqHKiVV60DV1RGfZDMgckpgUAdpn8Okk7ic5Dn1vqsxEmJM3yXp2/Rb0F/TuBIYGC2rfFL/JxToI3P+fOEOcy/jvsgFogFYoH/KDAAZsEmmeWcV6q5CvfBCi+QL2AKTIADcAoWQYeO0cHPwDcGfwR14CHoA7fAjhJ+agtMcwVjY6BXjfvBGzX+AyYltoZf0ii3k5Ubnz3zlK1MWzX4aedgBBxxhW1wm59wDzSCfb77Cp64ciD0gHk6fgYzxORmwU5i1KUqLXwEPAINYB28BzvxrRwLxAKxwFUFkuAXWL6swF1QC44uIyDBC3xeK9eZbFp5Q5+AVy6fUsHtKvhllF9UcNIKruNuKhJIOlbeAB/YbMoKjDP4tZqbYz/M2P52FTpBF58/gTvskaYKTSxnZBXM6sIxGAaPwXfO/eb/DCVb2wm7sliNY66e48iDlFSOnmr/Yg908M3ojWcCDABDekqFJMdtvgAAAABJRU5ErkJggg==");
+    background-repeat: no-repeat;
+    font-size: 11px;
+    font-weight: bold;
+    height: 19px;
+    display: inline-block;
+  }
+  .title .gh div {
+    padding-left: 13px;
+    opacity: 0.25;
+    background-position: 0 3px;
+  }
+  .title .gh span {
+    padding: 1px 8px 0 24px;
+    border: solid 1px rgba(255,255,255,0.5);
+  }
+  .title .gh .w {
+    background-position: 4px -24px;
+    margin-left: 10px;
+    border-right-width: 0;
+    border-radius: 3px 0 0 3px;
+  }
+  .title .gh .f {
+    background-position: 4px -50px;
+    border-radius: 0 3px 3px 0;
   }
   li div.size {
     float: right;
@@ -590,7 +624,13 @@ I need … <select id="ineed_select">
 
   function render(results){
     var html=[], i=results.length;
-    while(i--) html.push(t('<li><a href="{url}"><div class="size">{size}</div><h3>{name}</h3>{description}</a></li>',results[i]))
+    while(i--) {
+      results[i].gh = results[i].ghwatchers ? t('<div class="gh"><div><span class="w">{ghwatchers}</span><span class="f">{ghforks}</span></div></div>', results[i]) : ''
+      html.push(t(
+        '<li><a href="{url}"><div class="size">{size}</div><div class="title"><h3>{name}</h3>{gh}</div>{description}</a></li>'
+        , results[i]
+      ))
+    }
     $('results').innerHTML = html.join('');
   }
 

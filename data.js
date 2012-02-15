@@ -132,11 +132,12 @@ var MicroJS = [
   },
   {
     name: "Backbone",
+    github: "documentcloud/backbone",
     size: "5.3k",
     tags: ["mvc", "data", "functional"],
     description: "Lightweight MVC—models with custom events, collections with rich enumerables, views and RESTful JSON.",
-    url: "http://documentcloud.github.com/backbone",
-    source: "http://documentcloud.github.com/backbone/backbone.js"
+    url: "http://backbonejs.org/",
+    source: "http://backbonejs.org/backbone.js"
   },
   {
     name: "$dom",
@@ -199,11 +200,12 @@ var MicroJS = [
   },
   {
     name: "Underscore",
+    github: "documentcloud/underscore",
     size: "3.0k",
     tags: ["functional", "language", "data"],
     description: "A utility-belt that provides functional programming support that you would expect in Ruby.",
-    url: "http://documentcloud.github.com/underscore",
-    source: "http://documentcloud.github.com/underscore/underscore.js"
+    url: "http://underscorejs.org/",
+    source: "http://underscorejs.org/underscore.js"
   },
   {
     name: "Weld",
@@ -1204,6 +1206,7 @@ var MicroJS = [
   },
   {
     name: "Maddy",
+    github: "kitcambridge/maddy",
     size: "2.3k",
     tags: ["functional", "language", "data"],
     description: "A functional object operations library.",
