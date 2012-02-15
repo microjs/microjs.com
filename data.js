@@ -179,7 +179,7 @@ var MicroJS = [
     tags: ["feature"],
     description: "Detects native CSS3 and HTML5 features available in the current browser.",
     url: "http://www.modernizr.com/",
-    source: "http://www.modernizr.com/downloads/modernizr-latest.js"
+    source: "https://raw.github.com/Modernizr/Modernizr/master/modernizr.js"
   },
   {
     name: "Zepto",
@@ -191,6 +191,7 @@ var MicroJS = [
   },
   {
     name: "xui",
+    github: "xui/xui",
     size: "4.1k",
     tags: ["base", "dom", "mobile", "ajax", "events", "webkit", "animation"],
     description: "DOM library for authoring HTML5 mobile web applications, works cross-device and cross-platform.",
@@ -277,6 +278,7 @@ var MicroJS = [
   },
   {
     name: "Lawnchair",
+    github: "brianleroux/lawnchair",
     size: "2.0k",
     tags: ["data","storage","webkit","mobile"],
     description: "Client side JSON document store. Perfect for WebKit mobile apps.",
@@ -327,6 +329,7 @@ var MicroJS = [
   },
   {
     name: "Firmin",
+    github: "beastaugh/firmin",
     size: "2.5k",
     tags: ["animation","webkit"],
     description: "Animation library that uses CSS transforms and transitions to create smooth, hardware-accelerated animations.",
@@ -407,7 +410,7 @@ var MicroJS = [
   },
   {
     name: "Ender",
-    size: "?k",
+    size: "0.5k",
     tags: ["compose", "base", "mobile"],
     description: "An open, powerful, micro-to-macro API for composing your own custom JavaScript library.",
     url: "http://ender.no.de",
@@ -415,6 +418,7 @@ var MicroJS = [
   },
   {
     name: "Mold",
+    github: "marijnh/mold",
     size: "1.9k",
     tags: ["templating"],
     description: "Mold is a templating library.",
@@ -993,6 +997,7 @@ var MicroJS = [
   },
   {
     name: "JSONSelect",
+    github: "lloyd/JSONSelect",
     size: "1.7k",
     tags: ["data", "json"],
     description: "CSS-like selectors for JSON.",
@@ -1391,6 +1396,7 @@ var MicroJS = [
   },
   {
     name: "scaleApp.js",
+    github: "flosse/scaleApp",
     size: "2.1k",
     tags: ["spa", "base", "events"],
     description: "scaleApp is a tiny JavaScript framework for scalable one-page-applications",
