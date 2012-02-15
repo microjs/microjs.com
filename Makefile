@@ -1,3 +1,7 @@
+remotehost = microjs
+remotepath = /home/madrobby/htdocs/microjs.com/
+scpfiles = index.html data-min.js data.js
+
 compile: deps
 	@./build
 
@@ -5,6 +9,9 @@ deps:
 	@npm install
 
 deploy: compile
-	scp index.html microjs:/home/madrobby/htdocs/microjs.com/index.html
-	scp data-min.js microjs:/home/madrobby/htdocs/microjs.com/data-min.js
-	scp data.js microjs:/home/madrobby/htdocs/microjs.com/data.js
+	scp $(scpfiles) $(remotehost):$(remotepath)
+
+# fully quiet except on a nasty error
+autodeploy:
+	@./build -q
+	@scp -q $(scpfiles) $(remotehost):$(remotepath)

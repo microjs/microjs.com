@@ -10,7 +10,9 @@ var config = {
             'Backbone'
           , 'Zepto'
         ]
+      , errorCountThreshold: 10
       , verbose: process.argv.indexOf('-v') != -1
+      , quiet: process.argv.indexOf('-q') != -1
     }
   , main = require('./lib/main')
   , stats = require('./lib/stats')
