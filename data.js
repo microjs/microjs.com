@@ -1294,7 +1294,7 @@ var MicroJS = [
     name: "hsi.js",
     size: "0.6k",
     tags: ["color"],
-    description: "A small RGB <-> HSI converter.",
+    description: "A small RGB &lt;-&gt; HSI converter.",
     url: "https://github.com/e-/hsi.js",
     source: "https://raw.github.com/e-/hsi.js/master/hsi.js"
   },

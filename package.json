@@ -10,5 +10,6 @@
       , "zip": "*"
       , "request": "*"
       , "date-utils": "*"
+      , "node-uuid": "*"
     }
 }
