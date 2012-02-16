@@ -1138,5 +1138,13 @@
 		<summary>JSON-P based cross-domain Ajax wrapped in the XHR API.</summary>
 	</entry>
 
+	<entry>
+		<title>ytIframe.js</title>
+		<link href="https://github.com/mdix/ytIframe" />
+		<id>urn:uuid:503f3620-58cf-11e1-8c86-a1b1fde9bf1e</id>
+		<updated>2012-02-16'T'18:51:43Z</id>
+		<summary>A flexible, plain javascript youtube video embedding script in less than 40 lines.</summary>
+	</entry>
+
 
 </feed>
