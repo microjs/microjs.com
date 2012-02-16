@@ -1490,5 +1490,13 @@ var MicroJS = [
     description: "Simple, yet powerful inheritance library to make polymorphism and super-constructors work propertly.",
     url: "https://github.com/jasonwyatt/ancestry.js",
     source: "https://raw.github.com/jasonwyatt/ancestry.js/master/ancestry.js"
+  },
+  {
+    name: "ytIframe.js",
+    size: "0.5k",
+    tags: ["youtube", "iframe", "video"],
+    description: "A flexible, plain javascript youtube video embedding script in less than 40 lines.",
+    url: "https://github.com/mdix/ytIframe",
+    source: "https://raw.github.com/mdix/ytIframe/master/iframe.js"
   }
 ];
