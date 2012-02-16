@@ -384,7 +384,8 @@
   }
   .title .gh {
     padding: 0 auto;
-    margin-top: -6px;
+    margin-top: -14px;
+    text-align: left;
   }
   .title .gh div, .title .gh span {
   background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAABECAYAAACI7LWAAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAlVJREFUeNrsls9LVFEUx9/zd+b4q5hFpmMYiCCI+0ChVbsWIQNC0m5WQaJEgrtauhVajTtdOaL/gLgzBJ9Ku8QfUJAQM+WiiPT5Pfq9cbpz38ygCS7egY+8e98533vfOXfu0Q/D0LuKVTnm0iAAolwgIefSRd6yA5IAOVAAGZBS71KcK9AnYd5pAXmxCtJWsBYZok/OFpCgQypnwwsTx0Ah9pY+h4z5KxBwi54ScFmWPhnGeD6rIH+amZYfZRI/CHbp122qsAeOQU8FlWuh754WMLZbgcC+q4yhKk26ghwkOE6ZHWyBUZDluBu8U+ssgWHwguNRxhy4ymjqHKiVV60DV1RGfZDMgckpgUAdpn8Okk7ic5Dn1vqsxEmJM3yXp2/Rb0F/TuBIYGC2rfFL/JxToI3P+fOEOcy/jvsgFogFYoH/KDAAZsEmmeWcV6q5CvfBCi+QL2AKTIADcAoWQYeO0cHPwDcGfwR14CHoA7fAjhJ+agtMcwVjY6BXjfvBGzX+AyYltoZf0ii3k5Ubnz3zlK1MWzX4aedgBBxxhW1wm59wDzSCfb77Cp64ciD0gHk6fgYzxORmwU5i1KUqLXwEPAINYB28BzvxrRwLxAKxwFUFkuAXWL6swF1QC44uIyDBC3xeK9eZbFp5Q5+AVy6fUsHtKvhllF9UcNIKruNuKhJIOlbeAB/YbMoKjDP4tZqbYz/M2P52FTpBF58/gTvskaYKTSxnZBXM6sIxGAaPwXfO/eb/DCVb2wm7sliNY66e48iDlFSOnmr/Yg908M3ojWcCDABDekqFJMdtvgAAAABJRU5ErkJggg==");
@@ -395,23 +396,24 @@
     display: inline-block;
   }
   .title .gh div {
-    padding-left: 13px;
-    opacity: 0.25;
-    background-position: 0 3px;
+    -x-padding-left: 13px;
+    opacity: 0.5;
+    background-position: 0 50px;
+    -x-background-position: 0 3px;
   }
   .title .gh span {
     padding: 1px 8px 0 24px;
-    border: solid 1px rgba(255,255,255,0.5);
+    -x-border: solid 1px rgba(255,255,255,0.5);
   }
   .title .gh .w {
     background-position: 4px -24px;
-    margin-left: 10px;
-    border-right-width: 0;
-    border-radius: 3px 0 0 3px;
+    -x-margin-left: 10px;
+    -x-border-right-width: 0;
+    -x-border-radius: 3px 0 0 3px;
   }
   .title .gh .f {
     background-position: 4px -50px;
-    border-radius: 0 3px 3px 0;
+    -x-border-radius: 0 3px 3px 0;
   }
   li div.size {
     float: right;
@@ -421,7 +423,7 @@
     height: 60px;
     font-size: 40px;
     font-weight: normal;
-    border-left: 1px solid rgba(255,255,255,1.0);
+    -x-border-left: 1px solid rgba(255,255,255,1.0);
     font-family: 'Maiden Orange', arial, serif;
     width: 100px;
     white-space: nowrap;

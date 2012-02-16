@@ -1106,5 +1106,37 @@
 		<summary>Headache-free DOM traversal using PrototypeJS inspired up(), down(), next() and previous(). Ideal for use with Ender.</summary>
 	</entry>
 
+	<entry>
+		<title>Tweet-Templ</title>
+		<link href="http://mir.aculo.us/2011/03/09/little-helpers-a-tweet-sized-javascript-templating-engine/" />
+		<id>urn:uuid:9c5e6d40-5844-11e1-a52a-4922c350cd0a</id>
+		<updated>2012-02-16'T'02:19:02Z</id>
+		<summary>function t(s,d){for(var p in d)s=s.replace(new RegExp('{'+p+'}','g'),d[p]);return s;}</summary>
+	</entry>
+
+	<entry>
+		<title>Microajax</title>
+		<link href="http://code.google.com/p/microajax/" />
+		<id>urn:uuid:a053c350-5844-11e1-a52a-4922c350cd0a</id>
+		<updated>2012-02-16'T'02:19:02Z</id>
+		<summary>Simple AJAX library.</summary>
+	</entry>
+
+	<entry>
+		<title>js.class</title>
+		<link href="http://code.google.com/p/jsclassextend/" />
+		<id>urn:uuid:a053c351-5844-11e1-a52a-4922c350cd0a</id>
+		<updated>2012-02-16'T'02:19:02Z</id>
+		<summary>Class-based OO for JavaScript.</summary>
+	</entry>
+
+	<entry>
+		<title>jXHR</title>
+		<link href="http://mulletxhr.com/" />
+		<id>urn:uuid:a18b8000-5844-11e1-a52a-4922c350cd0a</id>
+		<updated>2012-02-16'T'02:19:02Z</id>
+		<summary>JSON-P based cross-domain Ajax wrapped in the XHR API.</summary>
+	</entry>
+
 
 </feed>
