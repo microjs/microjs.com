@@ -1481,5 +1481,13 @@ var MicroJS = [
     description: "Simple, yet powerful inheritance library to make polymorphism and super-constructors work propertly.",
     url: "https://github.com/jasonwyatt/ancestry.js",
     source: "https://raw.github.com/jasonwyatt/ancestry.js/master/ancestry.js"
+  },
+  {
+    name: "List.js",
+    size: "3.2k",
+    tags: ["list", "extend", "templating", "utils", "sort", "search", "filter"],
+    description: "Add search, sort and flexibility to plain HTML lists (div, ul, table, everything!).",
+    url: "http://listjs.com",
+    source: "https://raw.github.com/javve/list/master/src/list.js"
   }
 ];
