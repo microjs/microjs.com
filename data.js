@@ -640,8 +640,8 @@ var MicroJS = [
     size: "1.9k",
     tags: ["ajax"],
     description: "Succinct native REST client, for client-side web apps and node.js. Turns URLs into magic JavaScript objects.",
-    url: "https://github.com/andyet/fermata",
-    source: "https://raw.github.com/andyet/fermata/master/fermata.js"
+    url: "https://github.com/natevw/fermata",
+    source: "https://raw.github.com/natevw/fermata/master/fermata.js"
   },
   {
     name: "Base64.js",
