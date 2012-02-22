@@ -1498,5 +1498,13 @@ var MicroJS = [
     description: "A flexible, plain javascript youtube video embedding script in less than 40 lines.",
     url: "https://github.com/mdix/ytIframe",
     source: "https://raw.github.com/mdix/ytIframe/master/iframe.js"
+  },
+  {
+    name: "List.js",
+    size: "3.2k",
+    tags: ["list", "extend", "templating", "utils", "sort", "search", "filter"],
+    description: "Add search, sort and flexibility to plain HTML lists (div, ul, table, everything!).",
+    url: "http://listjs.com",
+    source: "https://raw.github.com/javve/list/master/src/list.js"
   }
 ];

@@ -1146,5 +1146,13 @@
 		<summary>A flexible, plain javascript youtube video embedding script in less than 40 lines.</summary>
 	</entry>
 
+	<entry>
+		<title>List.js</title>
+		<link href="http://listjs.com" />
+		<id>urn:uuid:54d028d0-5d15-11e1-baa0-fb88d7761a19</id>
+		<updated>2012-02-22'T'05:23:06Z</id>
+		<summary>Add search, sort and flexibility to plain HTML lists (div, ul, table, everything!).</summary>
+	</entry>
+
 
 </feed>
