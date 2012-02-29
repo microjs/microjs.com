@@ -1506,5 +1506,13 @@ var MicroJS = [
     description: "Add search, sort and flexibility to plain HTML lists (div, ul, table, everything!).",
     url: "http://listjs.com",
     source: "https://raw.github.com/javve/list/master/src/list.js"
+  },
+  {
+    name: "Mediator.js",
+    size: "1k",
+    tags: ["utils", "pubsub", "notifications", "events", "async", "callbacks"],
+    description: "Flexible pubsub-ish framework for handling namespaced events.",
+    url: "http://www.thejacklawson.com/Mediator.js",
+    source: "https://raw.github.com/ajacksified/Mediator.js/master/mediator.js"
   }
 ];
