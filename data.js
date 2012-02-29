@@ -1506,5 +1506,13 @@ var MicroJS = [
     description: "Add search, sort and flexibility to plain HTML lists (div, ul, table, everything!).",
     url: "http://listjs.com",
     source: "https://raw.github.com/javve/list/master/src/list.js"
+  },
+  {
+    name: "Smoke Signals",
+    size: "0.2k",
+    tags: ["events" ],
+    description: "Really, really lightweight event emitting",
+    url: "https://github.com/bentomas/smokesignals",
+    source: "https://raw.github.com/bentomas/smokesignals/master/smokesignals.js"
   }
 ];
