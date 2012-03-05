@@ -9,6 +9,15 @@
 
 var MicroJS = [
   {
+	name: "soma.js",
+	github: "somajs/somajs",
+	size: "4.2k",
+	tags: ["framework", "mvc", "events"],
+	description: "Javascript mvc framework that is meant to help developers to write loosely-coupled applications to increase scalability and maintainability.",
+	url: "http://somajs.github.com/somajs/",
+	source: "http://somajs.github.com/somajs/examples/native/framework/src/soma.js"
+  },
+  {
     name: "Minion",
     size: "3.7k",
     tags: ["class", "inheritance", "namespace", "dependencies", "pubsub", "notifications"],

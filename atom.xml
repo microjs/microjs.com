@@ -1426,5 +1426,13 @@
 		<summary>Artemia is a clientside document store, inspired by Lawnchair.</summary>
 	</entry>
 
+	<entry>
+		<title>soma.js</title>
+		<link href="http://somajs.github.com/somajs/" />
+		<id>urn:uuid:11daea50-6711-11e1-85ca-438f8c211b62</id>
+		<updated>2012-03-05'T'22:17:51Z</id>
+		<summary>Javascript mvc framework that is meant to help developers to write loosely-coupled applications to increase scalability and maintainability.</summary>
+	</entry>
+
 
 </feed>
