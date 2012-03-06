@@ -1154,5 +1154,285 @@
 		<summary>Add search, sort and flexibility to plain HTML lists (div, ul, table, everything!).</summary>
 	</entry>
 
+	<entry>
+		<title>Placeholder.js</title>
+		<link href="https://github.com/NV/placeholder.js" />
+		<id>urn:uuid:c6ec2b00-6308-11e1-9237-1ba14cd38f96</id>
+		<updated>2012-02-29'T'19:08:26Z</id>
+		<summary>Adds support for the placeholder attribute in older browsers that don't support this HTML5 feature.</summary>
+	</entry>
+
+	<entry>
+		<title>dropinrequire.js</title>
+		<link href="http://jeromeetienne.github.com/dropinrequire.js/" />
+		<id>urn:uuid:c6f74e90-6308-11e1-9237-1ba14cd38f96</id>
+		<updated>2012-02-29'T'19:08:26Z</id>
+		<summary>dropin replacement for require() in browser.</summary>
+	</entry>
+
+	<entry>
+		<title>shorttag.js</title>
+		<link href="https://github.com/jeromeetienne/shorttag.js" />
+		<id>urn:uuid:c6f74e91-6308-11e1-9237-1ba14cd38f96</id>
+		<updated>2012-02-29'T'19:08:26Z</id>
+		<summary>templating engine for node and browser.</summary>
+	</entry>
+
+	<entry>
+		<title>Mold</title>
+		<link href="http://marijnhaverbeke.nl/mold/" />
+		<id>urn:uuid:c7225630-6308-11e1-9237-1ba14cd38f96</id>
+		<updated>2012-02-29'T'19:08:26Z</id>
+		<summary>Mold is a templating library.</summary>
+	</entry>
+
+	<entry>
+		<title>HEX/RGB</title>
+		<link href="https://github.com/daniellmb/HEX-RGB-Conversion" />
+		<id>urn:uuid:c7563770-6308-11e1-9237-1ba14cd38f96</id>
+		<updated>2012-02-29'T'19:08:26Z</id>
+		<summary>Two way color conversion for Hexadecimal and RGB integer colors</summary>
+	</entry>
+
+	<entry>
+		<title>GSet</title>
+		<link href="https://github.com/bemson/GSet/" />
+		<id>urn:uuid:c79bcbf0-6308-11e1-9237-1ba14cd38f96</id>
+		<updated>2012-02-29'T'19:08:26Z</id>
+		<summary>Share and control public proxies of private objects, with same-name getter/setters.</summary>
+	</entry>
+
+	<entry>
+		<title>my.class.js</title>
+		<link href="https://github.com/jiem/my-class" />
+		<id>urn:uuid:c7d8ade0-6308-11e1-9237-1ba14cd38f96</id>
+		<updated>2012-02-29'T'19:08:26Z</id>
+		<summary>Probably the fastest JS class system. No wrappers.</summary>
+	</entry>
+
+	<entry>
+		<title>my.common.js</title>
+		<link href="https://github.com/jiem/my-common" />
+		<id>urn:uuid:c7d8d4f0-6308-11e1-9237-1ba14cd38f96</id>
+		<updated>2012-02-29'T'19:08:26Z</id>
+		<summary>A CommonJS-like script/module loader.</summary>
+	</entry>
+
+	<entry>
+		<title>OORJa</title>
+		<link href="http://maxpert.github.com/oorja/" />
+		<id>urn:uuid:c7e66980-6308-11e1-9237-1ba14cd38f96</id>
+		<updated>2012-02-29'T'19:08:26Z</id>
+		<summary>OORJa = Object Oriented JavaScript</summary>
+	</entry>
+
+	<entry>
+		<title>Sly</title>
+		<link href="https://github.com/digitarald/sly" />
+		<id>urn:uuid:c7ef4320-6308-11e1-9237-1ba14cd38f96</id>
+		<updated>2012-02-29'T'19:08:26Z</id>
+		<summary>Sly is a query selector engine allowing you to select elements with CSS1, CSS2 & CSS3 selectors.</summary>
+	</entry>
+
+	<entry>
+		<title>Émile</title>
+		<link href="https://github.com/madrobby/emile" />
+		<id>urn:uuid:c8136cf0-6308-11e1-9237-1ba14cd38f96</id>
+		<updated>2012-02-29'T'19:08:26Z</id>
+		<summary>Émile is a no-frills stand-alone CSS animation JavaScript framework</summary>
+	</entry>
+
+	<entry>
+		<title>picoCSS</title>
+		<link href="https://github.com/vladocar/picoCSS" />
+		<id>urn:uuid:c8bc0900-6308-11e1-9237-1ba14cd38f96</id>
+		<updated>2012-02-29'T'19:08:26Z</id>
+		<summary>Basic CSS DOM manipulation and animation optimized for webkit browsers(Safari, Chrome) for building mobile web apps</summary>
+	</entry>
+
+	<entry>
+		<title>TurtleWax</title>
+		<link href="https://github.com/davebalmer/turtlewax" />
+		<id>urn:uuid:c8e7ace0-6308-11e1-9237-1ba14cd38f96</id>
+		<updated>2012-02-29'T'19:08:26Z</id>
+		<summary>LOGO-inspired canvas drawing lib, adds method chaining and polar coordinates for added fun.</summary>
+	</entry>
+
+	<entry>
+		<title>Color</title>
+		<link href="https://github.com/Wolfy87/Color" />
+		<id>urn:uuid:c8f45710-6308-11e1-9237-1ba14cd38f96</id>
+		<updated>2012-02-29'T'19:08:26Z</id>
+		<summary>Color conversion functions for switching between hex decimal, RGB, names and arrays.</summary>
+	</entry>
+
+	<entry>
+		<title>Mibbu</title>
+		<link href="https://github.com/michalbe/mibbu" />
+		<id>urn:uuid:c9059520-6308-11e1-9237-1ba14cd38f96</id>
+		<updated>2012-02-29'T'19:08:26Z</id>
+		<summary>Microframework for fast game prototyping using Canvas & DOM</summary>
+	</entry>
+
+	<entry>
+		<title>loom</title>
+		<link href="https://github.com/rpflorence/loom" />
+		<id>urn:uuid:c905bc30-6308-11e1-9237-1ba14cd38f96</id>
+		<updated>2012-02-29'T'19:08:26Z</id>
+		<summary>A simple, four method API for differential inheritance and AOP.</summary>
+	</entry>
+
+	<entry>
+		<title>defer.js</title>
+		<link href="https://github.com/BorisMoore/jsdefer/" />
+		<id>urn:uuid:c924b5e0-6308-11e1-9237-1ba14cd38f96</id>
+		<updated>2012-02-29'T'19:08:26Z</id>
+		<summary>Script loader, using the 'Deferred' pattern for async operations.</summary>
+	</entry>
+
+	<entry>
+		<title>FormfactorJS</title>
+		<link href="http://formfactorjs.com" />
+		<id>urn:uuid:c9634580-6308-11e1-9237-1ba14cd38f96</id>
+		<updated>2012-02-29'T'19:08:26Z</id>
+		<summary>A formfactor detection library, to help developers target tablet, tvs, desktops and handhelds (or anything you choose)</summary>
+	</entry>
+
+	<entry>
+		<title>Satisfy</title>
+		<link href="https://github.com/padolsey/satisfy" />
+		<id>urn:uuid:c9748390-6308-11e1-9237-1ba14cd38f96</id>
+		<updated>2012-02-29'T'19:08:26Z</id>
+		<summary>CSS Selector to HTML generator.</summary>
+	</entry>
+
+	<entry>
+		<title>Timed</title>
+		<link href="https://github.com/ChiperSoft/Timed" />
+		<id>urn:uuid:c9d34560-6308-11e1-9237-1ba14cd38f96</id>
+		<updated>2012-02-29'T'19:08:26Z</id>
+		<summary>Syntactic sugar for JavaScript's setTimeout() and setInterval().</summary>
+	</entry>
+
+	<entry>
+		<title>C-qwncr</title>
+		<link href="https://github.com/vsa-partners/c-qwncr" />
+		<id>urn:uuid:c9dc1f00-6308-11e1-9237-1ba14cd38f96</id>
+		<updated>2012-02-29'T'19:08:26Z</id>
+		<summary>An animation sequencing library that prevents complex animations from starting again before they've completed.</summary>
+	</entry>
+
+	<entry>
+		<title>ShinyCar</title>
+		<link href="https://github.com/Poincare/ShinyCar" />
+		<id>urn:uuid:c9de9000-6308-11e1-9237-1ba14cd38f96</id>
+		<updated>2012-02-29'T'19:08:26Z</id>
+		<summary>Set localStorage keys and values as objects</summary>
+	</entry>
+
+	<entry>
+		<title>htmlentities.js</title>
+		<link href="https://github.com/jussi-kalliokoski/htmlentities.js" />
+		<id>urn:uuid:c9f6d2f0-6308-11e1-9237-1ba14cd38f96</id>
+		<updated>2012-02-29'T'19:08:26Z</id>
+		<summary>A minimal html entities decoder/encoder using DOM.</summary>
+	</entry>
+
+	<entry>
+		<title>Sslac</title>
+		<link href="https://github.com/jakobo/sslac" />
+		<id>urn:uuid:ca325550-6308-11e1-9237-1ba14cd38f96</id>
+		<updated>2012-02-29'T'19:08:26Z</id>
+		<summary>A (seemingly backwards) JS class builder with support for runtime patching</summary>
+	</entry>
+
+	<entry>
+		<title>Jaml</title>
+		<link href="http://edspencer.github.com/jaml/" />
+		<id>urn:uuid:ca3dee10-6308-11e1-9237-1ba14cd38f96</id>
+		<updated>2012-02-29'T'19:08:26Z</id>
+		<summary>Jaml tries to emulate Ruby’s Haml library, making it easy to generate HTML in your JavaScript projects.</summary>
+	</entry>
+
+	<entry>
+		<title>Evidence</title>
+		<link href="https://github.com/madrobby/evidence" />
+		<id>urn:uuid:ca50d9d0-6308-11e1-9237-1ba14cd38f96</id>
+		<updated>2012-02-29'T'19:08:26Z</id>
+		<summary>Evidence is a JavaScript unit testing library. This fork exclusively uses the console to log.</summary>
+	</entry>
+
+	<entry>
+		<title>Viper</title>
+		<link href="https://github.com/alpha123/Viper" />
+		<id>urn:uuid:ca54aa60-6308-11e1-9237-1ba14cd38f96</id>
+		<updated>2012-02-29'T'19:08:26Z</id>
+		<summary>A friendly library for changing a property of an object over time. Supports animating numbers, colors, and even strings.</summary>
+	</entry>
+
+	<entry>
+		<title>Janis</title>
+		<link href="http://mikemctiernan.github.com/Janis/" />
+		<id>urn:uuid:ca6991f0-6308-11e1-9237-1ba14cd38f96</id>
+		<updated>2012-02-29'T'19:08:26Z</id>
+		<summary>A simple CSS Transitions animation framework</summary>
+	</entry>
+
+	<entry>
+		<title>microjungle</title>
+		<link href="https://github.com/deepsweet/microjungle" />
+		<id>urn:uuid:ca8bbff0-6308-11e1-9237-1ba14cd38f96</id>
+		<updated>2012-02-29'T'19:08:26Z</id>
+		<summary>very simple and powerful client-side HTML via JSON templating engine.</summary>
+	</entry>
+
+	<entry>
+		<title>micro-selector</title>
+		<link href="https://github.com/fabiomcosta/micro-selector" />
+		<id>urn:uuid:ca8be700-6308-11e1-9237-1ba14cd38f96</id>
+		<updated>2012-02-29'T'19:08:26Z</id>
+		<summary>A micro, super fast, scope limited, javascript selector engine to be used anywhere</summary>
+	</entry>
+
+	<entry>
+		<title>whenever.js</title>
+		<link href="https://github.com/paulca/whenever.js" />
+		<id>urn:uuid:caaf9ba0-6308-11e1-9237-1ba14cd38f96</id>
+		<updated>2012-02-29'T'19:08:26Z</id>
+		<summary>Specify your app's behavior using a syntax that reads like English</summary>
+	</entry>
+
+	<entry>
+		<title>Unlimit</title>
+		<link href="http://limeblack.github.com/UnlimitJS/" />
+		<id>urn:uuid:cac54680-6308-11e1-9237-1ba14cd38f96</id>
+		<updated>2012-02-29'T'19:08:26Z</id>
+		<summary>Allows for chaining with native JavaScript objects without extending objects' prototypes.</summary>
+	</entry>
+
+	<entry>
+		<title>Mediator.js</title>
+		<link href="http://www.thejacklawson.com/Mediator.js" />
+		<id>urn:uuid:caf3d090-6308-11e1-9237-1ba14cd38f96</id>
+		<updated>2012-02-29'T'19:08:26Z</id>
+		<summary>Flexible pubsub-ish framework for handling namespaced events.</summary>
+	</entry>
+
+	<entry>
+		<title>Artemia</title>
+		<link href="https://github.com/k33g/artemia/" />
+		<id>urn:uuid:cb971570-6308-11e1-9237-1ba14cd38f96</id>
+		<updated>2012-02-29'T'19:08:26Z</id>
+		<summary>Artemia is a clientside document store, inspired by Lawnchair.</summary>
+	</entry>
+
+	<entry>
+		<title>soma.js</title>
+		<link href="http://somajs.github.com/somajs/" />
+		<id>urn:uuid:11daea50-6711-11e1-85ca-438f8c211b62</id>
+		<updated>2012-03-05'T'22:17:51Z</id>
+		<summary>Javascript mvc framework that is meant to help developers to write loosely-coupled applications to increase scalability and maintainability.</summary>
+	</entry>
+
 
 </feed>
