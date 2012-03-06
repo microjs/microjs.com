@@ -1432,6 +1432,14 @@
 		<id>urn:uuid:11daea50-6711-11e1-85ca-438f8c211b62</id>
 		<updated>2012-03-05'T'22:17:51Z</id>
 		<summary>Javascript mvc framework that is meant to help developers to write loosely-coupled applications to increase scalability and maintainability.</summary>
+  </entry>
+
+	<entry>
+		<title>doT.js</title>
+		<link href="https://github.com/olado/doT" />
+		<id>urn:uuid:84880fd0-66ec-11e1-ac8d-8f41155e35bf</id>
+		<updated>2012-03-05'T'17:55:56Z</id>
+		<summary>The fastest + concise javascript template engine for nodejs and browsers. Partials, custom delimiters and more.</summary>
 	</entry>
 
 

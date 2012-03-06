@@ -105,7 +105,7 @@ var MicroJS = [
     url: "https://github.com/jeromeetienne/gowiththeflow.js",
     source: "https://raw.github.com/jeromeetienne/gowiththeflow.js/master/gowiththeflow.js"
   },
-  /* Too big, 5.5kb 
+  /* Too big, 5.5kb
   {
     name: "Prevel Framework",
     size: "4.8k",
@@ -1523,5 +1523,13 @@ var MicroJS = [
     description: "Flexible pubsub-ish framework for handling namespaced events.",
     url: "http://www.thejacklawson.com/Mediator.js",
     source: "https://raw.github.com/ajacksified/Mediator.js/master/mediator.js"
+  },
+  {
+    name: "doT.js",
+    size: "1k",
+    tags: ["nodejs", "browsers", "templating", "partials", "custom delimiters"],
+    description: "The fastest + concise javascript template engine for nodejs and browsers. Partials, custom delimiters and more.",
+    url: "https://github.com/olado/doT",
+    source: "https://github.com/olado/doT/raw/master/doT.js"
   }
 ];
