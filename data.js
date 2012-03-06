@@ -9,13 +9,13 @@
 
 var MicroJS = [
   {
-	name: "soma.js",
-	github: "somajs/somajs",
-	size: "4.2k",
-	tags: ["framework", "mvc", "events", "command", "observer"],
-	description: "Javascript mvc framework that is meant to help developers to write loosely-coupled applications to increase scalability and maintainability.",
-	url: "http://somajs.github.com/somajs/",
-	source: "http://somajs.github.com/somajs/examples/native/framework/src/soma.js"
+    name: "soma.js",
+    github: "somajs/somajs",
+    size: "4.2k",
+    tags: ["framework", "mvc", "events", "command", "observer"],
+    description: "Javascript mvc framework that help developers write loosely-coupled applications to increase scalability and maintainability.",
+    url: "http://somajs.github.com/somajs/",
+    source: "http://somajs.github.com/somajs/examples/native/framework/src/soma.js"
   },
   {
     name: "Minion",
@@ -1410,7 +1410,7 @@ var MicroJS = [
     tags: ["spa", "base", "events"],
     description: "scaleApp is a tiny JavaScript framework for scalable one-page-applications",
     url: "http://scaleapp.org/",
-    source: "http://scaleapp.org/build/scaleApp.js"
+    source: "https://raw.github.com/flosse/scaleApp/master/build/scaleApp.full.js"
   },
   {
     name: "Humane JS",
