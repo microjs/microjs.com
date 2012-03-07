@@ -9,6 +9,15 @@
 
 var MicroJS = [
   {
+    name: "DOMinate",
+    github: "adius/DOMinate",
+    size: "0.3k",
+    tags: ["dom-builder", "dom", "templating"],
+    description: "DOMinate the DOM with this simple, yet powerful DOM building utility and template engine.",
+    url: "https://github.com/adius/DOMinate/",
+    source: "https://raw.github.com/adius/DOMinate/master/src/dominate.min.js"
+  },
+  {
     name: "soma.js",
     github: "somajs/somajs",
     size: "4.2k",
