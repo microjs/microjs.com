@@ -1422,9 +1422,9 @@ var MicroJS = [
   },
   {
     name: "JSFace",
-    size: "1k",
+    size: "0.9k",
     tags: ["oop", "language", "commonjs", "node", "class"],
-    description: "An object-oriented programming library",
+    description: "Small footprint, elegant, powerful, and cross platform OOP library. Support singleton, super call, private, mixins, plugins, AOP and more.",
     url: "https://github.com/tannhu/jsface",
     source: "https://raw.github.com/tannhu/jsface/master/jsface.js"
   },
