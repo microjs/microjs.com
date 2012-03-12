@@ -1531,5 +1531,13 @@ var MicroJS = [
     description: "The fastest + concise javascript template engine for nodejs and browsers. Partials, custom delimiters and more.",
     url: "https://github.com/olado/doT",
     source: "https://github.com/olado/doT/raw/master/doT.js"
+  },
+  {
+    name: "Stapes.js",
+    size: "1.5k",
+    tags: ["mvc", "class", "events", "mobile"],
+    description: "A (really) tiny Javascript MVC microframework. Perfect for mobile.",
+    url: "http://hay.github.com/stapes/",
+    source: "https://raw.github.com/hay/stapes/master/stapes.js"
   }
 ];
