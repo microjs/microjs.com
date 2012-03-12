@@ -1442,5 +1442,13 @@
 		<summary>The fastest + concise javascript template engine for nodejs and browsers. Partials, custom delimiters and more.</summary>
 	</entry>
 
+	<entry>
+		<title>Stapes.js</title>
+		<link href="http://hay.github.com/stapes/" />
+		<id>urn:uuid:bc09c650-6c56-11e1-86f2-dd64dfc5c5b5</id>
+		<updated>2012-03-12'T'15:19:04Z</updated>
+		<summary>A (really) tiny Javascript MVC microframework. Perfect for mobile.</summary>
+	</entry>
+
 
 </feed>
