@@ -1547,5 +1547,13 @@ var MicroJS = [
     description: "Really, really lightweight event emitting",
     url: "https://github.com/bentomas/smokesignals",
     source: "https://raw.github.com/bentomas/smokesignals/master/smokesignals.js"
+  },
+  {
+    name: "CSSClass",
+    size: "0.2k",
+    tags: ["css" ],
+    description: "Adds the functions .hasClass, .addClass, .removeClass and .toggleClass to the Element prototype.",
+    url: "https://github.com/EarMaster/CSSClass",
+    source: "https://raw.github.com/EarMaster/CSSClass/master/CSSClass.js"
   }
 ];
