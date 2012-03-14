@@ -1450,5 +1450,13 @@
 		<summary>A (really) tiny Javascript MVC microframework. Perfect for mobile.</summary>
 	</entry>
 
+	<entry>
+		<title>Smoke Signals</title>
+		<link href="https://github.com/bentomas/smokesignals" />
+		<id>urn:uuid:2a0f5410-6da3-11e1-9073-7b390312a32a</id>
+		<updated>2012-03-14'T'06:58:40Z</updated>
+		<summary>Really, really lightweight event emitting</summary>
+	</entry>
+
 
 </feed>

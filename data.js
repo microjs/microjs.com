@@ -1539,5 +1539,13 @@ var MicroJS = [
     description: "A (really) tiny Javascript MVC microframework. Perfect for mobile.",
     url: "http://hay.github.com/stapes/",
     source: "https://raw.github.com/hay/stapes/master/stapes.js"
+  },
+  {
+    name: "Smoke Signals",
+    size: "0.2k",
+    tags: ["events" ],
+    description: "Really, really lightweight event emitting",
+    url: "https://github.com/bentomas/smokesignals",
+    source: "https://raw.github.com/bentomas/smokesignals/master/smokesignals.js"
   }
 ];
