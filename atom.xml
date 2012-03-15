@@ -1458,5 +1458,13 @@
 		<summary>Really, really lightweight event emitting</summary>
 	</entry>
 
+	<entry>
+		<title>CSSClass</title>
+		<link href="https://github.com/EarMaster/CSSClass" />
+		<id>urn:uuid:cc1c1440-6e8a-11e1-aa5e-d749ddd29d97</id>
+		<updated>2012-03-15'T'10:36:43Z</updated>
+		<summary>Adds the functions .hasClass, .addClass, .removeClass and .toggleClass to the Element prototype.</summary>
+	</entry>
+
 
 </feed>
