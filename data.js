@@ -1572,5 +1572,13 @@ var MicroJS = [
     description: "A library for adding remoteStorage support to your client-side app.",
     url: "https://github.com/unhosted/remoteStorage.js",
     source: "https://raw.github.com/unhosted/remoteStorage.js/master/src/remoteStorage.js"
+  },
+  {
+    name: "impress.js",
+    size: "2.5k",
+    tags: ["animation", "jsanimation", "css", "css3" ],
+    description: "A presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.",
+    url: "https://github.com/bartaz/impress.js",
+    source: "https://raw.github.com/bartaz/impress.js/master/js/impress.js"
   }
 ];
