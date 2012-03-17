@@ -9,6 +9,15 @@
 
 var MicroJS = [
   {
+    name: "Smoothie Charts",
+    github: "joewalnes/smoothie",
+    size: "1.0k",
+    tags: ["canvas", "charts", "graphs"],
+    description: "Smooooooth JavaScript charts for realtime streaming data",
+    url: "http://smoothiecharts.org/",
+    source: "https://raw.github.com/joewalnes/smoothie/master/smoothie.js"
+  },
+  {
     name: "soma.js",
     github: "somajs/somajs",
     size: "4.2k",

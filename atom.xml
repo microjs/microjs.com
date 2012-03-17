@@ -1466,5 +1466,13 @@
 		<summary>Adds the functions .hasClass, .addClass, .removeClass and .toggleClass to the Element prototype.</summary>
 	</entry>
 
+	<entry>
+		<title>Smoothie Charts</title>
+		<link href="http://smoothiecharts.org/" />
+		<id>urn:uuid:22191b20-7054-11e1-931d-d3794fe1c696</id>
+		<updated>2012-03-17'T'17:10:35Z</updated>
+		<summary>Smooooooth JavaScript charts for realtime streaming data</summary>
+	</entry>
+
 
 </feed>
