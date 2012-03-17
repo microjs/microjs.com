@@ -9,6 +9,15 @@
 
 var MicroJS = [
   {
+    name: "Qatrix",
+    github: "/qatrix/Qatrix",
+    size: "4.1k",
+    tags: ["JavaScript","framework"],
+    description: "A new lightweight JavaScript framework for easily building up high performance web application with less code",
+    url: "http://qatrix.com",
+    source: "http://qatrix.com/files/qatrix-0.8.min.js"
+  },
+  {
     name: "Smoothie Charts",
     github: "joewalnes/smoothie",
     size: "1.0k",
