@@ -1564,5 +1564,13 @@ var MicroJS = [
     description: "Adds the functions .hasClass, .addClass, .removeClass and .toggleClass to the Element prototype.",
     url: "https://github.com/EarMaster/CSSClass",
     source: "https://raw.github.com/EarMaster/CSSClass/master/CSSClass.js"
+  },
+  {
+    name: "remoteStorage.js",
+    size: "0.6k",
+    tags: ["events", "ajax", "storage" ],
+    description: "A library for adding remoteStorage support to your client-side app.",
+    url: "https://github.com/unhosted/remoteStorage.js",
+    source: "https://raw.github.com/unhosted/remoteStorage.js/master/src/remoteStorage.js"
   }
 ];
