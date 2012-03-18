@@ -9,6 +9,15 @@
 
 var MicroJS = [
   {
+    name: "Rococo",
+    github: "schuttelaar/rococo2",
+    size: "1.8k",
+    tags: ["framework", "mvc", "events", "base", "spa"],
+    description: "A micro framework for using component oriented techniques with custom designed, complex HTML structures.",
+    url: "https://github.com/schuttelaar/Rococo2/",
+    source: "https://github.com/schuttelaar/Rococo2/raw/master/rococo.js"
+  },
+  {
     name: "Smoothie Charts",
     github: "joewalnes/smoothie",
     size: "1.0k",
