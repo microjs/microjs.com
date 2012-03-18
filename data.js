@@ -9,6 +9,14 @@
 
 var MicroJS = [
   {
+    name: "Javascript Finite State Machine",
+    github: "https://github.com/jakesgordon/javascript-state-machine",
+    url: "https://github.com/jakesgordon/javascript-state-machine",
+    tags: ["state machine", "patterns"],
+    size: "2.9k",
+    description: "This standalone javascript micro-framework provides a finite state machine for your pleasure. (Great for encapsulating logic for anything that goes between multiple states.)",
+  },
+  {
     name: "Smoothie Charts",
     github: "joewalnes/smoothie",
     size: "1.0k",
