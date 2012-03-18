@@ -1564,5 +1564,13 @@ var MicroJS = [
     description: "Adds the functions .hasClass, .addClass, .removeClass and .toggleClass to the Element prototype.",
     url: "https://github.com/EarMaster/CSSClass",
     source: "https://raw.github.com/EarMaster/CSSClass/master/CSSClass.js"
+  },
+  {
+    name: "Jwerty",
+    size: "2k",
+    tags: ["events" ],
+    description: "Bind, fire and assert on keyboard events, with easy to use keyboard selector combos",
+    url: "https://github.com/keithamus/jwerty",
+    source: "https://raw.github.com/keithamus/jwerty/master/jwerty.js"
   }
 ];
