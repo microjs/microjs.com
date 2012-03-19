@@ -1498,5 +1498,21 @@
 		<summary>Bind, fire and assert on keyboard events, with easy to use keyboard selector combos</summary>
 	</entry>
 
+	<entry>
+		<title>Qatrix</title>
+		<link href="http://qatrix.com" />
+		<id>urn:uuid:00415520-718b-11e1-a49d-39e7075a9518</id>
+		<updated>2012-03-19'T'06:16:00Z</updated>
+		<summary>A new lightweight JavaScript framework for easily building up high performance web application with less code</summary>
+	</entry>
+
+	<entry>
+		<title>State Machine</title>
+		<link href="https://github.com/jakesgordon/javascript-state-machine" />
+		<id>urn:uuid:086ba250-718b-11e1-a49d-39e7075a9518</id>
+		<updated>2012-03-19'T'06:16:00Z</updated>
+		<summary>A finite state machine, useful in game development</summary>
+	</entry>
+
 
 </feed>
