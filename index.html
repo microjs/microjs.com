@@ -608,12 +608,24 @@ I need … <select id="ineed_select">
   function t(s,d){for(var p in d)s=s.replace(new RegExp('{'+p+'}','g'),d[p]);return s}
   var contains = [].indexOf ? function(a,e){return a.indexOf(e)!=-1}:function(a,e){for (var i=0,l=a.length;i<l;i++){if (a[i]===e)return 1}return 0}
 
-  MicroJS.sort(function(){return .5-Math.random()});
+  // order by # github watchers
+  MicroJS.sort(function(first, second) {
+    // Backbone is given as "6,868". parseInt isn't clever enough for commas
+    watcher_diff = parseInt((first.ghwatchers || "0").replace(',', '')) - 
+                   parseInt((second.ghwatchers || "0").replace(',', ''));
+    if (watcher_diff == 0) {
+      // break ties arbitrarily
+      watcher_diff = .5-Math.random();  
+    }
+    return watcher_diff;
+  });
 
   function find(tag){
     if(!tag) return MicroJS;
     var results=[], i=MicroJS.length;
     while(i--) if(contains(MicroJS[i].tags,tag)) results.push(MicroJS[i]);
+    // order will be reversed (since MicroJS is prefectly ordered) 
+    results.reverse()
     return results;
   }
 
