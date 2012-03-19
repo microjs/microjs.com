@@ -1403,5 +1403,12 @@ var MicroJS = [
     description: "Bind, fire and assert on keyboard events, with easy to use keyboard selector combos",
     url: "https://github.com/keithamus/jwerty",
     source: "https://raw.github.com/keithamus/jwerty/master/jwerty.js"
+  },
+  {
+    name: "filesize.js",
+    tags: ["math", "language", "amd"],
+    description: "JavaScript library to generate a human readable String describing the filesize",
+    url: "http://filesizejs.com",
+    source: "https://raw.github.com/avoidwork/filesize.js/master/debug/filesize.js"
   }
 ];
