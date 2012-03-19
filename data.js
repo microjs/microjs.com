@@ -1089,11 +1089,11 @@ var MicroJS = [
   },
   {
     name: "Maddy",
-    github: "kitcambridge/maddy",
+    github: "bestiejs/maddy",
     tags: ["functional", "language", "data"],
     description: "A functional object operations library.",
-    url: "http://kitcambridge.github.com/maddy",
-    source: "http://kitcambridge.github.com/maddy/lib/maddy.js"
+    url: "http://bestiejs.github.com/maddy",
+    source: "http://bestiejs.github.com/maddy/lib/maddy.js"
   },
   {
     name: "resistance",

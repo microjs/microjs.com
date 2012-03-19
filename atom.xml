@@ -1514,5 +1514,13 @@
 		<summary>A finite state machine, useful in game development</summary>
 	</entry>
 
+	<entry>
+		<title>filesize.js</title>
+		<link href="http://filesizejs.com" />
+		<id>urn:uuid:462e2580-7213-11e1-9fb1-3dc037e4fdf0</id>
+		<updated>2012-03-19'T'22:31:01Z</updated>
+		<summary>JavaScript library to generate a human readable String describing the filesize</summary>
+	</entry>
+
 
 </feed>
