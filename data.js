@@ -9,6 +9,15 @@
 
 var MicroJS = [
   {
+    name: "Paper.js",
+    github: "paperjs/paper.js",
+    size: "227k",
+    tags: ["canvas", "jsanimation"],
+    description: "The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. ",
+    url: "http://paperjs.org/",
+    source: "https://raw.github.com/paperjs/paper.js/master/dist/paper.js"
+  },
+  {
     name: "Smoothie Charts",
     github: "joewalnes/smoothie",
     size: "1.0k",
