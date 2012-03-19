@@ -1582,5 +1582,21 @@ var MicroJS = [
     description: "Adds the functions .hasClass, .addClass, .removeClass and .toggleClass to the Element prototype.",
     url: "https://github.com/EarMaster/CSSClass",
     source: "https://raw.github.com/EarMaster/CSSClass/master/CSSClass.js"
+  },
+  {
+    name: "remoteStorage.js",
+    size: "0.6k",
+    tags: ["events", "ajax", "storage" ],
+    description: "A library for adding remoteStorage support to your client-side app.",
+    url: "https://github.com/unhosted/remoteStorage.js",
+    source: "https://raw.github.com/unhosted/remoteStorage.js/master/src/remoteStorage.js"
+  },
+  {
+    name: "impress.js",
+    size: "2.5k",
+    tags: ["animation", "jsanimation", "css", "css3" ],
+    description: "A presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.",
+    url: "https://github.com/bartaz/impress.js",
+    source: "https://raw.github.com/bartaz/impress.js/master/js/impress.js"
   }
 ];
