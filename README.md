@@ -32,7 +32,6 @@ file with a name that's unlikely to change (no version numbers).
   * Has to be <5k, minified and gzipped (2)
   * Needs a "url" that points to readme/docs & code-download (ideally GitHub)
   * Needs a "source" attribute that points at a single-file, ready-to-use download of the library/framework (unminified) (3)
-  * Please provide a "size" attribute as a sanity-check for the automated size checker
   * Prefer hand-coded/hand-optimized JavaScript over generated/cross-compiled code.
   * Running "make" should work and not return an error. To run make, you'll need node/npm installed.
 
