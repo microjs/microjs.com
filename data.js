@@ -18,6 +18,15 @@ var MicroJS = [
     source: "https://raw.github.com/paperjs/paper.js/master/dist/paper.js"
   },
   {
+    name: "Qatrix",
+    github: "/qatrix/Qatrix",
+    size: "4.1k",
+    tags: ["framework"],
+    description: "A new lightweight JavaScript framework for easily building up high performance web application with less code",
+    url: "http://qatrix.com",
+    source: "http://qatrix.com/files/qatrix-0.8"
+  },
+  {
     name: "Smoothie Charts",
     github: "joewalnes/smoothie",
     size: "1.0k",
