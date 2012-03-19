@@ -1474,5 +1474,29 @@
 		<summary>Smooooooth JavaScript charts for realtime streaming data</summary>
 	</entry>
 
+	<entry>
+		<title>remoteStorage.js</title>
+		<link href="https://github.com/unhosted/remoteStorage.js" />
+		<id>urn:uuid:c450e680-7189-11e1-9986-e13eae514227</id>
+		<updated>2012-03-19'T'06:06:50Z</updated>
+		<summary>A library for adding remoteStorage support to your client-side app.</summary>
+	</entry>
+
+	<entry>
+		<title>impress.js</title>
+		<link href="https://github.com/bartaz/impress.js" />
+		<id>urn:uuid:c46a13d0-7189-11e1-9986-e13eae514227</id>
+		<updated>2012-03-19'T'06:06:50Z</updated>
+		<summary>A presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.</summary>
+	</entry>
+
+	<entry>
+		<title>Jwerty</title>
+		<link href="https://github.com/keithamus/jwerty" />
+		<id>urn:uuid:c46cd2f0-7189-11e1-9986-e13eae514227</id>
+		<updated>2012-03-19'T'06:06:50Z</updated>
+		<summary>Bind, fire and assert on keyboard events, with easy to use keyboard selector combos</summary>
+	</entry>
+
 
 </feed>

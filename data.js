@@ -1598,5 +1598,13 @@ var MicroJS = [
     description: "A presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.",
     url: "https://github.com/bartaz/impress.js",
     source: "https://raw.github.com/bartaz/impress.js/master/js/impress.js"
+  },
+  {
+    name: "Jwerty",
+    size: "2k",
+    tags: ["events" ],
+    description: "Bind, fire and assert on keyboard events, with easy to use keyboard selector combos",
+    url: "https://github.com/keithamus/jwerty",
+    source: "https://raw.github.com/keithamus/jwerty/master/jwerty.js"
   }
 ];
