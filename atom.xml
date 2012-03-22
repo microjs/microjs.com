@@ -1522,5 +1522,13 @@
 		<summary>JavaScript library to generate a human readable String describing the filesize</summary>
 	</entry>
 
+	<entry>
+		<title>bacon.js</title>
+		<link href="https://github.com/tajjyarden/bacon.js" />
+		<id>urn:uuid:d8c7f9b0-73b3-11e1-9276-6991c09e51df</id>
+		<updated>2012-03-22'T'00:13:07Z</updated>
+		<summary>Detects a mobile browser</summary>
+	</entry>
+
 
 </feed>
