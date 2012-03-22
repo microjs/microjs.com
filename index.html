@@ -511,7 +511,6 @@
     right: 15px;
     overflow-x: hidden;
     overflow-y: auto;
-    max-height: 544px;
     width: 508px;
     text-align: left;
     background: #000;
@@ -521,7 +520,7 @@
   #ineed_select > div {
     height: 28px;
     padding: 4px 6px 0px 6px;
-    line-height:90%;
+    line-height: 90%;
   }
   #ineed_select > div:hover, #ineed_select > div.selected {
     background-color: #555;
@@ -540,7 +539,7 @@
     </h1>
   </div>
 
-  <div id="ineed">
+  <div id="ineed" style="display: none;">
     <span>I need ...</span><input type="text" id="ineed_text">
     <div id="ineed_select" style="display: none;"></div>
   </div>
@@ -613,6 +612,37 @@
  */
 
 (function () {
+  var $ = function (s) { return document.getElementById(s) }
+    , $ineed = $('ineed')
+    , $ineedText = $('ineed_text')
+    , $ineedSelect = $('ineed_select')
+    , $results = $('results')
+      // micro-templating
+    , t = function (s, d){
+        for (var p in d) s = s.replace(new RegExp('{' + p + '}', 'g'), d[p])
+        return s
+      }
+    , render = function (results){
+        var html = [], i = results.length;
+        while (i--) {
+          if (!results[i]._rendered) {
+            results[i].gh = results[i].ghwatchers
+              ? t('<div class="gh"><span class="w">{ghwatchers}</span><span class="f">{ghforks}</span></div>', results[i])
+              : ''
+            results[i]._rendered = t(
+                '<li><a href="{url}"><div class="size">{size}</div><div class="title"><h3>{name}</h3>{gh}</div>{description}</a></li>'
+              , results[i])
+          }
+          html.push(results[i]._rendered)
+        }
+        $results.innerHTML = html.join('');
+      }
+
+  MicroJS.sort(function () { return 0.5 - Math.random() })
+
+// mini feature-detect for some of the stuff we use with fallback for garbage browsers
+;Array.prototype.forEach && Array.prototype.filter && document.documentElement.addEventListener && document.querySelector ?
+(function () {
   // list of options to show in the pseudo-select box
   var options = [
           { tag: 'base', label: 'a base framework.' }
@@ -647,19 +677,41 @@
         , { tag: 'compose', label: 'to compose my own framework!' }
         , { tag: 'micro', label: 'to code a site listing micro-frameworks!' }
       ]
-    , $ = function (s) { return document.getElementById(s) }
-    , $ineedText = $('ineed_text')
-    , $ineedSelect = $('ineed_select')
-    , $results = $('results')
+    , selectBoxOptions = {
+          itemHeight: 32 // how high is each item in the list?
+        , maxItems: options.length // max items to show
+        , minItems: 5 // min items to show
+        , boxBorder: 2 // how many px is the border of the select box
+      }
     , lastSearch
     , selectedItem = function () { return $ineedSelect.querySelector('div.selected') }
       // show drop-down box
     , showopt = function (opt) {
         if ($ineedSelect.style.display === '') return
-        var s = ''
+        var s = '', height
         ;(opt || options).forEach(function (option) { s += '<div>' + option.label + '</div>' })
         $ineedSelect.innerHTML = s
         $ineedSelect.style.display = ''
+        // how much space do we have to spare for the select box?
+        height = roundToItemHeight(
+            window.innerHeight - offsetTop($ineedSelect) + document.body.scrollTop + selectBoxOptions.boxBorder)
+        // decide how big we should make the box
+        height = Math.max(
+            selectBoxOptions.itemHeight * selectBoxOptions.minItems
+          , Math.min(selectBoxOptions.itemHeight * selectBoxOptions.maxItems, height))
+        $ineedSelect.style.height = height + 'px'
+      }
+      // given x, round it to the nearest number of select box items we can fit in, - 1
+    , roundToItemHeight = function (x) {
+        return (Math.round(x / selectBoxOptions.itemHeight) - 1) * selectBoxOptions.itemHeight
+      }
+    , offsetTop = function (e) {
+        var ot = 0
+        while (e && e !== document) {
+          ot += e.offsetTop
+          e = e.offsetParent
+        }
+        return ot
       }
       // hide drop-down box
     , hideopt = function () {
@@ -759,36 +811,15 @@
           return true
         })
       }
-      // micro-templating
-    , t = function (s, d){
-        for (var p in d) s = s.replace(new RegExp('{' + p + '}', 'g'), d[p])
-        return s
-      }
-    , render = function (results){
-        var html = [], i = results.length;
-        while (i--) {
-          if (!results[i]._rendered) {
-            results[i].gh = results[i].ghwatchers
-              ? t('<div class="gh"><span class="w">{ghwatchers}</span><span class="f">{ghforks}</span></div>', results[i])
-              : ''
-            results[i]._rendered = t(
-                '<li><a href="{url}"><div class="size">{size}</div><div class="title"><h3>{name}</h3>{gh}</div>{description}</a></li>'
-              , results[i])
-          }
-          html.push(results[i]._rendered)
-        }
-        $results.innerHTML = html.join('');
-      }
 
   // prepare the libs for search, make a search string that's space-separated with tags, name, description & url
   MicroJS.forEach(function (mj) { mj._ss = ' ' + mj.tags.concat([ mj.name, mj.description, mj.url, '' ]).join(' ') })
-  MicroJS.sort(function () { return 0.5 - Math.random() })
 
-  $ineedText.addEventListener('focus', focusListener)
-  $ineedText.addEventListener('click', focusListener)
-  $ineedText.addEventListener('blur', blurListener)
-  $ineedText.addEventListener('keydown', keydownListener)
-  $ineedSelect.addEventListener('click', selectListener)
+  $ineedText.addEventListener('focus', focusListener, false)
+  $ineedText.addEventListener('click', focusListener, false)
+  $ineedText.addEventListener('blur', blurListener, false)
+  $ineedText.addEventListener('keydown', keydownListener, false)
+  $ineedSelect.addEventListener('click', selectListener, false)
 
   ;(function(kw) {
     if (!kw) return
@@ -799,8 +830,11 @@
   }(location.href.split('#')[1]))
 
   search()
+  $ineed.style.display = ''
 
-}())
+})() : render(MicroJS) // fallback for old browsers, you don't deserve the sweetness!
+
+})()
 
   </script>
 
