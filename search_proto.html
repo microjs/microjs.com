@@ -493,30 +493,35 @@
     width: 650px;
     position: relative;
   }
+  #ineed > span {
+    display: inline-block;
+    width: 125px;
+  }
   #ineed_text {
     border: solid 1px #555;
-    margin: 0;
+    margin: 0 15px 0 0;
     font-size: 25px;
     background: black;
     color: white;
     padding: 3px;
-    width: 500px;
+    width: 502px;
   }
   #ineed_select {
     position: absolute;
+    right: 15px;
     overflow-x: hidden;
     overflow-y: auto;
-    max-height: 510px;
-    width: 506px;
-    margin: 0 auto;
+    max-height: 544px;
+    width: 508px;
     text-align: left;
     background: #000;
     border: solid 1px #555;
     cursor: pointer;
   }
   #ineed_select > div {
-    height: 26px;
-    padding: 2px 6px;
+    height: 28px;
+    padding: 4px 6px 0px 6px;
+    line-height:90%;
   }
   #ineed_select > div:hover, #ineed_select > div.selected {
     background-color: #555;
@@ -536,7 +541,7 @@
   </div>
 
   <div id="ineed">
-    I need ... <input type="text" id="ineed_text">
+    <span>I need ...</span><input type="text" id="ineed_text">
     <div id="ineed_select" style="display: none;"></div>
   </div>
 
@@ -601,12 +606,13 @@
 
   <script src="data-min.js"></script>
   <script type="text/javascript" id="scr">
-  /* Micro-Framework-Listing-Site-Microlib
-   * Now with extra-chocolatey easter eggs!
-   * Copyright (c) 2011-2012 @madrobby, @rvagg & other contributors
-   * Licenced under the MIT open source licence - http://www.opensource.org/licenses/mit-license.html
-   */
+/* Micro-Framework-Listing-Site-Microlib
+ * Now with extra-chocolatey easter eggs!
+ * Copyright (c) 2011-2012 @madrobby, @rvagg & other contributors
+ * Licenced under the MIT open source licence - http://www.opensource.org/licenses/mit-license.html
+ */
 
+(function () {
   // list of options to show in the pseudo-select box
   var options = [
           { tag: 'base', label: 'a base framework.' }
@@ -794,8 +800,8 @@
 
   search()
 
-  // probably a better way to do this in pure CSS
-  setTimeout(function () { $ineedSelect.style.left = $ineedText.offsetLeft + 'px' }, 10)
+}())
+
   </script>
 
   </body>
