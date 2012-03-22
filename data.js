@@ -1417,5 +1417,13 @@ var MicroJS = [
     description: "Detects a mobile browser",
     url: "https://github.com/tajjyarden/bacon.js",
     source: "https://raw.github.com/tajjyarden/bacon.js/master/bacon.js"
+  },
+  {
+    name: "JSON 3",
+    github: "bestiejs/json3",
+    tags: ["polyfill", "json", "amd"],
+    description: "A modern JSON implementation compatible with nearly all JavaScript platforms.",
+    url: "http://bestiejs.github.com/json3",
+    source: "http://bestiejs.github.com/json3/lib/json3.js"
   }
 ];
