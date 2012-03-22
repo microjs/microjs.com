@@ -6,7 +6,9 @@
   <meta name="viewport" content="width=device-width; initial-scale=0.45">
   <link href="http://fonts.googleapis.com/css?family=Maiden+Orange" rel="stylesheet">
   <link href="atom.xml" type="application/atom+xml" rel="alternate" title="Microjs ATOM feed">
-<style>
+
+  <style type="text/css">
+
   html {
     min-height: 100%;
   }
@@ -71,9 +73,6 @@
     line-height: 30px;
     font-weight: normal;
     text-shadow: 0px -1px 5px rgba(0,0,0,0.4);
-  }
-  #ineed {
-    font-size: 25px;
   }
   select {
     font-size: 25px;
@@ -476,9 +475,6 @@
   .clue a {
     color: #FF0071;
   }
-  #ineed {
-    margin: 10px 0 10px 0;
-  }
   p {
     -webkit-font-smoothing: antialiased;
     text-rendering:optimizeLegibility;
@@ -486,164 +482,327 @@
   p.promotejs {
     margin: 0 auto 40px auto;
   }
-</style>
-</head>
-<body>
-
-<div id="header">
-<h1>
-  <span>m</span><span>i</span><span>c</span><span>r</span><span>o</span><span>j</span><span>s</span>
-</h1>
-<h1 class="overlay">
-  <span>m</span><span>i</span><span>c</span><span>r</span><span>o</span><span>j</span><span>s</span>
-</h1>
-</div>
-
-<div id="ineed">
-I need … <select id="ineed_select">
-  <option></option>
-  <option value="base">a base framework.</option>
-  <option value="dom">a DOM utility.</option>
-  <option value="templating">templating.</option>
-  <option value="animation">CSS animation.</option>
-  <option value="jsanimation">JavaScript animation.</option>
-  <option value="css">a CSS selector engine.</option>
-  <option value="data">data manipulation.</option>
-  <option value="class">a Class system.</option>
-  <option value="functional">functional programming.</option>
-  <option value="loader">a JavaScript loader.</option>
-  <option value="json">JSON.</option>
-  <option value="ajax">AJAX.</option>
-  <option value="testing">to test stuff (e.g. unit testing).</option>
-  <!-- <option value="benchmark">to run benchmarks / performance tests.</option> -->
-  <option value="games">to write a game.</option>
-  <option value="canvas">to do CANVAS/2D graphics!</option>
-  <option value="color">to convert colors.</option>
-  <option value="list">to create searchable & sortable lists.</option>
-  <option value="spa">single page apps.</option>
-  <option value="storage">persistent storage.</option>
-  <option value="mvc">client-side MVC.</option>
-  <option value="feature">feature/browser detection.</option>
-  <option value="events">events!</option>
-  <option value="webkit">WebKit-specific libraries.</option>
-  <option value="mobile">mobile-specific libraries.</option>
-  <option value="responsive">libraries for responsive designs.</option>
-  <option value="polyfill">polyfills.</option>
-  <option value="analytics">analytics.</option>
-  <option value="hyphenation">hyphenation.</option>
-  <option value="async">asynchronous programming</option>
-  <option value="compose">to compose my own framework!</option>
-  <option value="micro">to code a site listing micro-frameworks!</option>
-</select>
-</div>
-
-<p>
-<a href="http://twitter.com/share" class="twitter-share-button" data-url="http://microjs.com/" data-count="horizontal" data-via="thomasfuchs">Tweet</a><script src="http://platform.twitter.com/widgets.js"></script>
-</p>
-
-<ul id="results">
-</ul>
-
-<div class="clue">
-  <p><strong><span>Fantastic</span><span> Micro</span><span>-</span><span>Frameworks</span><span> and</span><br>
-    <span>Micro</span><span>-</span><span>Libraries</span><span> for</span><span> Fun</span>
-    <span>and</span><span> Profit</span><span>!</span></strong>
-  </p>
-  <p>How much library code do you really need — 50K? 100K? 150K? More? How
-  much of that do you really use?</p>
-
-  <p>Sure, we all love our favorite monolithic frameworks, and sometimes we
-  even use them fully. But how often do we reach for the ride-on John
-  Deere tractor with air conditioning and six-speaker sound system, when
-  a judiciously applied pocketknife would do the trick better, faster,
-  slicker?</p>
-
-  <p>Micro-frameworks are definitely the pocketknives of the JavaScript
-  library world: short, sweet, to the point. And at 5k and under,
-  micro-frameworks are very very portable. A micro-framework does one
-  thing and one thing only — and does it well. No cruft, no featuritis,
-  no feature creep, no excess anywhere.</p>
-
-  <p>Microjs.com helps you discover the most compact-but-powerful
-  microframeworks, and makes it easy for you to pick one that’ll work
-  for you.</p>
-
-  <p>Want to add your own?
-  <a href="https://github.com/madrobby/microjs.com">Fork this site on GitHub</a>,
-  add your framework to data.js and submit a pull request.</p>
-
-  <p style="margin-top:30px">
-    <strong><span>Can't</span> <span>get</span> <span>enough</span><span>?</span></strong>
-  </p>
-  <p>
-    <a href="http://140byt.es/">140byt.es</a> provides
-    tweet-sized JavaScript goodness!
-  </p>
-  
-  <p>
-    Want to master the JavaScripts?<br>Grab a seat at the <a href="http://javascriptmasterclass.com/">JavaScript Master Class</a>. 
-  </p>
-</div>
-
-
-<p class="footer">
-  <strong>microjs</strong> — a micro-site for micro-frameworks
-  <span class="links">
-  © 2011-2012 <a href="//mir.aculo.us/">Thomas Fuchs</a> <span class="asterisk">✻</span>
-  <a href="https://github.com/madrobby/microjs.com">source on GitHub</a> <span class="asterisk">✻</span>
-  sizes minified &amp; gzipped
-  </span>
-</p>
-
-<p class="promotejs">
-<a href='https://developer.mozilla.org/en/JavaScript' title='JavaScript'><img src='http://static.jsconf.us/promotejsh.gif' height='150' width='180' alt='JavaScript'/></a>
-</p>
-
-<script src="data-min.js"></script>
-<script id="micro">
-(function(){
-  var hash = location.href.split('#');
-
-  function $(id){return document.getElementById(id)}
-  function t(s,d){for(var p in d)s=s.replace(new RegExp('{'+p+'}','g'),d[p]);return s}
-  var contains = [].indexOf ? function(a,e){return a.indexOf(e)!=-1}:function(a,e){for (var i=0,l=a.length;i<l;i++){if (a[i]===e)return 1}return 0}
-
-  MicroJS.sort(function(){return .5-Math.random()});
-
-  function find(tag){
-    if(!tag) return MicroJS;
-    var results=[], i=MicroJS.length;
-    while(i--) if(contains(MicroJS[i].tags,tag)) results.push(MicroJS[i]);
-    return results;
+  pre {
+    font-size: 8pt;
+    line-height: 100%;
+    text-align: left;
+  }
+  #ineed {
+    margin: 10px auto;
+    font-size: 25px;
+    width: 650px;
+    position: relative;
+  }
+  #ineed > span {
+    display: inline-block;
+    width: 125px;
+  }
+  #ineed_text {
+    border: solid 1px #555;
+    margin: 0 15px 0 0;
+    font-size: 25px;
+    background: black;
+    color: white;
+    padding: 3px;
+    width: 502px;
+  }
+  #ineed_select {
+    position: absolute;
+    right: 15px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    max-height: 544px;
+    width: 508px;
+    text-align: left;
+    background: #000;
+    border: solid 1px #555;
+    cursor: pointer;
+  }
+  #ineed_select > div {
+    height: 28px;
+    padding: 4px 6px 0px 6px;
+    line-height:90%;
+  }
+  #ineed_select > div:hover, #ineed_select > div.selected {
+    background-color: #555;
   }
 
-  function render(results){
-    var html=[], i=results.length;
-    while(i--) {
-      results[i].gh = results[i].ghwatchers ? t('<div class="gh"><span class="w">{ghwatchers}</span><span class="f">{ghforks}</span></div>', results[i]) : ''
-      html.push(t('<li><a href="{url}"><div class="size">{size}</div><div class="title"><h3>{name}</h3>{gh}</div>{description}</a></li>', results[i]))
+  </style>
+  </head>
+  <body>
+
+  <div id="header">
+    <h1>
+      <span>m</span><span>i</span><span>c</span><span>r</span><span>o</span><span>j</span><span>s</span>
+    </h1>
+    <h1 class="overlay">
+      <span>m</span><span>i</span><span>c</span><span>r</span><span>o</span><span>j</span><span>s</span>
+    </h1>
+  </div>
+
+  <div id="ineed">
+    <span>I need ...</span><input type="text" id="ineed_text">
+    <div id="ineed_select" style="display: none;"></div>
+  </div>
+
+  <p>
+    <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://microjs.com/" data-count="horizontal" data-via="thomasfuchs">Tweet</a><script src="http://platform.twitter.com/widgets.js"></script>
+  </p>
+
+  <ul id="results"></ul>
+
+  <div class="clue">
+    <p><strong><span>Fantastic</span><span> Micro</span><span>-</span><span>Frameworks</span><span> and</span><br>
+      <span>Micro</span><span>-</span><span>Libraries</span><span> for</span><span> Fun</span>
+      <span>and</span><span> Profit</span><span>!</span></strong>
+    </p>
+    <p>How much library code do you really need — 50K? 100K? 150K? More? How
+    much of that do you really use?</p>
+
+    <p>Sure, we all love our favorite monolithic frameworks, and sometimes we
+    even use them fully. But how often do we reach for the ride-on John
+    Deere tractor with air conditioning and six-speaker sound system, when
+    a judiciously applied pocketknife would do the trick better, faster,
+    slicker?</p>
+
+    <p>Micro-frameworks are definitely the pocketknives of the JavaScript
+    library world: short, sweet, to the point. And at 5k and under,
+    micro-frameworks are very very portable. A micro-framework does one
+    thing and one thing only — and does it well. No cruft, no featuritis,
+    no feature creep, no excess anywhere.</p>
+
+    <p>Microjs.com helps you discover the most compact-but-powerful
+    microframeworks, and makes it easy for you to pick one that’ll work
+    for you.</p>
+
+    <p>Want to add your own?
+    <a href="https://github.com/madrobby/microjs.com">Fork this site on GitHub</a>,
+    add your framework to data.js and submit a pull request.</p>
+
+    <p style="margin-top:30px">
+      <strong><span>Can't</span> <span>get</span> <span>enough</span><span>?</span></strong>
+    </p>
+    <p>
+      <a href="http://140byt.es/">140byt.es</a> provides tweet-sized JavaScript goodness!
+    </p>
+
+    <p>
+      Want to master the JavaScripts?<br>Grab a seat at the <a href="http://javascriptmasterclass.com/">JavaScript Master Class</a>. 
+    </p>
+  </div>
+
+  <p class="footer">
+    <strong>microjs</strong> — a micro-site for micro-frameworks
+    <span class="links">
+    © 2011-2012 <a href="//mir.aculo.us/">Thomas Fuchs</a> <span class="asterisk">✻</span>
+    <a href="https://github.com/madrobby/microjs.com">source on GitHub</a> <span class="asterisk">✻</span>
+    sizes minified &amp; gzipped
+    </span>
+  </p>
+
+  <p class="promotejs">
+    <a href='https://developer.mozilla.org/en/JavaScript' title='JavaScript'><img src='http://static.jsconf.us/promotejsh.gif' height='150' width='180' alt='JavaScript'/></a>
+  </p>
+
+  <script src="data-min.js"></script>
+  <script type="text/javascript" id="scr">
+/* Micro-Framework-Listing-Site-Microlib
+ * Now with extra-chocolatey easter eggs!
+ * Copyright (c) 2011-2012 @madrobby, @rvagg & other contributors
+ * Licenced under the MIT open source licence - http://www.opensource.org/licenses/mit-license.html
+ */
+
+(function () {
+  // list of options to show in the pseudo-select box
+  var options = [
+          { tag: 'base', label: 'a base framework.' }
+        , { tag: 'dom', label: 'a DOM utility.' }
+        , { tag: 'templating', label: 'templating.' }
+        , { tag: 'animation', label: 'CSS animation.' }
+        , { tag: 'jsanimation', label: 'JavaScript animation.' }
+        , { tag: 'css', label: 'a CSS selector engine.' }
+        , { tag: 'data', label: 'data manipulation.' }
+        , { tag: 'class', label: 'a Class system.' }
+        , { tag: 'functional', label: 'functional programming.' }
+        , { tag: 'loader', label: 'a JavaScript loader.' }
+        , { tag: 'json', label: 'JSON.' }
+        , { tag: 'ajax', label: 'AJAX.' }
+        , { tag: 'testing', label: 'to test stuff (e.g. unit testing).' }
+        , { tag: 'games', label: 'to write a game.' }
+        , { tag: 'canvas', label: 'to do CANVAS/2D graphics!' }
+        , { tag: 'color', label: 'to convert colors.' }
+        , { tag: 'list', label: 'to create searchable & sortable lists.' }
+        , { tag: 'spa', label: 'single page apps.' }
+        , { tag: 'storage', label: 'persistent storage.' }
+        , { tag: 'mvc', label: 'client-side MVC.' }
+        , { tag: 'feature', label: 'feature/browser detection.' }
+        , { tag: 'events', label: 'events!' }
+        , { tag: 'webkit', label: 'WebKit-specific libraries.' }
+        , { tag: 'mobile', label: 'mobile-specific libraries.' }
+        , { tag: 'responsive', label: 'libraries for responsive designs.' }
+        , { tag: 'polyfill', label: 'polyfills.' }
+        , { tag: 'analytics', label: 'analytics.' }
+        , { tag: 'hyphenation', label: 'hyphenation.' }
+        , { tag: 'async', label: 'asynchronous programming' }
+        , { tag: 'compose', label: 'to compose my own framework!' }
+        , { tag: 'micro', label: 'to code a site listing micro-frameworks!' }
+      ]
+    , $ = function (s) { return document.getElementById(s) }
+    , $ineedText = $('ineed_text')
+    , $ineedSelect = $('ineed_select')
+    , $results = $('results')
+    , lastSearch
+    , selectedItem = function () { return $ineedSelect.querySelector('div.selected') }
+      // show drop-down box
+    , showopt = function (opt) {
+        if ($ineedSelect.style.display === '') return
+        var s = ''
+        ;(opt || options).forEach(function (option) { s += '<div>' + option.label + '</div>' })
+        $ineedSelect.innerHTML = s
+        $ineedSelect.style.display = ''
+      }
+      // hide drop-down box
+    , hideopt = function () {
+        var si = selectedItem()
+        if (si) si.className = ''
+        $ineedSelect.style.display = 'none'
+      }
+      // here's a microlib right here, this little beauty is uber-helpful - @rvagg
+      // delay invocation of arg1 by arg2 milliseconds, but push back that delay
+      // each time we get another call before invocation, great for key-events
+    , cumulativeDelayed = function() {
+        var tid, args = Array.prototype.slice.call(arguments)
+          , fn = args.shift(), timeout = args.shift()
+        return function() {
+          var _args = args.concat(Array.prototype.slice.call(arguments))
+          if (!!tid) clearTimeout(tid)
+          tid = setTimeout(function() { fn.apply(null, _args) }, timeout)
+        }
+      }
+    , blurListener = cumulativeDelayed(function (e) { hideopt()}, 200)
+    , focusListener = function (e) { showopt(); search() }
+    , selectListener = function (e, el) { // click events
+        if (e) el = e.target
+        $ineedText.value = el.textContent || el.innerText
+        e && keydownListener({ keyCode: 13 })
+      }
+    , keydownDelayed = cumulativeDelayed(function (e) { search() }, 250)
+    , showsearch = function () { showopt(); search() }
+      // make our pseudo-select box work as if it was a real select box
+    , keydownListener = function (e) {
+        switch (e.keyCode) {
+          case 38: //up
+            showsearch(); selectUp()
+            break;
+          case 40: //down
+            showsearch(); selectDown()
+            break;
+          case 13: //return
+            hideopt(); search()
+            break;
+          default:
+            if (e.target.value) { hideopt(); keydownDelayed(e) }
+            else showsearch()
+        }
+      }
+      // arrow-up
+    , selectUp = function (e) {
+        var si = selectedItem()
+        if (si && si != $ineedSelect.firstChild) {
+          si.className = ''
+          ;(si = si.previousSibling).className = 'selected'
+          if (si.offsetTop < $ineedSelect.scrollTop) $ineedSelect.scrollTop -= si.offsetHeight
+          selectListener(null, si)
+        }
+      }
+      // arrow-down
+    , selectDown = function (e) {
+        var si = selectedItem()
+        if (!si) $ineedSelect.firstChild.className = 'selected'
+        else if (si != $ineedSelect.lastChild) {
+          si.className = ''
+          ;(si = si.nextSibling).className = 'selected'
+          if (si.offsetTop + si.offsetHeight > $ineedSelect.offsetHeight + $ineedSelect.scrollTop)
+            $ineedSelect.scrollTop += si.offsetHeight
+          selectListener(null, si)
+        }
+      }
+    , search = cumulativeDelayed(function () {
+        var i, libMatches, kw = $ineedText.value
+        if (kw == lastSearch) return
+        lastSearch = kw
+        // special case for when text == an option, in which case search by tag
+        for (i = 0; i < options.length; i++) {
+          if (kw == options[i].label) { kw = options[i].tag; break; }
+        }
+        location.href = location.href.replace(/(#.*$)|($)/, '#' + (kw || ''))
+        if (kw == 'micro') {
+          $results.innerHTML = '<pre>' + $('scr').innerHTML
+            .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+            .replace(/ /g, '&nbsp;').replace(/\n/g, '<br>') + '</pre>'
+          return
+        }
+        kw = kw.split(/\s+/)
+        libMatches = searchArray(MicroJS, kw)
+        render(libMatches)
+      }, 200)
+    , searchArray = function (arr, kw) {
+        if (!kw || !kw.length) return arr
+        var kwre = [], l, i
+        // turn keywords into matchers
+        kw.forEach(function (k) { kwre.push(new RegExp(' [^ ]*' + k.replace(/[^\w\-\.]/g, '') + '[^ ]* ')) })
+        l = kwre.length
+        // perform an AND search for all keywords
+        return arr.filter(function (el) {
+          for (i = 0; i < l; i++)
+            if (!kwre[i].test(el._ss)) return false
+          return true
+        })
+      }
+      // micro-templating
+    , t = function (s, d){
+        for (var p in d) s = s.replace(new RegExp('{' + p + '}', 'g'), d[p])
+        return s
+      }
+    , render = function (results){
+        var html = [], i = results.length;
+        while (i--) {
+          if (!results[i]._rendered) {
+            results[i].gh = results[i].ghwatchers
+              ? t('<div class="gh"><span class="w">{ghwatchers}</span><span class="f">{ghforks}</span></div>', results[i])
+              : ''
+            results[i]._rendered = t(
+                '<li><a href="{url}"><div class="size">{size}</div><div class="title"><h3>{name}</h3>{gh}</div>{description}</a></li>'
+              , results[i])
+          }
+          html.push(results[i]._rendered)
+        }
+        $results.innerHTML = html.join('');
+      }
+
+  // prepare the libs for search, make a search string that's space-separated with tags, name, description & url
+  MicroJS.forEach(function (mj) { mj._ss = ' ' + mj.tags.concat([ mj.name, mj.description, mj.url, '' ]).join(' ') })
+  MicroJS.sort(function () { return 0.5 - Math.random() })
+
+  $ineedText.addEventListener('focus', focusListener)
+  $ineedText.addEventListener('click', focusListener)
+  $ineedText.addEventListener('blur', blurListener)
+  $ineedText.addEventListener('keydown', keydownListener)
+  $ineedSelect.addEventListener('click', selectListener)
+
+  ;(function(kw) {
+    if (!kw) return
+    for (var i = 0; i < options.length; i++) {
+      if (kw == options[i].tag) { kw = options[i].label; break; }
     }
-    $('results').innerHTML = html.join('');
-  }
+    $ineedText.value = kw
+  }(location.href.split('#')[1]))
 
-  function select(tag){
-    var options = $('ineed_select').options, i=options.length;
-    while(i--) if(options[i].value==tag) $('ineed_select').selectedIndex = i;
-  }
+  search()
 
-  $('ineed_select').onchange = function(){
-    var value = $('ineed_select').options[$('ineed_select').selectedIndex].value;
-    if(value=="micro") return(alert($('micro').innerHTML));
-    render(find(value));
-    location.href=location.href.replace(/(#.*$)|($)/,'#'+value);
-  }
+}())
 
-  render(hash.length ? (select(hash[1]), find(hash[1])) : MicroJS);
-})();
-</script>
+  </script>
 
-<script src="//static.getclicky.com/js"></script>
-<script>try{ clicky.init(66418235); }catch(e){}</script>
-<noscript><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/66418235ns.gif"></noscript>
-</body>
+  </body>
 </html>
