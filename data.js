@@ -1410,5 +1410,12 @@ var MicroJS = [
     description: "JavaScript library to generate a human readable String describing the filesize",
     url: "http://filesizejs.com",
     source: "https://raw.github.com/avoidwork/filesize.js/master/debug/filesize.js"
+  },
+  {
+    name: "bacon.js",
+    tags: ["mobile" ],
+    description: "Detects a mobile browser",
+    url: "https://github.com/tajjyarden/bacon.js",
+    source: "https://raw.github.com/tajjyarden/bacon.js/master/bacon.js"
   }
 ];
