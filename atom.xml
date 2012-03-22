@@ -1530,5 +1530,13 @@
 		<summary>Detects a mobile browser</summary>
 	</entry>
 
+	<entry>
+		<title>JSON 3</title>
+		<link href="http://bestiejs.github.com/json3" />
+		<id>urn:uuid:17793830-73c4-11e1-ad0d-2dc47d3bbad5</id>
+		<updated>2012-03-22'T'02:09:14Z</updated>
+		<summary>A modern JSON implementation compatible with nearly all JavaScript platforms.</summary>
+	</entry>
+
 
 </feed>
