@@ -1410,5 +1410,12 @@ var MicroJS = [
     description: "JavaScript library to generate a human readable String describing the filesize",
     url: "http://filesizejs.com",
     source: "https://raw.github.com/avoidwork/filesize.js/master/debug/filesize.js"
+  },
+  {
+    name: "promise.js",
+    tags: ["async", "promise", "future", "deffered", "ajax"],
+    description: "Lightweight promises (or futures, or deffered). Includes AJAX REST functions.",
+    url: "https://github.com/stackp/promisejs",
+    source: "https://raw.github.com/stackp/promisejs/master/promise.js"
   }
 ];
