@@ -9,6 +9,14 @@
 
 var MicroJS = [
   {
+    name: "bitarray.js",
+    github: "madrobby/bitarray.js",
+    tags: ["data"],
+    description: "simple bit fields and arrays with pure JavaScript",
+    url: "http://github.com/madrobby/bitarray.js",
+    source: "https://raw.github.com/madrobby/bitarray.js/master/bitarray.js"
+  },
+  {
     name: "Qatrix",
     github: "/qatrix/Qatrix",
     tags: ["framework"],

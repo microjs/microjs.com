@@ -1538,5 +1538,13 @@
 		<summary>A modern JSON implementation compatible with nearly all JavaScript platforms.</summary>
 	</entry>
 
+	<entry>
+		<title>bitarray.js</title>
+		<link href="{url}" />
+		<id>urn:uuid:56a75e90-75e7-11e1-b8ff-e196b038d66e</id>
+		<updated>2012-03-24'T'19:26:54Z</updated>
+		<summary>simple bit fields and arrays with pure JavaScript</summary>
+	</entry>
+
 
 </feed>
