@@ -1433,5 +1433,12 @@ var MicroJS = [
     description: "A modern JSON implementation compatible with nearly all JavaScript platforms.",
     url: "http://bestiejs.github.com/json3",
     source: "http://bestiejs.github.com/json3/lib/json3.js"
+  },
+  {
+    name: "promise.js",
+    tags: ["async", "promise", "future", "deffered", "ajax"],
+    description: "Lightweight promises (or futures, or deffered). Includes AJAX REST functions.",
+    url: "https://github.com/stackp/promisejs",
+    source: "https://raw.github.com/stackp/promisejs/master/promise.js"
   }
 ];

@@ -1546,5 +1546,13 @@
 		<summary>simple bit fields and arrays with pure JavaScript</summary>
 	</entry>
 
+	<entry>
+		<title>promise.js</title>
+		<link href="https://github.com/stackp/promisejs" />
+		<id>urn:uuid:ca56ad00-761e-11e1-ae50-dbdb76b741ed</id>
+		<updated>2012-03-25'T'02:03:42Z</updated>
+		<summary>Lightweight promises (or futures, or deffered). Includes AJAX REST functions.</summary>
+	</entry>
+
 
 </feed>
