@@ -153,7 +153,8 @@ var MicroJS = [
     tags: ["mvc", "data", "functional", "templating", "events"],
     description: "Ember is a JavaScript framework for creating ambitious web applications that eliminates boilerplate and provides a standard application architecture.",
     url: "http://emberjs.com/",
-    s
+    source: "http://cloud.github.com/downloads/emberjs/ember.js/ember-latest.js"
+  },
   {
     name: "Backbone",
     github: "documentcloud/backbone",
