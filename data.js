@@ -1440,5 +1440,13 @@ var MicroJS = [
     description: "Lightweight promises (or futures, or deffered). Includes AJAX REST functions.",
     url: "https://github.com/stackp/promisejs",
     source: "https://raw.github.com/stackp/promisejs/master/promise.js"
+  },
+  {
+    name: "Moment.js",
+    github: "https://github.com/timrwood/moment",
+    tags: ["date"],
+    description: "A lightweight (3.7k) library for parsing, manipulating, and formatting dates.",
+    url: 'http://momentjs.com/',
+    source: 'https://raw.github.com/JerrySievert/node-date-utils/master/lib/date-utils.js'
   }
 ];
