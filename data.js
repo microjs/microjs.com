@@ -148,6 +148,13 @@ var MicroJS = [
     source: "https://raw.github.com/devongovett/slang/master/slang.js"
   },
   {
+    name: "Ember.js",
+    github: "emberjs/ember.js",
+    tags: ["mvc", "data", "functional", "templating", "events"],
+    description: "Ember is a JavaScript framework for creating ambitious web applications that eliminates boilerplate and provides a standard application architecture.",
+    url: "http://emberjs.com/",
+    s
+  {
     name: "Backbone",
     github: "documentcloud/backbone",
     tags: ["mvc", "data", "functional"],
