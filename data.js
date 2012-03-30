@@ -1457,5 +1457,12 @@ var MicroJS = [
     description: "A lightweight (3.7k) library for parsing, manipulating, and formatting dates.",
     url: 'http://momentjs.com/',
     source: 'https://raw.github.com/JerrySievert/node-date-utils/master/lib/date-utils.js'
+  },
+  {
+    name: "mix.js",
+    tags: ["mixin"],
+    description: "Mixins with dependency resolution and private properties (without closures).",
+    url: 'https://github.com/bripkens/mix.js',
+    source: 'https://raw.github.com/bripkens/mix.js/master/mix.js'
   }
 ];
