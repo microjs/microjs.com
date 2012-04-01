@@ -1460,10 +1460,16 @@ var MicroJS = [
   },
   {
     name: "swiftcore.js",
-    github: "https://github.com/cburgdorf/swiftcore.js",
     tags: ["IOC", "dependency injection", "microkernel"],
     description: "A lightweight (3.4k) and flexible microkernel/IOC container to help to build testable decoupled systems",
     url: 'https://github.com/cburgdorf/swiftcore.js',
     source: 'https://github.com/cburgdorf/swiftcore.js/blob/master/build/swiftcore.js'
+  },
+  {
+    name: "mix.js",
+    tags: ["mixin"],
+    description: "Mixins with dependency resolution and private properties (without closures).",
+    url: 'https://github.com/bripkens/mix.js',
+    source: 'https://raw.github.com/bripkens/mix.js/master/mix.js'
   }
 ];
