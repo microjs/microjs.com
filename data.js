@@ -1457,5 +1457,13 @@ var MicroJS = [
     description: "A lightweight (3.7k) library for parsing, manipulating, and formatting dates.",
     url: 'http://momentjs.com/',
     source: 'https://raw.github.com/JerrySievert/node-date-utils/master/lib/date-utils.js'
+  },
+  {
+    name: "swiftcore.js",
+    github: "https://github.com/cburgdorf/swiftcore.js",
+    tags: ["IOC", "dependency injection", "microkernel"],
+    description: "A lightweight (3.4k) and flexible microkernel/IOC container to help to build testable decoupled systems",
+    url: 'https://github.com/cburgdorf/swiftcore.js',
+    source: 'https://github.com/cburgdorf/swiftcore.js/blob/master/build/swiftcore.js'
   }
 ];
