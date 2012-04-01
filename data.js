@@ -39,7 +39,7 @@ var MicroJS = [
     tags: ["dom-builder", "dom", "templating"],
     description: "DOMinate the DOM with this simple, yet powerful DOM building utility and template engine.",
     url: "https://github.com/adius/DOMinate/",
-    source: "https://raw.github.com/adius/DOMinate/master/src/dominate.min.js"
+    source: "https://raw.github.com/adius/DOMinate/master/src/dominate.js"
   },
   {
     name: "soma.js",
@@ -1455,21 +1455,21 @@ var MicroJS = [
     github: "https://github.com/timrwood/moment",
     tags: ["date"],
     description: "A lightweight (3.7k) library for parsing, manipulating, and formatting dates.",
-    url: 'http://momentjs.com/',
-    source: 'https://raw.github.com/JerrySievert/node-date-utils/master/lib/date-utils.js'
+    url: "http://momentjs.com/",
+    source: "https://raw.github.com/JerrySievert/node-date-utils/master/lib/date-utils.js"
   },
   {
     name: "swiftcore.js",
     tags: ["IOC", "dependency injection", "microkernel"],
     description: "A lightweight (3.4k) and flexible microkernel/IOC container to help to build testable decoupled systems",
-    url: 'https://github.com/cburgdorf/swiftcore.js',
-    source: 'https://github.com/cburgdorf/swiftcore.js/blob/master/build/swiftcore.js'
+    url: "https://github.com/cburgdorf/swiftcore.js",
+    source: "https://raw.github.com/cburgdorf/swiftcore.js/master/build/swiftcore.js"
   },
   {
     name: "mix.js",
     tags: ["mixin"],
     description: "Mixins with dependency resolution and private properties (without closures).",
-    url: 'https://github.com/bripkens/mix.js',
-    source: 'https://raw.github.com/bripkens/mix.js/master/mix.js'
+    url: "https://github.com/bripkens/mix.js",
+    source: "https://raw.github.com/bripkens/mix.js/master/mix.js"
   }
 ];

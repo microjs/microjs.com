@@ -1554,5 +1554,37 @@
 		<summary>Lightweight promises (or futures, or deffered). Includes AJAX REST functions.</summary>
 	</entry>
 
+	<entry>
+		<title>DOMinate</title>
+		<link href="https://github.com/adius/DOMinate/" />
+		<id>urn:uuid:2ecc74f0-7baf-11e1-a0c5-75a8c4a317a3</id>
+		<updated>2012-04-01'T'04:00:03Z</updated>
+		<summary>DOMinate the DOM with this simple, yet powerful DOM building utility and template engine.</summary>
+	</entry>
+
+	<entry>
+		<title>swiftcore.js</title>
+		<link href="https://github.com/cburgdorf/swiftcore.js" />
+		<id>urn:uuid:366f42a0-7baf-11e1-a0c5-75a8c4a317a3</id>
+		<updated>2012-04-01'T'04:00:03Z</updated>
+		<summary>A lightweight (3.4k) and flexible microkernel/IOC container to help to build testable decoupled systems</summary>
+	</entry>
+
+	<entry>
+		<title>mix.js</title>
+		<link href="https://github.com/bripkens/mix.js" />
+		<id>urn:uuid:36707b20-7baf-11e1-a0c5-75a8c4a317a3</id>
+		<updated>2012-04-01'T'04:00:03Z</updated>
+		<summary>Mixins with dependency resolution and private properties (without closures).</summary>
+	</entry>
+
+	<entry>
+		<title>Moment.js</title>
+		<link href="http://momentjs.com/" />
+		<id>urn:uuid:36960480-7baf-11e1-a0c5-75a8c4a317a3</id>
+		<updated>2012-04-01'T'04:00:03Z</updated>
+		<summary>A lightweight (3.7k) library for parsing, manipulating, and formatting dates.</summary>
+	</entry>
+
 
 </feed>
