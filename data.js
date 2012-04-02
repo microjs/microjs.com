@@ -1452,11 +1452,10 @@ var MicroJS = [
   },
   {
     name: "Moment.js",
-    github: "https://github.com/timrwood/moment",
     tags: ["date"],
     description: "A lightweight (3.7k) library for parsing, manipulating, and formatting dates.",
     url: "http://momentjs.com/",
-    source: "https://raw.github.com/JerrySievert/node-date-utils/master/lib/date-utils.js"
+    source: "https://raw.github.com/timrwood/moment/master/moment.js"
   },
   {
     name: "swiftcore.js",
