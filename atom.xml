@@ -1586,5 +1586,13 @@
 		<summary>A lightweight (3.7k) library for parsing, manipulating, and formatting dates.</summary>
 	</entry>
 
+	<entry>
+		<title>inputControl</title>
+		<link href="https://github.com/metalipower/inputControl" />
+		<id>urn:uuid:c45ee4d0-7eb1-11e1-aee0-5370c2aef1fb</id>
+		<updated>2012-04-04'T'23:55:46Z</updated>
+		<summary>InputControl is a powerfull script to controlling own input text to accept specific chars or numbers.</summary>
+	</entry>
+
 
 </feed>
