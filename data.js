@@ -1470,5 +1470,12 @@ var MicroJS = [
     description: "Mixins with dependency resolution and private properties (without closures).",
     url: "https://github.com/bripkens/mix.js",
     source: "https://raw.github.com/bripkens/mix.js/master/mix.js"
+  },
+  {
+    name: "inputControl",
+    tags: ["inputControl", "chars", "numbers"],
+    description: "InputControl is a powerfull script to controlling own input text to accept specific chars or numbers.",
+    url: "https://github.com/metalipower/inputControl",
+    source: "https://raw.github.com/metalipower/inputControl/master/inputControl-1.0.js"
   }
 ];
