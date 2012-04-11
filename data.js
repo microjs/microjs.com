@@ -1477,5 +1477,12 @@ var MicroJS = [
     description: "InputControl is a powerfull script to controlling own input text to accept specific chars or numbers.",
     url: "https://github.com/metalipower/inputControl",
     source: "https://raw.github.com/metalipower/inputControl/master/inputControl-1.0.js"
+  },
+  {
+    name: "cookie.js",
+    tags: ["cookie.js", "cookies", "storage"],
+    description: "A small library that makes setting, getting and removing cookies really easy.",
+    url: "https://github.com/js-coder/cookie.js",
+    source: "https://raw.github.com/js-coder/cookie.js/master/cookie.js"
   }
 ];
