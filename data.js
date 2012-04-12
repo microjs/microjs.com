@@ -1460,7 +1460,7 @@ var MicroJS = [
   {
     name: "swiftcore.js",
     tags: ["IOC", "dependency injection", "microkernel"],
-    description: "A lightweight (3.4k) and flexible microkernel/IOC container to help to build testable decoupled systems",
+    description: "A lightweight and flexible microkernel/IOC container which helps to build testable decoupled systems",
     url: "https://github.com/cburgdorf/swiftcore.js",
     source: "https://raw.github.com/cburgdorf/swiftcore.js/master/build/swiftcore.js"
   },
