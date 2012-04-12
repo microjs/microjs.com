@@ -1594,5 +1594,13 @@
 		<summary>InputControl is a powerfull script to controlling own input text to accept specific chars or numbers.</summary>
 	</entry>
 
+	<entry>
+		<title>cookie.js</title>
+		<link href="https://github.com/js-coder/cookie.js" />
+		<id>urn:uuid:00c1ca70-843c-11e1-bffc-959057636343</id>
+		<updated>2012-04-12'T'01:07:50Z</updated>
+		<summary>A small library that makes setting, getting and removing cookies really easy.</summary>
+	</entry>
+
 
 </feed>
