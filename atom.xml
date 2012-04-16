@@ -1602,5 +1602,13 @@
 		<summary>A small library that makes setting, getting and removing cookies really easy.</summary>
 	</entry>
 
+	<entry>
+		<title>an.hour.ago</title>
+		<link href="https://bitbucket.org/davidchambers/an.hour.ago" />
+		<id>urn:uuid:d0c44020-8763-11e1-a142-15af6e95aacc</id>
+		<updated>2012-04-16'T'01:30:44Z</updated>
+		<summary>DSL for expressing and comparing dates and times</summary>
+	</entry>
+
 
 </feed>
