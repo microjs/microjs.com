@@ -1484,5 +1484,12 @@ var MicroJS = [
     description: "A small library that makes setting, getting and removing cookies really easy.",
     url: "https://github.com/js-coder/cookie.js",
     source: "https://raw.github.com/js-coder/cookie.js/master/cookie.js"
+  },
+  {
+    name: "an.hour.ago",
+    tags: ["dates", "times", "language", "sugar"],
+    description: "DSL for expressing and comparing dates and times",
+    url: "https://bitbucket.org/davidchambers/an.hour.ago",
+    source: "https://bitbucket.org/davidchambers/an.hour.ago/raw/default/an.hour.ago.js"
   }
 ];
