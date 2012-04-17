@@ -1491,5 +1491,12 @@ var MicroJS = [
     description: "DSL for expressing and comparing dates and times",
     url: "https://bitbucket.org/davidchambers/an.hour.ago",
     source: "https://bitbucket.org/davidchambers/an.hour.ago/raw/default/an.hour.ago.js"
+  },
+  {
+    name: "JSDeferred",
+    tags: ["defered", "asynchronous", "callbacks"],
+    description: "Standalone and Compact asynchronous library in JavaScript.",
+    url: "http://cho45.stfuawsc.com/jsdeferred/",
+    source: "https://raw.github.com/cho45/jsdeferred/master/jsdeferred.js"
   }
 ];

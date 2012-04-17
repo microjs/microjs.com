@@ -1610,5 +1610,13 @@
 		<summary>DSL for expressing and comparing dates and times</summary>
 	</entry>
 
+	<entry>
+		<title>JSDeferred</title>
+		<link href="http://cho45.stfuawsc.com/jsdeferred/" />
+		<id>urn:uuid:fc2e0600-8863-11e1-9a43-0f4895da8f76</id>
+		<updated>2012-04-17'T'08:04:15Z</updated>
+		<summary>Standalone and Compact asynchronous library in JavaScript.</summary>
+	</entry>
+
 
 </feed>
