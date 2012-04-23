@@ -1484,5 +1484,12 @@ var MicroJS = [
     description: "A small library that makes setting, getting and removing cookies really easy.",
     url: "https://github.com/js-coder/cookie.js",
     source: "https://raw.github.com/js-coder/cookie.js/master/cookie.js"
+  },
+  {
+    name: "Riloadr",
+    tags: ["image", "responsive", "loader"],
+    description: "A cross-browser framework-independent responsive images loader. jQuery version available.",
+    url: "https://github.com/tubalmartin/riloadr",
+    source: "https://raw.github.com/tubalmartin/riloadr/master/riloadr.js"
   }
 ];
