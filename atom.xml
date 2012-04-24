@@ -1618,5 +1618,13 @@
 		<summary>Standalone and Compact asynchronous library in JavaScript.</summary>
 	</entry>
 
+	<entry>
+		<title>Riloadr</title>
+		<link href="https://github.com/tubalmartin/riloadr" />
+		<id>urn:uuid:736ca3a0-8da7-11e1-91dd-295688e74986</id>
+		<updated>2012-04-24'T'00:49:45Z</updated>
+		<summary>A cross-browser framework-independent responsive images loader. jQuery version available.</summary>
+	</entry>
+
 
 </feed>
