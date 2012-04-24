@@ -1626,5 +1626,13 @@
 		<summary>A cross-browser framework-independent responsive images loader. jQuery version available.</summary>
 	</entry>
 
+	<entry>
+		<title>Plates</title>
+		<link href="https://github.com/flatiron/plates" />
+		<id>urn:uuid:64a7a0f0-8e0a-11e1-85e5-57168b5f3cbd</id>
+		<updated>2012-04-24'T'12:38:05Z</updated>
+		<summary>Plates (short for templates) binds data to markup. Plates has NO special syntax. It works in the browser and in Node.js.</summary>
+	</entry>
+
 
 </feed>
