@@ -621,10 +621,15 @@ I need … <select id="ineed_select">
   }
 
   function render(results){
-    var html=[], i=results.length;
+    var html=[], i=results.length, r;
     while(i--) {
-      results[i].stat = results[i].ghwatchers ? t('<div class="stat"><span class="w">{ghwatchers}</span><span class="f">{ghforks}</span><span class="t">{tweets}</span></div>', results[i]) : ''
-      html.push(t('<li><a href="{url}"><div class="size">{size}</div><div class="title"><h3>{name}</h3>{stat}</div>{description}</a></li>', results[i]))
+      r = results[i]
+      r.stat =
+          '<div class="stat">'
+        + (r.ghwatchers ? t('<span class="w">{ghwatchers}</span><span class="f">{ghforks}</span>', r) : '')
+        + (r.tweets ? t('<span class="t">{tweets}</span>', r) : '')
+        + '</div>'  
+      html.push(t('<li><a href="{url}"><div class="size">{size}</div><div class="title"><h3>{name}</h3>{stat}</div>{description}</a></li>', r))
     }
     $('results').innerHTML = html.join('');
   }
