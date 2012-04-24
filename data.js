@@ -1498,5 +1498,12 @@ var MicroJS = [
     description: "Standalone and Compact asynchronous library in JavaScript.",
     url: "http://cho45.stfuawsc.com/jsdeferred/",
     source: "https://raw.github.com/cho45/jsdeferred/master/jsdeferred.js"
+  },
+  {
+    name: "Riloadr",
+    tags: ["image", "images", "responsive", "loader"],
+    description: "A cross-browser framework-independent responsive images loader. jQuery version available.",
+    url: "https://github.com/tubalmartin/riloadr",
+    source: "https://raw.github.com/tubalmartin/riloadr/master/riloadr.js"
   }
 ];
