@@ -35,7 +35,6 @@ var MicroJS = [
   {
     name: "DOMinate",
     github: "adius/DOMinate",
-    size: "0.3k",
     tags: ["dom-builder", "dom", "templating"],
     description: "DOMinate the DOM with this simple, yet powerful DOM building utility and template engine.",
     url: "https://github.com/adius/DOMinate/",
@@ -1453,7 +1452,7 @@ var MicroJS = [
   {
     name: "Moment.js",
     tags: ["date"],
-    description: "A lightweight (3.7k) library for parsing, manipulating, and formatting dates.",
+    description: "Parse, manipulate, and format dates.",
     url: "http://momentjs.com/",
     source: "https://raw.github.com/timrwood/moment/master/moment.js"
   },
