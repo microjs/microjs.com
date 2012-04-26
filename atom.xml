@@ -1634,5 +1634,13 @@
 		<summary>Plates (short for templates) binds data to markup. Plates has NO special syntax. It works in the browser and in Node.js.</summary>
 	</entry>
 
+	<entry>
+		<title>Nonsense</title>
+		<link href="https://github.com/jocafa/Nonsense" />
+		<id>urn:uuid:25f98970-8fec-11e1-8226-a32b1faeff8e</id>
+		<updated>2012-04-26'T'22:06:42Z</updated>
+		<summary>Generate repeatable random data</summary>
+	</entry>
+
 
 </feed>

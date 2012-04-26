@@ -1511,5 +1511,12 @@ var MicroJS = [
     description: "Plates (short for templates) binds data to markup. Plates has NO special syntax. It works in the browser and in Node.js.",
     url: "https://github.com/flatiron/plates",
     source: "https://raw.github.com/flatiron/plates/master/lib/plates.js"
-  }  
+  },
+  {
+    name: "Nonsense",
+    tags: ["data"],
+    description: "Generate repeatable random data",
+    url: "https://github.com/jocafa/Nonsense",
+    source: "https://raw.github.com/jocafa/Nonsense/master/Nonsense.js"
+  }
 ];
