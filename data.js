@@ -9,6 +9,14 @@
 
 var MicroJS = [
   {
+    name: "bitarray.js",
+    github: "madrobby/bitarray.js",
+    tags: ["data"],
+    description: "simple bit fields and arrays with pure JavaScript",
+    url: "http://github.com/madrobby/bitarray.js",
+    source: "https://raw.github.com/madrobby/bitarray.js/master/bitarray.js"
+  },
+  {
     name: "Qatrix",
     github: "/qatrix/Qatrix",
     tags: ["framework"],
@@ -23,6 +31,15 @@ var MicroJS = [
     description: "Smooooooth JavaScript charts for realtime streaming data",
     url: "http://smoothiecharts.org/",
     source: "https://raw.github.com/joewalnes/smoothie/master/smoothie.js"
+  },
+  {
+    name: "DOMinate",
+    github: "adius/DOMinate",
+    size: "0.3k",
+    tags: ["dom-builder", "dom", "templating"],
+    description: "DOMinate the DOM with this simple, yet powerful DOM building utility and template engine.",
+    url: "https://github.com/adius/DOMinate/",
+    source: "https://raw.github.com/adius/DOMinate/master/src/dominate.js"
   },
   {
     name: "soma.js",
@@ -1252,10 +1269,10 @@ var MicroJS = [
   {
     name: "scaleApp.js",
     github: "flosse/scaleApp",
-    tags: ["spa", "base", "events"],
+    tags: ["spa", "base", "events", "node", "pubsub"],
     description: "scaleApp is a tiny JavaScript framework for scalable one-page-applications",
     url: "http://scaleapp.org/",
-    source: "https://raw.github.com/flosse/scaleApp/master/build/scaleApp.full.js"
+    source: "https://raw.github.com/flosse/scaleApp/master/build/scaleApp.js"
   },
   {
     name: "Humane JS",
@@ -1417,5 +1434,62 @@ var MicroJS = [
     description: "Detects a mobile browser",
     url: "https://github.com/tajjyarden/bacon.js",
     source: "https://raw.github.com/tajjyarden/bacon.js/master/bacon.js"
+  },
+  {
+    name: "JSON 3",
+    github: "bestiejs/json3",
+    tags: ["polyfill", "json", "amd"],
+    description: "A modern JSON implementation compatible with nearly all JavaScript platforms.",
+    url: "http://bestiejs.github.com/json3",
+    source: "http://bestiejs.github.com/json3/lib/json3.js"
+  },
+  {
+    name: "promise.js",
+    tags: ["async", "promise", "future", "deffered", "ajax"],
+    description: "Lightweight promises (or futures, or deffered). Includes AJAX REST functions.",
+    url: "https://github.com/stackp/promisejs",
+    source: "https://raw.github.com/stackp/promisejs/master/promise.js"
+  },
+  {
+    name: "Moment.js",
+    tags: ["date"],
+    description: "A lightweight (3.7k) library for parsing, manipulating, and formatting dates.",
+    url: "http://momentjs.com/",
+    source: "https://raw.github.com/timrwood/moment/master/moment.js"
+  },
+  {
+    name: "swiftcore.js",
+    tags: ["IOC", "dependency injection", "microkernel"],
+    description: "A lightweight and flexible microkernel/IOC container which helps to build testable decoupled systems",
+    url: "https://github.com/cburgdorf/swiftcore.js",
+    source: "https://raw.github.com/cburgdorf/swiftcore.js/master/build/swiftcore.js"
+  },
+  {
+    name: "mix.js",
+    tags: ["mixin"],
+    description: "Mixins with dependency resolution and private properties (without closures).",
+    url: "https://github.com/bripkens/mix.js",
+    source: "https://raw.github.com/bripkens/mix.js/master/mix.js"
+  },
+  {
+    name: "inputControl",
+    tags: ["inputControl", "chars", "numbers"],
+    description: "InputControl is a powerfull script to controlling own input text to accept specific chars or numbers.",
+    url: "https://github.com/metalipower/inputControl",
+    source: "https://raw.github.com/metalipower/inputControl/master/inputControl-1.0.js"
+  },
+  {
+    name: "cookie.js",
+    tags: ["cookie.js", "cookies", "storage"],
+    description: "A small library that makes setting, getting and removing cookies really easy.",
+    url: "https://github.com/js-coder/cookie.js",
+    source: "https://raw.github.com/js-coder/cookie.js/master/cookie.js"
+  },
+  {
+    name: "an.hour.ago",
+    tags: ["dates", "times", "language", "sugar"],
+    description: "DSL for expressing and comparing dates and times",
+    url: "https://bitbucket.org/davidchambers/an.hour.ago",
+    source: "https://bitbucket.org/davidchambers/an.hour.ago/raw/default/an.hour.ago.js"
   }
 ];

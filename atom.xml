@@ -1530,5 +1530,85 @@
 		<summary>Detects a mobile browser</summary>
 	</entry>
 
+	<entry>
+		<title>JSON 3</title>
+		<link href="http://bestiejs.github.com/json3" />
+		<id>urn:uuid:17793830-73c4-11e1-ad0d-2dc47d3bbad5</id>
+		<updated>2012-03-22'T'02:09:14Z</updated>
+		<summary>A modern JSON implementation compatible with nearly all JavaScript platforms.</summary>
+	</entry>
+
+	<entry>
+		<title>bitarray.js</title>
+		<link href="{url}" />
+		<id>urn:uuid:56a75e90-75e7-11e1-b8ff-e196b038d66e</id>
+		<updated>2012-03-24'T'19:26:54Z</updated>
+		<summary>simple bit fields and arrays with pure JavaScript</summary>
+	</entry>
+
+	<entry>
+		<title>promise.js</title>
+		<link href="https://github.com/stackp/promisejs" />
+		<id>urn:uuid:ca56ad00-761e-11e1-ae50-dbdb76b741ed</id>
+		<updated>2012-03-25'T'02:03:42Z</updated>
+		<summary>Lightweight promises (or futures, or deffered). Includes AJAX REST functions.</summary>
+	</entry>
+
+	<entry>
+		<title>DOMinate</title>
+		<link href="https://github.com/adius/DOMinate/" />
+		<id>urn:uuid:2ecc74f0-7baf-11e1-a0c5-75a8c4a317a3</id>
+		<updated>2012-04-01'T'04:00:03Z</updated>
+		<summary>DOMinate the DOM with this simple, yet powerful DOM building utility and template engine.</summary>
+	</entry>
+
+	<entry>
+		<title>swiftcore.js</title>
+		<link href="https://github.com/cburgdorf/swiftcore.js" />
+		<id>urn:uuid:366f42a0-7baf-11e1-a0c5-75a8c4a317a3</id>
+		<updated>2012-04-01'T'04:00:03Z</updated>
+		<summary>A lightweight (3.4k) and flexible microkernel/IOC container to help to build testable decoupled systems</summary>
+	</entry>
+
+	<entry>
+		<title>mix.js</title>
+		<link href="https://github.com/bripkens/mix.js" />
+		<id>urn:uuid:36707b20-7baf-11e1-a0c5-75a8c4a317a3</id>
+		<updated>2012-04-01'T'04:00:03Z</updated>
+		<summary>Mixins with dependency resolution and private properties (without closures).</summary>
+	</entry>
+
+	<entry>
+		<title>Moment.js</title>
+		<link href="http://momentjs.com/" />
+		<id>urn:uuid:36960480-7baf-11e1-a0c5-75a8c4a317a3</id>
+		<updated>2012-04-01'T'04:00:03Z</updated>
+		<summary>A lightweight (3.7k) library for parsing, manipulating, and formatting dates.</summary>
+	</entry>
+
+	<entry>
+		<title>inputControl</title>
+		<link href="https://github.com/metalipower/inputControl" />
+		<id>urn:uuid:c45ee4d0-7eb1-11e1-aee0-5370c2aef1fb</id>
+		<updated>2012-04-04'T'23:55:46Z</updated>
+		<summary>InputControl is a powerfull script to controlling own input text to accept specific chars or numbers.</summary>
+	</entry>
+
+	<entry>
+		<title>cookie.js</title>
+		<link href="https://github.com/js-coder/cookie.js" />
+		<id>urn:uuid:00c1ca70-843c-11e1-bffc-959057636343</id>
+		<updated>2012-04-12'T'01:07:50Z</updated>
+		<summary>A small library that makes setting, getting and removing cookies really easy.</summary>
+	</entry>
+
+	<entry>
+		<title>an.hour.ago</title>
+		<link href="https://bitbucket.org/davidchambers/an.hour.ago" />
+		<id>urn:uuid:d0c44020-8763-11e1-a142-15af6e95aacc</id>
+		<updated>2012-04-16'T'01:30:44Z</updated>
+		<summary>DSL for expressing and comparing dates and times</summary>
+	</entry>
+
 
 </feed>
