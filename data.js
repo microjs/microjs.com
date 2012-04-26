@@ -1491,5 +1491,26 @@ var MicroJS = [
     description: "DSL for expressing and comparing dates and times",
     url: "https://bitbucket.org/davidchambers/an.hour.ago",
     source: "https://bitbucket.org/davidchambers/an.hour.ago/raw/default/an.hour.ago.js"
-  }
+  },
+  {
+    name: "JSDeferred",
+    tags: ["defered", "asynchronous", "callbacks"],
+    description: "Standalone and Compact asynchronous library in JavaScript.",
+    url: "http://cho45.stfuawsc.com/jsdeferred/",
+    source: "https://raw.github.com/cho45/jsdeferred/master/jsdeferred.js"
+  },
+  {
+    name: "Riloadr",
+    tags: ["image", "images", "responsive", "loader"],
+    description: "A cross-browser framework-independent responsive images loader. jQuery version available.",
+    url: "https://github.com/tubalmartin/riloadr",
+    source: "https://raw.github.com/tubalmartin/riloadr/master/riloadr.js"
+  },
+  {
+    name: "Plates",
+    tags: ["templating"],
+    description: "Plates (short for templates) binds data to markup. Plates has NO special syntax. It works in the browser and in Node.js.",
+    url: "https://github.com/flatiron/plates",
+    source: "https://raw.github.com/flatiron/plates/master/lib/plates.js"
+  }  
 ];

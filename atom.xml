@@ -1610,5 +1610,29 @@
 		<summary>DSL for expressing and comparing dates and times</summary>
 	</entry>
 
+	<entry>
+		<title>JSDeferred</title>
+		<link href="http://cho45.stfuawsc.com/jsdeferred/" />
+		<id>urn:uuid:fc2e0600-8863-11e1-9a43-0f4895da8f76</id>
+		<updated>2012-04-17'T'08:04:15Z</updated>
+		<summary>Standalone and Compact asynchronous library in JavaScript.</summary>
+	</entry>
+
+	<entry>
+		<title>Riloadr</title>
+		<link href="https://github.com/tubalmartin/riloadr" />
+		<id>urn:uuid:736ca3a0-8da7-11e1-91dd-295688e74986</id>
+		<updated>2012-04-24'T'00:49:45Z</updated>
+		<summary>A cross-browser framework-independent responsive images loader. jQuery version available.</summary>
+	</entry>
+
+	<entry>
+		<title>Plates</title>
+		<link href="https://github.com/flatiron/plates" />
+		<id>urn:uuid:64a7a0f0-8e0a-11e1-85e5-57168b5f3cbd</id>
+		<updated>2012-04-24'T'12:38:05Z</updated>
+		<summary>Plates (short for templates) binds data to markup. Plates has NO special syntax. It works in the browser and in Node.js.</summary>
+	</entry>
+
 
 </feed>
