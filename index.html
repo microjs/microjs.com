@@ -83,6 +83,16 @@
   option {
     background: #000;
   }
+  @-webkit-keyframes appear {
+    from { 
+      opacity: 0;
+      -webkit-transform: scale(0);
+    }
+    to { 
+      opacity: 1; 
+      -webkit-transform: scale(1);
+    }
+  }
   li a {
     height: 60px;
     -moz-border-radius: 25px;
@@ -98,6 +108,7 @@
     text-decoration: none;
     display: block;
     padding: 20px;
+    -webkit-animation: appear 0.2s;
   }
   li:nth-child(6n+1) a {
     background: #791982;
