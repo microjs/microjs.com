@@ -1642,5 +1642,13 @@
 		<summary>Generate repeatable random data</summary>
 	</entry>
 
+	<entry>
+		<title>Async GA</title>
+		<link href="http://mathiasbynens.be/notes/async-analytics-snippet" />
+		<id>urn:uuid:b35eaf70-903c-11e1-80f8-93b1a4a3e96b</id>
+		<updated>2012-04-27'T'07:43:36Z</updated>
+		<summary>Reduced Google's original analytics snippet by one third, with better performance.</summary>
+	</entry>
+
 
 </feed>
