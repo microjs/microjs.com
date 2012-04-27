@@ -530,6 +530,7 @@
     background: #000;
     border: solid 1px #555;
     cursor: pointer;
+    z-index: 1;
   }
   #ineed_select > div {
     height: 28px;
@@ -639,8 +640,7 @@
     , render = function (results){
         var html = [], i = results.length, r
         while (i--) {
-          r = results[i]
-          if (!results[i]._rendered) {
+          if (!(r = results[i])._rendered) {
             r.stat =
                 '<div class="stat">'
               + (r.ghwatchers ? t('<span class="w">{ghwatchers}</span><span class="f">{ghforks}</span>', r) : '')
@@ -742,7 +742,7 @@
           , fn = args.shift(), timeout = args.shift()
         return function() {
           var _args = args.concat(Array.prototype.slice.call(arguments))
-          if (!!tid) clearTimeout(tid)
+          if (tid) clearTimeout(tid)
           tid = setTimeout(function() { fn.apply(null, _args) }, timeout)
         }
       }
@@ -753,7 +753,7 @@
         $ineedText.value = el.textContent || el.innerText
         e && keydownListener({ keyCode: 13 })
       }
-    , keydownDelayed = cumulativeDelayed(function (e) { search() }, 250)
+    , keydownDelayed = cumulativeDelayed(function () { search() }, 250)
     , showsearch = function () { showopt(); search() }
       // make our pseudo-select box work as if it was a real select box
     , keydownListener = function (e) {
@@ -768,8 +768,7 @@
             hideopt(); search()
             break;
           default:
-            if (e.target.value) { hideopt(); keydownDelayed(e) }
-            else showsearch()
+            hideopt(); keydownDelayed()
         }
       }
       // arrow-up
