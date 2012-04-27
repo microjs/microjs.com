@@ -1280,6 +1280,8 @@ var MicroJS = [
     url: "http://wavded.github.com/humane-js/",
     source: "https://raw.github.com/wavded/humane-js/master/humane.js"
   },
+  /*
+  user no longer on GitHub
   {
     name: "JSFace",
     tags: ["oop", "language", "commonjs", "node", "class"],
@@ -1287,6 +1289,7 @@ var MicroJS = [
     url: "https://github.com/tannhu/jsface",
     source: "https://raw.github.com/tannhu/jsface/master/jsface.js"
   },
+ */
   {
     name: "Radio.js",
     tags: ["events", "pubsub"],
