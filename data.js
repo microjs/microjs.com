@@ -1521,5 +1521,12 @@ var MicroJS = [
     description: "Generate repeatable random data",
     url: "https://github.com/jocafa/Nonsense",
     source: "https://raw.github.com/jocafa/Nonsense/master/Nonsense.js"
+  },
+  {
+    name: "Dijon",
+    tags: ["IOC", "dependency injection"],
+    description: "An IOC/DI framework in Javascript, inspired by Robotlegs and Swiftsuspenders",
+    url: "https://github.com/creynders/dijon-framework",
+    source: "https://raw.github.com/creynders/dijon-framework/master/src/dijon.js"
   }
 ];
