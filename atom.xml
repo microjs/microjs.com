@@ -1650,5 +1650,13 @@
 		<summary>Reduced Google's original analytics snippet by one third, with better performance.</summary>
 	</entry>
 
+	<entry>
+		<title>Dijon</title>
+		<link href="https://github.com/creynders/dijon-framework" />
+		<id>urn:uuid:4313fd40-92cd-11e1-962e-19026fee6d31</id>
+		<updated>2012-04-30'T'14:03:00Z</updated>
+		<summary>An IOC/DI framework in Javascript, inspired by Robotlegs and Swiftsuspenders</summary>
+	</entry>
+
 
 </feed>
