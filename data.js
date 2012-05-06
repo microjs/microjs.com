@@ -1528,5 +1528,12 @@ var MicroJS = [
     description: "An IOC/DI framework in Javascript, inspired by Robotlegs and Swiftsuspenders",
     url: "https://github.com/creynders/dijon-framework",
     source: "https://raw.github.com/creynders/dijon-framework/master/src/dijon.js"
+  },
+  {
+    name: "ua.js",
+    tags: ["feature"],
+    description: "A very small user-agent (browser) and device detection library. ",
+    url: "https://github.com/g13n/ua.js",
+    source: "https://raw.github.com/g13n/ua.js/master/src/ua.js"
   }
 ];

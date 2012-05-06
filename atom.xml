@@ -1658,5 +1658,13 @@
 		<summary>An IOC/DI framework in Javascript, inspired by Robotlegs and Swiftsuspenders</summary>
 	</entry>
 
+	<entry>
+		<title>ua.js</title>
+		<link href="https://github.com/g13n/ua.js" />
+		<id>urn:uuid:27193800-9744-11e1-a430-391d9d792564</id>
+		<updated>2012-05-06'T'06:24:11Z</updated>
+		<summary>A very small user-agent (browser) and device detection library. </summary>
+	</entry>
+
 
 </feed>
