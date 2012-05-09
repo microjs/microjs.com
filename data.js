@@ -1535,5 +1535,12 @@ var MicroJS = [
     description: "A very small user-agent (browser) and device detection library. ",
     url: "https://github.com/g13n/ua.js",
     source: "https://raw.github.com/g13n/ua.js/master/src/ua.js"
+  },
+  {
+    name: "microtext.js",
+    tags: ["text utility"],
+    description: "A JavaScript utility for processing text.",
+    url: "https://github.com/rodrigoalvesvieira/microtext.js/",
+    source: "https://raw.github.com/rodrigoalvesvieira/microtext.js/master/microtext.js"
   }
 ];
