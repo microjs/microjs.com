@@ -1666,5 +1666,13 @@
 		<summary>A very small user-agent (browser) and device detection library. </summary>
 	</entry>
 
+	<entry>
+		<title>fader.js</title>
+		<link href="https://github.com/lukasalexandre/fader.js" />
+		<id>urn:uuid:5b39c1f0-9a18-11e1-9295-ef5086639395</id>
+		<updated>2012-05-09'T'20:48:17Z</updated>
+		<summary>A micro js to fade in and out elements.</summary>
+	</entry>
+
 
 </feed>
