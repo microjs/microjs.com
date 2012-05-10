@@ -1682,13 +1682,5 @@
 		<summary>A JavaScript utility for processing text.</summary>
 	</entry>
 
-	<entry>
-		<title>Quipo.js</title>
-		<link href="http://quipojs.quipoapps.com" />
-		<id>urn:uuid:7350e260-9a99-11e1-aaf6-43f0c701ff48</id>
-		<updated>2012-05-10'T'12:12:35Z</updated>
-		<summary>QuipoJS is a minimalist DOM library, AJAX and event listener, for desktop and mobile browsers.</summary>
-	</entry>
-
 
 </feed>
