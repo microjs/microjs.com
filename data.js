@@ -30,7 +30,7 @@ var MicroJS = [
     tags: ["framework"],
     description: "A new lightweight JavaScript framework for easily building up high performance web application with less code",
     url: "http://qatrix.com",
-    source: "http://qatrix.com/files/qatrix-0.8"
+    source: "http://qatrix.com/files/qatrix-0.9.3"
   },
   {
     name: "Smoothie Charts",
