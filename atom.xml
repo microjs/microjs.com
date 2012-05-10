@@ -1674,5 +1674,13 @@
 		<summary>A micro js to fade in and out elements.</summary>
 	</entry>
 
+	<entry>
+		<title>microtext.js</title>
+		<link href="https://github.com/rodrigoalvesvieira/microtext.js/" />
+		<id>urn:uuid:6ca48e30-9a8f-11e1-b280-1f2ad5fbea19</id>
+		<updated>2012-05-10'T'11:00:38Z</updated>
+		<summary>A JavaScript utility for processing text.</summary>
+	</entry>
+
 
 </feed>

@@ -1543,5 +1543,12 @@ var MicroJS = [
     tags: ["animation"],
     description: "A micro library to fade elements in and out.",
     source: "https://raw.github.com/lukasalexandre/fader.js/master/fader.js"
+  },
+  {
+    name: "microtext.js",
+    tags: ["text utility"],
+    description: "A JavaScript utility for processing text.",
+    url: "https://github.com/rodrigoalvesvieira/microtext.js/",
+    source: "https://raw.github.com/rodrigoalvesvieira/microtext.js/master/microtext.js"
   }
 ];
