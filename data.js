@@ -9,14 +9,6 @@
 
 var MicroJS = [
   {
-    name: "Quipo.js",
-    github: "Cedriking/QuipoJS",
-    tags: ["base", "dom", "webkit", "jquery", "ajax", "events", "mobile"],
-    description: "QuipoJS is a minimalist dom library, ajax and event listener, for desktop and mobile browsers.",
-    url: "http://quipojs.quipoapps.com",
-    source: "https://raw.github.com/Cedriking/QuipoJS/master/Quipo.js"
-  },
-  {
     name: "bitarray.js",
     github: "madrobby/bitarray.js",
     tags: ["data"],
