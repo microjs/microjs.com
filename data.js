@@ -1550,5 +1550,12 @@ var MicroJS = [
     description: "A JavaScript utility for processing text.",
     url: "https://github.com/rodrigoalvesvieira/microtext.js/",
     source: "https://raw.github.com/rodrigoalvesvieira/microtext.js/master/microtext.js"
+  },
+  {
+    name: "lostorage.js",
+    tags: ["storage", "localStorage", "sessionStorage"],
+    description: "Client-side storage the way it should be – using the HTML5 localStorage API. lostorage.js allows you to save any kind of data.",
+    url: "https://github.com/js-coder/lostorage.js",
+    source: "https://github.com/js-coder/lostorage.js/blob/master/lostorage.js"
   }
 ];
