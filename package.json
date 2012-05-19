@@ -11,5 +11,6 @@
       , "request": "*"
       , "date-utils": "*"
       , "node-uuid": "*"
+      , "errno": "*"
     }
 }
