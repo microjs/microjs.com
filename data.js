@@ -1564,6 +1564,6 @@ var MicroJS = [
     tags: ["storage", "localStorage", "sessionStorage"],
     description: "Client-side storage the way it should be – using the HTML5 localStorage API. lostorage.js allows you to save any kind of data.",
     url: "https://github.com/js-coder/lostorage.js",
-    source: "https://github.com/js-coder/lostorage.js/blob/master/lostorage.js"
+    source: "https://raw.github.com/js-coder/lostorage.js/master/lostorage.js"
   }
 ];
