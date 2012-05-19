@@ -9,6 +9,14 @@
 
 var MicroJS = [
   {
+    name: "is.js",
+    github: "Cedriking/is.js",
+    tags: ["condition", "validate"],
+    description: "Micro javascript library that allows you to do conditions faster.",
+    url: "https://github.com/Cedriking/is.js",
+    source: "https://raw.github.com/Cedriking/is.js/master/is.js"
+  },
+  {
     name: "bitarray.js",
     github: "madrobby/bitarray.js",
     tags: ["data"],
