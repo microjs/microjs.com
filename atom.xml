@@ -1682,5 +1682,29 @@
 		<summary>A JavaScript utility for processing text.</summary>
 	</entry>
 
+	<entry>
+		<title>is.js</title>
+		<link href="https://github.com/Cedriking/is.js" />
+		<id>urn:uuid:320c2cc0-a1a5-11e1-ae0c-2f9a5d0285ce</id>
+		<updated>2012-05-19'T'11:23:44Z</updated>
+		<summary>Micro javascript library that allows you to do conditions faster.</summary>
+	</entry>
+
+	<entry>
+		<title>lostorage.js</title>
+		<link href="https://github.com/js-coder/lostorage.js" />
+		<id>urn:uuid:33dfdb50-a1a5-11e1-ae0c-2f9a5d0285ce</id>
+		<updated>2012-05-19'T'11:23:44Z</updated>
+		<summary>Client-side storage the way it should be – using the HTML5 localStorage API. lostorage.js allows you to save any kind of data.</summary>
+	</entry>
+
+	<entry>
+		<title>guggenheim.js</title>
+		<link href="https://github.com/OiNutter/guggenheim.js" />
+		<id>urn:uuid:33ed96f0-a1a5-11e1-ae0c-2f9a5d0285ce</id>
+		<updated>2012-05-19'T'11:23:44Z</updated>
+		<summary>A framework agnostic, animated, gallery plugin</summary>
+	</entry>
+
 
 </feed>
