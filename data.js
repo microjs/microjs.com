@@ -284,14 +284,14 @@ var MicroJS = [
     url: "https://github.com/madrobby/emile",
     source: "https://raw.github.com/madrobby/emile/master/emile.js"
   },
-  /*{
+  {
     name: "Lawnchair",
     github: "brianleroux/lawnchair",
     tags: ["data","storage","webkit","mobile"],
     description: "Client side JSON document store. Perfect for WebKit mobile apps.",
     url: "http://westcoastlogic.com/lawnchair/",
     source: "http://westcoastlogic.com/lawnchair/downloads/lawnchair-0.6.1.js"
-  },*/
+  },
   /* Too Big 7kb
   {
     name: "ExplorerCanvas",
