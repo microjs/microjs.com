@@ -1550,5 +1550,12 @@ var MicroJS = [
     description: "A JavaScript utility for processing text.",
     url: "https://github.com/rodrigoalvesvieira/microtext.js/",
     source: "https://raw.github.com/rodrigoalvesvieira/microtext.js/master/microtext.js"
+  },
+  {
+    name: "guggenheim.js",
+    tags: ["gallery","plugin","animation"],
+    description: "A framework agnostic, animated, gallery plugin",
+    url: "https://github.com/OiNutter/guggenheim.js",
+    source: "https://raw.github.com/OiNutter/guggenheim.js/master/dist/guggenheim.min.js"
   }
 ];
