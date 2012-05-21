@@ -1706,5 +1706,13 @@
 		<summary>A framework agnostic, animated, gallery plugin</summary>
 	</entry>
 
+	<entry>
+		<title>husl</title>
+		<link href="http://boronine.github.com/husl" />
+		<id>urn:uuid:7fa98ec0-a2e3-11e1-b7c8-f9b706bd3c5f</id>
+		<updated>2012-05-21'T'01:22:43Z</updated>
+		<summary>A human-friendly alternative to the HSL color space.</summary>
+	</entry>
+
 
 </feed>
