@@ -26,11 +26,11 @@ var MicroJS = [
   },
   {
     name: "Qatrix",
-    github: "/qatrix/Qatrix",
+    github: "qatrix/Qatrix",
     tags: ["framework"],
-    description: "A new lightweight JavaScript framework for easily building up high performance web application with less code",
+    description: "A lightweight JavaScript framework for easily building up high performance web application with less code",
     url: "http://qatrix.com",
-    source: "http://qatrix.com/files/qatrix-0.9.3"
+    source: "http://qatrix.com/files/qatrix-0.9.4"
   },
   {
     name: "Smoothie Charts",
