@@ -9,6 +9,14 @@
 
 var MicroJS = [
   {
+    name: "undelay!",
+    github: "bemson/undelay",
+    tags: ["polyfill", "responsive", "js"],
+    description: "Make window.setTimeout(0) faster.",
+    url: "https://github.com/bemson/undelay",
+    source: "https://raw.github.com/bemson/undelay/master/src/undelay.js"
+  },
+  {
     name: "is.js",
     github: "Cedriking/is.js",
     tags: ["condition", "validate"],
