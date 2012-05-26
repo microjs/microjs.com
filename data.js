@@ -1580,4 +1580,12 @@ var MicroJS = [
     url: "https://github.com/OiNutter/guggenheim.js",
     source: "https://raw.github.com/OiNutter/guggenheim.js/master/src/guggenheim.js"
   }
+  {
+    name: "jvent.js",
+    github: "pazguille/jvent",
+    tags: ["events"],
+    description: "Event Emitter Class for the browser based on NodeJS EventEmitter.",
+    url: "https://github.com/pazguille/jvent",
+    source: "https://raw.github.com/pazguille/jvent/master/jvent.js"
+  },
 ];
