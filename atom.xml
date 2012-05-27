@@ -1714,5 +1714,13 @@
 		<summary>A human-friendly alternative to the HSL color space.</summary>
 	</entry>
 
+	<entry>
+		<title>jvent.js</title>
+		<link href="https://github.com/pazguille/jvent" />
+		<id>urn:uuid:bb8c6900-a7eb-11e1-98fb-cf55b8b12b1f</id>
+		<updated>2012-05-27'T'11:04:10Z</updated>
+		<summary>Event Emitter Class for the browser based on NodeJS EventEmitter</summary>
+	</entry>
+
 
 </feed>
