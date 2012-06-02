@@ -1535,5 +1535,21 @@ var MicroJS = [
     description: "A very small user-agent (browser) and device detection library. ",
     url: "https://github.com/g13n/ua.js",
     source: "https://raw.github.com/g13n/ua.js/master/src/ua.js"
+  },
+  {
+    name: "fader.js",
+    github: "lukasalexandre/fader.js",
+    url: "https://github.com/lukasalexandre/fader.js",
+    tags: ["animation"],
+    description: "A micro js to fade in and out elements.",
+    source: "https://raw.github.com/lukasalexandre/fader.js/master/fader.js"
+  },
+  {
+    name: "TemporizedSlider.js",
+    github: "lukasalexandre/TemporizedSlider.js",
+    url: "https://github.com/lukasalexandre/TemporizedSlider.js",
+    tags: ["animation", "events"],
+    description: "A micro js that implements a customizable temporized image slider, with custom text and title for each one.",
+    source: "https://raw.github.com/lukasalexandre/TemporizedSlider.js/master/temporized_slider.js"
   }
 ];
