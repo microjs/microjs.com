@@ -1722,5 +1722,13 @@
 		<summary>Event Emitter Class for the browser based on NodeJS EventEmitter</summary>
 	</entry>
 
+	<entry>
+		<title>TemporizedSlider.js</title>
+		<link href="https://github.com/lukasalexandre/TemporizedSlider.js" />
+		<id>urn:uuid:f2a66860-ad26-11e1-af07-11184ea87875</id>
+		<updated>2012-06-03'T'02:50:38Z</updated>
+		<summary>A micro library that implements a customizable temporized image slider, with custom text and title for each one.</summary>
+	</entry>
+
 
 </feed>
