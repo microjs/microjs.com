@@ -1552,14 +1552,6 @@ var MicroJS = [
     source: "https://raw.github.com/g13n/ua.js/master/src/ua.js"
   },
   {
-    name: "fader.js",
-    github: "lukasalexandre/fader.js",
-    url: "https://github.com/lukasalexandre/fader.js",
-    tags: ["animation"],
-    description: "A micro library to fade elements in and out.",
-    source: "https://raw.github.com/lukasalexandre/fader.js/master/fader.js"
-  },
-  {
     name: "microtext.js",
     tags: ["text utility"],
     description: "A JavaScript utility for processing text.",
@@ -1587,5 +1579,21 @@ var MicroJS = [
     description: "Event Emitter Class for the browser based on NodeJS EventEmitter",
     url: "https://github.com/pazguille/jvent",
     source: "https://raw.github.com/pazguille/jvent/master/jvent.js"
+  },
+  {
+    name: "fader.js",
+    github: "lukasalexandre/fader.js",
+    url: "https://github.com/lukasalexandre/fader.js",
+    tags: ["animation"],
+    description: "A micro library to fade elements in and out.",
+    source: "https://raw.github.com/lukasalexandre/fader.js/master/fader.js"
+  },
+  {
+    name: "TemporizedSlider.js",
+    github: "lukasalexandre/TemporizedSlider.js",
+    url: "https://github.com/lukasalexandre/TemporizedSlider.js",
+    tags: ["animation", "events"],
+    description: "A micro library that implements a customizable temporized image slider, with custom text and title for each one.",
+    source: "https://raw.github.com/lukasalexandre/TemporizedSlider.js/master/temporized_slider.js"
   }
 ];
