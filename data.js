@@ -1595,5 +1595,12 @@ var MicroJS = [
     tags: ["animation", "events"],
     description: "A micro library that implements a customizable temporized image slider, with custom text and title for each one.",
     source: "https://raw.github.com/lukasalexandre/TemporizedSlider.js/master/temporized_slider.js"
+  },
+  {
+    name: "Ajax-Upload",
+    tags: ["ajax", "upload", "file", "jquery"],
+    description: "Ajax upload is simple library which uses jquery and allows you to upload images without refreshing the page.",
+    url: "http://code.google.com/p/ajax-upload",
+    source: "http://code.google.com/p/ajax-upload/downloads/list"
   }
 ];
