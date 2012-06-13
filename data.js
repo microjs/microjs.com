@@ -216,6 +216,14 @@ var MicroJS = [
     source: "https://raw.github.com/madrobby/zepto/master/src/zepto.js"
   },
   {
+    name: "QUO",
+    tags: ["base", "dom", "webkit", "jquery", "ajax", "events", "mobile"],
+    description: "jQuery API-compatible library for mobile projects. Ajax, Events, Data and Touch modules.",
+    url: "http://quojs.tapquo.com/",
+    source: "https://raw.github.com/soyjavi/QuoJS/master/release/QuoJS.js"
+    
+  },
+  {
     name: "xui",
     github: "xui/xui",
     tags: ["base", "dom", "mobile", "ajax", "events", "webkit", "animation"],
