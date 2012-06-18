@@ -1601,6 +1601,6 @@ var MicroJS = [
     url: "https://github.com/shiftyp/hypo",
     tags: ["dependency injection", "IOC"],
     description: "A micro dependency injection framework inspired by Spring. Simple and to the point.",
-    source: "https://raw.github.com/shiftyp/hypo/master/dist/hypo.min.js"
+    source: "https://raw.github.com/shiftyp/hypo/master/dist/hypo.src.js"
   }
 ];
