@@ -1,16 +1,20 @@
 {
     "name": "microjs.com"
+  , "author": ""
   , "version": "1.0.0"
   , "private": true
   , "devDependencies": {
         "async": "*"
       , "colors": "*"
       , "uglify-js": "*"
-      , "gzip": "*"
       , "zip": "*"
       , "request": "*"
       , "date-utils": "*"
       , "node-uuid": "*"
       , "errno": "*"
+    }
+  , "dependencies": {}
+  , "engines": {
+        "node": "*"
     }
 }
