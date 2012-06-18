@@ -1352,7 +1352,7 @@ var MicroJS = [
     tags: ["events","dispatcher","static","callbacks"],
     url: "https://github.com/dperrymorrow/callbacks.js",
     description: "Event dispatching, can be used either as static or instance based.",
-    source: "https://raw.github.com/dperrymorrow/callbacks.js/master/callbacks-min.js"
+    source: "https://raw.github.com/dperrymorrow/callbacks.js/master/callbacks.js"
   },
   {
     name: "Router.js",

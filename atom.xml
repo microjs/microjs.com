@@ -1035,14 +1035,6 @@
 	</entry>
 
 	<entry>
-		<title>Callbacks.js</title>
-		<link href="https://github.com/dperrymorrow/callbacks.js" />
-		<id>urn:uuid:9331a530-5839-11e1-b6d9-ed92c789bce0</id>
-		<updated>2012-02-16'T'00:59:56Z</updated>
-		<summary>Event dispatching, can be used either as static or instance based.</summary>
-	</entry>
-
-	<entry>
 		<title>draggable.js</title>
 		<link href="http://gtramontina.github.com/draggable.js/" />
 		<id>urn:uuid:9331f350-5839-11e1-b6d9-ed92c789bce0</id>
@@ -1736,6 +1728,14 @@
 		<id>urn:uuid:00604ec0-b91c-11e1-b503-89508218af53</id>
 		<updated>2012-06-18'T'08:02:35Z</updated>
 		<summary>A lightweight, full featured client side router for single page apps.</summary>
+	</entry>
+
+	<entry>
+		<title>Callbacks.js</title>
+		<link href="https://github.com/dperrymorrow/callbacks.js" />
+		<id>urn:uuid:64f8df00-b91c-11e1-b0c5-4f5fd517b391</id>
+		<updated>2012-06-18'T'08:05:14Z</updated>
+		<summary>Event dispatching, can be used either as static or instance based.</summary>
 	</entry>
 
 
