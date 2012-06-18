@@ -91,14 +91,6 @@
 	</entry>
 
 	<entry>
-		<title>Lawnchair</title>
-		<link href="http://westcoastlogic.com/lawnchair/" />
-		<id>urn:uuid:8ee618d0-5839-11e1-b6d9-ed92c789bce0</id>
-		<updated>2012-02-16'T'00:59:56Z</updated>
-		<summary>Client side JSON document store. Perfect for WebKit mobile apps.</summary>
-	</entry>
-
-	<entry>
 		<title>mathmethods.js</title>
 		<link href="https://bitbucket.org/davidchambers/mathmethods.js" />
 		<id>urn:uuid:8efa1600-5839-11e1-b6d9-ed92c789bce0</id>
@@ -336,14 +328,6 @@
 		<id>urn:uuid:8ff2cde0-5839-11e1-b6d9-ed92c789bce0</id>
 		<updated>2012-02-16'T'00:59:56Z</updated>
 		<summary>Classy is a small JavaScript library that implements Python inspired classes for JavaScript.</summary>
-	</entry>
-
-	<entry>
-		<title>Director</title>
-		<link href="https://github.com/flatiron/director" />
-		<id>urn:uuid:8ffd5530-5839-11e1-b6d9-ed92c789bce0</id>
-		<updated>2012-02-16'T'00:59:56Z</updated>
-		<summary>A lightweight, full featured client side router for single page apps.</summary>
 	</entry>
 
 	<entry>
@@ -707,14 +691,6 @@
 	</entry>
 
 	<entry>
-		<title>DOMBuilder</title>
-		<link href="https://github.com/insin/DOMBuilder" />
-		<id>urn:uuid:91d2b170-5839-11e1-b6d9-ed92c789bce0</id>
-		<updated>2012-02-16'T'00:59:56Z</updated>
-		<summary>Declarative builder with (mostly) interchangeable DOM or HTML output</summary>
-	</entry>
-
-	<entry>
 		<title>DragDrop</title>
 		<link href="https://github.com/kbjr/DragDrop" />
 		<id>urn:uuid:91d41100-5839-11e1-b6d9-ed92c789bce0</id>
@@ -1051,27 +1027,11 @@
 	</entry>
 
 	<entry>
-		<title>Callbacks.js</title>
-		<link href="https://github.com/dperrymorrow/callbacks.js" />
-		<id>urn:uuid:9331a530-5839-11e1-b6d9-ed92c789bce0</id>
-		<updated>2012-02-16'T'00:59:56Z</updated>
-		<summary>Event dispatching, can be used either as static or instance based.</summary>
-	</entry>
-
-	<entry>
 		<title>draggable.js</title>
 		<link href="http://gtramontina.github.com/draggable.js/" />
 		<id>urn:uuid:9331f350-5839-11e1-b6d9-ed92c789bce0</id>
 		<updated>2012-02-16'T'00:59:56Z</updated>
 		<summary>Make your dom elements draggable easily.</summary>
-	</entry>
-
-	<entry>
-		<title>Router.js</title>
-		<link href="https://github.com/dperrymorrow/router.js" />
-		<id>urn:uuid:93348b60-5839-11e1-b6d9-ed92c789bce0</id>
-		<updated>2012-02-16'T'00:59:56Z</updated>
-		<summary>controller/action convention for javascript. home/index would automatically instantiate Home js class and fire index action.</summary>
 	</entry>
 
 	<entry>
@@ -1355,14 +1315,6 @@
 	</entry>
 
 	<entry>
-		<title>Evidence</title>
-		<link href="https://github.com/madrobby/evidence" />
-		<id>urn:uuid:ca50d9d0-6308-11e1-9237-1ba14cd38f96</id>
-		<updated>2012-02-29'T'19:08:26Z</updated>
-		<summary>Evidence is a JavaScript unit testing library. This fork exclusively uses the console to log.</summary>
-	</entry>
-
-	<entry>
 		<title>Viper</title>
 		<link href="https://github.com/alpha123/Viper" />
 		<id>urn:uuid:ca54aa60-6308-11e1-9237-1ba14cd38f96</id>
@@ -1499,14 +1451,6 @@
 	</entry>
 
 	<entry>
-		<title>Qatrix</title>
-		<link href="http://qatrix.com" />
-		<id>urn:uuid:00415520-718b-11e1-a49d-39e7075a9518</id>
-		<updated>2012-03-19'T'06:16:00Z</updated>
-		<summary>A new lightweight JavaScript framework for easily building up high performance web application with less code</summary>
-	</entry>
-
-	<entry>
 		<title>State Machine</title>
 		<link href="https://github.com/jakesgordon/javascript-state-machine" />
 		<id>urn:uuid:086ba250-718b-11e1-a49d-39e7075a9518</id>
@@ -1576,14 +1520,6 @@
 		<id>urn:uuid:36707b20-7baf-11e1-a0c5-75a8c4a317a3</id>
 		<updated>2012-04-01'T'04:00:03Z</updated>
 		<summary>Mixins with dependency resolution and private properties (without closures).</summary>
-	</entry>
-
-	<entry>
-		<title>Moment.js</title>
-		<link href="http://momentjs.com/" />
-		<id>urn:uuid:36960480-7baf-11e1-a0c5-75a8c4a317a3</id>
-		<updated>2012-04-01'T'04:00:03Z</updated>
-		<summary>A lightweight (3.7k) library for parsing, manipulating, and formatting dates.</summary>
 	</entry>
 
 	<entry>
@@ -1728,6 +1664,46 @@
 		<id>urn:uuid:f2a66860-ad26-11e1-af07-11184ea87875</id>
 		<updated>2012-06-03'T'02:50:38Z</updated>
 		<summary>A micro library that implements a customizable temporized image slider, with custom text and title for each one.</summary>
+	</entry>
+
+	<entry>
+		<title>pubsub.js</title>
+		<link href="https://github.com/federico-lox/pubsub.js" />
+		<id>urn:uuid:8f3626f0-b918-11e1-9936-ed62e6766b2e</id>
+		<updated>2012-06-18'T'07:38:02Z</updated>
+		<summary>A tiny, optimized, tested, standalone and robust pubsub implementation supporting different javascript environments</summary>
+	</entry>
+
+	<entry>
+		<title>Lawnchair</title>
+		<link href="http://brian.io/lawnchair/" />
+		<id>urn:uuid:25a19eb0-b91b-11e1-8e03-7b6edcf5c76a</id>
+		<updated>2012-06-18'T'07:56:33Z</updated>
+		<summary>Client side JSON document store. Perfect for WebKit mobile apps.</summary>
+	</entry>
+
+	<entry>
+		<title>Director</title>
+		<link href="https://github.com/flatiron/director" />
+		<id>urn:uuid:00604ec0-b91c-11e1-b503-89508218af53</id>
+		<updated>2012-06-18'T'08:02:35Z</updated>
+		<summary>A lightweight, full featured client side router for single page apps.</summary>
+	</entry>
+
+	<entry>
+		<title>Callbacks.js</title>
+		<link href="https://github.com/dperrymorrow/callbacks.js" />
+		<id>urn:uuid:64f8df00-b91c-11e1-b0c5-4f5fd517b391</id>
+		<updated>2012-06-18'T'08:05:14Z</updated>
+		<summary>Event dispatching, can be used either as static or instance based.</summary>
+	</entry>
+
+	<entry>
+		<title>Router.js</title>
+		<link href="https://github.com/dperrymorrow/router.js" />
+		<id>urn:uuid:b47365f0-b91c-11e1-bec1-197e19c25401</id>
+		<updated>2012-06-18'T'08:07:26Z</updated>
+		<summary>controller/action convention for javascript. home/index would automatically instantiate Home js class and fire index action.</summary>
 	</entry>
 
 
