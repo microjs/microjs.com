@@ -206,7 +206,7 @@ var MicroJS = [
     tags: ["events", "pubsub", "publish", "subscribe", "node", "rhino", "amd", "commonjs", "titanium"],
     description: "A tiny, optimized, tested, standalone and robust pubsub implementation supporting different javascript environments",
     url: "https://github.com/federico-lox/pubsub.js",
-    source: "https://github.com/federico-lox/pubsub.js/blob/master/src/pubsub.js"
+    source: "https://raw.github.com/federico-lox/pubsub.js/master/src/pubsub.js"
   },
   {
     name: "Modernizr",
