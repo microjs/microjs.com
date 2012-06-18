@@ -202,6 +202,13 @@ var MicroJS = [
     source: "https://raw.github.com/daniellmb/MinPubSub/master/minpubsub.src.js"
   },
   {
+    name: "pubsub.js",
+    tags: ["events", "pubsub", "publish", "subscribe", "node", "rhino", "amd", "commonjs", "titanium"],
+    description: "A tiny, optimized, tested, standalone and robust pubsub implementation supporting different javascript environments",
+    url: "https://github.com/federico-lox/pubsub.js",
+    source: "https://github.com/federico-lox/pubsub.js/blob/master/src/pubsub.js"
+  },
+  {
     name: "Modernizr",
     tags: ["feature"],
     description: "Detects native CSS3 and HTML5 features available in the current browser.",
