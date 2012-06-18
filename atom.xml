@@ -691,14 +691,6 @@
 	</entry>
 
 	<entry>
-		<title>DOMBuilder</title>
-		<link href="https://github.com/insin/DOMBuilder" />
-		<id>urn:uuid:91d2b170-5839-11e1-b6d9-ed92c789bce0</id>
-		<updated>2012-02-16'T'00:59:56Z</updated>
-		<summary>Declarative builder with (mostly) interchangeable DOM or HTML output</summary>
-	</entry>
-
-	<entry>
 		<title>DragDrop</title>
 		<link href="https://github.com/kbjr/DragDrop" />
 		<id>urn:uuid:91d41100-5839-11e1-b6d9-ed92c789bce0</id>
@@ -1323,14 +1315,6 @@
 	</entry>
 
 	<entry>
-		<title>Evidence</title>
-		<link href="https://github.com/madrobby/evidence" />
-		<id>urn:uuid:ca50d9d0-6308-11e1-9237-1ba14cd38f96</id>
-		<updated>2012-02-29'T'19:08:26Z</updated>
-		<summary>Evidence is a JavaScript unit testing library. This fork exclusively uses the console to log.</summary>
-	</entry>
-
-	<entry>
 		<title>Viper</title>
 		<link href="https://github.com/alpha123/Viper" />
 		<id>urn:uuid:ca54aa60-6308-11e1-9237-1ba14cd38f96</id>
@@ -1467,14 +1451,6 @@
 	</entry>
 
 	<entry>
-		<title>Qatrix</title>
-		<link href="http://qatrix.com" />
-		<id>urn:uuid:00415520-718b-11e1-a49d-39e7075a9518</id>
-		<updated>2012-03-19'T'06:16:00Z</updated>
-		<summary>A new lightweight JavaScript framework for easily building up high performance web application with less code</summary>
-	</entry>
-
-	<entry>
 		<title>State Machine</title>
 		<link href="https://github.com/jakesgordon/javascript-state-machine" />
 		<id>urn:uuid:086ba250-718b-11e1-a49d-39e7075a9518</id>
@@ -1544,14 +1520,6 @@
 		<id>urn:uuid:36707b20-7baf-11e1-a0c5-75a8c4a317a3</id>
 		<updated>2012-04-01'T'04:00:03Z</updated>
 		<summary>Mixins with dependency resolution and private properties (without closures).</summary>
-	</entry>
-
-	<entry>
-		<title>Moment.js</title>
-		<link href="http://momentjs.com/" />
-		<id>urn:uuid:36960480-7baf-11e1-a0c5-75a8c4a317a3</id>
-		<updated>2012-04-01'T'04:00:03Z</updated>
-		<summary>A lightweight (3.7k) library for parsing, manipulating, and formatting dates.</summary>
 	</entry>
 
 	<entry>
