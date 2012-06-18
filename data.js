@@ -1359,7 +1359,7 @@ var MicroJS = [
     tags: ["routing","rails"],
     url: "https://github.com/dperrymorrow/router.js",
     description: "controller/action convention for javascript. home/index would automatically instantiate Home js class and fire index action.",
-    source: "https://raw.github.com/dperrymorrow/router.js/master/router-min.js"
+    source: "https://raw.github.com/dperrymorrow/router.js/master/router.js"
   },
   {
     name: "Blueshell",

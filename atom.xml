@@ -1043,14 +1043,6 @@
 	</entry>
 
 	<entry>
-		<title>Router.js</title>
-		<link href="https://github.com/dperrymorrow/router.js" />
-		<id>urn:uuid:93348b60-5839-11e1-b6d9-ed92c789bce0</id>
-		<updated>2012-02-16'T'00:59:56Z</updated>
-		<summary>controller/action convention for javascript. home/index would automatically instantiate Home js class and fire index action.</summary>
-	</entry>
-
-	<entry>
 		<title>Radio.js</title>
 		<link href="http://radio.uxder.com" />
 		<id>urn:uuid:933cc8c0-5839-11e1-b6d9-ed92c789bce0</id>
@@ -1736,6 +1728,14 @@
 		<id>urn:uuid:64f8df00-b91c-11e1-b0c5-4f5fd517b391</id>
 		<updated>2012-06-18'T'08:05:14Z</updated>
 		<summary>Event dispatching, can be used either as static or instance based.</summary>
+	</entry>
+
+	<entry>
+		<title>Router.js</title>
+		<link href="https://github.com/dperrymorrow/router.js" />
+		<id>urn:uuid:b47365f0-b91c-11e1-bec1-197e19c25401</id>
+		<updated>2012-06-18'T'08:07:26Z</updated>
+		<summary>controller/action convention for javascript. home/index would automatically instantiate Home js class and fire index action.</summary>
 	</entry>
 
 
