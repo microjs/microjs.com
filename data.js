@@ -304,8 +304,8 @@ var MicroJS = [
     github: "brianleroux/lawnchair",
     tags: ["data","storage","webkit","mobile"],
     description: "Client side JSON document store. Perfect for WebKit mobile apps.",
-    url: "http://westcoastlogic.com/lawnchair/",
-    source: "http://westcoastlogic.com/lawnchair/downloads/lawnchair-0.6.1.js"
+    url: "http://brian.io/lawnchair/",
+    source: "http://brian.io/lawnchair/downloads/lawnchair-0.6.1.js"
   },
   /* Too Big 7kb
   {

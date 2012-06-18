@@ -91,14 +91,6 @@
 	</entry>
 
 	<entry>
-		<title>Lawnchair</title>
-		<link href="http://westcoastlogic.com/lawnchair/" />
-		<id>urn:uuid:8ee618d0-5839-11e1-b6d9-ed92c789bce0</id>
-		<updated>2012-02-16'T'00:59:56Z</updated>
-		<summary>Client side JSON document store. Perfect for WebKit mobile apps.</summary>
-	</entry>
-
-	<entry>
 		<title>mathmethods.js</title>
 		<link href="https://bitbucket.org/davidchambers/mathmethods.js" />
 		<id>urn:uuid:8efa1600-5839-11e1-b6d9-ed92c789bce0</id>
@@ -1736,6 +1728,14 @@
 		<id>urn:uuid:8f3626f0-b918-11e1-9936-ed62e6766b2e</id>
 		<updated>2012-06-18'T'07:38:02Z</updated>
 		<summary>A tiny, optimized, tested, standalone and robust pubsub implementation supporting different javascript environments</summary>
+	</entry>
+
+	<entry>
+		<title>Lawnchair</title>
+		<link href="http://brian.io/lawnchair/" />
+		<id>urn:uuid:25a19eb0-b91b-11e1-8e03-7b6edcf5c76a</id>
+		<updated>2012-06-18'T'07:56:33Z</updated>
+		<summary>Client side JSON document store. Perfect for WebKit mobile apps.</summary>
 	</entry>
 
 
