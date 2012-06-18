@@ -1730,5 +1730,13 @@
 		<summary>A micro library that implements a customizable temporized image slider, with custom text and title for each one.</summary>
 	</entry>
 
+	<entry>
+		<title>hypo</title>
+		<link href="https://github.com/shiftyp/hypo" />
+		<id>urn:uuid:5f193030-b93f-11e1-b5eb-452b11c0ad4e</id>
+		<updated>2012-06-18'T'12:15:48Z</updated>
+		<summary>A micro dependency injection framework inspired by Spring. Simple and to the point.</summary>
+	</entry>
+
 
 </feed>
