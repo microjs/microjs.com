@@ -331,14 +331,6 @@
 	</entry>
 
 	<entry>
-		<title>Director</title>
-		<link href="https://github.com/flatiron/director" />
-		<id>urn:uuid:8ffd5530-5839-11e1-b6d9-ed92c789bce0</id>
-		<updated>2012-02-16'T'00:59:56Z</updated>
-		<summary>A lightweight, full featured client side router for single page apps.</summary>
-	</entry>
-
-	<entry>
 		<title>Reqwest</title>
 		<link href="https://github.com/ded/Reqwest" />
 		<id>urn:uuid:8ffd5531-5839-11e1-b6d9-ed92c789bce0</id>
@@ -1736,6 +1728,14 @@
 		<id>urn:uuid:25a19eb0-b91b-11e1-8e03-7b6edcf5c76a</id>
 		<updated>2012-06-18'T'07:56:33Z</updated>
 		<summary>Client side JSON document store. Perfect for WebKit mobile apps.</summary>
+	</entry>
+
+	<entry>
+		<title>Director</title>
+		<link href="https://github.com/flatiron/director" />
+		<id>urn:uuid:00604ec0-b91c-11e1-b503-89508218af53</id>
+		<updated>2012-06-18'T'08:02:35Z</updated>
+		<summary>A lightweight, full featured client side router for single page apps.</summary>
 	</entry>
 
 
