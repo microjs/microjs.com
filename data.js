@@ -1595,5 +1595,12 @@ var MicroJS = [
     tags: ["animation", "events"],
     description: "A micro library that implements a customizable temporized image slider, with custom text and title for each one.",
     source: "https://raw.github.com/lukasalexandre/TemporizedSlider.js/master/temporized_slider.js"
+  },
+  {
+    name: "hypo",
+    url: "https://github.com/shiftyp/hypo",
+    tags: ["dependency injection", "IOC"],
+    description: "A micro dependency injection framework inspired by Spring. Simple and to the point.",
+    source: "https://raw.github.com/shiftyp/hypo/master/dist/hypo.src.js"
   }
 ];
