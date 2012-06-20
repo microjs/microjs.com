@@ -78,6 +78,13 @@ var MicroJS = [
     source: "https://raw.github.com/One-com/one-color/master/one-color-debug.js"
   },
   {
+    name: "Validation",
+    tags: ["validation", "testing"],
+    description: "Browser/node validation library. Functions available. Regex fragments available. Validates: url, email, domain, TLD, uuid, ipv4 and more.",
+    url: "https://github.com/One-com/one-validation",
+    source: "https://raw.github.com/One-com/one-validation/master/validation.js"
+  },
+  {
     name: "Simplify.js",
     tags: ["math", "geometry", "simplification", "polyline"],
     description: "A tiny high-performance JavaScript 2D/3D polyline simplification library.",
