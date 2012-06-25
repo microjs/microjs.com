@@ -195,6 +195,16 @@ var MicroJS = [
                      // we overrule the sanity-check that compares the sizes and would otherwise reject this
   },
   {
+    name: "server2.js",
+    tags: ["server", "pubsub", "events", "base"],
+    description: "A hook based interface between your server and your JS application",
+    url: "https://github.com/thanpolas/server2js",
+    source: "https://github.com/thanpolas/server2js/raw/master/source/server2.js",
+    tinyminify: true 
+          // this source has a ton of comments so the minified version is tiny compared to raw, so
+          // we overrule the sanity-check that compares the sizes and would otherwise reject this
+  },  
+  {
     name: "MinPubSub",
     tags: ["events", "pubsub"],
     description: "A publish/subscribe messaging framework",
