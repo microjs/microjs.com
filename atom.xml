@@ -1738,5 +1738,13 @@
 		<summary>A tiny, optimized, tested, standalone and robust pubsub implementation supporting different javascript environments</summary>
 	</entry>
 
+	<entry>
+		<title>Validation</title>
+		<link href="https://github.com/One-com/one-validation" />
+		<id>urn:uuid:445f4190-be75-11e1-ab13-e5185508378c</id>
+		<updated>2012-06-25'T'03:24:13Z</updated>
+		<summary>Browser/node validation library. Functions available. Regex fragments available. Validates: url, email, domain, TLD, uuid, ipv4 and more.</summary>
+	</entry>
+
 
 </feed>
