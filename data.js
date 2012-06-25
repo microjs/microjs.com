@@ -298,7 +298,7 @@ var MicroJS = [
     tags: ["data","storage","webkit","mobile"],
     description: "Client side JSON document store. Perfect for WebKit mobile apps.",
     url: "http://westcoastlogic.com/lawnchair/",
-    source: "http://westcoastlogic.com/lawnchair/downloads/lawnchair-0.6.1.js"
+    source: "http://brian.io/lawnchair/downloads/lawnchair-0.6.1.js"
   },
   /* Too Big 7kb
   {
@@ -399,7 +399,7 @@ var MicroJS = [
     tags: ["spa"],
     description: "A lightweight, full featured client side router for single page apps.",
     url: "https://github.com/flatiron/director",
-    source: "https://raw.github.com/flatiron/director/master/build/director-1.0.7.js"
+    source: "https://raw.github.com/flatiron/director/master/build/director-1.0.11.js"
   },
   {
     name: "snack.js",
@@ -700,6 +700,7 @@ var MicroJS = [
     url: "https://github.com/padolsey/satisfy",
     source: "https://raw.github.com/padolsey/satisfy/master/satisfy.js"
   },
+  /* domain gone
   {
     name: "jXHR",
     tags: ["json","json-p","xhr","ajax","cross-domain"],
@@ -707,6 +708,7 @@ var MicroJS = [
     url: "http://mulletxhr.com/",
     source: "http://mulletxhr.com/jXHR-0.1.zip!/jXHR.js"
   },
+  */
   {
     name: "Ekho",
     tags: ["events"],
@@ -1345,14 +1347,14 @@ var MicroJS = [
     tags: ["events","dispatcher","static","callbacks"],
     url: "https://github.com/dperrymorrow/callbacks.js",
     description: "Event dispatching, can be used either as static or instance based.",
-    source: "https://raw.github.com/dperrymorrow/callbacks.js/master/callbacks-min.js"
+    source: "https://raw.github.com/dperrymorrow/callbacks.js/master/callbacks.js"
   },
   {
     name: "Router.js",
     tags: ["routing","rails"],
     url: "https://github.com/dperrymorrow/router.js",
     description: "controller/action convention for javascript. home/index would automatically instantiate Home js class and fire index action.",
-    source: "https://raw.github.com/dperrymorrow/router.js/master/router-min.js"
+    source: "https://raw.github.com/dperrymorrow/router.js/master/router.js"
   },
   {
     name: "Blueshell",
@@ -1602,5 +1604,12 @@ var MicroJS = [
     tags: ["dependency injection", "IOC"],
     description: "A micro dependency injection framework inspired by Spring. Simple and to the point.",
     source: "https://raw.github.com/shiftyp/hypo/master/dist/hypo.src.js"
-  }
+  },
+  {
+    name: "pubsub.js",
+    tags: ["events", "pubsub", "publish", "subscribe", "node", "rhino", "amd", "commonjs", "titanium"],
+    description: "A tiny, optimized, tested, standalone and robust pubsub implementation supporting different javascript environments",
+    url: "https://github.com/federico-lox/pubsub.js",
+    source: "https://raw.github.com/federico-lox/pubsub.js/master/src/pubsub.js"
+  },
 ];

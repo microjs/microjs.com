@@ -1131,14 +1131,6 @@
 	</entry>
 
 	<entry>
-		<title>jXHR</title>
-		<link href="http://mulletxhr.com/" />
-		<id>urn:uuid:a18b8000-5844-11e1-a52a-4922c350cd0a</id>
-		<updated>2012-02-16'T'02:19:02Z</updated>
-		<summary>JSON-P based cross-domain Ajax wrapped in the XHR API.</summary>
-	</entry>
-
-	<entry>
 		<title>ytIframe.js</title>
 		<link href="https://github.com/mdix/ytIframe" />
 		<id>urn:uuid:503f3620-58cf-11e1-8c86-a1b1fde9bf1e</id>
@@ -1736,6 +1728,14 @@
 		<id>urn:uuid:5f193030-b93f-11e1-b5eb-452b11c0ad4e</id>
 		<updated>2012-06-18'T'12:15:48Z</updated>
 		<summary>A micro dependency injection framework inspired by Spring. Simple and to the point.</summary>
+	</entry>
+
+	<entry>
+		<title>pubsub.js</title>
+		<link href="https://github.com/federico-lox/pubsub.js" />
+		<id>urn:uuid:18e15590-be74-11e1-ba36-51997df559c1</id>
+		<updated>2012-06-25'T'03:15:44Z</updated>
+		<summary>A tiny, optimized, tested, standalone and robust pubsub implementation supporting different javascript environments</summary>
 	</entry>
 
 
