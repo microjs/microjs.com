@@ -1595,5 +1595,14 @@ var MicroJS = [
     tags: ["animation", "events"],
     description: "A micro library that implements a customizable temporized image slider, with custom text and title for each one.",
     source: "https://raw.github.com/lukasalexandre/TemporizedSlider.js/master/temporized_slider.js"
+  },
+  {
+    name: "Pjs",
+    github: "jayferd/pjs",
+    url: "https://github.com/jayferd/pjs",
+    tags: ["class", "inheritance"],
+    description: "A teensy class system.  It's just prototypes, but without the nasty parts.",
+    source: "https://raw.github.com/jayferd/pjs/v1.1.0/src/p.js"
   }
+
 ];
