@@ -207,10 +207,7 @@ var MicroJS = [
     description: "A hook based interface between your server and your JS application",
     url: "https://github.com/thanpolas/server2js",
     source: "https://github.com/thanpolas/server2js/raw/master/source/server2.js",
-    tinyminify: true 
-          // this source has a ton of comments so the minified version is tiny compared to raw, so
-          // we overrule the sanity-check that compares the sizes and would otherwise reject this
-  },  
+  },
   {
     name: "MinPubSub",
     tags: ["events", "pubsub"],
@@ -1037,6 +1034,7 @@ var MicroJS = [
     url: "http://tinyjs.sourceforge.net/tiny.js",
     source: "http://tinyjs.sourceforge.net/tiny.js"
   },
+  /* Gone
   {
     name:"Vine",
     tags:["events"],
@@ -1044,6 +1042,7 @@ var MicroJS = [
     url:"https://github.com/arexkun/Vine",
     source:"https://raw.github.com/arexkun/Vine/master/vine.js"
   },
+  */
   {
     name: "micro-selector",
     tags: ["css"],
@@ -1220,7 +1219,7 @@ var MicroJS = [
     tags: ["color"],
     description: "A human-friendly alternative to the HSL color space.",
     url: "http://boronine.github.com/husl",
-    source: "https://raw.github.com/boronine/husl/master/husl.js"
+    source: "https://raw.github.com/boronine/husl/master/src-javascript/husl.js"
   },
   {
     name: "Fayer",
