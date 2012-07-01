@@ -1746,5 +1746,13 @@
 		<summary>Browser/node validation library. Functions available. Regex fragments available. Validates: url, email, domain, TLD, uuid, ipv4 and more.</summary>
 	</entry>
 
+	<entry>
+		<title>server2.js</title>
+		<link href="https://github.com/thanpolas/server2js" />
+		<id>urn:uuid:e21a5460-c34d-11e1-9803-b716b2b0072f</id>
+		<updated>2012-07-01'T'07:24:53Z</updated>
+		<summary>A hook based interface between your server and your JS application</summary>
+	</entry>
+
 
 </feed>
