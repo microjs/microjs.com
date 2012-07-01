@@ -211,9 +211,9 @@ var MicroJS = [
   {
     name: "server2.js",
     tags: ["server", "pubsub", "events", "base"],
-    description: "A hook based interface between your server and your JS application",
+    description: "Transfer data objects from server to javascript on page load",
     url: "https://github.com/thanpolas/server2js",
-    source: "https://github.com/thanpolas/server2js/raw/master/source/server2.js",
+    source: "https://github.com/thanpolas/server2js/raw/master/source/server2.js"
   },
   {
     name: "MinPubSub",
