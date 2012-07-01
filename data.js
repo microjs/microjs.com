@@ -85,6 +85,13 @@ var MicroJS = [
     source: "https://raw.github.com/One-com/one-validation/master/validation.js"
   },
   {
+    name: "Histogram",
+    tags: ["canvas", "color"],
+    description: "Provides a histogram data structure from a PNG/JPEG/GIF image path. NodeJS, AMD module and vanilla JS support",
+    url: "https://github.com/Munter/node-histogram",
+    source: "https://raw.github.com/Munter/node-histogram/master/lib/index.js"
+  },
+  {
     name: "Simplify.js",
     tags: ["math", "geometry", "simplification", "polyline"],
     description: "A tiny high-performance JavaScript 2D/3D polyline simplification library.",
