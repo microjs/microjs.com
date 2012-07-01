@@ -1762,5 +1762,21 @@
 		<summary>A teensy class system. It's just prototypes, but without the nasty parts.</summary>
 	</entry>
 
+	<entry>
+		<title>Histogram</title>
+		<link href="https://github.com/Munter/node-histogram" />
+		<id>urn:uuid:4e741c80-c35e-11e1-ad49-f145e84d75ac</id>
+		<updated>2012-07-01'T'09:22:34Z</updated>
+		<summary>Provides a histogram data structure from a PNG/JPEG/GIF image path. NodeJS, AMD module and vanilla JS support</summary>
+	</entry>
+
+	<entry>
+		<title>l.js</title>
+		<link href="https://github.com/malko/l.js" />
+		<id>urn:uuid:52c415b0-c35e-11e1-ad49-f145e84d75ac</id>
+		<updated>2012-07-01'T'09:22:34Z</updated>
+		<summary>Another Tiny js/css loader supporting aliases, ordered and parallel loading, callbacks ... </summary>
+	</entry>
+
 
 </feed>
