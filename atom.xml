@@ -1754,5 +1754,13 @@
 		<summary>A hook based interface between your server and your JS application</summary>
 	</entry>
 
+	<entry>
+		<title>Pjs</title>
+		<link href="https://github.com/jayferd/pjs" />
+		<id>urn:uuid:4c0e2060-c35b-11e1-ae92-570b10395915</id>
+		<updated>2012-07-01'T'09:00:53Z</updated>
+		<summary>A teensy class system. It's just prototypes, but without the nasty parts.</summary>
+	</entry>
+
 
 </feed>
