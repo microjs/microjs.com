@@ -1608,7 +1608,7 @@ var MicroJS = [
   {
     name: "fader.js",
     github: "lukasalexandre/fader.js",
-    url: "https://github.com/lukasalexandre/fader.js",
+    url: "http://lukasalexandre.github.com/fader.js",
     tags: ["animation"],
     description: "A micro library to fade elements in and out.",
     source: "https://raw.github.com/lukasalexandre/fader.js/master/fader.js"
@@ -1616,7 +1616,7 @@ var MicroJS = [
   {
     name: "TemporizedSlider.js",
     github: "lukasalexandre/TemporizedSlider.js",
-    url: "https://github.com/lukasalexandre/TemporizedSlider.js",
+    url: "http://lukasalexandre.github.com/TemporizedSlider.js",
     tags: ["animation", "events"],
     description: "A micro library that implements a customizable temporized image slider, with custom text and title for each one.",
     source: "https://raw.github.com/lukasalexandre/TemporizedSlider.js/master/temporized_slider.js"
