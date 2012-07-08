@@ -216,6 +216,13 @@ var MicroJS = [
     source: "https://github.com/thanpolas/server2js/raw/master/source/server2.js"
   },
   {
+    name: "ready.js",
+    tags: ["async", "node.js", "watch", "flow", "flow control"],
+    description: "Monitor multiple async operations and triggers when all or some are complete.",
+    url: "https://github.com/thanpolas/ready.js",
+    source: "https://github.com/thanpolas/ready.js/blob/master/lib/ready.js"
+  },
+  {
     name: "MinPubSub",
     tags: ["events", "pubsub"],
     description: "A publish/subscribe messaging framework",
