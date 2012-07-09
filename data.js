@@ -220,7 +220,7 @@ var MicroJS = [
     tags: ["async", "node.js", "watch", "flow", "flow control"],
     description: "Monitor multiple async operations and triggers when all or some are complete.",
     url: "https://github.com/thanpolas/ready.js",
-    source: "https://github.com/thanpolas/ready.js/blob/master/lib/ready.js"
+    source: "https://github.com/thanpolas/ready.js/raw/master/lib/ready.js"
   },
   {
     name: "MinPubSub",
@@ -1318,7 +1318,7 @@ var MicroJS = [
     tags: ["spa", "base", "events", "node", "pubsub"],
     description: "scaleApp is a tiny JavaScript framework for scalable one-page-applications",
     url: "http://scaleapp.org/",
-    source: "https://raw.github.com/flosse/scaleApp/master/build/scaleApp.js"
+    source: "https://raw.github.com/flosse/scaleApp/master/bundles/scaleApp.js"
   },
   {
     name: "Humane JS",
