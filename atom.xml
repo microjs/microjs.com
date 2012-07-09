@@ -1778,5 +1778,21 @@
 		<summary>Another Tiny js/css loader supporting aliases, ordered and parallel loading, callbacks ... </summary>
 	</entry>
 
+	<entry>
+		<title>ES5-Class</title>
+		<link href="https://github.com/ShadowCloud/ES5-Class" />
+		<id>urn:uuid:cfa42220-c9a6-11e1-9243-cbff37b27e81</id>
+		<updated>2012-07-09'T'09:16:33Z</updated>
+		<summary>Native prototypal inheritance for Node.js and ES5-enabled Browsers</summary>
+	</entry>
+
+	<entry>
+		<title>ready.js</title>
+		<link href="https://github.com/thanpolas/ready.js" />
+		<id>urn:uuid:fba51640-c9a6-11e1-8dc3-f1d997853afa</id>
+		<updated>2012-07-09'T'09:17:47Z</updated>
+		<summary>Monitor multiple async operations and triggers when all or some are complete.</summary>
+	</entry>
+
 
 </feed>
