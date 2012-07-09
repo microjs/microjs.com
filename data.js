@@ -1650,4 +1650,11 @@ var MicroJS = [
     url: "https://github.com/malko/l.js",
     source: "https://raw.github.com/malko/l.js/master/l.js"
   },
+  {
+    name: "ES5-Class",
+    tags: ["class", "inheritance"],
+    description: "Native prototypal inheritance for Node.js and ES5-enabled Browsers",
+    url: "https://github.com/ShadowCloud/ES5-Class",
+    source: "https://raw.github.com/ShadowCloud/ES5-Class/master/class.js"
+  }
 ];
