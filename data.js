@@ -1663,5 +1663,12 @@ var MicroJS = [
     description: "Native prototypal inheritance for Node.js and ES5-enabled Browsers",
     url: "https://github.com/ShadowCloud/ES5-Class",
     source: "https://raw.github.com/ShadowCloud/ES5-Class/master/class.js"
+  },
+  {
+    name: "Mousetrap",
+    tags: ["events"],
+    description: "A simple library for handling keyboard shortcuts in Javascript.",
+    url: "http://craig.is/killing/mice",
+    source: "http://craig.is/assets/js/mousetrap/mousetrap.min.js"
   }
 ];
