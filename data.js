@@ -560,7 +560,7 @@ var MicroJS = [
   },
   {
     name: "defer.js",
-    tags: ["loader"],
+    tags: ["loader","async"],
     description: "Predicate-based JS execution engine, for in-page and external scripts. Loads itself asynchronously.",
     url: "https://github.com/wessman/defer.js",
     source: "https://raw.github.com/wessman/defer.js/master/src/defer.js"
