@@ -552,11 +552,18 @@ var MicroJS = [
     source: "https://raw.github.com/azer/observer/master/lib/observer.js"
   },
   {
-    name: "defer.js",
+    name: "JsDefer",
     tags: ["loader"],
     description: "Script loader, using the 'Deferred' pattern for async operations.",
     url: "https://github.com/BorisMoore/jsdefer/",
     source: "https://raw.github.com/BorisMoore/jsdefer/master/jsdefer.js"
+  },
+  {
+    name: "defer.js",
+    tags: ["loader"],
+    description: "Predicate-based JS execution engine, for in-page and external scripts. Loads itself asynchronously.",
+    url: "https://github.com/wessman/defer.js",
+    source: "https://raw.github.com/wessman/defer.js/master/src/defer.js"
   },
   {
     name: "Bootstrap",
