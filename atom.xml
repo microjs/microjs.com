@@ -1794,5 +1794,21 @@
 		<summary>Monitor multiple async operations and triggers when all or some are complete.</summary>
 	</entry>
 
+	<entry>
+		<title>Mousetrap</title>
+		<link href="http://craig.is/killing/mice" />
+		<id>urn:uuid:bd937c10-ced9-11e1-8f44-51360bd2c8f6</id>
+		<updated>2012-07-16'T'00:03:45Z</updated>
+		<summary>A simple library for handling keyboard shortcuts in Javascript.</summary>
+	</entry>
+
+	<entry>
+		<title>JsDefer</title>
+		<link href="https://github.com/BorisMoore/jsdefer/" />
+		<id>urn:uuid:2bee85b0-ceda-11e1-9df2-0b5a7d00f2d2</id>
+		<updated>2012-07-16'T'00:06:56Z</updated>
+		<summary>Script loader, using the 'Deferred' pattern for async operations.</summary>
+	</entry>
+
 
 </feed>
