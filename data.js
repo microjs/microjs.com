@@ -1669,6 +1669,6 @@ var MicroJS = [
     tags: ["events"],
     description: "A simple library for handling keyboard shortcuts in Javascript.",
     url: "http://craig.is/killing/mice",
-    source: "http://craig.is/assets/js/mousetrap/mousetrap.min.js"
+    source: "https://raw.github.com/ccampbell/mousetrap/master/mousetrap.js"
   }
 ];
