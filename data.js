@@ -1677,5 +1677,12 @@ var MicroJS = [
     description: "A simple library for handling keyboard shortcuts in Javascript.",
     url: "http://craig.is/killing/mice",
     source: "https://raw.github.com/ccampbell/mousetrap/master/mousetrap.js"
+  },
+  {
+    name: "PersonaJS",
+    tags: ["authentication"],
+    description: "Implement authentication using Mozilla Persona in your web application.",
+    url: "https://github.com/lloyd/persona.js",
+    source: "https://raw.github.com/lloyd/persona.js/master/persona.js"
   }
 ];
