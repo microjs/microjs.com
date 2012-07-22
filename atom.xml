@@ -1810,5 +1810,13 @@
 		<summary>Script loader, using the 'Deferred' pattern for async operations.</summary>
 	</entry>
 
+	<entry>
+		<title>Driftwood</title>
+		<link href="https://github.com/errplane/driftwood.js" />
+		<id>urn:uuid:378e1250-d452-11e1-a67c-bba879a2d292</id>
+		<updated>2012-07-22'T'23:08:41Z</updated>
+		<summary>A simple library for logging and exception tracking in Javascript.</summary>
+	</entry>
+
 
 </feed>
