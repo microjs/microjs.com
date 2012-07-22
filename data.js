@@ -1677,5 +1677,14 @@ var MicroJS = [
     description: "A simple library for handling keyboard shortcuts in Javascript.",
     url: "http://craig.is/killing/mice",
     source: "https://raw.github.com/ccampbell/mousetrap/master/mousetrap.js"
+  },
+  {
+    name: "Driftwood",
+    tags: ["logging", "error", "exception", "log"],
+    description: "A simple library for logging and exception tracking in Javascript.",
+    url: "https://github.com/errplane/driftwood.js",
+    source: "https://raw.github.com/errplane/driftwood.js/master/driftwood.js"
   }
+
+  
 ];
