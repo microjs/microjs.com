@@ -1810,5 +1810,21 @@
 		<summary>Script loader, using the 'Deferred' pattern for async operations.</summary>
 	</entry>
 
+	<entry>
+		<title>Driftwood</title>
+		<link href="https://github.com/errplane/driftwood.js" />
+		<id>urn:uuid:378e1250-d452-11e1-a67c-bba879a2d292</id>
+		<updated>2012-07-22'T'23:08:41Z</updated>
+		<summary>A simple library for logging and exception tracking in Javascript.</summary>
+	</entry>
+
+	<entry>
+		<title>PersonaJS</title>
+		<link href="https://github.com/lloyd/persona.js" />
+		<id>urn:uuid:6b25b9a0-d467-11e1-a3ec-bfa0cf13b87f</id>
+		<updated>2012-07-23'T'01:40:26Z</updated>
+		<summary>Implement authentication using Mozilla Persona in your web application.</summary>
+	</entry>
+
 
 </feed>

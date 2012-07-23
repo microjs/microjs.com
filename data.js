@@ -1684,5 +1684,12 @@ var MicroJS = [
     description: "Implement authentication using Mozilla Persona in your web application.",
     url: "https://github.com/lloyd/persona.js",
     source: "https://raw.github.com/lloyd/persona.js/master/persona.js"
+  },
+  {
+    name: "Driftwood",
+    tags: ["logging", "error", "exception", "log"],
+    description: "A simple library for logging and exception tracking in Javascript.",
+    url: "https://github.com/errplane/driftwood.js",
+    source: "https://raw.github.com/errplane/driftwood.js/master/driftwood.js"
   }
 ];
