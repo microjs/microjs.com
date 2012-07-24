@@ -1826,5 +1826,13 @@
 		<summary>Implement authentication using Mozilla Persona in your web application.</summary>
 	</entry>
 
+	<entry>
+		<title>progress.js</title>
+		<link href="https://github.com/mdix/progress.js" />
+		<id>urn:uuid:7be2ca30-d561-11e1-abc2-b1130c92ceca</id>
+		<updated>2012-07-24'T'07:30:25Z</updated>
+		<summary>A (animated) javascript progress bar without dependencies.</summary>
+	</entry>
+
 
 </feed>
