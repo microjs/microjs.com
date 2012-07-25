@@ -1691,5 +1691,12 @@ var MicroJS = [
     description: "A simple library for logging and exception tracking in Javascript.",
     url: "https://github.com/errplane/driftwood.js",
     source: "https://raw.github.com/errplane/driftwood.js/master/driftwood.js"
+  },
+  {
+    name: "progress.js",
+	tags: ["progress", "bar", "progressbar"],
+	description: "A (animated) javascript progress bar without dependencies.",
+	url: "https://github.com/mdix/progress.js",
+	source: "https://raw.github.com/mdix/progress.js/master/progress.js"
   }
 ];
