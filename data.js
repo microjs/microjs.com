@@ -1694,9 +1694,16 @@ var MicroJS = [
   },
   {
     name: "progress.js",
-	tags: ["progress", "bar", "progressbar"],
-	description: "A (animated) javascript progress bar without dependencies.",
-	url: "https://github.com/mdix/progress.js",
-	source: "https://raw.github.com/mdix/progress.js/master/progress.js"
+    tags: ["progress", "bar", "progressbar"],
+    description: "A (animated) javascript progress bar without dependencies.",
+    url: "https://github.com/mdix/progress.js",
+    source: "https://raw.github.com/mdix/progress.js/master/progress.js"
+  },
+  {
+    name: "shotgun.js",
+    tags: ["shotgun", "events", "error", "observer", "pubsub", "publish", "subscribe", "node", "unsubscribe"],
+    description: "Nestable custom events, trappable internal events, functional try/catch abstraction, unsubscribable unnamed functions.",
+    url: "http://github.com/jgnewman/shotgun",
+    source: "https://raw.github.com/jgnewman/shotgun/master/shotgun.js"
   }
 ];
