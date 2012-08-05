@@ -1842,5 +1842,13 @@
 		<summary>Nestable custom events, trappable internal events, functional try/catch abstraction, unsubscribable unnamed functions.</summary>
 	</entry>
 
+	<entry>
+		<title>jph.js</title>
+		<link href="https://github.com/nokia-entertainment/JSONPHandler" />
+		<id>urn:uuid:e130f4d0-dee3-11e1-8c92-e7f6e33623bd</id>
+		<updated>2012-08-05'T'09:56:35Z</updated>
+		<summary>A JS module for managing many asynchronous and synchronous JSONP requests, responses, timeouts and errors.</summary>
+	</entry>
+
 
 </feed>

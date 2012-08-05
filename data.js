@@ -1701,10 +1701,10 @@ var MicroJS = [
   },
   {
     name: "jph.js",
-  	tags: ["jsonp", "network", "json", "manager", "loader"],
-  	description: "A JS module for managing many asynchronous and synchronous JSONP requests, responses, timeouts and errors.",
-  	url: "https://github.com/nokia-entertainment/JSONPHandler",
-  	source: "https://raw.github.com/nokia-entertainment/JSONPHandler/master/jph.js"
+    tags: ["jsonp", "network", "json", "manager", "loader"],
+    description: "A JS module for managing many asynchronous and synchronous JSONP requests, responses, timeouts and errors.",
+    url: "https://github.com/nokia-entertainment/JSONPHandler",
+    source: "https://raw.github.com/nokia-entertainment/JSONPHandler/master/jph.js"
   },
   {
     name: "shotgun.js",
