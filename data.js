@@ -1698,5 +1698,12 @@ var MicroJS = [
 	description: "A (animated) javascript progress bar without dependencies.",
 	url: "https://github.com/mdix/progress.js",
 	source: "https://raw.github.com/mdix/progress.js/master/progress.js"
+  },
+  {
+    name: "jph.js",
+	tags: ["jsonp", "network", "json", "manager", "loader"],
+	description: "A JS module for managing many asynchronous and synchronous JSONP requests, responses, timeouts and errors.",
+	url: "https://github.com/nokia-entertainment/JSONPHandler",
+	source: "https://raw.github.com/nokia-entertainment/JSONPHandler/master/jph.js"
   }
 ];
