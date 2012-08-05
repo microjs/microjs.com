@@ -1834,5 +1834,13 @@
 		<summary>A (animated) javascript progress bar without dependencies.</summary>
 	</entry>
 
+	<entry>
+		<title>shotgun.js</title>
+		<link href="http://github.com/jgnewman/shotgun" />
+		<id>urn:uuid:bb6938b0-db74-11e1-aba6-fd195aa203a7</id>
+		<updated>2012-08-01'T'01:03:18Z</updated>
+		<summary>Nestable custom events, trappable internal events, functional try/catch abstraction, unsubscribable unnamed functions.</summary>
+	</entry>
+
 
 </feed>
