@@ -1712,5 +1712,12 @@ var MicroJS = [
     description: "Nestable custom events, trappable internal events, functional try/catch abstraction, unsubscribable unnamed functions.",
     url: "http://github.com/jgnewman/shotgun",
     source: "https://raw.github.com/jgnewman/shotgun/master/shotgun.js"
+  },
+  {
+    name: "Hexy.js",
+    tags: ["color"],
+    description: "Converts HEX colors to RGB values and vice versa in various output formats.",
+    url: "http://github.com/steelsojka/Hexy.js",
+    source: "https://raw.github.com/steelsojka/Hexy.js/master/src/Hexy.js"
   }
 ];
