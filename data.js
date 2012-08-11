@@ -1712,5 +1712,12 @@ var MicroJS = [
     description: "Nestable custom events, trappable internal events, functional try/catch abstraction, unsubscribable unnamed functions.",
     url: "http://github.com/jgnewman/shotgun",
     source: "https://raw.github.com/jgnewman/shotgun/master/shotgun.js"
+  },
+  {
+    name: "V.js",
+    tags: ["class", "inheritance", "namespace", "framework", "exception", "error", "logging", "log"],
+    description: "Real classical inheritance, function typed javaScript: How to write a class function, to have class objects instanceof all your base functions, even Array, and ever at least the Object function.",
+    url: "http://metadea.de/V/",
+    source: "http://metadea.de/V/0.2/V.js"
   }
 ];
