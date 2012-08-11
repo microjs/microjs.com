@@ -1712,5 +1712,12 @@ var MicroJS = [
     description: "Nestable custom events, trappable internal events, functional try/catch abstraction, unsubscribable unnamed functions.",
     url: "http://github.com/jgnewman/shotgun",
     source: "https://raw.github.com/jgnewman/shotgun/master/shotgun.js"
+  },
+  {
+    name: "onDomReady",
+    tags: ["dom", "event", "ready", "jquery", "load"],
+    description: "Initialize your code when the DOM is ready. Based on jQuery's ready() method. AMD compatible.",
+    url: "https://github.com/tubalmartin/ondomready",
+    source: "https://raw.github.com/tubalmartin/ondomready/master/ondomready.js"
   }
 ];
