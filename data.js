@@ -1712,5 +1712,12 @@ var MicroJS = [
     description: "Nestable custom events, trappable internal events, functional try/catch abstraction, unsubscribable unnamed functions.",
     url: "http://github.com/jgnewman/shotgun",
     source: "https://raw.github.com/jgnewman/shotgun/master/shotgun.js"
+  },
+  {
+    name: "t.js",
+    tags: ["templating"],
+    description: "A tiny javascript templating framework in ~400 bytes gzipped.",
+    url: "https://github.com/jasonmoo/t.js",
+    source: "https://raw.github.com/jasonmoo/t.js/master/t.js"
   }
 ];
