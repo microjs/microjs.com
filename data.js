@@ -1726,5 +1726,12 @@ var MicroJS = [
     description: "Initialize your code when the DOM is ready. Based on jQuery's ready() method. AMD compatible.",
     url: "https://github.com/tubalmartin/ondomready",
     source: "https://raw.github.com/tubalmartin/ondomready/master/ondomready.js"
+  },
+  {
+    name: "t.js",
+    tags: ["templating"],
+    description: "A tiny javascript templating framework in ~400 bytes gzipped.",
+    url: "https://github.com/jasonmoo/t.js",
+    source: "https://raw.github.com/jasonmoo/t.js/master/t.js"
   }
 ];
