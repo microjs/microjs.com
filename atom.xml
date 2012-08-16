@@ -1850,5 +1850,29 @@
 		<summary>A JS module for managing many asynchronous and synchronous JSONP requests, responses, timeouts and errors.</summary>
 	</entry>
 
+	<entry>
+		<title>Hexy.js</title>
+		<link href="http://github.com/steelsojka/Hexy.js" />
+		<id>urn:uuid:7b000610-e74e-11e1-a055-d91a00460df2</id>
+		<updated>2012-08-16'T'02:59:50Z</updated>
+		<summary>Converts HEX colors to RGB values and vice versa in various output formats.</summary>
+	</entry>
+
+	<entry>
+		<title>t.js</title>
+		<link href="https://github.com/jasonmoo/t.js" />
+		<id>urn:uuid:7b0647a0-e74e-11e1-a055-d91a00460df2</id>
+		<updated>2012-08-16'T'02:59:50Z</updated>
+		<summary>A tiny javascript templating framework in ~400 bytes gzipped.</summary>
+	</entry>
+
+	<entry>
+		<title>onDomReady</title>
+		<link href="https://github.com/tubalmartin/ondomready" />
+		<id>urn:uuid:7b1c40a0-e74e-11e1-a055-d91a00460df2</id>
+		<updated>2012-08-16'T'02:59:50Z</updated>
+		<summary>Initialize your code when the DOM is ready. Based on jQuery's ready() method. AMD compatible.</summary>
+	</entry>
+
 
 </feed>

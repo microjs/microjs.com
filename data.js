@@ -427,7 +427,7 @@ var MicroJS = [
     tags: ["spa"],
     description: "A lightweight, full featured client side router for single page apps.",
     url: "https://github.com/flatiron/director",
-    source: "https://raw.github.com/flatiron/director/master/build/director-1.1.2.js"
+    source: "https://raw.github.com/flatiron/director/master/build/director-1.1.3.js"
   },
   {
     name: "snack.js",
@@ -1482,7 +1482,7 @@ var MicroJS = [
     tags: ["math", "language", "amd"],
     description: "JavaScript library to generate a human readable String describing the filesize",
     url: "http://filesizejs.com",
-    source: "https://raw.github.com/avoidwork/filesize.js/master/debug/filesize.js"
+    source: "https://raw.github.com/avoidwork/filesize.js/master/lib/filesize.js"
   },
   {
     name: "bacon.js",
