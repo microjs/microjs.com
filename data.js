@@ -495,7 +495,7 @@ var MicroJS = [
   },
   {
     name: "domReady",
-    tags: ["dom", "events"],
+    tags: ["dom", "event", "ready", "load"],
     description: "Lets you know when the DOM is ready",
     url: "https://github.com/ded/domready",
     source: "https://raw.github.com/ded/domready/master/ready.js"
@@ -1719,5 +1719,12 @@ var MicroJS = [
     description: "Converts HEX colors to RGB values and vice versa in various output formats.",
     url: "http://github.com/steelsojka/Hexy.js",
     source: "https://raw.github.com/steelsojka/Hexy.js/master/src/Hexy.js"
+  },
+  {
+    name: "onDomReady",
+    tags: ["dom", "event", "ready", "load"],
+    description: "Initialize your code when the DOM is ready. Based on jQuery's ready() method. AMD compatible.",
+    url: "https://github.com/tubalmartin/ondomready",
+    source: "https://raw.github.com/tubalmartin/ondomready/master/ondomready.js"
   }
 ];
