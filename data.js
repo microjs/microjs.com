@@ -9,6 +9,14 @@
 
 var MicroJS = [
   {
+    name: "vagueTime.js",
+    github: "philbooth/vagueTime.js",
+    tags: ["time", "date"],
+    description: "formats time differences as a vague time, e.g. 'just now' or '3 weeks ago'",
+    url: "https://github.com/philbooth/vagueTime.js",
+    source: "https://raw.github.com/philbooth/vagueTime.js/master/src/vagueTime.js"
+  },
+  {
     name: "is.js",
     github: "Cedriking/is.js",
     tags: ["condition", "validate"],
