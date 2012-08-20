@@ -1874,5 +1874,13 @@
 		<summary>Initialize your code when the DOM is ready. Based on jQuery's ready() method. AMD compatible.</summary>
 	</entry>
 
+	<entry>
+		<title>vagueTime.js</title>
+		<link href="https://github.com/philbooth/vagueTime.js" />
+		<id>urn:uuid:554f6990-ea70-11e1-adf2-c73fdca0f1be</id>
+		<updated>2012-08-20'T'02:39:52Z</updated>
+		<summary>formats time differences as a vague time, e.g. 'just now' or '3 weeks ago'</summary>
+	</entry>
+
 
 </feed>
