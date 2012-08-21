@@ -1741,5 +1741,12 @@ var MicroJS = [
     description: "A tiny javascript templating framework in ~400 bytes gzipped.",
     url: "https://github.com/jasonmoo/t.js",
     source: "https://raw.github.com/jasonmoo/t.js/master/t.js"
+  },
+  {
+    name: "statelet",
+    tags: ["events"],
+    description: "Little state objects",
+    url: "https://github.com/joshwnj/statelet",
+    source: "https://github.com/joshwnj/statelet/blob/master/statelet.js"
   }
 ];
