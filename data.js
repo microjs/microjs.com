@@ -1747,6 +1747,6 @@ var MicroJS = [
     tags: ["events"],
     description: "Little state objects",
     url: "https://github.com/joshwnj/statelet",
-    source: "https://github.com/joshwnj/statelet/blob/master/statelet.js"
+    source: "https://raw.github.com/joshwnj/statelet/master/statelet.js"
   }
 ];

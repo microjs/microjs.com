@@ -1882,5 +1882,13 @@
 		<summary>formats time differences as a vague time, e.g. 'just now' or '3 weeks ago'</summary>
 	</entry>
 
+	<entry>
+		<title>statelet</title>
+		<link href="https://github.com/joshwnj/statelet" />
+		<id>urn:uuid:dafcf030-eb56-11e1-8849-bb2677ec7ef7</id>
+		<updated>2012-08-21'T'06:09:55Z</updated>
+		<summary>Little state objects</summary>
+	</entry>
+
 
 </feed>
