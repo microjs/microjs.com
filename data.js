@@ -14,7 +14,7 @@ var MicroJS = [
     tags: ["compare"],
     description: "compare.js implements JavaScript's comparison operators for Node.js and the browser the way you would expect them to be.",
     url: "https://github.com/goloroden/compare.js",
-    source: "https://raw.github.com/goloroden/compare.js/master/bin/compare-0.0.9.js"
+    source: "https://raw.github.com/goloroden/compare.js/master/bin/compare.js"
   },
   {
     name: "vagueTime.js",
