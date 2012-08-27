@@ -1890,5 +1890,13 @@
 		<summary>Little state objects</summary>
 	</entry>
 
+	<entry>
+		<title>compare.js</title>
+		<link href="https://github.com/goloroden/compare.js" />
+		<id>urn:uuid:c88e5640-efc6-11e1-a60c-0f9a7d102790</id>
+		<updated>2012-08-26'T'21:41:20Z</updated>
+		<summary>compare.js implements JavaScript's comparison operators for Node.js and the browser the way you would expect them to be.</summary>
+	</entry>
+
 
 </feed>
