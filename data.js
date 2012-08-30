@@ -1120,7 +1120,7 @@ var MicroJS = [
   {
     name: "Include.js",
     tags: ["loader"],
-    description: "A tiny on-demand async javascript loader.",
+    description: "A tiny and AMD javascript loader with nested dependencies.",
     url: "http://capmousse.github.com/include.js/",
     source: "https://raw.github.com/CapMousse/include.js/master/include.js"
   },
