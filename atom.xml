@@ -1898,5 +1898,13 @@
 		<summary>compare.js implements JavaScript's comparison operators for Node.js and the browser the way you would expect them to be.</summary>
 	</entry>
 
+	<entry>
+		<title>delayed</title>
+		<link href="https://github.com/rvagg/delayed" />
+		<id>urn:uuid:901b1b40-f359-11e1-b5c4-e13d34ae721d</id>
+		<updated>2012-08-31'T'10:49:24Z</updated>
+		<summary>A collection of helper functions for your functions, using `setTimeout()` to delay and defer.</summary>
+	</entry>
+
 
 </feed>

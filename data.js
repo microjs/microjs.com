@@ -1756,5 +1756,12 @@ var MicroJS = [
     description: "Little state objects",
     url: "https://github.com/joshwnj/statelet",
     source: "https://raw.github.com/joshwnj/statelet/master/statelet.js"
+  },
+  {
+    name: "delayed",
+    tags: ["async", "timer", "defer", "events"],
+    description: "A collection of helper functions for your functions, using `setTimeout()` to delay and defer.",
+    url: "https://github.com/rvagg/delayed",
+    source: "https://raw.github.com/rvagg/delayed/master/delayed.js"
   }
 ];
