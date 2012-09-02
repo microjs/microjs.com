@@ -443,7 +443,7 @@ var MicroJS = [
     tags: ["spa"],
     description: "A lightweight, full featured client side router for single page apps.",
     url: "https://github.com/flatiron/director",
-    source: "https://raw.github.com/flatiron/director/master/build/director-1.1.5.js"
+    source: "https://raw.github.com/flatiron/director/master/build/director-1.1.6.js"
   },
   {
     name: "snack.js",
@@ -642,7 +642,7 @@ var MicroJS = [
     tags: ["events"],
     description: "Evented JavaScript for the browser",
     url: "https://github.com/Wolfy87/EventEmitter",
-    source: "https://raw.github.com/Wolfy87/EventEmitter/master/src/EventEmitter.js"
+    source: "https://raw.github.com/Wolfy87/EventEmitter/master/EventEmitter.js"
   },
   {
     name: "Color",
