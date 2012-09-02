@@ -669,8 +669,8 @@ var MicroJS = [
     name: "Base64.js",
     tags: ["polyfill"],
     description: "`window.btoa` and `window.atob` for browsers which don't provide these functions.",
-    url: "https://bitbucket.org/davidchambers/base64.js",
-    source: "https://bitbucket.org/davidchambers/base64.js/raw/default/base64.js"
+    url: "https://github.com/davidchambers/Base64.js",
+    source: "https://raw.github.com/davidchambers/Base64.js/master/base64.js"
   },
   {
     name: "Mibbu",
