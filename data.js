@@ -1392,8 +1392,8 @@ var MicroJS = [
     name: "String::format",
     tags: ["string", "language", "sugar"],
     description: "Adds a `format` method to `String.prototype`. Inspired by Python's `str.format()`.",
-    url: "https://bitbucket.org/davidchambers/string-format",
-    source: "https://bitbucket.org/davidchambers/string-format/raw/default/string-format.js"
+    url: "https://github.com/davidchambers/string-format",
+    source: "https://raw.github.com/davidchambers/string-format/master/string-format.js"
   },
   {
     name: "Callbacks.js",
