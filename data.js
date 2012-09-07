@@ -9,6 +9,14 @@
 
 var MicroJS = [
   {
+    name: "css.js",
+    github: "radmen/css.js",
+    tags: ["util", "css", "client", "browser"],
+    description: "Handles dynamic style sheets",
+    url: "https://github.com/radmen/css.js",
+    source: "https://raw.github.com/radmen/css.js/master/css.js"
+  },
+  {
     name: "compare.js",
     github: "goloroden/compare.js",
     tags: ["compare"],
