@@ -1906,5 +1906,13 @@
 		<summary>A collection of helper functions for your functions, using `setTimeout()` to delay and defer.</summary>
 	</entry>
 
+	<entry>
+		<title>css.js</title>
+		<link href="https://github.com/radmen/css.js" />
+		<id>urn:uuid:09003eb0-f926-11e1-a109-6179f066f00b</id>
+		<updated>2012-09-07'T'19:55:52Z</updated>
+		<summary>Handles dynamic style sheets</summary>
+	</entry>
+
 
 </feed>
