@@ -653,7 +653,12 @@
         $results.innerHTML = html.join('')
       }
 
-  MicroJS.sort(function () { return 0.5 - Math.random() })
+  // put the projects in a random order
+  for (var index = MicroJS.length - 1, targetIndex; index; index--) {
+    var swappingValue = MicroJS[index];
+    MicroJS[index] = MicroJS[targetIndex = Math.floor(Math.random() * (index + 1))];
+    MicroJS[targetIndex] = swappingValue;
+  }
 
 // mini feature-detect for some of the stuff we use with fallback for garbage browsers
 ;Array.prototype.forEach && Array.prototype.filter && document.documentElement.addEventListener && document.querySelector ?
