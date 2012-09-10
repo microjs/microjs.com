@@ -33,7 +33,7 @@
     list-style-type: none;
     padding: 0;
   }
-  h1, h2, h3, p.footer strong, .clue strong {
+  h1, h2, h3, h4, p.footer strong, .clue strong {
     font-family: 'Maiden Orange', arial, sans-serif;
     font-weight: normal;
   }
@@ -387,10 +387,15 @@
     padding: 0 20px 0 0;
     height: 60px;
   }
-  li h3 {
+  li h3, li h4 {
     display: inline;
     line-height: 56px;
+  }
+  li h3 {
     font-size: 40px;
+  }
+  li h4 {
+    font-size: 32px;
   }
   .title .stat {
     margin-top: -14px;
@@ -428,12 +433,12 @@
     width: 100px;
     white-space: nowrap;
   }
-/*  li h3 a {
+/*  li h3 a, li h4 a {
     display: inline-block;
     -webkit-transition: all 0.3s;
     -webkit-transform: scale(0.9) translate3d(0,0,0);
   }
-  li h3 a:hover {
+  li h3 a:hover, li h4 a:hover {
     -webkit-transition: all 0.3s;
     -webkit-transform: scale(1.0) translate3d(0,0,0);
   }*/
@@ -646,7 +651,8 @@
               + (r.ghwatchers ? t('<span class="w">{ghwatchers}</span><span class="f">{ghforks}</span>', r) : '')
               + (r.tweets ? t('<span class="t">{tweets}</span>', r) : '')
               + '</div>'
-            r._rendered = t('<li><a href="{url}"><div class="size">{size}</div><div class="title"><h3>{name}</h3>{stat}</div>{description}</a></li>', r)
+            r.heading = r.name.length < 16 ? 3 : 4;
+            r._rendered = t('<li><a href="{url}"><div class="size">{size}</div><div class="title"><h{heading}>{name}</h{heading}>{stat}</div>{description}</a></li>', r)
           }
           html.push(results[i]._rendered)
         }
