@@ -8,22 +8,22 @@
 // See examples below.
 
 var MicroJS = [
-{
-	name: "infuse.js",
-	github: "soundstep/infuse.js",
-	tags: ["ioc", "di", "injection", "dependency", "framework"],
-	description: "IOC library to handle dependency injection",
-	url: "https://github.com/soundstep/infuse.js",
-	source: "https://raw.github.com/soundstep/infuse.js/master/src/infuse.js"
-},
-{
-  name: "css.js",
-  github: "radmen/css.js",
-  tags: ["util", "css", "client", "browser"],
-  description: "Handles dynamic style sheets",
-  url: "https://github.com/radmen/css.js",
-  source: "https://raw.github.com/radmen/css.js/master/css.js"
-},
+  {
+    name: "infuse.js",
+    github: "soundstep/infuse.js",
+    tags: ["ioc", "di", "injection", "dependency", "framework"],
+    description: "IOC library to handle dependency injection",
+    url: "https://github.com/soundstep/infuse.js",
+    source: "https://raw.github.com/soundstep/infuse.js/master/src/infuse.js"
+  },
+  {
+    name: "css.js",
+    github: "radmen/css.js",
+    tags: ["util", "css", "client", "browser"],
+    description: "Handles dynamic style sheets",
+    url: "https://github.com/radmen/css.js",
+    source: "https://raw.github.com/radmen/css.js/master/css.js"
+  },
   {
     name: "compare.js",
     github: "goloroden/compare.js",
