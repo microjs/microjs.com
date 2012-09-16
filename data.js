@@ -1771,5 +1771,12 @@ var MicroJS = [
     description: "A collection of helper functions for your functions, using `setTimeout()` to delay and defer.",
     url: "https://github.com/rvagg/delayed",
     source: "https://raw.github.com/rvagg/delayed/master/delayed.js"
+  },
+  {
+    name: "BigScreen",
+    tags: ["browser","canvas"],
+    description: "BigScreen is a simple library for using the JavaScript Full Screen API.",
+    url: "http://brad.is/coding/BigScreen/",
+    source: "https://raw.github.com/bdougherty/BigScreen/master/dist/bigscreen.js"
   }
 ];
