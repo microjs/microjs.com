@@ -1914,5 +1914,13 @@
 		<summary>Handles dynamic style sheets</summary>
 	</entry>
 
+	<entry>
+		<title>infuse.js</title>
+		<link href="https://github.com/soundstep/infuse.js" />
+		<id>urn:uuid:349c4970-fcea-11e1-82e9-89d2cda6017c</id>
+		<updated>2012-09-12'T'14:57:39Z</updated>
+		<summary>IOC library to handle js injection</summary>
+	</entry>
+
 
 </feed>
