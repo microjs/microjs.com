@@ -1930,5 +1930,13 @@
 		<summary>BigScreen is a simple library for using the JavaScript Full Screen API.</summary>
 	</entry>
 
+	<entry>
+		<title>Class.js</title>
+		<link href="https://github.com/DominikGuzei/Class.js" />
+		<id>urn:uuid:a24ad390-0115-11e2-a0ef-692d50d77582</id>
+		<updated>2012-09-17'T'22:18:12Z</updated>
+		<summary>Lighting fast class system. Beautiful API.</summary>
+	</entry>
+
 
 </feed>

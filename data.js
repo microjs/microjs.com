@@ -861,6 +861,13 @@ var MicroJS = [
     source: "http://myjs.fr/my-class/my.class.js"
   },
   {
+    name: "Class.js",
+    tags: ["language", "class", "inheritance"],
+    description: "Lighting fast class system. Beautiful API.",
+    url: "https://github.com/DominikGuzei/Class.js",
+    source: "https://raw.github.com/DominikGuzei/Class.js/master/class.js"
+  },
+  {
     name: "htmlentities.js",
     tags: ["htmlentities", "decode", "encode", "dom"],
     description: "A minimal html entities decoder/encoder using DOM.",
