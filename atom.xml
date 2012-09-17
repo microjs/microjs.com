@@ -1922,5 +1922,13 @@
 		<summary>IOC library to handle js injection</summary>
 	</entry>
 
+	<entry>
+		<title>BigScreen</title>
+		<link href="http://brad.is/coding/BigScreen/" />
+		<id>urn:uuid:298b1a90-00bc-11e2-a5e4-4b0b3eee72a6</id>
+		<updated>2012-09-17'T'11:37:44Z</updated>
+		<summary>BigScreen is a simple library for using the JavaScript Full Screen API.</summary>
+	</entry>
+
 
 </feed>
