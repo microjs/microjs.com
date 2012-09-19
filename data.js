@@ -1279,7 +1279,7 @@ var MicroJS = [
     tags: ["color"],
     description: "A human-friendly alternative to the HSL color space.",
     url: "http://boronine.github.com/husl",
-    source: "https://raw.github.com/boronine/husl/master/src-javascript/husl.js"
+    source: "https://raw.github.com/boronine/husl/master/husl.js"
   },
   {
     name: "Fayer",
