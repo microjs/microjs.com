@@ -9,6 +9,14 @@
 
 var MicroJS = [
   {
+    name: "AjaxSubmit.js",
+    github: "renoguyon/ajaxsubmit",
+    tags: ["data", "ajax"],
+    description: "Handles form data and ajax requests",
+    url: "https://github.com/renoguyon/ajaxsubmit",
+    source: "https://raw.github.com/renoguyon/ajaxsubmit/master/jquery.ajaxsubmit.js"
+  },
+  {
     name: "infuse.js",
     github: "soundstep/infuse.js",
     tags: ["ioc", "di", "injection", "dependency", "framework"],
@@ -227,7 +235,8 @@ var MicroJS = [
   {
     name: "DOMBrew",
     tags: ["dom", "dom-builder"],
-    description: "Clean API high performance DOM builder",
+    description: "Clean API high per
+ance DOM builder",
     url: "https://github.com/glebm/DOMBrew",
     source: "https://raw.github.com/glebm/DOMBrew/master/dombrew.js"
   },
