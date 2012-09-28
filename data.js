@@ -1793,5 +1793,12 @@ var MicroJS = [
     description: "BigScreen is a simple library for using the JavaScript Full Screen API.",
     url: "http://brad.is/coding/BigScreen/",
     source: "https://raw.github.com/bdougherty/BigScreen/master/dist/bigscreen.js"
+  },
+  {
+    name: "string.js",
+    tags: ["string", "language"],
+    description: "string.js is a lightweight (< 4 kb minified and gzipped) JavaScript library for the browser or for Node.js that provides extra String methods.",
+    url: "http://stringjs.com",
+    source: "https://raw.github.com/jprichardson/string.js/master/lib/string.js"
   }
 ];
