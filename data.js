@@ -9,6 +9,14 @@
 
 var MicroJS = [
   {
+    name: "kebab.js",
+    github: "thlorenz/kebab",
+    tags: [ "pubsub", "queue", "micro", "small", "simple" ],
+    description: "Half queue half pubsub. Super small and simple queue that supports subscribers",
+    url: "https://github.com/thlorenz/kebab",
+    source: "https://raw.github.com/thlorenz/kebab/master/kebab.js"
+  },
+  {
     name: "infuse.js",
     github: "soundstep/infuse.js",
     tags: ["ioc", "di", "injection", "dependency", "framework"],

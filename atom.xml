@@ -1938,5 +1938,13 @@
 		<summary>Lighting fast class system. Beautiful API.</summary>
 	</entry>
 
+	<entry>
+		<title>kebab.js</title>
+		<link href="https://github.com/thlorenz/kebab" />
+		<id>urn:uuid:9f246c60-090f-11e2-8f42-33b043162942</id>
+		<updated>2012-09-28'T'01:55:41Z</updated>
+		<summary>Half queue half pubsub. Super small and simple queue that supports subscribers</summary>
+	</entry>
+
 
 </feed>
