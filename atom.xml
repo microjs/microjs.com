@@ -1946,5 +1946,13 @@
 		<summary>Half queue half pubsub. Super small and simple queue that supports subscribers</summary>
 	</entry>
 
+	<entry>
+		<title>string.js</title>
+		<link href="http://stringjs.com" />
+		<id>urn:uuid:191618c0-0af5-11e2-8d33-1d24e83d9d32</id>
+		<updated>2012-09-30'T'11:50:38Z</updated>
+		<summary>string.js is a lightweight (&lt; 4 kb minified and gzipped) JavaScript library for the browser or for Node.js that provides extra String methods.</summary>
+	</entry>
+
 
 </feed>

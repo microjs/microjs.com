@@ -11,7 +11,7 @@ var MicroJS = [
   {
     name: "kebab.js",
     github: "thlorenz/kebab",
-    tags: [ "pubsub", "queue", "micro", "small", "simple" ],
+    tags: [ "pubsub", "queue" ],
     description: "Half queue half pubsub. Super small and simple queue that supports subscribers",
     url: "https://github.com/thlorenz/kebab",
     source: "https://raw.github.com/thlorenz/kebab/master/kebab.js"
@@ -645,7 +645,7 @@ var MicroJS = [
     tags: ["polyfill"],
     description: "Adds support for HTML5 Forms chapters new field input types, attributes and constraint validation API in non-supporting browsers.",
     url: "https://github.com/ryanseddon/H5F",
-    source: "https://raw.github.com/ryanseddon/H5F/master/h5f.js"
+    source: "https://raw.github.com/ryanseddon/H5F/master/src/H5F.js"
   },
   {
     name: "Store.js",
