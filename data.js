@@ -9,6 +9,14 @@
 
 var MicroJS = [
   {
+    name: "lexer",
+    github: "aaditmshah/lexer",
+    tags: ["lexer"],
+    description: "An elegant armor-plated JavaScript lexer modelled after flex. Easily extensible to tailor to your need for perfection.",
+    url: "https://github.com/aaditmshah/lexer",
+    source: "https://raw.github.com/aaditmshah/lexer/master/lib/lexer.js"
+  },
+  {
     name: "kebab.js",
     github: "thlorenz/kebab",
     tags: [ "pubsub", "queue" ],
