@@ -1381,16 +1381,13 @@ var MicroJS = [
     url: "http://wavded.github.com/humane-js/",
     source: "https://raw.github.com/wavded/humane-js/master/humane.js"
   },
-  /*
-  user no longer on GitHub
   {
     name: "JSFace",
     tags: ["oop", "language", "commonjs", "node", "class"],
     description: "Small, fast, elegant, powerful, and cross platform OOP library. Support singleton, super call, private, mixins, plugins, AOP and more.",
-    url: "https://github.com/tannhu/jsface",
-    source: "https://raw.github.com/tannhu/jsface/master/jsface.js"
+    url: "https://github.com/tnhu/jsface",
+    source: "https://raw.github.com/tnhu/jsface/master/jsface.js"
   },
- */
   {
     name: "Radio.js",
     tags: ["events", "pubsub"],
