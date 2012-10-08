@@ -1813,5 +1813,12 @@ var MicroJS = [
     description: "string.js is a lightweight (< 4 kb minified and gzipped) JavaScript library for the browser or for Node.js that provides extra String methods.",
     url: "http://stringjs.com",
     source: "https://raw.github.com/jprichardson/string.js/master/lib/string.js"
+  },
+  {
+    name: "Airwaves",
+    tags: ["pubsub", "publish", "subscribe", "broadcast", "message"],
+    description: "Lightweight pub/sub for any JavaScript environment",
+    url: "https://github.com/davidchambers/airwaves",
+    source: "https://raw.github.com/davidchambers/airwaves/master/lib/airwaves.js"
   }
 ];
