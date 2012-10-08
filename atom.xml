@@ -1954,5 +1954,13 @@
 		<summary>string.js is a lightweight (&lt; 4 kb minified and gzipped) JavaScript library for the browser or for Node.js that provides extra String methods.</summary>
 	</entry>
 
+	<entry>
+		<title>lexer</title>
+		<link href="https://github.com/aaditmshah/lexer" />
+		<id>urn:uuid:87c0e6a0-0e43-11e2-a602-efe31aa902b7</id>
+		<updated>2012-10-04'T'16:49:42Z</updated>
+		<summary>An elegant armor-plated JavaScript lexer modelled after flex. Easily extensible to tailor to your need for perfection.</summary>
+	</entry>
+
 
 </feed>
