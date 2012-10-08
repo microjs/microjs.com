@@ -1962,5 +1962,13 @@
 		<summary>An elegant armor-plated JavaScript lexer modelled after flex. Easily extensible to tailor to your need for perfection.</summary>
 	</entry>
 
+	<entry>
+		<title>Airwaves</title>
+		<link href="https://github.com/davidchambers/airwaves" />
+		<id>urn:uuid:cf7fd630-1100-11e2-8897-4796e0939819</id>
+		<updated>2012-10-08'T'04:29:36Z</updated>
+		<summary>Lightweight pub/sub for any JavaScript environment</summary>
+	</entry>
+
 
 </feed>
