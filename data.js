@@ -1820,5 +1820,12 @@ var MicroJS = [
     description: "Lightweight pub/sub for any JavaScript environment",
     url: "https://github.com/davidchambers/airwaves",
     source: "https://raw.github.com/davidchambers/airwaves/master/lib/airwaves.js"
+  },
+  {
+    name: "Stately.js",
+    tags: ["state machine", "finite-state machine", "fsm", "automata"],
+    description: "Stately.js is a JavaScript based finite-state machine (FSM) or finite-state automaton engine.",
+    url: "https://github.com/fschaefer/Stately.js",
+    source: "https://raw.github.com/fschaefer/Stately.js/master/Stately.js"
   }
 ];
