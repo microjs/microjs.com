@@ -1970,5 +1970,13 @@
 		<summary>Lightweight pub/sub for any JavaScript environment</summary>
 	</entry>
 
+	<entry>
+		<title>Stately.js</title>
+		<link href="https://github.com/fschaefer/Stately.js" />
+		<id>urn:uuid:f53fb490-14e7-11e2-8964-d18e6f662422</id>
+		<updated>2012-10-13'T'03:41:52Z</updated>
+		<summary>Stately.js is a JavaScript based finite-state machine (FSM) or finite-state automaton engine.</summary>
+	</entry>
+
 
 </feed>
