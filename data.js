@@ -1319,11 +1319,11 @@ var MicroJS = [
     source: "https://raw.github.com/chjj/marked/master/lib/marked.js"
   },
   {
-    name: "mathmethods.js",
+    name: "mathmethods",
     tags: ["math", "language", "sugar"],
     description: "Give `Number.prototype` the `Math` methods it deserves.",
-    url: "https://bitbucket.org/davidchambers/mathmethods.js",
-    source: "https://bitbucket.org/davidchambers/mathmethods.js/raw/default/mathmethods.js"
+    url: "https://github.com/davidchambers/mathmethods",
+    source: "https://raw.github.com/davidchambers/mathmethods/master/lib/mathmethods.js"
   },
   {
     name: "uuid-v4.js",
