@@ -1978,5 +1978,13 @@
 		<summary>Stately.js is a JavaScript based finite-state machine (FSM) or finite-state automaton engine.</summary>
 	</entry>
 
+	<entry>
+		<title>mathmethods</title>
+		<link href="https://github.com/davidchambers/mathmethods" />
+		<id>urn:uuid:ca209d70-15c2-11e2-bfc7-c1aaacba1c04</id>
+		<updated>2012-10-14'T'05:48:07Z</updated>
+		<summary>Give `Number.prototype` the `Math` methods it deserves.</summary>
+	</entry>
+
 
 </feed>
