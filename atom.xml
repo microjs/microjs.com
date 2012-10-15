@@ -1986,5 +1986,13 @@
 		<summary>Give `Number.prototype` the `Math` methods it deserves.</summary>
 	</entry>
 
+	<entry>
+		<title>mmd.js</title>
+		<link href="https://github.com/gmac/micro-module-definition" />
+		<id>urn:uuid:bcf8a080-16f7-11e2-921f-d594ef230f58</id>
+		<updated>2012-10-15'T'18:39:47Z</updated>
+		<summary>A tiny synchronous module definition and dependency management framework.</summary>
+	</entry>
+
 
 </feed>
