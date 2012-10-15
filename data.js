@@ -1827,5 +1827,13 @@ var MicroJS = [
     description: "Stately.js is a JavaScript based finite-state machine (FSM) or finite-state automaton engine.",
     url: "https://github.com/fschaefer/Stately.js",
     source: "https://raw.github.com/fschaefer/Stately.js/master/Stately.js"
+  },
+  {
+    name: "Micro Module Definition",
+    github: "gmac/micro-module-definition",
+    tags: ["module", "ioc", "di", "injection", "dependency", "framework"],
+    description: "A tiny synchronous module definition and dependency management framework.",
+    url: "https://github.com/gmac/micro-module-definition",
+    source: "https://github.com/gmac/micro-module-definition/blob/master/mmd.js"
   }
 ];
