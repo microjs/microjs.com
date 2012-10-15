@@ -1829,11 +1829,11 @@ var MicroJS = [
     source: "https://raw.github.com/fschaefer/Stately.js/master/Stately.js"
   },
   {
-    name: "Micro Module Definition",
+    name: "mmd.js",
     github: "gmac/micro-module-definition",
     tags: ["module", "ioc", "di", "injection", "dependency", "framework"],
     description: "A tiny synchronous module definition and dependency management framework.",
     url: "https://github.com/gmac/micro-module-definition",
-    source: "https://github.com/gmac/micro-module-definition/blob/master/mmd.js"
+    source: "https://raw.github.com/gmac/micro-module-definition/master/mmd.js"
   }
 ];
