@@ -1840,7 +1840,7 @@ var MicroJS = [
     name: "hammer.js",
     github: "EightMedia/hammer.js",
     tags: ["events", "mobile", "touch", "multitouch"],
-    description: "A tiny (< 2KB) javascript library that can be used to control gestures on touch devices. Supports Tap, Double tap, Hold, Drag, Swipe, Transform (pinch / rotate)",
+    description: "A tiny (< 2KB) javascript library that can be used to control gestures on touch devices.",
     url: "http://eightmedia.github.com/hammer.js/",
     source: "https://raw.github.com/EightMedia/hammer.js/master/hammer.js"
   }
