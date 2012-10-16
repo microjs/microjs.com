@@ -1835,5 +1835,13 @@ var MicroJS = [
     description: "A tiny synchronous module definition and dependency management framework.",
     url: "https://github.com/gmac/micro-module-definition",
     source: "https://raw.github.com/gmac/micro-module-definition/master/mmd.js"
+  },
+  {
+    name: "hammer.js",
+    github: "EightMedia/hammer.js",
+    tags: ["events", "mobile", "touch", "multitouch"],
+    description: "A tiny (< 2KB) javascript library that can be used to control gestures on touch devices. Supports Tap, Double tap, Hold, Drag, Swipe, Transform (pinch / rotate)",
+    url: "http://eightmedia.github.com/hammer.js/",
+    source: "https://raw.github.com/EightMedia/hammer.js/master/hammer.js"
   }
 ];
