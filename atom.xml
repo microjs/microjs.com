@@ -1994,5 +1994,13 @@
 		<summary>A tiny synchronous module definition and dependency management framework.</summary>
 	</entry>
 
+	<entry>
+		<title>Hammer.js</title>
+		<link href="http://eightmedia.github.com/hammer.js/" />
+		<id>urn:uuid:71502200-176c-11e2-bada-e19d8e00bc66</id>
+		<updated>2012-10-16'T'08:35:07Z</updated>
+		<summary>A tiny javascript library that can be used to control gestures on touch devices.</summary>
+	</entry>
+
 
 </feed>

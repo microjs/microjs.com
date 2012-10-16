@@ -1837,7 +1837,7 @@ var MicroJS = [
     source: "https://raw.github.com/gmac/micro-module-definition/master/mmd.js"
   },
   {
-    name: "hammer.js",
+    name: "Hammer.js",
     github: "EightMedia/hammer.js",
     tags: ["events", "mobile", "touch", "multitouch"],
     description: "A tiny javascript library that can be used to control gestures on touch devices.",
