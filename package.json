@@ -3,7 +3,7 @@
   , "author": ""
   , "version": "1.0.0"
   , "private": true
-  , "devDependencies": {
+  , "dependencies": {
         "async": "*"
       , "colors": "*"
       , "uglify-js": "*"
@@ -12,8 +12,8 @@
       , "date-utils": "*"
       , "node-uuid": "*"
       , "errno": "*"
+      , "read": "*"
     }
-  , "dependencies": {}
   , "engines": {
         "node": "*"
     }

@@ -14,8 +14,10 @@ var config = {
       , verbose: process.argv.indexOf('-v') != -1
       , quiet: process.argv.indexOf('-q') != -1
     }
+  , ghAuth = require('./lib/ghauth')
   , main = require('./lib/main')
   , stats = require('./lib/stats')
 
-!(process.argv.indexOf('-s') != -1 ? stats : main).create(config).start()
-
+ghAuth(config, function () {
+  (process.argv.indexOf('-s') != -1 ? stats : main).create(config).start()
+})
