@@ -1823,8 +1823,8 @@ var MicroJS = [
   },
   {
     name: "Stately.js",
-    tags: ["state machine", "finite-state machine", "fsm", "automata"],
-    description: "Stately.js is a JavaScript based finite-state machine (FSM) or finite-state automaton engine.",
+    tags: ["automata", "finite", "fsm", "machine", "state"],
+    description: "Stately.js is a JavaScript based finite-state machine (FSM) engine for Node.js and the browser.",
     url: "https://github.com/fschaefer/Stately.js",
     source: "https://raw.github.com/fschaefer/Stately.js/master/Stately.js"
   },
@@ -1843,5 +1843,12 @@ var MicroJS = [
     description: "A tiny javascript library that can be used to control gestures on touch devices.",
     url: "http://eightmedia.github.com/hammer.js/",
     source: "https://raw.github.com/EightMedia/hammer.js/master/hammer.js"
+  },
+  {
+    name: "Probability.js",
+    tags: ["math", "mathematics", "probability", "random", "statistics"],
+    description: "Probability.js makes it easy to call JavaScript functions by probability in Node.js and the browser.",
+    url: "https://github.com/fschaefer/Probability.js",
+    source: "https://raw.github.com/fschaefer/Probability.js/master/Probability.js"
   }
 ];
