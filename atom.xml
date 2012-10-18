@@ -2002,5 +2002,13 @@
 		<summary>A tiny javascript library that can be used to control gestures on touch devices.</summary>
 	</entry>
 
+	<entry>
+		<title>Probability.js</title>
+		<link href="https://github.com/fschaefer/Probability.js" />
+		<id>urn:uuid:ae678d70-197b-11e2-a2f5-29f67a7383ac</id>
+		<updated>2012-10-18'T'23:29:00Z</updated>
+		<summary>Probability.js makes it easy to call JavaScript functions by probability in Node.js and the browser.</summary>
+	</entry>
+
 
 </feed>
