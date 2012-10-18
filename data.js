@@ -1843,5 +1843,12 @@ var MicroJS = [
     description: "A tiny javascript library that can be used to control gestures on touch devices.",
     url: "http://eightmedia.github.com/hammer.js/",
     source: "https://raw.github.com/EightMedia/hammer.js/master/hammer.js"
+  },
+  {
+    name: "Probability.js",
+    tags: ["math", "mathematics", "probability", "random", "statistics"],
+    description: "Probability.js makes it easy to call JavaScript functions by probability in Node.js and the browser.",
+    url: "https://github.com/fschaefer/Probability.js",
+    source: "https://raw.github.com/fschaefer/Probability.js/master/Probability.js"
   }
 ];
