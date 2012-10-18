@@ -1823,8 +1823,8 @@ var MicroJS = [
   },
   {
     name: "Stately.js",
-    tags: ["state machine", "finite-state machine", "fsm", "automata"],
-    description: "Stately.js is a JavaScript based finite-state machine (FSM) or finite-state automaton engine.",
+    tags: ["automata", "finite", "fsm", "machine", "state"],
+    description: "Stately.js is a JavaScript based finite-state machine (FSM) engine for Node.js and the browser.",
     url: "https://github.com/fschaefer/Stately.js",
     source: "https://raw.github.com/fschaefer/Stately.js/master/Stately.js"
   },
