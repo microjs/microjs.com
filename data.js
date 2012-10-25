@@ -1850,5 +1850,12 @@ var MicroJS = [
     description: "Probability.js makes it easy to call JavaScript functions by probability in Node.js and the browser.",
     url: "https://github.com/fschaefer/Probability.js",
     source: "https://raw.github.com/fschaefer/Probability.js/master/Probability.js"
+  },
+  {
+    name: "Timer.js",
+    tags: ["interval", "timeout", "timer", "periodic"],
+    description: "Timer.js is a periodic timer for Node.js and the browser.",
+    url: "https://github.com/fschaefer/Timer.js",
+    source: "https://raw.github.com/fschaefer/Timer.js/master/Timer.js"
   }
 ];
