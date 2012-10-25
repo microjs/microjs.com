@@ -1857,5 +1857,12 @@ var MicroJS = [
     description: "Timer.js is a periodic timer for Node.js and the browser.",
     url: "https://github.com/fschaefer/Timer.js",
     source: "https://raw.github.com/fschaefer/Timer.js/master/Timer.js"
+  },
+  {
+    name: "Craft.js",
+    tags: ["dom", "array", "hash", "function", "AJAX", "string", "polyfill", "functional", "framework"],
+    description: "Craft.js is a small but powerful JavaScript framework that helps you to build web apps easily.",
+    url: "http://mlbli.github.com/craft",
+    source: "https://raw.github.com/mlbli/craft/master/craft.js"
   }
 ];
