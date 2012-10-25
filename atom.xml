@@ -2010,5 +2010,21 @@
 		<summary>Probability.js makes it easy to call JavaScript functions by probability in Node.js and the browser.</summary>
 	</entry>
 
+	<entry>
+		<title>Timer.js</title>
+		<link href="https://github.com/fschaefer/Timer.js" />
+		<id>urn:uuid:e19a6b90-1e8a-11e2-b2b3-0f112bf1805c</id>
+		<updated>2012-10-25'T'10:00:41Z</updated>
+		<summary>Timer.js is a periodic timer for Node.js and the browser.</summary>
+	</entry>
+
+	<entry>
+		<title>Craft.js</title>
+		<link href="http://mlbli.github.com/craft" />
+		<id>urn:uuid:e2191170-1e8a-11e2-b2b3-0f112bf1805c</id>
+		<updated>2012-10-25'T'10:00:41Z</updated>
+		<summary>Craft.js is a small but powerful JavaScript framework that helps you to build web apps easily.</summary>
+	</entry>
+
 
 </feed>
