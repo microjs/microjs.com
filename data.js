@@ -1850,5 +1850,12 @@ var MicroJS = [
     description: "Probability.js makes it easy to call JavaScript functions by probability in Node.js and the browser.",
     url: "https://github.com/fschaefer/Probability.js",
     source: "https://raw.github.com/fschaefer/Probability.js/master/Probability.js"
+  },
+  {
+    name: "Craft.js",
+    tags: ["dom", "array", "hash", "function", "AJAX", "string", "polyfill"],
+    description: "Craft.js is a small but powerful JavaScript framework that helps you to build web apps easily.",
+    url: "https://github.com/mlbli/Craft",
+    source: "https://raw.github.com/mlbli/craft/master/craft.js"
   }
 ];
