@@ -9,6 +9,14 @@
 
 var MicroJS = [
   {
+    name: "check-types.js",
+    github: "philbooth/check-types.js",
+    tags: ["types", "type-checking", "duck-typing"],
+    description: "A small library for checking types and throwing exceptions.",
+    url: "https://github.com/philbooth/check-types.js",
+    source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.min.js"
+  },
+  {
     name: "lexer",
     github: "aaditmshah/lexer",
     tags: ["lexer"],
