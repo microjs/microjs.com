@@ -2026,5 +2026,13 @@
 		<summary>Craft.js is a small but powerful JavaScript framework that helps you to build web apps easily.</summary>
 	</entry>
 
+	<entry>
+		<title>check-types.js</title>
+		<link href="https://github.com/philbooth/check-types.js" />
+		<id>urn:uuid:63b85f70-21b9-11e2-b062-756998ee03d9</id>
+		<updated>2012-10-29'T'11:11:18Z</updated>
+		<summary>A small library for checking types and throwing exceptions.</summary>
+	</entry>
+
 
 </feed>
