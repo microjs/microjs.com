@@ -1350,7 +1350,7 @@ var MicroJS = [
   {
     name: "Traversty",
     tags: ["dom"],
-    description: "Headache-free DOM traversal using PrototypeJS inspired up(), down(), next() and previous(). Ideal for use with Ender.",
+    description: "Headache-free DOM collection management and traversal with an API inspired by both jQuery and Prototype",
     url: "https://github.com/rvagg/traversty",
     source: "https://raw.github.com/rvagg/traversty/master/traversty.js"
   },
