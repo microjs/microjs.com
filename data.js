@@ -1872,5 +1872,12 @@ var MicroJS = [
     description: "Craft.js is a small but powerful JavaScript framework that helps you to build web apps easily.",
     url: "http://mlbli.github.com/craft",
     source: "https://raw.github.com/mlbli/craft/master/craft.js"
+  },
+  {
+    name: "xxspubsub.js",
+    tags: ["pubsub"],
+    description: "Extra Extra Small publish/subscribe micro-library in JavaScript",
+    url: "https://github.com/dciccale/xxspubsub",
+    source: "(function(d){var e={};d.publish=function(a,b){for(var c=e[a]||[],f=c.length;f--;)c[f].apply(d,b||[])};d.subscribe=function(a,b){(e[a]=e[a]||[]).push(b);return[a,b]};d.unsubscribe=function(a){for(var b=e[a[0]],c=b.length;c--;)b[c]===a[1]&&b.splice(c,1)}})(this);"
   }
 ];
