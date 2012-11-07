@@ -1894,5 +1894,12 @@ var MicroJS = [
     description: "String based lambdas for Node.js and the browser, that allow strings such as 'x+1' and 'x -> x+1' to be used as functions.",
     url: "https://github.com/fschaefer/Lambda.js",
     source: "https://raw.github.com/fschaefer/Lambda.js/master/Lambda.js"
+  },
+  {
+    name: "xxspubsub.js",
+    tags: ["pubsub"],
+    description: "Extra-extra-small publish/subscribe micro-library in JavaScript",
+    url: "https://github.com/dciccale/xxspubsub",
+    source: "https://raw.github.com/dciccale/xxspubsub/master/xxspubsub.js"
   }
 ];
