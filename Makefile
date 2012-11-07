@@ -1,5 +1,5 @@
-remotehost = microjs
-remotepath = /home/madrobby/htdocs/microjs.com/
+remotehost = objclibs
+remotepath = /var/www/html
 scpfiles = index.html data-min.js data.js atom.xml
 
 compile: deps
