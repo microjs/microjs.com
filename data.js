@@ -8,6 +8,14 @@
 // See examples below.
 
 var MicroJS = [
+ {
+    name: "Chibi",
+    github: "kylebarrow/chibi",
+    tags: ["chibi", "framework"],
+    description: "A tiny JavaScript micro-framework.",
+    url: "https://github.com/kylebarrow/chibi",
+    source: "https://raw.github.com/kylebarrow/chibi/master/chibi.js"
+  },
   {
     name: "check-types.js",
     github: "philbooth/check-types.js",
