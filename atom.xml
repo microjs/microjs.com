@@ -2034,5 +2034,29 @@
 		<summary>A small library for checking types and throwing exceptions.</summary>
 	</entry>
 
+	<entry>
+		<title>Chibi</title>
+		<link href="https://github.com/kylebarrow/chibi" />
+		<id>urn:uuid:c50e8b00-28c1-11e2-ad17-0da19ed112a5</id>
+		<updated>2012-11-07'T'09:58:59Z</updated>
+		<summary>A tiny JavaScript micro-framework.</summary>
+	</entry>
+
+	<entry>
+		<title>Lambda.js</title>
+		<link href="https://github.com/fschaefer/Lambda.js" />
+		<id>urn:uuid:c90085b0-28c1-11e2-ad17-0da19ed112a5</id>
+		<updated>2012-11-07'T'09:58:59Z</updated>
+		<summary>String based lambdas for Node.js and the browser, that allow strings such as &apos;x+1&apos; and &apos;x -&gt; x+1&apos; to be used as functions.</summary>
+	</entry>
+
+	<entry>
+		<title>Mouse</title>
+		<link href="http://benvie.github.com/Mouse" />
+		<id>urn:uuid:c90085b1-28c1-11e2-ad17-0da19ed112a5</id>
+		<updated>2012-11-07'T'09:58:59Z</updated>
+		<summary>A high quality library that treats the mouse as a first class object citizen.</summary>
+	</entry>
+
 
 </feed>

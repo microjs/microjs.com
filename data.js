@@ -1887,5 +1887,12 @@ var MicroJS = [
     description: "A high quality library that treats the mouse as a first class object citizen.",
     url: "http://benvie.github.com/Mouse",
     source: "https://raw.github.com/Benvie/Mouse/master/Mouse.js"
+  },
+  {
+    name: "Lambda.js",
+    tags: ["lambda", "function", "expression", "anonymous", "literal", "functional"],
+    description: "String based lambdas for Node.js and the browser, that allow strings such as 'x+1' and 'x -> x+1' to be used as functions.",
+    url: "https://github.com/fschaefer/Lambda.js",
+    source: "https://raw.github.com/fschaefer/Lambda.js/master/Lambda.js"
   }
 ];
