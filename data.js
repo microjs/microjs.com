@@ -51,7 +51,7 @@ var MicroJS = [
     name: "MagicalRecord",
     github: "magicalpanda/MagicalRecord",
     tags: ["coredata"],
-    description: "Super Awesome Easy Fetching for Core Data !!!",
+    description: "Super awesome easy fetching for CoreData.",
     url: "https://github.com/magicalpanda/MagicalRecord",
     source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
   },
@@ -155,7 +155,7 @@ var MicroJS = [
     name: "MBProgressHUD",
     github: "jdg/MBProgressHUD",
     tags: ["customui"],
-    description: "An iOS drop-in class that displays a translucent HUD with an indicator and/or labels while work is being done in a background thread. The HUD is meant as a replacement for the undocumented, private UIKit UIProgressHUD with some additional features.",
+    description: "An iOS drop-in class that displays a translucent HUD with an indicator and/or labels while work is being done in a background thread.",
     url: "https://github.com/jdg/MBProgressHUD",
     source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
   },
