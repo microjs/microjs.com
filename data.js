@@ -8,6 +8,14 @@
 // See examples below.
 
 var MicroJS = [
+ {
+    name: "Chibi",
+    github: "kylebarrow/chibi",
+    tags: ["chibi", "framework"],
+    description: "A tiny JavaScript micro-framework.",
+    url: "https://github.com/kylebarrow/chibi",
+    source: "https://raw.github.com/kylebarrow/chibi/master/chibi.js"
+  },
   {
     name: "check-types.js",
     github: "philbooth/check-types.js",
@@ -1872,5 +1880,12 @@ var MicroJS = [
     description: "Craft.js is a small but powerful JavaScript framework that helps you to build web apps easily.",
     url: "http://mlbli.github.com/craft",
     source: "https://raw.github.com/mlbli/craft/master/craft.js"
+  },
+  {
+    name: "Mouse",
+    tags: [ "mouse", "mousebind", "bind", "events", "input", "buttons", "mice" ],
+    description: "A high quality library that treats the mouse as a first class object citizen.",
+    url: "http://benvie.github.com/Mouse",
+    source: "https://raw.github.com/Benvie/Mouse/master/Mouse.js"
   }
 ];
