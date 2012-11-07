@@ -2058,5 +2058,13 @@
 		<summary>A high quality library that treats the mouse as a first class object citizen.</summary>
 	</entry>
 
+	<entry>
+		<title>xxspubsub.js</title>
+		<link href="https://github.com/dciccale/xxspubsub" />
+		<id>urn:uuid:b021dbd0-28ca-11e2-a7c0-63cc5f14ea30</id>
+		<updated>2012-11-07'T'11:02:22Z</updated>
+		<summary>Extra-extra-small publish/subscribe micro-library in JavaScript</summary>
+	</entry>
+
 
 </feed>
