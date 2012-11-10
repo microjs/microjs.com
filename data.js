@@ -8,6 +8,14 @@
 // See examples below.
 
 var MicroJS = [
+  {
+    name: "spooks.js",
+    github: "philbooth/spooks.js",
+    tags: ["unit test", "spy", "spies", "mock", "fake", "dummy", "double", "stub"],
+    description: "A small library for creating unit test spies.",
+    url: "https://github.com/philbooth/spooks.js",
+    source: "https://raw.github.com/philbooth/spooks.js/master/src/spooks.js"
+  },
  {
     name: "Chibi",
     github: "kylebarrow/chibi",
