@@ -254,8 +254,15 @@ var MicroJS = [
     description: "A software update kit for iOS and Android.",
     url: "https://github.com/TheRealKerni/HockeyKit",
     source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
-  }
-  ,
+  },
+  {
+    name: "ModelKit",
+    github: "jawngee/modelkit",
+    tags: ["model","rest","parse","coredata"],
+    description: "A better model framework for Objective-C with support for REST and BaaS services like Parse.",
+    url: "https://github.com/jawngee/ModelKit",
+    source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
+  },
   {
     name: "PonyDebugger",
     github: "square/PonyDebugger",
