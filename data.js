@@ -9,6 +9,14 @@
 
 var MicroJS = [
   {
+    name: "CoreParse",
+    github: "beelsebob/CoreParse",
+    tags: ["parsing"],
+    description: "A shift/reduce parsing framework for Mac OS X and iOS.",
+    url: "https://github.com/beelsebob/CoreParse",
+    source: "https://github.com/beelsebob/CoreParse"
+  },
+  {
     name: "AFNetworking",
     github: "AFNetworking/AFNetworking",
     tags: ["networking"],
