@@ -20,10 +20,8 @@ file with a name that's unlikely to change (no version numbers).
 
   * Must do something useful, and must not be just a demo
   * Must be MIT/BSD-license or similiar
-  * Templating engines and loaders will only be added if they're outstanding and exceptional.
   * Add to "data.js"
   * Needs a "url" that points to readme/docs & code-download (ideally GitHub)
-  * Needs a "source" attribute that points at a single-file, ready-to-use download of the library/framework (unminified) (3)
   * Running "make" should work and not return an error. To run make, you'll need node/npm installed.
 
 ### Using make / build ###
