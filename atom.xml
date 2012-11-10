@@ -2234,5 +2234,13 @@
 		<summary>A Cocoa / Objective-C wrapper around SQLite.</summary>
 	</entry>
 
+	<entry>
+		<title>CoreParse</title>
+		<link href="https://github.com/beelsebob/CoreParse" />
+		<id>urn:uuid:9ce901e0-2b6a-11e2-97b9-edaab37d9e33</id>
+		<updated>2012-11-10'T'19:12:45Z</updated>
+		<summary>A shift/reduce parsing framework for Mac OS X and iOS.</summary>
+	</entry>
+
 
 </feed>
