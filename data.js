@@ -1884,9 +1884,9 @@ var MicroJS = [
   },
   {
     name: "Craft.js",
-    tags: ["dom", "array", "hash", "function", "AJAX", "string", "polyfill", "functional", "framework"],
+    tags: ["base", "dom", "events", "ajax", "polyfill", "functional"],
     description: "Craft.js is a small but powerful JavaScript framework that helps you to build web apps easily.",
-    url: "http://mlbli.github.com/craft",
+    url: "http://craftjs.org",
     source: "https://raw.github.com/mlbli/craft/master/craft.js"
   },
   {
