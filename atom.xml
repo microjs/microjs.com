@@ -2066,5 +2066,13 @@
 		<summary>Extra-extra-small publish/subscribe micro-library in JavaScript</summary>
 	</entry>
 
+	<entry>
+		<title>Transparency.js</title>
+		<link href="https://github.com/leonidas/transparency" />
+		<id>urn:uuid:426d2b70-2bd7-11e2-be0e-2f1bb3954dbc</id>
+		<updated>2012-11-11'T'08:10:24Z</updated>
+		<summary>Semantic template engine for the browser that maps JSON objects to DOM elements by id, class and data-bind attributes.</summary>
+	</entry>
+
 
 </feed>
