@@ -9,6 +9,14 @@
 
 var MicroJS = [
  {
+    name: "miuri.js",
+    github: "radmen/miuri.js",
+    tags: ["client", "server", "util", "parser", "uri"],
+    description: "Simple URI parser/builder",
+    url: "https://github.com/radmen/miuri.js",
+    source: "https://raw.github.com/radmen/miuri.js/master/lib/miuri.js"
+ },
+ {
     name: "Chibi",
     github: "kylebarrow/chibi",
     tags: ["chibi", "framework"],
