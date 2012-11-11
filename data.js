@@ -1931,5 +1931,13 @@ var MicroJS = [
     description: "A small, fast and reliable library for arbitrary-precision arithmetic with decimal numbers.",
     url: "https://github.com/MikeMcl/big.js/",
     source: "https://raw.github.com/MikeMcl/big.js/master/big.js"
+  },
+  {
+    name: "PicoModal",
+    github: "Nycto/PicoModal",
+    tags: ["modal", "popup", "message"],
+    description: "A self-contained modal popup library",
+    url: "https://github.com/Nycto/PicoModal",
+    source: "https://raw.github.com/Nycto/PicoModal/master/picoModal.js"
   }
 ];
