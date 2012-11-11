@@ -1931,5 +1931,13 @@ var MicroJS = [
     description: "A small, fast and reliable library for arbitrary-precision arithmetic with decimal numbers.",
     url: "https://github.com/MikeMcl/big.js/",
     source: "https://raw.github.com/MikeMcl/big.js/master/big.js"
+  },
+  {
+    name: "nwt",
+    github: "nwtjs/nwt",
+    tags: ["base", "dom", "webkit", "ajax", "events", "mobile", "animation", "transitions"],
+    description: "Small JS framework that ships with ajax, anim, dom, and event methods. Several plugins available.",
+    url: "http://nwtjs.org",
+    source: "https://raw.github.com/nwtjs/nwt/master/nwt.js"
   }
 ];
