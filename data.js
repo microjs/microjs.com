@@ -432,6 +432,13 @@ var MicroJS = [
     source: "http://www.manning.com/resig/JavaScriptNinjaSourceCode.zip!/code/07/11.js"
   },
   {
+    name: "Transparency.js",
+    tags: ["templating"],
+    description: "Semantic template engine for the browser that maps JSON objects to DOM elements by id, class and data-bind attributes.",
+    url: "https://github.com/leonidas/transparency",
+    source: "https://raw.github.com/leonidas/transparency/master/lib/transparency.js"
+  },
+  {
     name: "BuildSugar",
     tags: ["templating"],
     description: "Bizarrely clean & simple syntax sugar for building HTML/XML strings",
