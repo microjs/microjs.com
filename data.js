@@ -1909,5 +1909,12 @@ var MicroJS = [
     description: "Extra-extra-small publish/subscribe micro-library in JavaScript",
     url: "https://github.com/dciccale/xxspubsub",
     source: "https://raw.github.com/dciccale/xxspubsub/master/xxspubsub.js"
+  },
+  {
+    name: "big.js",
+    tags: ["big", "number", "bignumber", "bigdecimal", "biginteger", "arbitrary", "precision", "decimal", "arithmetic", "math"],
+    description: "A small, fast and reliable library for arbitrary-precision arithmetic with decimal numbers.",
+    url: "https://github.com/MikeMcl/big.js/",
+    source: "https://raw.github.com/MikeMcl/big.js/master/big.js"
   }
 ];
