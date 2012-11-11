@@ -2074,5 +2074,29 @@
 		<summary>Semantic template engine for the browser that maps JSON objects to DOM elements by id, class and data-bind attributes.</summary>
 	</entry>
 
+	<entry>
+		<title>miuri.js</title>
+		<link href="https://github.com/radmen/miuri.js" />
+		<id>urn:uuid:d0db0e80-2bdd-11e2-acc1-97388459554d</id>
+		<updated>2012-11-11'T'08:57:16Z</updated>
+		<summary>Simple URI parser/builder</summary>
+	</entry>
+
+	<entry>
+		<title>spooks.js</title>
+		<link href="https://github.com/philbooth/spooks.js" />
+		<id>urn:uuid:d0db0e81-2bdd-11e2-acc1-97388459554d</id>
+		<updated>2012-11-11'T'08:57:16Z</updated>
+		<summary>A small library for creating unit test spies.</summary>
+	</entry>
+
+	<entry>
+		<title>big.js</title>
+		<link href="https://github.com/MikeMcl/big.js/" />
+		<id>urn:uuid:d3705f60-2bdd-11e2-acc1-97388459554d</id>
+		<updated>2012-11-11'T'08:57:16Z</updated>
+		<summary>A small, fast and reliable library for arbitrary-precision arithmetic with decimal numbers.</summary>
+	</entry>
+
 
 </feed>
