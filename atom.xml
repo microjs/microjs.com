@@ -2098,5 +2098,21 @@
 		<summary>A small, fast and reliable library for arbitrary-precision arithmetic with decimal numbers.</summary>
 	</entry>
 
+	<entry>
+		<title>PicoModal</title>
+		<link href="https://github.com/Nycto/PicoModal" />
+		<id>urn:uuid:735965f0-2ca9-11e2-be61-911d52ab1962</id>
+		<updated>2012-11-12'T'09:14:52Z</updated>
+		<summary>A self-contained modal popup library</summary>
+	</entry>
+
+	<entry>
+		<title>nwt</title>
+		<link href="http://nwtjs.org" />
+		<id>urn:uuid:741e63a0-2ca9-11e2-be61-911d52ab1962</id>
+		<updated>2012-11-12'T'09:14:52Z</updated>
+		<summary>Small JS framework that ships with ajax, anim, dom, and event methods. Several plugins available.</summary>
+	</entry>
+
 
 </feed>
