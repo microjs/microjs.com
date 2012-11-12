@@ -1899,7 +1899,7 @@ var MicroJS = [
   },
   {
     name: "Craft.js",
-    tags: ["base", "dom", "events", "ajax", "polyfill", "functional"],
+    tags: ["framework","base", "dom", "events", "ajax", "polyfill", "functional"],
     description: "Craft.js is a small but powerful JavaScript framework that helps you to build web apps easily.",
     url: "http://craftjs.org",
     source: "https://raw.github.com/mlbli/craft/master/craft.js"
@@ -1939,5 +1939,13 @@ var MicroJS = [
     description: "A self-contained modal popup library",
     url: "https://github.com/Nycto/PicoModal",
     source: "https://raw.github.com/Nycto/PicoModal/master/picoModal.js"
+  },
+  {
+    name: "nwt",
+    github: "nwtjs/nwt",
+    tags: ["framework","base", "dom", "webkit", "ajax", "events", "mobile", "animation", "transitions"],
+    description: "Small JS framework that ships with ajax, anim, dom, and event methods. Several plugins available.",
+    url: "http://nwtjs.org",
+    source: "https://raw.github.com/nwtjs/nwt/master/nwt.js"
   }
 ];
