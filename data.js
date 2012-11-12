@@ -310,5 +310,21 @@ var MicroJS = [
     description: "Unopinionated and flexible library for easily integrating Tumblr data into your iOS or OS X application",
     url: "https://github.com/Tumblr/TMTumblrSDK",
     source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
+  },
+  {
+    name: "MASPreferences",
+    github: "shpakovski/MASPreferences",
+    tags: ["preferences","AppKit","NSViewController","NSWindowController","NIB"],
+    description: "Missed AppKit components for creating preference windows and panes from NSViewController objects.",
+    url: "https://github.com/shpakovski/MASPreferences",
+    source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
+  },
+  {
+    name: "MASShortcut",
+    github: "shpakovski/MASShortcut",
+    tags: ["preferences","hotkey","shortuct","keyboard"],
+    description: "Missed AppKit component for entering and remembering hotkeys in the user defaults.",
+    url: "https://github.com/shpakovski/MASShortcut",
+    source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
   }
 ];
