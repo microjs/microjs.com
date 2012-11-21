@@ -1954,5 +1954,13 @@ var MicroJS = [
     description: "Date-agnostic time parsing for node and the browser.",
     url: "http://github.com/zever/time/",
     source: "https://raw.github.com/zever/time/master/time.js"
+  },
+  {
+    name: "MissMatch",
+    github: "pb82/MissMatch",
+    tags: ["pattern", "matching", "functional", "object", "json", "query", "decompose"],
+    description: "Pattern matching (like in Haskell or Scala) for JavaScript.",
+    url: "https://github.com/pb82/MissMatch",
+    source: "https://raw.github.com/pb82/MissMatch/master/lib/MissMatch.js"
   }
 ];
