@@ -208,6 +208,14 @@ var MicroJS = [
     source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
   },
   {
+    name: "PhFacebook",
+    github: "philippec/PhFacebook",
+    tags: ["facebook"],
+    description: "A Cocoa / Objective-C wrapper for the Facebook API, including authentication.",
+    url: "https://github.com/philippec/PhFacebook",
+    source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
+  },
+  {
     name: "ISO8601DateFormatter",
     github: "boredzo/iso-8601-date-formatter",
     tags: ["dateformatter"],
