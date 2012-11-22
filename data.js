@@ -875,8 +875,8 @@ var MicroJS = [
   },
   {
     name: "Head JS",
-    tags: ["loader", "polyfill", "feature"],
-    description: "An asynchronous loader library, with HTML5 and CSS3 polyfills",
+    tags: ["loader", "polyfill", "feature", "responsive"],
+    description: "A responsive design library, with HTML5 and CSS3 polyfills, and asynchronous/conditional asset loading",
     url: "http://headjs.com/",
     source: "https://raw.github.com/headjs/headjs/master/dist/head.js"
   },
