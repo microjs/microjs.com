@@ -2242,5 +2242,13 @@
 		<summary>A shift/reduce parsing framework for Mac OS X and iOS.</summary>
 	</entry>
 
+	<entry>
+		<title>SDWebImage</title>
+		<link href="https://github.com/rs/SDWebImage" />
+		<id>urn:uuid:dcb412d0-3554-11e2-a070-bf51f8a3a566</id>
+		<updated>2012-11-23'T'10:02:14Z</updated>
+		<summary>An asynchronous image downloader with cache support and a UIImageView category.</summary>
+	</entry>
+
 
 </feed>
