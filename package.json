@@ -6,7 +6,7 @@
   , "dependencies": {
         "async": "*"
       , "colors": "*"
-      , "uglify-js": "*"
+      , "uglify-js": "~1.3.0"
       , "zip": "*"
       , "request": "*"
       , "date-utils": "*"
