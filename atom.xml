@@ -2250,5 +2250,13 @@
 		<summary>An asynchronous image downloader with cache support and a UIImageView category.</summary>
 	</entry>
 
+	<entry>
+		<title>SDSegmentedControl</title>
+		<link href="https://github.com/rs/SDSegmentedControl" />
+		<id>urn:uuid:9d6e1d50-3563-11e2-bf4d-092b274af8b1</id>
+		<updated>2012-11-23'T'11:47:50Z</updated>
+		<summary>A drop-in remplacement for UISegmentedControl that mimics iOS 6 AppStore tab controls.</summary>
+	</entry>
+
 
 </feed>

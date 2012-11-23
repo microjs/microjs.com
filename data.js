@@ -222,5 +222,13 @@ var MicroJS = [
     description: "An asynchronous image downloader with cache support and a UIImageView category.",
     url: "https://github.com/rs/SDWebImage",
     source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
+  },
+  {
+    name: "SDSegmentedControl",
+    github: "rs/SDSegmentedControl",
+    tags: ["customui"],
+    description: "A drop-in remplacement for UISegmentedControl that mimics iOS 6 AppStore tab controls.",
+    url: "https://github.com/rs/SDSegmentedControl",
+    source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
   }
 ];
