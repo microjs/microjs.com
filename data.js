@@ -1947,5 +1947,13 @@ var MicroJS = [
     description: "Small JS framework that ships with ajax, anim, dom, and event methods. Several plugins available.",
     url: "http://nwtjs.org",
     source: "https://raw.github.com/nwtjs/nwt/master/nwt.js"
+  },
+  {
+    name: "MissMatch",
+    github: "pb82/MissMatch",
+    tags: ["pattern", "matching", "functional", "object", "json", "query", "decompose"],
+    description: "Pattern matching (like in Haskell or Scala) for JavaScript.",
+    url: "https://github.com/pb82/MissMatch",
+    source: "https://raw.github.com/pb82/MissMatch/master/lib/MissMatch.js"
   }
 ];
