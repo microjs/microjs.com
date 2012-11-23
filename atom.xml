@@ -2114,5 +2114,13 @@
 		<summary>Small JS framework that ships with ajax, anim, dom, and event methods. Several plugins available.</summary>
 	</entry>
 
+	<entry>
+		<title>time.js</title>
+		<link href="http://github.com/zever/time/" />
+		<id>urn:uuid:6d732680-3366-11e2-9577-cb1a3234d93a</id>
+		<updated>2012-11-20'T'23:02:46Z</updated>
+		<summary>Date-agnostic time parsing for node and the browser.</summary>
+	</entry>
+
 
 </feed>

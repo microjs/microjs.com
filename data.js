@@ -1947,5 +1947,12 @@ var MicroJS = [
     description: "Small JS framework that ships with ajax, anim, dom, and event methods. Several plugins available.",
     url: "http://nwtjs.org",
     source: "https://raw.github.com/nwtjs/nwt/master/nwt.js"
+  },
+  {
+    name: "time.js",
+    tags: ["time", "parse", "parsing", "format", "validate"],
+    description: "Date-agnostic time parsing for node and the browser.",
+    url: "http://github.com/zever/time/",
+    source: "https://raw.github.com/zever/time/master/time.js"
   }
 ];
