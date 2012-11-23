@@ -1947,5 +1947,13 @@ var MicroJS = [
     description: "Small JS framework that ships with ajax, anim, dom, and event methods. Several plugins available.",
     url: "http://nwtjs.org",
     source: "https://raw.github.com/nwtjs/nwt/master/nwt.js"
+  },
+  {
+    name: "Listy-Text",
+    github: "https://github.com/mwmnj/listy-text",
+    tags: ["list", "text", "input", "form", "jquery", "plugin"],
+    description: "A jQuery plugin to make gathering lists of data with text inputs more user friendly and intuitive.",
+    url: "http://mwmnj.github.com/listy-text/",
+    source: "https://raw.github.com/mwmnj/listy-text/master/listy-text.js"
   }
 ];
