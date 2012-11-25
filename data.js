@@ -1962,5 +1962,12 @@ var MicroJS = [
     description: "Pattern matching (like in Haskell or Scala) for JavaScript.",
     url: "https://github.com/pb82/MissMatch",
     source: "https://raw.github.com/pb82/MissMatch/master/lib/MissMatch.js"
+  },
+  {
+    name: "Rainbow",
+    tags: ["dom", "syntax", "code", "highlighter"],
+    description: "Simple, extendable code syntax highlighting library.",
+    url: "http://craig.is/making/rainbows",
+    source: "https://raw.github.com/ccampbell/rainbow/master/js/rainbow.js"
   }
 ];
