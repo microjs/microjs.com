@@ -34,7 +34,7 @@ var MicroJS = [
   },
   {
     name: "TestFlight",
-    tags: ["testing","logging","crashreporting"],
+    tags: ["testing","logging","crashreporting","deployment"],
     description: "A free testing service for mobile developers, managers and testers.",
     url: "https://testflightapp.com/",
     source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
@@ -229,6 +229,22 @@ var MicroJS = [
     tags: ["customui"],
     description: "A drop-in remplacement for UISegmentedControl that mimics iOS 6 AppStore tab controls.",
     url: "https://github.com/rs/SDSegmentedControl",
+    source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
+  },
+  {
+    name: "mogenerator",
+    github: "rentzsch/mogenerator",
+    tags: ["coredata"],
+    description: "A CoreData code generator.",
+    url: "https://github.com/rentzsch/mogenerator",
+    source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
+  },
+  {
+    name: "HockeyKit",
+    github: "TheRealKerni/HockeyKit",
+    tags: ["deployment"],
+    description: "A software update kit for iOS and Android.",
+    url: "https://github.com/TheRealKerni/HockeyKit.git",
     source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
   }
 ];
