@@ -2258,5 +2258,21 @@
 		<summary>A drop-in remplacement for UISegmentedControl that mimics iOS 6 AppStore tab controls.</summary>
 	</entry>
 
+	<entry>
+		<title>mogenerator</title>
+		<link href="https://github.com/rentzsch/mogenerator" />
+		<id>urn:uuid:5f3a9bf0-3764-11e2-95dd-252bd555ad6f</id>
+		<updated>2012-11-26'T'00:58:17Z</updated>
+		<summary>A CoreData code generator.</summary>
+	</entry>
+
+	<entry>
+		<title>HockeyKit</title>
+		<link href="https://github.com/TheRealKerni/HockeyKit.git" />
+		<id>urn:uuid:5f3aea10-3764-11e2-95dd-252bd555ad6f</id>
+		<updated>2012-11-26'T'00:58:17Z</updated>
+		<summary>A software update kit for iOS and Android.</summary>
+	</entry>
+
 
 </feed>

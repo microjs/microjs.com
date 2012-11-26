@@ -244,7 +244,18 @@ var MicroJS = [
     github: "TheRealKerni/HockeyKit",
     tags: ["deployment"],
     description: "A software update kit for iOS and Android.",
-    url: "https://github.com/TheRealKerni/HockeyKit.git",
+    url: "https://github.com/TheRealKerni/HockeyKit",
     source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
   }
+  ,
+  {
+    name: "PonyDebugger",
+    github: "square/PonyDebugger",
+    tags: ["debugging"],
+    description: "Remote network and data debugging for your native iOS app using Chrome Developer Tools.",
+    url: "https://github.com/square/PonyDebugger",
+    source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
+  }
+
+
 ];
