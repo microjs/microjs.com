@@ -1928,7 +1928,7 @@ var MicroJS = [
   {
     name: "big.js",
     tags: ["big", "number", "bignumber", "bigdecimal", "biginteger", "arbitrary", "precision", "decimal", "arithmetic", "math"],
-    description: "A small, fast and reliable library for arbitrary-precision arithmetic with decimal numbers.",
+    description: "A small, fast, easy-to-use library for arbitrary-precision decimal arithmetic.",
     url: "https://github.com/MikeMcl/big.js/",
     source: "https://raw.github.com/MikeMcl/big.js/master/big.js"
   },
