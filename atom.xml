@@ -2138,5 +2138,13 @@
 		<summary>Pattern matching (like in Haskell or Scala) for JavaScript.</summary>
 	</entry>
 
+	<entry>
+		<title>switcher</title>
+		<link href="https://github.com/EarMaster/switcher" />
+		<id>urn:uuid:c92e3cc0-3925-11e2-b5a7-3ff77b8d23d3</id>
+		<updated>2012-11-28'T'06:35:07Z</updated>
+		<summary>Function to provide a similar syntax to a switch statement but with regex as cases.</summary>
+	</entry>
+
 
 </feed>

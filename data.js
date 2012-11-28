@@ -1972,7 +1972,7 @@ var MicroJS = [
   },
   {
     name: "switcher",
-    tags: ["javascript", "switch"],
+    tags: ["switch","regexp"],
     description: "Function to provide a similar syntax to a switch statement but with regex as cases.",
     url: "https://github.com/EarMaster/switcher",
     source: "https://raw.github.com/EarMaster/switcher/master/switcher.js"
