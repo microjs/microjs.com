@@ -1969,5 +1969,12 @@ var MicroJS = [
     description: "Simple, extendable code syntax highlighting library.",
     url: "http://craig.is/making/rainbows",
     source: "https://raw.github.com/ccampbell/rainbow/master/js/rainbow.js"
+  },
+  {
+    name: "switcher",
+    tags: ["javascript", "switch"],
+    description: "Function to provide a similar syntax to a switch statement but with regex as cases.",
+    url: "https://github.com/EarMaster/switcher",
+    source: "https://raw.github.com/EarMaster/switcher/master/switcher.js"
   }
 ];
