@@ -1976,5 +1976,12 @@ var MicroJS = [
     description: "Function to provide a similar syntax to a switch statement but with regex as cases.",
     url: "https://github.com/EarMaster/switcher",
     source: "https://raw.github.com/EarMaster/switcher/master/switcher.js"
+  },
+  {
+    name: "ajax",
+    tags: ["ajax", "jquery"],
+    description: "Standalone AJAX library inspired by jQuery/zepto",
+    url: "https://github.com/ForbesLindesay/ajax",
+    source: "https://component.jit.su/ForbesLindesay/ajax/download/latest.js"
   }
 ];
