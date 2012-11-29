@@ -1976,5 +1976,12 @@ var MicroJS = [
     description: "Function to provide a similar syntax to a switch statement but with regex as cases.",
     url: "https://github.com/EarMaster/switcher",
     source: "https://raw.github.com/EarMaster/switcher/master/switcher.js"
+  },
+  {
+    name: "parsy",
+    tags: ["nodejs", "options", "parser"],
+    description: "Tiny command line options parser for node.js in CoffeeScript",
+    url: "https://github.com/dciccale/parsy",
+    source: "https://raw.github.com/dciccale/parsy/master/lib/parsy.js"
   }
 ];
