@@ -1982,6 +1982,6 @@ var MicroJS = [
     tags: ["nodejs", "options", "parser"],
     description: "Tiny command line options parser for node.js in CoffeeScript",
     url: "https://github.com/dciccale/parsy",
-    source: "https://raw.github.com/dciccale/parsy/master/src/parsy.coffee"
+    source: "https://raw.github.com/dciccale/parsy/master/lib/parsy.js"
   }
 ];
