@@ -1979,7 +1979,7 @@ var MicroJS = [
   },
   {
     name: "cm.js",
-    tags: ["cookies"],
+    tags: ["polyfill", "cookies", "json"],
     description: "Manage cookies easily.",
     url: "https://github.com/timseverien/cm.js",
     source: "https://raw.github.com/timseverien/cm.js/master/cm.js"
