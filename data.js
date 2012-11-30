@@ -1976,5 +1976,12 @@ var MicroJS = [
     description: "Function to provide a similar syntax to a switch statement but with regex as cases.",
     url: "https://github.com/EarMaster/switcher",
     source: "https://raw.github.com/EarMaster/switcher/master/switcher.js"
+  },
+  {
+    name: "Gator",
+    tags: ["dom", "events", "delegation"],
+    description: "Simple event delegation library",
+    url: "http://craig.is/riding/gators",
+    source: "https://raw.github.com/ccampbell/gator/master/gator.js"
   }
 ];
