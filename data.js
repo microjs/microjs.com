@@ -1969,5 +1969,12 @@ var MicroJS = [
     description: "Simple, extendable code syntax highlighting library.",
     url: "http://craig.is/making/rainbows",
     source: "https://raw.github.com/ccampbell/rainbow/master/js/rainbow.js"
+  },
+  {
+    name: "Gator",
+    tags: ["dom", "events", "delegation"],
+    description: "Simple event delegation library",
+    url: "http://craig.is/riding/gators",
+    source: "https://raw.github.com/ccampbell/gator/master/gator.js"
   }
 ];
