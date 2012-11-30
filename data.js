@@ -618,6 +618,13 @@ var MicroJS = [
     source: "https://raw.github.com/kriskowal/es5-shim/master/es5-shim.js"
   },
   {
+    name: "ES6-Map-Shim",
+    tags: ["language", "polyfill"],
+    description: "Shim for latest ES6.next Map spec",
+    url: "https://github.com/eriwen/es6-map-shim",
+    source: "https://raw.github.com/eriwen/es6-map-shim/master/es6-map-shim.js"
+  },
+  {
     name: "Loadrunner",
     tags: ["loader"],
     description: "Simple, flexible and sane JavaScript loader and build tool for browsers",
