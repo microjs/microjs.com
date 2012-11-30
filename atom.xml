@@ -2122,5 +2122,29 @@
 		<summary>Date-agnostic time parsing for node and the browser.</summary>
 	</entry>
 
+	<entry>
+		<title>Rainbow</title>
+		<link href="http://craig.is/making/rainbows" />
+		<id>urn:uuid:9e2359e0-36df-11e2-84ef-b520ce0b1ea8</id>
+		<updated>2012-11-25'T'09:07:48Z</updated>
+		<summary>Simple, extendable code syntax highlighting library.</summary>
+	</entry>
+
+	<entry>
+		<title>MissMatch</title>
+		<link href="https://github.com/pb82/MissMatch" />
+		<id>urn:uuid:9e64cfb0-36df-11e2-84ef-b520ce0b1ea8</id>
+		<updated>2012-11-25'T'09:07:48Z</updated>
+		<summary>Pattern matching (like in Haskell or Scala) for JavaScript.</summary>
+	</entry>
+
+	<entry>
+		<title>switcher</title>
+		<link href="https://github.com/EarMaster/switcher" />
+		<id>urn:uuid:c92e3cc0-3925-11e2-b5a7-3ff77b8d23d3</id>
+		<updated>2012-11-28'T'06:35:07Z</updated>
+		<summary>Function to provide a similar syntax to a switch statement but with regex as cases.</summary>
+	</entry>
+
 
 </feed>
