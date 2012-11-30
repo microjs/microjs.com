@@ -2146,5 +2146,13 @@
 		<summary>Function to provide a similar syntax to a switch statement but with regex as cases.</summary>
 	</entry>
 
+	<entry>
+		<title>ES6-Map-Shim</title>
+		<link href="https://github.com/eriwen/es6-map-shim" />
+		<id>urn:uuid:8dd0e0a0-3b38-11e2-9b75-61ec8b432c82</id>
+		<updated>2012-11-30'T'21:54:39Z</updated>
+		<summary>Shim for latest ES6.next Map spec</summary>
+	</entry>
+
 
 </feed>
