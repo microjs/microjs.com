@@ -1976,5 +1976,13 @@ var MicroJS = [
     description: "Function to provide a similar syntax to a switch statement but with regex as cases.",
     url: "https://github.com/EarMaster/switcher",
     source: "https://raw.github.com/EarMaster/switcher/master/switcher.js"
+  },
+  {
+    name: "ioc.js",
+    github: "tgriesser/ioc.js",
+    tags: ["ioc", "service locator"],
+    description: "A small IoC service locator container.",
+    url: "https://github.com/tgriesser/ioc.js",
+    source: "https://raw.github.com/tgriesser/ioc.js/master/ioc.js"
   }
 ];
