@@ -1976,5 +1976,12 @@ var MicroJS = [
     description: "Function to provide a similar syntax to a switch statement but with regex as cases.",
     url: "https://github.com/EarMaster/switcher",
     source: "https://raw.github.com/EarMaster/switcher/master/switcher.js"
+  },
+  {
+    name: "keymage",
+    tags: ["events"],
+    description: "Keyboard shortcuts handling with support for key sequences.",
+    url: "https://github.com/piranha/keymage",
+    source: "https://github.com/piranha/keymage/raw/master/keymage.js"
   }
 ];
