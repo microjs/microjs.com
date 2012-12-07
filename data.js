@@ -1976,5 +1976,12 @@ var MicroJS = [
     description: "Function to provide a similar syntax to a switch statement but with regex as cases.",
     url: "https://github.com/EarMaster/switcher",
     source: "https://raw.github.com/EarMaster/switcher/master/switcher.js"
+  },
+  {
+    name: "Chic",
+    tags: ["class", "classes", "extend", "inheritance", "oop", "prototypal", "prototype"],
+    description: "Chic is an extremely simple class-like interface to JavaScript prototypal inheritance.",
+    url: "https://github.com/rowanmanning/chic",
+    source: "https://raw.github.com/rowanmanning/chic/master/lib/chic.js"
   }
 ];
