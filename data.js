@@ -2007,9 +2007,9 @@ var MicroJS = [
   },
   {
     name: "OzJS",
-    tags: ["animation", "tweening", "transform", "transition", "sequence"],
+    tags: ["module", "amd"],
     description: "OzJS is NOT yet another script loader, but a microkernel that provides sorely-missing module mechanism at runtime for large/complex javascript program, compatible with the de facto standards.",
     url: "https://github.com/dexteryy/OzJS",
-    source: "https://raw.github.com/dexteryy/OzJS/master/choreo.js"
+    source: "https://raw.github.com/dexteryy/OzJS/master/oz.js"
   }
 ];
