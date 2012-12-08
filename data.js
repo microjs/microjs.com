@@ -1976,5 +1976,40 @@ var MicroJS = [
     description: "Function to provide a similar syntax to a switch statement but with regex as cases.",
     url: "https://github.com/EarMaster/switcher",
     source: "https://raw.github.com/EarMaster/switcher/master/switcher.js"
+  },
+  {
+    name: "DollarJS",
+    tags: ["dom", "webkit", "jquery", "mobile", "zepto"],
+    description: "A jQuery-compatible and non-All-in-One library which is more \"Zepto\" than Zepto.js. Focus on DOM operations and mobile platform, wrap native API wherever possible. ",
+    url: "https://github.com/dexteryy/DollarJS",
+    source: "https://raw.github.com/dexteryy/DollarJS/master/dollar.js"
+  },
+  {
+    name: "EventMaster",
+    tags: ["event", "notify", "pubsub", "promise", "deferred", "asynchronous"],
+    description: "A simple, compact and consistent implementation that provides both Promise/Deferred/Flow pattern and Event/Notify/Observer/PubSub pattern",
+    url: "https://github.com/dexteryy/EventMaster",
+    source: "https://raw.github.com/dexteryy/EventMaster/master/eventmaster.js"
+  },
+  {
+    name: "URLKit",
+    tags: ["url", "pushstate", "hashbang", "history", "route"],
+    description: "A lightweight implementation of routing and URL manager",
+    url: "https://github.com/dexteryy/URLKit",
+    source: "https://raw.github.com/dexteryy/URLKit/master/urlkit.js"
+  },
+  {
+    name: "ChoreoJS",
+    tags: ["animation", "tweening", "transform", "transition", "sequence"],
+    description: "An animation library which uses \"stage\" and \"actor\" as metaphors.",
+    url: "https://github.com/dexteryy/ChoreoJS",
+    source: "https://raw.github.com/dexteryy/ChoreoJS/master/choreo.js"
+  },
+  {
+    name: "OzJS",
+    tags: ["module", "amd"],
+    description: "OzJS is NOT yet another script loader, but a microkernel that provides sorely-missing module mechanism at runtime for large/complex javascript program, compatible with the de facto standards.",
+    url: "https://github.com/dexteryy/OzJS",
+    source: "https://raw.github.com/dexteryy/OzJS/master/oz.js"
   }
 ];
