@@ -2012,5 +2012,12 @@ var MicroJS = [
     description: "A small IoC service locator container.",
     url: "https://github.com/tgriesser/ioc.js",
     source: "https://raw.github.com/tgriesser/ioc.js/master/ioc.js"
+  },
+  {
+    name: "keymage",
+    tags: ["events"],
+    description: "Keyboard shortcuts handling with support for key sequences.",
+    url: "https://github.com/piranha/keymage",
+    source: "https://github.com/piranha/keymage/raw/master/keymage.js"
   }
 ];
