@@ -2150,8 +2150,56 @@
 		<title>ES6-Map-Shim</title>
 		<link href="https://github.com/eriwen/es6-map-shim" />
 		<id>urn:uuid:8dd0e0a0-3b38-11e2-9b75-61ec8b432c82</id>
-		<updated>2012-11-30'T'21:54:39Z</updated>
+		<updated>2012-12-09'T'01:15:23Z</updated>
 		<summary>Shim for latest ES6.next Map spec</summary>
+	</entry>
+
+	<entry>
+		<title>ajax</title>
+		<link href="https://github.com/ForbesLindesay/ajax" />
+		<id>urn:uuid:f10e8df0-419d-11e2-97de-51fcfbc12216</id>
+		<updated>2012-12-09'T'01:15:23Z</updated>
+		<summary>Standalone AJAX library inspired by jQuery/zepto</summary>
+	</entry>
+
+	<entry>
+		<title>parsy</title>
+		<link href="https://github.com/dciccale/parsy" />
+		<id>urn:uuid:f16168e0-419d-11e2-97de-51fcfbc12216</id>
+		<updated>2012-12-09'T'01:15:23Z</updated>
+		<summary>Tiny command line options parser for node.js in CoffeeScript</summary>
+	</entry>
+
+	<entry>
+		<title>Chic</title>
+		<link href="https://github.com/rowanmanning/chic" />
+		<id>urn:uuid:f186cb30-419d-11e2-97de-51fcfbc12216</id>
+		<updated>2012-12-09'T'01:15:23Z</updated>
+		<summary>Chic is an extremely simple class-like interface to JavaScript prototypal inheritance.</summary>
+	</entry>
+
+	<entry>
+		<title>ioc.js</title>
+		<link href="https://github.com/tgriesser/ioc.js" />
+		<id>urn:uuid:f18f56b0-419d-11e2-97de-51fcfbc12216</id>
+		<updated>2012-12-09'T'01:15:23Z</updated>
+		<summary>A small IoC service locator container.</summary>
+	</entry>
+
+	<entry>
+		<title>Gator</title>
+		<link href="http://craig.is/riding/gators" />
+		<id>urn:uuid:f18f56b1-419d-11e2-97de-51fcfbc12216</id>
+		<updated>2012-12-09'T'01:15:23Z</updated>
+		<summary>Simple event delegation library</summary>
+	</entry>
+
+	<entry>
+		<title>keymage</title>
+		<link href="https://github.com/piranha/keymage" />
+		<id>urn:uuid:f18f7dc0-419d-11e2-97de-51fcfbc12216</id>
+		<updated>2012-12-09'T'01:15:23Z</updated>
+		<summary>Keyboard shortcuts handling with support for key sequences.</summary>
 	</entry>
 
 
