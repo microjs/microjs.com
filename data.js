@@ -1983,5 +1983,12 @@ var MicroJS = [
     description: "Standalone AJAX library inspired by jQuery/zepto",
     url: "https://github.com/ForbesLindesay/ajax",
     source: "https://component.jit.su/ForbesLindesay/ajax/download/latest.js"
+  },
+  {
+    name: "parsy",
+    tags: ["nodejs", "options", "parser"],
+    description: "Tiny command line options parser for node.js in CoffeeScript",
+    url: "https://github.com/dciccale/parsy",
+    source: "https://raw.github.com/dciccale/parsy/master/lib/parsy.js"
   }
 ];
