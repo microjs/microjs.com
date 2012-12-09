@@ -2019,5 +2019,12 @@ var MicroJS = [
     description: "Keyboard shortcuts handling with support for key sequences.",
     url: "https://github.com/piranha/keymage",
     source: "https://github.com/piranha/keymage/raw/master/keymage.js"
+  },
+  {
+    name: "Chic",
+    tags: ["class", "classes", "extend", "inheritance", "oop", "prototypal", "prototype"],
+    description: "Chic is an extremely simple class-like interface to JavaScript prototypal inheritance.",
+    url: "https://github.com/rowanmanning/chic",
+    source: "https://raw.github.com/rowanmanning/chic/master/lib/chic.js"
   }
 ];
