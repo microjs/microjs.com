@@ -2210,5 +2210,13 @@
 		<summary>Convert Unix style permissions to strings like ls (0755 =&gt; &apos;rwxr-xr-x&apos;)</summary>
 	</entry>
 
+	<entry>
+		<title>autocast</title>
+		<link href="https://github.com/bahamas10/node-autocast" />
+		<id>urn:uuid:9b69a210-4259-11e2-b970-076bc147c44c</id>
+		<updated>2012-12-09'T'23:38:18Z</updated>
+		<summary>Easily and automatically cast common datatypes in JavaScript</summary>
+	</entry>
+
 
 </feed>
