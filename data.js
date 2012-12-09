@@ -1990,5 +1990,12 @@ var MicroJS = [
     description: "Tiny command line options parser for node.js in CoffeeScript",
     url: "https://github.com/dciccale/parsy",
     source: "https://raw.github.com/dciccale/parsy/master/lib/parsy.js"
+  },
+  {
+    name: "Gator",
+    tags: ["dom", "events", "delegation"],
+    description: "Simple event delegation library",
+    url: "http://craig.is/riding/gators",
+    source: "https://raw.github.com/ccampbell/gator/master/gator.js"
   }
 ];
