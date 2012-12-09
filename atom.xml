@@ -2202,5 +2202,13 @@
 		<summary>Keyboard shortcuts handling with support for key sequences.</summary>
 	</entry>
 
+	<entry>
+		<title>Perms</title>
+		<link href="https://github.com/bahamas10/node-perms" />
+		<id>urn:uuid:880e1510-41b0-11e2-9cde-7de1b5421366</id>
+		<updated>2012-12-09'T'03:28:27Z</updated>
+		<summary>Convert Unix style permissions to strings like ls (0755 =&gt; &apos;rwxr-xr-x&apos;)</summary>
+	</entry>
+
 
 </feed>
