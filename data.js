@@ -2026,5 +2026,12 @@ var MicroJS = [
     description: "Chic is an extremely simple class-like interface to JavaScript prototypal inheritance.",
     url: "https://github.com/rowanmanning/chic",
     source: "https://raw.github.com/rowanmanning/chic/master/lib/chic.js"
+  },
+  {
+    name: "Perms",
+    tags: ["permissions", "perms", "ls", "chmod", "unix"],
+    description: "Convert Unix style permissions to strings like ls (0755 => 'rwxr-xr-x')",
+    url: "https://github.com/bahamas10/node-perms",
+    source: "https://raw.github.com/bahamas10/node-perms/master/index.js"
   }
 ];
