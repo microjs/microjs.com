@@ -2004,5 +2004,13 @@ var MicroJS = [
     description: "Simple event delegation library",
     url: "http://craig.is/riding/gators",
     source: "https://raw.github.com/ccampbell/gator/master/gator.js"
+  },
+  {
+    name: "ioc.js",
+    github: "tgriesser/ioc.js",
+    tags: ["ioc", "service locator"],
+    description: "A small IoC service locator container.",
+    url: "https://github.com/tgriesser/ioc.js",
+    source: "https://raw.github.com/tgriesser/ioc.js/master/ioc.js"
   }
 ];
