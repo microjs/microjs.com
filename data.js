@@ -1423,10 +1423,10 @@ var MicroJS = [
   {
     name: "scaleApp.js",
     github: "flosse/scaleApp",
-    tags: ["spa", "base", "events", "node", "pubsub"],
+    tags: ["spa", "base", "events", "node", "pubsub", "async", "flow", "flow control"],
     description: "scaleApp is a tiny JavaScript framework for scalable one-page-applications",
     url: "http://scaleapp.org/",
-    source: "https://raw.github.com/flosse/scaleApp/master/bundles/scaleApp.js"
+    source: "https://raw.github.com/flosse/scaleApp/master/dist/scaleApp.js"
   },
   {
     name: "Humane JS",
