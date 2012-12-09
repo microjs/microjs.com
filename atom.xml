@@ -31,7 +31,7 @@
 		<link href="https://github.com/gigafied/minion" />
 		<id>urn:uuid:4c4f16d0-5838-11e1-8fd5-0320b0d0ff08</id>
 		<updated>2012-02-16'T'00:50:58Z</updated>
-		<summary>Cross-platform & cross-browser classical inheritance in JavaScript</summary>
+		<summary>Cross-platform &amp; cross-browser classical inheritance in JavaScript</summary>
 	</entry>
 
 	<entry>
@@ -87,7 +87,7 @@
 		<link href="http://jsfiddle.net/SubtleGradient/4W3RR/" />
 		<id>urn:uuid:8e2d2910-5839-11e1-b6d9-ed92c789bce0</id>
 		<updated>2012-02-16'T'00:59:56Z</updated>
-		<summary>Bizarrely clean & simple syntax sugar for building HTML/XML strings</summary>
+		<summary>Bizarrely clean &amp; simple syntax sugar for building HTML/XML strings</summary>
 	</entry>
 
 	<entry>
@@ -287,7 +287,7 @@
 		<link href="https://github.com/ded/qwery" />
 		<id>urn:uuid:8fc5ca70-5839-11e1-b6d9-ed92c789bce0</id>
 		<updated>2012-02-16'T'00:59:56Z</updated>
-		<summary>Blazing fast query selector engine allowing you to select elements with CSS1, CSS2 & CSS3 selectors.</summary>
+		<summary>Blazing fast query selector engine allowing you to select elements with CSS1, CSS2 &amp; CSS3 selectors.</summary>
 	</entry>
 
 	<entry>
@@ -391,7 +391,7 @@
 		<link href="http://icanhazjs.com/" />
 		<id>urn:uuid:902bb830-5839-11e1-b6d9-ed92c789bce0</id>
 		<updated>2012-02-16'T'00:59:56Z</updated>
-		<summary>Simple & powerful client-side templating for jQuery or Zepto.js.</summary>
+		<summary>Simple &amp; powerful client-side templating for jQuery or Zepto.js.</summary>
 	</entry>
 
 	<entry>
@@ -1223,7 +1223,7 @@
 		<link href="https://github.com/digitarald/sly" />
 		<id>urn:uuid:c7ef4320-6308-11e1-9237-1ba14cd38f96</id>
 		<updated>2012-02-29'T'19:08:26Z</updated>
-		<summary>Sly is a query selector engine allowing you to select elements with CSS1, CSS2 & CSS3 selectors.</summary>
+		<summary>Sly is a query selector engine allowing you to select elements with CSS1, CSS2 &amp; CSS3 selectors.</summary>
 	</entry>
 
 	<entry>
@@ -1263,7 +1263,7 @@
 		<link href="https://github.com/michalbe/mibbu" />
 		<id>urn:uuid:c9059520-6308-11e1-9237-1ba14cd38f96</id>
 		<updated>2012-02-29'T'19:08:26Z</updated>
-		<summary>Microframework for fast game prototyping using Canvas & DOM</summary>
+		<summary>Microframework for fast game prototyping using Canvas &amp; DOM</summary>
 	</entry>
 
 	<entry>
