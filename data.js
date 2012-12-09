@@ -2033,5 +2033,12 @@ var MicroJS = [
     description: "Convert Unix style permissions to strings like ls (0755 => 'rwxr-xr-x')",
     url: "https://github.com/bahamas10/node-perms",
     source: "https://raw.github.com/bahamas10/node-perms/master/index.js"
+  },
+  {
+    name: "autocast",
+    tags: ["auto", "cast", "typecast", "convert"],
+    description: "Easily and automatically cast common datatypes in JavaScript",
+    url: "https://github.com/bahamas10/node-autocast",
+    source: "https://raw.github.com/bahamas10/node-autocast/master/index.js"
   }
 ];
