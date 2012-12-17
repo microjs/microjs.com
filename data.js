@@ -9,6 +9,14 @@
 
 var MicroJS = [
   {
+    name: "Waypoints",
+    github: "skookum/waypoints",
+    tags: ["mobile", "navigation", "history", "url", "web app", "ios"],
+    description: "Navigation and history manager for full-screen iOS web apps."
+    url: "https://github.com/skookum/waypoints",
+    source: "https://raw.github.com/Skookum/waypoints/master/build/waypoints-0.0.1.min.js"
+  },
+  {
     name: "spooks.js",
     github: "philbooth/spooks.js",
     tags: ["unit test", "spy", "spies", "mock", "fake", "dummy", "double", "stub"],
