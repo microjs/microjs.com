@@ -2040,5 +2040,12 @@ var MicroJS = [
     description: "Easily and automatically cast common datatypes in JavaScript",
     url: "https://github.com/bahamas10/node-autocast",
     source: "https://raw.github.com/bahamas10/node-autocast/master/index.js"
+  },
+  {
+    name: "range.js",
+    tags: ["range"],
+    description: "JavaScript's missing range function.",
+    url: "https://github.com/js-coder/range.js",
+    source: "https://raw.github.com/js-coder/range.js/master/lib/range.js"
   }
 ];
