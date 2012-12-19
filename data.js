@@ -2047,5 +2047,12 @@ var MicroJS = [
     description: "JavaScript's missing range function.",
     url: "https://github.com/js-coder/range.js",
     source: "https://raw.github.com/js-coder/range.js/master/lib/range.js"
+  },
+  {
+    name: "Strukt",
+    tags: ["utilities"],
+    description: "Ruby inspired Structs for JavaScript.",
+    url: "https://github.com/js-coder/Strukt",
+    source: "https://raw.github.com/js-coder/Strukt/master/lib/strukt.js"
   }
 ];
