@@ -9,6 +9,14 @@
 
 var MicroJS = [
   {
+    name: "svg.js",
+    github: "wout/svg.js",
+    tags: ["svg", "vector", "graphics"],
+    description: "A lightweight library for manipulating SVG.",
+    url: "https://github.com/wout/svg.js",
+    source: "https://raw.github.com/wout/svg.js/master/dist/svg.js"
+  },
+  {
     name: "spooks.js",
     github: "philbooth/spooks.js",
     tags: ["unit test", "spy", "spies", "mock", "fake", "dummy", "double", "stub"],
