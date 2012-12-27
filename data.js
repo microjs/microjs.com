@@ -2040,5 +2040,14 @@ var MicroJS = [
     description: "Easily and automatically cast common datatypes in JavaScript",
     url: "https://github.com/bahamas10/node-autocast",
     source: "https://raw.github.com/bahamas10/node-autocast/master/index.js"
+  },
+  {
+    name: "preloadimages.js",
+    tags: ["preload", "images", "asset"],
+    description: "Preload images and callback when they are all ready",
+    url: "https://github.com/bahamas10/preloadimages.js",
+    source: "function preloadimages(n,o){function r(){++a>=e&&o(i)}" +
+            "var a=0,e=0,i=n instanceof Array?[]:{};for(var c in n)e++," +
+            "i[c]=new Image,i[c].src=n[c],i[c].onload=r,i[c].onerror=r,i[c].onabort=r}"
   }
 ];
