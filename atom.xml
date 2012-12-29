@@ -2218,5 +2218,13 @@
 		<summary>Easily and automatically cast common datatypes in JavaScript</summary>
 	</entry>
 
+	<entry>
+		<title>ipsum.js</title>
+		<link href="https://github.com/mdix/ipsum.js" />
+		<id>urn:uuid:ffdfb420-51d9-11e2-8df7-874897221739</id>
+		<updated>2012-12-29'T'17:05:26Z</updated>
+		<summary>Increases / decreases text quantity inside inline elements by pressing keys to check if the design can cope with different text length.</summary>
+	</entry>
+
 
 </feed>
