@@ -2040,5 +2040,12 @@ var MicroJS = [
     description: "Easily and automatically cast common datatypes in JavaScript",
     url: "https://github.com/bahamas10/node-autocast",
     source: "https://raw.github.com/bahamas10/node-autocast/master/index.js"
+  },
+  {
+    name: "ipsum.js",
+    tags: ["content", "text", "helper", "tool", "developer tool"],
+    description: "Increases / decreases text quantity inside inline elements by pressing keys to check if the design can cope with different text length.",
+    url: "https://github.com/mdix/ipsum.js",
+    source: "https://raw.github.com/mdix/ipsum.js/master/ipsum.js"
   }
 ];
