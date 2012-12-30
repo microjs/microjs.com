@@ -2069,5 +2069,12 @@ var MicroJS = [
     description: "Increases / decreases text quantity inside inline elements by pressing keys to check if the design can cope with different text length.",
     url: "https://github.com/mdix/ipsum.js",
     source: "https://raw.github.com/mdix/ipsum.js/master/ipsum.js"
+  },
+  {
+    name: "preloadimages.js",
+    tags: ["preload", "images", "asset"],
+    description: "Preload images and callback when they are all ready",
+    url: "https://github.com/bahamas10/preloadimages.js",
+    source: "https://raw.github.com/bahamas10/preloadimages.js/master/preloadimages.js"
   }
 ];
