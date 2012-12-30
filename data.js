@@ -522,7 +522,7 @@ var MicroJS = [
     tags: ["spa"],
     description: "A lightweight, full featured client side router for single page apps.",
     url: "https://github.com/flatiron/director",
-    source: "https://raw.github.com/flatiron/director/master/build/director-1.1.6.js"
+    source: "https://raw.github.com/flatiron/director/master/build/director.js"
   },
   {
     name: "snack.js",

@@ -2226,5 +2226,29 @@
 		<summary>Increases / decreases text quantity inside inline elements by pressing keys to check if the design can cope with different text length.</summary>
 	</entry>
 
+	<entry>
+		<title>svg.js</title>
+		<link href="https://github.com/wout/svg.js" />
+		<id>urn:uuid:4bfbe880-5214-11e2-9e63-bd36693c1f52</id>
+		<updated>2012-12-30'T'00:03:03Z</updated>
+		<summary>A lightweight library for manipulating SVG.</summary>
+	</entry>
+
+	<entry>
+		<title>Strukt</title>
+		<link href="https://github.com/js-coder/Strukt" />
+		<id>urn:uuid:5e40ba20-5214-11e2-9e63-bd36693c1f52</id>
+		<updated>2012-12-30'T'00:03:03Z</updated>
+		<summary>Ruby inspired Structs for JavaScript.</summary>
+	</entry>
+
+	<entry>
+		<title>range.js</title>
+		<link href="https://github.com/js-coder/range.js" />
+		<id>urn:uuid:5e410840-5214-11e2-9e63-bd36693c1f52</id>
+		<updated>2012-12-30'T'00:03:03Z</updated>
+		<summary>JavaScript&apos;s missing range function.</summary>
+	</entry>
+
 
 </feed>
