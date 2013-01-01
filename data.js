@@ -9,6 +9,14 @@
 
 var MicroJS = [
   {
+    name: "atom.js",
+    github: "zynga/atom",
+    tags: ["async", "barrier", "control", "events", "flow", "properties"],
+    description: "Small class providing async control flow, property listeners, barrier pattern, and more. For node and browser.",
+    url: "https://github.com/zynga/atom",
+    source: "https://raw.github.com/zynga/atom/master/atom.js"
+  },
+  {
     name: "svg.js",
     github: "wout/svg.js",
     tags: ["svg", "vector", "graphics"],
