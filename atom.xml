@@ -2258,5 +2258,13 @@
 		<summary>Preload images and callback when they are all ready</summary>
 	</entry>
 
+	<entry>
+		<title>atom.js</title>
+		<link href="https://github.com/zynga/atom" />
+		<id>urn:uuid:5a9fb9a0-59eb-11e2-bc27-b13509c3f76a</id>
+		<updated>2013-01-08'T'23:30:07Z</updated>
+		<summary>Small class providing async control flow, property listeners, barrier pattern, and more. For node and browser.</summary>
+	</entry>
+
 
 </feed>

@@ -88,6 +88,7 @@ var MicroJS = [
     url: "https://github.com/radmen/css.js",
     source: "https://raw.github.com/radmen/css.js/master/css.js"
   },
+  /* disappeared
   {
     name: "compare.js",
     github: "goloroden/compare.js",
@@ -96,6 +97,7 @@ var MicroJS = [
     url: "https://github.com/goloroden/compare.js",
     source: "https://raw.github.com/goloroden/compare.js/master/bin/compare.js"
   },
+  */
   {
     name: "vagueTime.js",
     github: "philbooth/vagueTime.js",
@@ -126,7 +128,7 @@ var MicroJS = [
     tags: ["framework"],
     description: "A lightweight JavaScript framework for easily building up high performance web application with less code",
     url: "http://qatrix.com",
-    source: "http://qatrix.com/files/qatrix-0.9.4"
+    source: "http://qatrix.com/files/qatrix-1.0.2"
   },
   {
     name: "Smoothie Charts",
@@ -1491,7 +1493,7 @@ var MicroJS = [
     tags: ["string", "language", "sugar"],
     description: "Adds a `format` method to `String.prototype`. Inspired by Python's `str.format()`.",
     url: "https://github.com/davidchambers/string-format",
-    source: "https://raw.github.com/davidchambers/string-format/master/string-format.js"
+    source: "https://raw.github.com/davidchambers/string-format/master/lib/string-format.js"
   },
   {
     name: "Callbacks.js",
@@ -1540,7 +1542,7 @@ var MicroJS = [
     tags: ["utils", "pubsub", "notifications", "events", "async", "callbacks"],
     description: "Flexible pubsub-ish framework for handling namespaced events.",
     url: "http://www.thejacklawson.com/Mediator.js",
-    source: "https://raw.github.com/ajacksified/Mediator.js/master/mediator.js"
+    source: "https://raw.github.com/ajacksified/Mediator.js/master/lib/mediator.js"
   },
   {
     name: "doT.js",
@@ -1574,8 +1576,8 @@ var MicroJS = [
     name: "remoteStorage.js",
     tags: ["events", "ajax", "storage" ],
     description: "A library for adding remoteStorage support to your client-side app.",
-    url: "https://github.com/unhosted/remoteStorage.js",
-    source: "https://raw.github.com/unhosted/remoteStorage.js/master/src/remoteStorage.js"
+    url: "https://github.com/RemoteStorage/remoteStorage.js",
+    source: "https://raw.github.com/RemoteStorage/remoteStorage.js/master/src/remoteStorage.js"
   },
   {
     name: "impress.js",
@@ -1653,7 +1655,7 @@ var MicroJS = [
     tags: ["cookie.js", "cookies", "storage"],
     description: "A small library that makes setting, getting and removing cookies really easy.",
     url: "https://github.com/js-coder/cookie.js",
-    source: "https://raw.github.com/js-coder/cookie.js/master/cookie.js"
+    source: "https://raw.github.com/js-coder/cookie.js/gh-pages/cookie.js"
   },
   {
     name: "an.hour.ago",
@@ -1799,6 +1801,7 @@ var MicroJS = [
     url: "https://github.com/lloyd/persona.js",
     source: "https://raw.github.com/lloyd/persona.js/master/persona.js"
   },
+  /*
   {
     name: "Driftwood",
     tags: ["logging", "error", "exception", "log"],
@@ -1806,6 +1809,7 @@ var MicroJS = [
     url: "https://github.com/errplane/driftwood.js",
     source: "https://raw.github.com/errplane/driftwood.js/master/driftwood.js"
   },
+  */
   {
     name: "progress.js",
     tags: ["progress", "bar", "progressbar"],
