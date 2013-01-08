@@ -2266,5 +2266,21 @@
 		<summary>Small class providing async control flow, property listeners, barrier pattern, and more. For node and browser.</summary>
 	</entry>
 
+	<entry>
+		<title>cm.js</title>
+		<link href="https://github.com/timseverien/cm.js" />
+		<id>urn:uuid:ceb3baf0-59ee-11e2-8dc1-879f97c33de9</id>
+		<updated>2013-01-08'T'23:54:46Z</updated>
+		<summary>Manage cookies easily.</summary>
+	</entry>
+
+	<entry>
+		<title>Slow.js</title>
+		<link href="https://github.com/jakiestfu/Slow.js" />
+		<id>urn:uuid:ceb3e200-59ee-11e2-8dc1-879f97c33de9</id>
+		<updated>2013-01-08'T'23:54:46Z</updated>
+		<summary>Make your CSS transitions go in slow motion (like Mac animations)</summary>
+	</entry>
+
 
 </feed>

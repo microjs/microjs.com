@@ -10,6 +10,7 @@ var config = {
             'Backbone'
           , 'Zepto'
         ]
+      , minifyExceptions: [ 'cm.js' ]
       , errorCountThreshold: 10
       , verbose: process.argv.indexOf('-v') != -1
       , quiet: process.argv.indexOf('-q') != -1
