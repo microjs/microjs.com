@@ -2084,5 +2084,13 @@ var MicroJS = [
     description: "Preload images and callback when they are all ready",
     url: "https://github.com/bahamas10/preloadimages.js",
     source: "https://raw.github.com/bahamas10/preloadimages.js/master/preloadimages.js"
+  },
+  {
+    name: "Slow.js",
+    github: "jakiestfu/Slow.js",
+    tags: ["slow", "motion", "css", "css3"],
+    description: "Make your CSS transitions go in slow motion (like Mac animations)",
+    url: "https://github.com/jakiestfu/Slow.js",
+    source: "https://raw.github.com/jakiestfu/Slow.js/master/slow.js"
   }
 ];
