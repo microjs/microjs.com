@@ -122,6 +122,7 @@ var MicroJS = [
     url: "http://github.com/madrobby/bitarray.js",
     source: "https://raw.github.com/madrobby/bitarray.js/master/bitarray.js"
   },
+  /* no longer micro
   {
     name: "Qatrix",
     github: "qatrix/Qatrix",
@@ -130,6 +131,7 @@ var MicroJS = [
     url: "http://qatrix.com",
     source: "http://qatrix.com/files/qatrix-1.0.2"
   },
+  */
   {
     name: "Smoothie Charts",
     github: "joewalnes/smoothie",
