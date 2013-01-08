@@ -2095,5 +2095,13 @@ var MicroJS = [
     description: "Manage cookies easily.",
     url: "https://github.com/timseverien/cm.js",
     source: "https://raw.github.com/timseverien/cm.js/master/cm.js"
+  },
+  {
+    name: "Slow.js",
+    github: "jakiestfu/Slow.js",
+    tags: ["slow", "motion", "css", "css3"],
+    description: "Make your CSS transitions go in slow motion (like Mac animations)",
+    url: "https://github.com/jakiestfu/Slow.js",
+    source: "https://raw.github.com/jakiestfu/Slow.js/master/slow.js"
   }
 ];
