@@ -2078,43 +2078,11 @@ var MicroJS = [
     source: "https://raw.github.com/bahamas10/preloadimages.js/master/preloadimages.js"
   },
   {
-    name: "Mention.js",
-    github: "jakiestfu/Mention.js",
-    tags: ["mention", "typeahead", "usernames", "users"],
-    description: "A lightweight library that enables you to have Twitter-like user mentions in textareas",
-    url: "https://github.com/jakiestfu/Mention.js",
-    source: "https://raw.github.com/jakiestfu/Mention.js/master/mention.js"
-  },
-  {
-    name: "Sparky.js",
-    github: "jakiestfu/Sparky.js",
-    tags: ["sparky", "framework", "scaffold", "app"],
-    description: "A client-side application scaffold which helps those who want to have organized structure in their app, but don't want to subscribe to a particular client-side MVC framework.",
-    url: "https://github.com/jakiestfu/Sparky.js",
-    source: "https://raw.github.com/jakiestfu/Sparky.js/master/Sparky.js"
-  },
-  {
     name: "Slow.js",
     github: "jakiestfu/Slow.js",
     tags: ["slow", "motion", "css", "css3"],
     description: "Make your CSS transitions go in slow motion (like Mac animations)",
     url: "https://github.com/jakiestfu/Slow.js",
     source: "https://raw.github.com/jakiestfu/Slow.js/master/slow.js"
-  },
-  {
-    name: "Blur.js",
-    github: "jakiestfu/Blur.js",
-    tags: ["blur", "aero", "gaussian"],
-    description: "A jQuery plugin that produces psuedo-transparent blurred elements over other elements.",
-    url: "https://github.com/jakiestfu/Blur.js",
-    source: "https://raw.github.com/jakiestfu/Blur.js/master/blur.js"
-  },
-  {
-    name: "Context.js",
-    github: "jakiestfu/Context.js",
-    tags: ["context", "menu", "right", "click", "bootstrap"],
-    description: "Contextual Menus with Twitters Bootstrap",
-    url: "https://github.com/jakiestfu/Context.js",
-    source: "https://raw.github.com/jakiestfu/Context.js/master/context.js"
-  },
+  }
 ];
