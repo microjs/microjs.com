@@ -2084,5 +2084,12 @@ var MicroJS = [
     description: "Preload images and callback when they are all ready",
     url: "https://github.com/bahamas10/preloadimages.js",
     source: "https://raw.github.com/bahamas10/preloadimages.js/master/preloadimages.js"
+  },
+  {
+    name: "cm.js",
+    tags: ["polyfill", "cookies", "json"],
+    description: "Manage cookies easily.",
+    url: "https://github.com/timseverien/cm.js",
+    source: "https://raw.github.com/timseverien/cm.js/master/cm.js"
   }
 ];
