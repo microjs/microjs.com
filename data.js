@@ -2105,5 +2105,13 @@ var MicroJS = [
     description: "Make your CSS transitions go in slow motion (like Mac animations)",
     url: "https://github.com/jakiestfu/Slow.js",
     source: "https://raw.github.com/jakiestfu/Slow.js/master/slow.js"
+  },
+  {
+    name: "enquire.js",
+    github: "WickyNilliams/enquire.js",
+    tags: ["matchMedia", "mediaquery", "mediaqueries", "css3", "css"],
+    description: "Awesome Media Queries in JavaScript",
+    url: "https://github.com/WickyNilliams/enquire.js",
+    source: "https://raw.github.com/WickyNilliams/enquire.js/master/dist/enquire.js"
   }
 ];

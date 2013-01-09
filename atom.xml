@@ -2282,5 +2282,13 @@
 		<summary>Make your CSS transitions go in slow motion (like Mac animations)</summary>
 	</entry>
 
+	<entry>
+		<title>enquire.js</title>
+		<link href="https://github.com/WickyNilliams/enquire.js" />
+		<id>urn:uuid:177cbc50-5a8f-11e2-9450-b9e85b604d05</id>
+		<updated>2013-01-09'T'19:02:06Z</updated>
+		<summary>Awesome Media Queries in JavaScript</summary>
+	</entry>
+
 
 </feed>
