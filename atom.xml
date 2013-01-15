@@ -2290,5 +2290,13 @@
 		<summary>Awesome Media Queries in JavaScript</summary>
 	</entry>
 
+	<entry>
+		<title>Rye.js</title>
+		<link href="http://ryejs.com" />
+		<id>urn:uuid:ee1ea650-5eaf-11e2-9a86-999106dcd7fd</id>
+		<updated>2013-01-15'T'01:07:09Z</updated>
+		<summary>A lightweight DOM manipulation library</summary>
+	</entry>
+
 
 </feed>

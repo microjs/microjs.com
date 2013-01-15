@@ -2113,5 +2113,13 @@ var MicroJS = [
     description: "Awesome Media Queries in JavaScript",
     url: "https://github.com/WickyNilliams/enquire.js",
     source: "https://raw.github.com/WickyNilliams/enquire.js/master/dist/enquire.js"
+  },
+  {
+    name: "Rye.js",
+    github: "ryejs/rye.js",
+    tags: ["dom", "jquery", "query", "collection", "manipulation", "events", "style"],
+    description: "A lightweight DOM manipulation library",
+    url: "http://ryejs.com",
+    source: "https://raw.github.com/ryejs/ryejs.com/gh-pages/dist/rye-base.js"
   }
 ];
