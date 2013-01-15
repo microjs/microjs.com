@@ -2117,7 +2117,7 @@ var MicroJS = [
   {
     name: "Rye.js",
     github: "ryejs/rye.js",
-    tags: ["dom", "jquery", "query", "collection", "manipulation", "events", "style"],
+    tags: ["dom", "jquery", "query", "collection", "manipulation", "events", "style", "mobile", "requests", "touch"],
     description: "A lightweight DOM manipulation library",
     url: "http://ryejs.com",
     source: "https://raw.github.com/ryejs/ryejs.com/gh-pages/dist/rye-base.js"
