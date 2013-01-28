@@ -2113,5 +2113,12 @@ var MicroJS = [
     description: "Awesome Media Queries in JavaScript",
     url: "https://github.com/WickyNilliams/enquire.js",
     source: "https://raw.github.com/WickyNilliams/enquire.js/master/dist/enquire.js"
+  },
+  {
+    name: "ki.js",
+    tags: ["dom", "selectors", "traversing", "library"],
+    description: "A super-tiny jQuery-like JavaScript library",
+    url: "https://github.com/dciccale/ki.js",
+    source: "https://raw.github.com/dciccale/ki.js/master/ki.js"
   }
 ];
