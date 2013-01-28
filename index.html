@@ -33,7 +33,7 @@
     list-style-type: none;
     padding: 0;
   }
-  h1, h2, h3, h4, p.footer strong, .clue strong {
+  h1, h2, h3, h4, .title-3, .title-4, p.footer strong, .clue strong {
     font-family: 'Maiden Orange', arial, sans-serif;
     font-weight: normal;
   }
@@ -84,12 +84,12 @@
     background: #000;
   }
   @-webkit-keyframes appear {
-    from { 
+    from {
       opacity: 0;
       -webkit-transform: scale(0);
     }
-    to { 
-      opacity: 1; 
+    to {
+      opacity: 1;
       -webkit-transform: scale(1);
     }
   }
@@ -387,14 +387,14 @@
     padding: 0 20px 0 0;
     height: 60px;
   }
-  li h3, li h4 {
+  li .title-3, li .title-4 {
     display: inline;
     line-height: 56px;
   }
-  li h3 {
+  li .title-3 {
     font-size: 40px;
   }
-  li h4 {
+  li .title-4 {
     font-size: 32px;
   }
   .title .stat {
@@ -404,6 +404,7 @@
     font-weight: bold;
     height: 19px;
     opacity: 0.5;
+    display: block;
   }
   .title .stat span {
     background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAABeCAYAAAAqoZR9AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAupJREFUeNrsmM9rE0EUx3e1Vq3Gxh/k4K9EKkhBMN4FA5689SAlUNB4y0lUFFEQFPQovRU8pTd7MqJ/QIo3Rehq8WZJWlCwIIn2oIjt+n363fA6O7tZWws97INP2Z197zuT92ZnuuP6vu+sx7ZY2srAA6LcIT7byiFvGQHJgDrogCrIq2d5tnXokwmeaQF5MA3KRrAWOUufuikgQQtUrvl/TRw9hdgD+iwwpivgcYiOErBZjT5VxjguqyB/9jAt33ok/jSYo18hqEITLIGhBJUbpG9TCwQ2l0CgZSujr0pTTpCDDO/zwQjegjFQ430BPFT9PAMlcJn3Y4yZt5UxqLOnep42JlyojHoiBROmrgQ8NZlWTSSdxIugzaENG4mTElf5rE3f0Lugf45nSaAXDFvjxrzOebCX1+0/CbOYuxHrQSqQCqQC/1HgFJgAM2SCbU7c5iocBi+4gHwCd8ANMA9WwFNwSMfo4AvgC4Pfg35wHAyDnWBWCY+YAnfZQ2CXwAl1fxLcVve/wE2J7eMvGZDVyciNyz1zhVuZtq3gu5mDUbDIHt6BXfwJB8EAaPHZZ3DelgNhCDyh40fwiAS5mTKTGLWoyhY+Cs6AHeAVeAxm01U5FUgFUoH1CuTAD/B8rQIHwDawuBYBCZ7i9cteO5NJliv0Mrhm84kL3qeCr0T5RQXnjOB+jiaRQM7S8xvwmptNT4HrDL6l2ia5H1ZNf7MKR8BRXn8A+7lHBlXYzXJGViHoXVgCJXAOfGXbT/7PELu1LXNXFuuztG3nfeREyilHR23/Ysd0cLo3pgKpwGYSSGR4YyugAcbjnK7KCmRpL6rvhKZ8bEQJjCunimpvWM5TKjaBkuHU5NBt1u6uSEqgwC+0bMLUyBFpq1sF13XlkG3yH3JbDHXGhDX8ZFaKSuZIguBadyLxiK+gNLKhM8PVJsfE981hzyQctlSmaBu2bN33pDwxgTLRQhVybfPBPAJlhZzNeZb2W4ABABjYikWzwWlLAAAAAElFTkSuQmCC");
@@ -420,7 +421,7 @@
   .title .stat .t {
     background-position: 4px -75px;
   }
-  li div.size {
+  li span.size {
     float: right;
     margin: 0 0 0 30px;
     padding: 0 0 0 20px;
@@ -606,7 +607,7 @@
     </p>
 
     <p>
-      Want to master the JavaScripts?<br>Grab a seat at the <a href="http://javascriptmasterclass.com/">JavaScript Master Class</a>. 
+      Want to master the JavaScripts?<br>Grab a seat at the <a href="http://javascriptmasterclass.com/">JavaScript Master Class</a>.
     </p>
   </div>
 
@@ -647,12 +648,12 @@
         while (i--) {
           if (!(r = results[i])._rendered) {
             r.stat =
-                '<div class="stat">'
+                '<span class="stat">'
               + (r.ghwatchers ? t('<span class="w">{ghwatchers}</span><span class="f">{ghforks}</span>', r) : '')
               + (r.tweets ? t('<span class="t">{tweets}</span>', r) : '')
-              + '</div>'
+              + '</span>'
             r.heading = r.name.length < 16 ? 3 : 4;
-            r._rendered = t('<li><a href="{url}"><div class="size">{size}</div><div class="title"><h{heading}>{name}</h{heading}>{stat}</div>{description}</a></li>', r)
+            r._rendered = t('<li><a href="{url}"><span class="size">{size}</span><span class="title"><span class="title-{heading}">{name}</span>{stat}</span>{description}</a></li>', r)
           }
           html.push(results[i]._rendered)
         }
@@ -872,7 +873,7 @@
     s.parentNode.insertBefore(t, s);
   })();
 </script>
-  
+
 
   </body>
 </html>
