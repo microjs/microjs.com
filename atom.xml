@@ -2298,5 +2298,13 @@
 		<summary>An AMD-compatible natural extension-based class and event model, fully compatible with prototypal inheritance.</summary>
 	</entry>
 
+	<entry>
+		<title>Lemonad</title>
+		<link href="http://functionaljs.org/" />
+		<id>urn:uuid:e37d59d0-69e0-11e2-8c56-0d08670e4a91</id>
+		<updated>2013-01-29'T'06:55:31Z</updated>
+		<summary>A functional library inspired by Clojure and ClojureScript, built on Underscore</summary>
+	</entry>
+
 
 </feed>
