@@ -2290,5 +2290,13 @@
 		<summary>Awesome Media Queries in JavaScript</summary>
 	</entry>
 
+	<entry>
+		<title>zoe.js</title>
+		<link href="http://zoejs.org" />
+		<id>urn:uuid:5d2b9c50-6249-11e2-9b74-0580d583bbc4</id>
+		<updated>2013-01-19'T'15:03:14Z</updated>
+		<summary>An AMD-compatible natural extension-based class and event model, fully compatible with prototypal inheritance.</summary>
+	</entry>
+
 
 </feed>

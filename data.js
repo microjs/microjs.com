@@ -9,6 +9,14 @@
 
 var MicroJS = [
   {
+    name: "zoe.js",
+    github: "zestjs/zoe",
+    tags: ["class", "inheritance", "events", "extend", "amd", "prototype", "prototypal"],
+    description: "An AMD-compatible natural extension-based class and event model, fully compatible with prototypal inheritance.",
+    url: "http://zoejs.org",
+    source: "https://raw.github.com/zestjs/zoe/master/zoe.js"    
+  },
+  {
     name: "atom.js",
     github: "zynga/atom",
     tags: ["async", "barrier", "control", "events", "flow", "properties"],
@@ -359,6 +367,14 @@ var MicroJS = [
     description: "A utility-belt that provides functional programming support that you would expect in Ruby.",
     url: "http://underscorejs.org/",
     source: "http://underscorejs.org/underscore.js"
+  },
+  {
+    name: "Lemonad",
+    github: "fogus/lemonad",
+    tags: ["functional", "monads", "data", "protocols"],
+    description: "A functional library inspired by Clojure and ClojureScript, built on Underscore",
+    url: "http://functionaljs.org/",
+    source: "https://raw.github.com/fogus/lemonad/master/lib/lemonad.js"
   },
   {
     name: "Weld",
