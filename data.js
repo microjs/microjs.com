@@ -2136,5 +2136,12 @@ var MicroJS = [
     description: "A super-tiny jQuery-like JavaScript library",
     url: "https://github.com/dciccale/ki.js",
     source: "https://raw.github.com/dciccale/ki.js/master/ki.js"
+  },
+  {
+    name: "BehaviorTree.js",
+    tags: ["behavior trees", "ai", "behaviors", "games", "statemachine"],
+    description: "A JavaScript implementation of Behavior Trees, useful when developing AI behaviors in games.",
+    url: "https://github.com/Calamari/BehaviorTree.js",
+    source: "https://raw.github.com/Calamari/BehaviorTree.js/master/btree-complete.min.js"
   }
 ];
