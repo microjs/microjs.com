@@ -2306,5 +2306,13 @@
 		<summary>A functional library inspired by Clojure and ClojureScript, built on Underscore</summary>
 	</entry>
 
+	<entry>
+		<title>ki.js</title>
+		<link href="https://github.com/dciccale/ki.js" />
+		<id>urn:uuid:f5e96f40-69f0-11e2-9ee3-d5c920d84745</id>
+		<updated>2013-01-29'T'08:50:24Z</updated>
+		<summary>A super-tiny jQuery-like JavaScript library</summary>
+	</entry>
+
 
 </feed>
