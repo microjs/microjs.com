@@ -14,7 +14,7 @@ var MicroJS = [
     tags: ["class", "inheritance", "events", "extend", "amd", "prototype", "prototypal"],
     description: "An AMD-compatible natural extension-based class and event model, fully compatible with prototypal inheritance.",
     url: "http://zoejs.org",
-    source: "https://raw.github.com/zestjs/zoe/master/zoe.js"    
+    source: "https://raw.github.com/zestjs/zoe/master/zoe.js"
   },
   {
     name: "atom.js",
@@ -2129,5 +2129,12 @@ var MicroJS = [
     description: "Awesome Media Queries in JavaScript",
     url: "https://github.com/WickyNilliams/enquire.js",
     source: "https://raw.github.com/WickyNilliams/enquire.js/master/dist/enquire.js"
+  },
+  {
+    name: "ki.js",
+    tags: ["dom", "selectors", "traversing", "library"],
+    description: "A super-tiny jQuery-like JavaScript library",
+    url: "https://github.com/dciccale/ki.js",
+    source: "https://raw.github.com/dciccale/ki.js/master/ki.js"
   }
 ];
