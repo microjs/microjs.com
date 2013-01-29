@@ -9,6 +9,14 @@
 
 var MicroJS = [
   {
+    name: "zoe.js",
+    github: "zestjs/zoe",
+    tags: ["class", "inheritance", "events", "extend", "amd", "prototype", "prototypal"],
+    description: "An AMD-compatible natural extension-based class and event model, fully compatible with prototypal inheritance.",
+    url: "http://zoejs.org",
+    source: "https://raw.github.com/zestjs/zoe/master/zoe.js"    
+  },
+  {
     name: "atom.js",
     github: "zynga/atom",
     tags: ["async", "barrier", "control", "events", "flow", "properties"],
