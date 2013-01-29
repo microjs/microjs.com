@@ -361,6 +361,14 @@ var MicroJS = [
     source: "http://underscorejs.org/underscore.js"
   },
   {
+    name: "Lemonad",
+    github: "fogus/lemonad",
+    tags: ["functional", "monads", "data", "protocols"],
+    description: "A functional library inspired by Clojure and ClojureScript, built on Underscore",
+    url: "http://functionaljs.org/",
+    source: "https://raw.github.com/fogus/lemonad/master/lib/lemonad.js"
+  },
+  {
     name: "Weld",
     tags: ["templating"],
     description: "Completely unobtrusive, full featured template antimatter. Works in Node.js or the Browser, awesome built-in debugger.",
