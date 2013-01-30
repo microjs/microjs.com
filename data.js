@@ -2136,5 +2136,12 @@ var MicroJS = [
     description: "A super-tiny jQuery-like JavaScript library",
     url: "https://github.com/dciccale/ki.js",
     source: "https://raw.github.com/dciccale/ki.js/master/ki.js"
+  },
+  {
+    name: "Anim",
+    tags: ["css", "animation"],
+    description: "A bare bones animation library",
+    url: "https://github.com/relay/anim",
+    source: "https://raw.github.com/relay/anim/master/anim.js"
   }
 ];
