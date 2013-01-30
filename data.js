@@ -2143,5 +2143,12 @@ var MicroJS = [
     description: "A bare bones animation library",
     url: "https://github.com/relay/anim",
     source: "https://raw.github.com/relay/anim/master/anim.js"
+  },
+  {
+    name: "Relay",
+    tags: ["dom", "library", "framework", "mvc", "traversing", "events", "pubsub", "base"],
+    description: "A lightweight framework for building de-coupled apps",
+    url: "https://github.com/relay/relay",
+    source: "https://raw.github.com/relay/relay/master/relay-dev.js"
   }
 ];
