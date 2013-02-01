@@ -2136,5 +2136,12 @@ var MicroJS = [
     description: "A super-tiny jQuery-like JavaScript library",
     url: "https://github.com/dciccale/ki.js",
     source: "https://raw.github.com/dciccale/ki.js/master/ki.js"
+  },
+  {
+    name: "kimbo.js",
+    tags: ["dom", "selectors", "traversing", "library", "manipulation", "ajax", "ecmascript", "events"],
+    description: "An ECMAScript 5 only-compatible JavaScript library.",
+    url: "https://github.com/dciccale/kimbo.js",
+    source: "http://kimbojs.com/dist/kimbo.js"
   }
 ];
