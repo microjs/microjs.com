@@ -2314,5 +2314,29 @@
 		<summary>A super-tiny jQuery-like JavaScript library</summary>
 	</entry>
 
+	<entry>
+		<title>Anim</title>
+		<link href="https://github.com/relay/anim" />
+		<id>urn:uuid:a4f5a5c0-7046-11e2-9ab6-a7e2562ce408</id>
+		<updated>2013-02-06'T'10:18:53Z</updated>
+		<summary>A bare bones animation library</summary>
+	</entry>
+
+	<entry>
+		<title>BehaviorTree.js</title>
+		<link href="https://github.com/Calamari/BehaviorTree.js" />
+		<id>urn:uuid:a4fa60b0-7046-11e2-9ab6-a7e2562ce408</id>
+		<updated>2013-02-06'T'10:18:53Z</updated>
+		<summary>A JavaScript implementation of Behavior Trees, useful when developing AI behaviors in games.</summary>
+	</entry>
+
+	<entry>
+		<title>Relay</title>
+		<link href="https://github.com/relay/relay" />
+		<id>urn:uuid:a5491cf0-7046-11e2-9ab6-a7e2562ce408</id>
+		<updated>2013-02-06'T'10:18:53Z</updated>
+		<summary>A lightweight framework for building de-coupled apps</summary>
+	</entry>
+
 
 </feed>
