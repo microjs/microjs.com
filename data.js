@@ -2142,6 +2142,6 @@ var MicroJS = [
     tags: ["behavior trees", "ai", "behaviors", "games", "statemachine"],
     description: "A JavaScript implementation of Behavior Trees, useful when developing AI behaviors in games.",
     url: "https://github.com/Calamari/BehaviorTree.js",
-    source: "https://raw.github.com/Calamari/BehaviorTree.js/master/btree-complete.min.js"
+    source: "https://raw.github.com/Calamari/BehaviorTree.js/master/btree-complete.js"
   }
 ];
