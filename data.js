@@ -2150,5 +2150,12 @@ var MicroJS = [
     description: "A lightweight framework for building de-coupled apps",
     url: "https://github.com/relay/relay",
     source: "https://raw.github.com/relay/relay/master/relay-dev.js"
+  },
+  {
+    name: "BehaviorTree.js",
+    tags: ["behavior trees", "ai", "behaviors", "games", "statemachine"],
+    description: "A JavaScript implementation of Behavior Trees, useful when developing AI behaviors in games.",
+    url: "https://github.com/Calamari/BehaviorTree.js",
+    source: "https://raw.github.com/Calamari/BehaviorTree.js/master/btree-complete.js"
   }
 ];
