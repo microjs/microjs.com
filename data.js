@@ -2157,5 +2157,12 @@ var MicroJS = [
     description: "A JavaScript implementation of Behavior Trees, useful when developing AI behaviors in games.",
     url: "https://github.com/Calamari/BehaviorTree.js",
     source: "https://raw.github.com/Calamari/BehaviorTree.js/master/btree-complete.js"
+  },
+  {
+    name: "depot.js",
+    tags: ["storage", "localStorage", "store"],
+    description: "depot.js is a namespaced localStorage wrapper with a simple API.",
+    url: "https://github.com/mkuklis/depot.js",
+    source: "https://raw.github.com/mkuklis/depot.js/master/depot.js"
   }
 ];
