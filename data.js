@@ -2157,5 +2157,12 @@ var MicroJS = [
     description: "A JavaScript implementation of Behavior Trees, useful when developing AI behaviors in games.",
     url: "https://github.com/Calamari/BehaviorTree.js",
     source: "https://raw.github.com/Calamari/BehaviorTree.js/master/btree-complete.js"
+  },
+  {
+    name: "PinkySwear.js",
+    tags: ["promises"],
+    description: "A tiny implementation of the Promises/A+ specification.",
+    url: "https://github.com/timjansen/pinkyswear.js",
+    source: "https://raw.github.com/timjansen/PinkySwear.js/master/pinkyswear.js"
   }
 ];
