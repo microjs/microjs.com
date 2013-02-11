@@ -2157,5 +2157,12 @@ var MicroJS = [
     description: "A JavaScript implementation of Behavior Trees, useful when developing AI behaviors in games.",
     url: "https://github.com/Calamari/BehaviorTree.js",
     source: "https://raw.github.com/Calamari/BehaviorTree.js/master/btree-complete.js"
+  },
+  {
+    name: "DCL.js",
+    tags: ["class", "oop", "aop", "inheritance", "object", "compose"],
+    description: "An elegant OOP with mixins + AOP for JavaScript",
+    url: "http://www.dcljs.org/",
+    source: "https://raw.github.com/uhop/dcl/master/dcl.js"
   }
 ];
