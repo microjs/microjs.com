@@ -2157,5 +2157,12 @@ var MicroJS = [
     description: "A JavaScript implementation of Behavior Trees, useful when developing AI behaviors in games.",
     url: "https://github.com/Calamari/BehaviorTree.js",
     source: "https://raw.github.com/Calamari/BehaviorTree.js/master/btree-complete.js"
+  },
+  {
+    name: "breakup.js",
+    tags: ["enumeration", "setimmediate", "enumerate", "jquery", "yield"],
+    description: "Yielding enumeration replacement functions for async.forEachSeries() and jQuery.each()",
+    url: "https://github.com/nicjansma/breakup.js",
+    source: "https://raw.github.com/nicjansma/breakup.js/master/lib/breakup.js"
   }
 ];
