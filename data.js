@@ -2157,5 +2157,12 @@ var MicroJS = [
     description: "A JavaScript implementation of Behavior Trees, useful when developing AI behaviors in games.",
     url: "https://github.com/Calamari/BehaviorTree.js",
     source: "https://raw.github.com/Calamari/BehaviorTree.js/master/btree-complete.js"
+  },
+  {
+      name: "Barman",
+      tags: ["traits", "oop", "classes", "objects", "object composition"],
+      description: "A small library to brew JavaScript objects.",
+      url: "https://github.com/dfernandez79/barman",
+      source: "https://raw.github.com/dfernandez79/barman/master/src/barman.js"
   }
 ];
