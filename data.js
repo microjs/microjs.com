@@ -9,6 +9,14 @@
 
 var MicroJS = [
   {
+    name: "accounting.js",
+    github: "josscrowcroft/accounting.js",
+    tags: ["math", "number", "money", "currency parsing", "currency formatting"],
+    description: "A lightweight JavaScript library for number, money and currency formatting - fully localisable, zero dependencies.",
+    url: "http://josscrowcroft.github.com/accounting.js/",
+    source: "https://raw.github.com/josscrowcroft/accounting.js/master/accounting.js"
+  },
+  {
     name: "zoe.js",
     github: "zestjs/zoe",
     tags: ["class", "inheritance", "events", "extend", "amd", "prototype", "prototypal"],
