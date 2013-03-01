@@ -40,6 +40,14 @@ var MicroJS = [
     url: "https://github.com/philbooth/spooks.js",
     source: "https://raw.github.com/philbooth/spooks.js/master/src/spooks.js"
   },
+  {
+    name: "Respond.js",
+    github: "scottjehl/Respond",
+    tags: ["polyfill", "min-width", "max-width", "Media Queries", "CSS3"],
+    description: "A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more).",
+    url: "https://github.com/igorlima/Respond",
+    source: "https://raw.github.com/igorlima/Respond/master/respond.src.js"
+  },
  {
     name: "miuri.js",
     github: "radmen/miuri.js",
