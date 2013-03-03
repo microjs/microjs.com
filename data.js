@@ -25,6 +25,14 @@ var MicroJS = [
     source: "https://raw.github.com/zynga/atom/master/atom.js"
   },
   {
+    name: "alertify.js",
+    github: "fabien-d/alertify.js",
+    tags: ["notification", "alert"],
+    description: "JavaScript Alert/Notification System.",
+    url: "https://github.com/fabien-d/alertify.js",
+    source: "https://raw.github.com/fabien-d/alertify.js/0.3.8/src/alertify.js"
+  },
+  {
     name: "svg.js",
     github: "wout/svg.js",
     tags: ["svg", "vector", "graphics"],
