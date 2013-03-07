@@ -2338,5 +2338,13 @@
 		<summary>A lightweight framework for building de-coupled apps</summary>
 	</entry>
 
+	<entry>
+		<title>smoothScroll.js</title>
+		<link href="https://github.com/alicelieutier/smoothScroll" />
+		<id>urn:uuid:f203a7c0-8777-11e2-b7c6-1734328e75f8</id>
+		<updated>2013-03-07'T'22:39:45Z</updated>
+		<summary>A teeny tiny, ease-in-out, smooth scroll library with no dependancy</summary>
+	</entry>
+
 
 </feed>

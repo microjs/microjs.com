@@ -2157,5 +2157,12 @@ var MicroJS = [
     description: "A JavaScript implementation of Behavior Trees, useful when developing AI behaviors in games.",
     url: "https://github.com/Calamari/BehaviorTree.js",
     source: "https://raw.github.com/Calamari/BehaviorTree.js/master/btree-complete.js"
+  },
+  {
+    name: "smoothScroll.js",
+    tags: ["scroll", "smoothscroll", "smooth"],
+    description: "A teeny tiny, ease-in-out, smooth scroll library with no dependancy",
+    url: "https://github.com/alicelieutier/smoothScroll",
+    source: "https://raw.github.com/alicelieutier/smoothScroll/master/smoothscroll.js"
   }
 ];
