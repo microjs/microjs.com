@@ -2157,5 +2157,19 @@ var MicroJS = [
     description: "A JavaScript implementation of Behavior Trees, useful when developing AI behaviors in games.",
     url: "https://github.com/Calamari/BehaviorTree.js",
     source: "https://raw.github.com/Calamari/BehaviorTree.js/master/btree-complete.js"
+  },
+  {
+    name: "strftime",
+    tags: ["strftime", "format", "date", "time"],
+    description: "strftime for JavaScript. Works in Node and browsers.",
+    url: "https://github.com/samsonjs/strftime",
+    source: "https://raw.github.com/samsonjs/strftime/master/strftime.js"
+  },
+  {
+    name: "format",
+    tags: ["format", "printf", "sprintf", "vsprintf", "string"],
+    description: "printf, sprintf, and vsprintf for JavaScript. Works in Node and browsers.",
+    url: "https://github.com/samsonjs/format",
+    source: "https://raw.github.com/samsonjs/format/master/format.js"
   }
 ];

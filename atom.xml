@@ -2338,5 +2338,21 @@
 		<summary>A lightweight framework for building de-coupled apps</summary>
 	</entry>
 
+	<entry>
+		<title>format</title>
+		<link href="https://github.com/samsonjs/format" />
+		<id>urn:uuid:30f0b3c0-87a9-11e2-b9fa-67b8a94fc019</id>
+		<updated>2013-03-08'T'04:32:15Z</updated>
+		<summary>printf, sprintf, and vsprintf for JavaScript. Works in Node and browsers.</summary>
+	</entry>
+
+	<entry>
+		<title>strftime</title>
+		<link href="https://github.com/samsonjs/strftime" />
+		<id>urn:uuid:30f101e0-87a9-11e2-b9fa-67b8a94fc019</id>
+		<updated>2013-03-08'T'04:32:15Z</updated>
+		<summary>strftime for JavaScript. Works in Node and browsers.</summary>
+	</entry>
+
 
 </feed>
