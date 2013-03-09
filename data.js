@@ -2157,5 +2157,12 @@ var MicroJS = [
     description: "A JavaScript implementation of Behavior Trees, useful when developing AI behaviors in games.",
     url: "https://github.com/Calamari/BehaviorTree.js",
     source: "https://raw.github.com/Calamari/BehaviorTree.js/master/btree-complete.js"
+  },
+  {
+    name: "Proclaim",
+    tags: ["assert", "test"],
+    description: "A simple assertion library for server and client side JavaScript.",
+    url: "https://github.com/rowanmanning/proclaim",
+    source: "https://raw.github.com/rowanmanning/proclaim/master/lib/proclaim.js"
   }
 ];
