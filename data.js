@@ -2157,5 +2157,12 @@ var MicroJS = [
     description: "A JavaScript implementation of Behavior Trees, useful when developing AI behaviors in games.",
     url: "https://github.com/Calamari/BehaviorTree.js",
     source: "https://raw.github.com/Calamari/BehaviorTree.js/master/btree-complete.js"
+  },
+  {
+    name: "Upcast",
+    tags: ["cast", "check", "type", "types"],
+    description: "Upcast is a low-level JavaScript type checking and casting library.",
+    url: "https://github.com/rowanmanning/upcast",
+    source: "https://raw.github.com/rowanmanning/upcast/master/lib/upcast.js"
   }
 ];
