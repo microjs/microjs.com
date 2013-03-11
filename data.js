@@ -2259,5 +2259,12 @@ var MicroJS = [
     description: "A simple assertion library for server and client side JavaScript.",
     url: "https://github.com/rowanmanning/proclaim",
     source: "https://raw.github.com/rowanmanning/proclaim/master/lib/proclaim.js"
+  },
+  {
+    name: "Upcast",
+    tags: ["cast", "check", "type", "types"],
+    description: "Upcast is a low-level JavaScript type checking and casting library.",
+    url: "https://github.com/rowanmanning/upcast",
+    source: "https://raw.github.com/rowanmanning/upcast/master/lib/upcast.js"
   }
 ];
