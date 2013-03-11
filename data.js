@@ -2164,5 +2164,12 @@ var MicroJS = [
     description: "A tiny implementation of the Promises/A+ specification.",
     url: "https://github.com/timjansen/pinkyswear.js",
     source: "https://raw.github.com/timjansen/PinkySwear.js/master/pinkyswear.js"
+  },
+  {
+    name: "depot.js",
+    tags: ["storage", "localStorage", "store"],
+    description: "depot.js is a namespaced localStorage wrapper with a simple API.",
+    url: "https://github.com/mkuklis/depot.js",
+    source: "https://raw.github.com/mkuklis/depot.js/master/depot.js"
   }
 ];
