@@ -2199,6 +2199,7 @@ var MicroJS = [
   },
   {
 <<<<<<< HEAD
+<<<<<<< HEAD
     name: "PinkySwear.js",
     tags: ["promises"],
     description: "A tiny implementation of the Promises/A+ specification.",
@@ -2239,5 +2240,19 @@ var MicroJS = [
     description: "A teeny tiny, ease-in-out, smooth scroll library with no dependency",
     url: "https://github.com/alicelieutier/smoothScroll",
     source: "https://raw.github.com/alicelieutier/smoothScroll/master/smoothscroll.js"
+  },
+  {
+    name: "strftime",
+    tags: ["strftime", "format", "date", "time"],
+    description: "strftime for JavaScript. Works in Node and browsers.",
+    url: "https://github.com/samsonjs/strftime",
+    source: "https://raw.github.com/samsonjs/strftime/master/strftime.js"
+  },
+  {
+    name: "format",
+    tags: ["format", "printf", "sprintf", "vsprintf", "string"],
+    description: "printf, sprintf, and vsprintf for JavaScript. Works in Node and browsers.",
+    url: "https://github.com/samsonjs/format",
+    source: "https://raw.github.com/samsonjs/format/master/format.js"
   }
 ];
