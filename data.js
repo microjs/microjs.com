@@ -2152,6 +2152,13 @@ var MicroJS = [
     source: "https://raw.github.com/relay/relay/master/relay-dev.js"
   },
   {
+    name: "promiscuous",
+    tags: ["promise", "deferred", "functional", "async", "future"],
+    description: "A minimal and fast promise/deferred implementation, compatible with Promises/A+",
+    url: "https://github.com/RubenVerborgh/promiscuous",
+    source: "https://raw.github.com/RubenVerborgh/promiscuous/master/promiscuous.js"
+  },
+  {
     name: "BehaviorTree.js",
     tags: ["behavior trees", "ai", "behaviors", "games", "statemachine"],
     description: "A JavaScript implementation of Behavior Trees, useful when developing AI behaviors in games.",
