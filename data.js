@@ -2185,5 +2185,12 @@ var MicroJS = [
     description: "An elegant OOP with mixins + AOP for JavaScript",
     url: "http://www.dcljs.org/",
     source: "https://raw.github.com/uhop/dcl/master/dcl.js"
+  },
+  {
+    name: "breakup.js",
+    tags: ["enumeration", "setimmediate", "enumerate", "jquery", "yield"],
+    description: "Yielding enumeration replacement functions for async.forEachSeries() and jQuery.each()",
+    url: "https://github.com/nicjansma/breakup.js",
+    source: "https://raw.github.com/nicjansma/breakup.js/master/lib/breakup.js"
   }
 ];
