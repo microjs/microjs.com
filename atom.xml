@@ -2457,5 +2457,13 @@
 		<summary>An elegant OOP with mixins + AOP for JavaScript</summary>
 	</entry>
 
+	<entry>
+		<title>fx.js</title>
+		<link href="https://github.com/AgileDiagnosis/Fx" />
+		<id>urn:uuid:9f9c9e40-8aa3-11e2-986d-577cdc69cb4d</id>
+		<updated>2013-03-11'T'23:30:09Z</updated>
+		<summary>A tiny, high performance, fully cross browser, dependency free animation library for the modern web.</summary>
+	</entry>
+
 
 </feed>
