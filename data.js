@@ -57,6 +57,14 @@ var MicroJS = [
     source: "https://raw.github.com/wout/svg.js/master/dist/svg.js"
   },
   {
+    name: "isMobile",
+    github: "kaimallea/isMobile",
+    tags: ["mobile", "mobile device", "tablet"],
+    description: "A simple JS library that detects if the device visiting the page is an Apple phones/tablet, Android phone/tablet, or a seven inch device (Nexus 7, Kindle Fire, Nook Tablet, Galaxy Tab)",
+    url: "https://github.com/kaimallea/isMobile",
+    source: "https://raw.github.com/kaimallea/isMobile/master/isMobile.js"
+  },
+  {
     name: "spooks.js",
     github: "philbooth/spooks.js",
     tags: ["unit test", "spy", "spies", "mock", "fake", "dummy", "double", "stub"],
