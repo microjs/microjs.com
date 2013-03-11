@@ -2465,5 +2465,13 @@
 		<summary>A tiny, high performance, fully cross browser, dependency free animation library for the modern web.</summary>
 	</entry>
 
+	<entry>
+		<title>Colors.js</title>
+		<link href="http://matthewbj.github.com/Colors/" />
+		<id>urn:uuid:de226850-8aa5-11e2-abf5-ff146ac632cb</id>
+		<updated>2013-03-11'T'23:46:08Z</updated>
+		<summary>Colors.js is an easy to use color-manipulation library that is lightweight and very functional.</summary>
+	</entry>
+
 
 </feed>
