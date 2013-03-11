@@ -25,6 +25,14 @@ var MicroJS = [
     source: "https://raw.github.com/josscrowcroft/accounting.js/master/accounting.js"
   },
   {
+    name: "sloth.js",
+    github: "hakubo/Sloth",
+    tags: ["lazy", "initialize", "viewport", "amd", "library", "scroll"],
+    description: "Lazy initialize components of a webpage when they become visible",
+    url: "https://github.com/hakubo/Sloth",
+    source: "https://raw.github.com/hakubo/Sloth/master/sloth.max.js"
+  },
+  {
     name: "zoe.js",
     github: "zestjs/zoe",
     tags: ["class", "inheritance", "events", "extend", "amd", "prototype", "prototypal"],
