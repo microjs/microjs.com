@@ -2198,8 +2198,6 @@ var MicroJS = [
     source: "https://raw.github.com/Calamari/BehaviorTree.js/master/btree-complete.js"
   },
   {
-<<<<<<< HEAD
-<<<<<<< HEAD
     name: "PinkySwear.js",
     tags: ["promises"],
     description: "A tiny implementation of the Promises/A+ specification.",
@@ -2254,5 +2252,12 @@ var MicroJS = [
     description: "printf, sprintf, and vsprintf for JavaScript. Works in Node and browsers.",
     url: "https://github.com/samsonjs/format",
     source: "https://raw.github.com/samsonjs/format/master/format.js"
+  },
+  {
+    name: "Proclaim",
+    tags: ["assert", "test"],
+    description: "A simple assertion library for server and client side JavaScript.",
+    url: "https://github.com/rowanmanning/proclaim",
+    source: "https://raw.github.com/rowanmanning/proclaim/master/lib/proclaim.js"
   }
 ];
