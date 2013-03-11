@@ -33,6 +33,14 @@ var MicroJS = [
     source: "https://raw.github.com/hakubo/Sloth/master/sloth.max.js"
   },
   {
+    name: "fx.js",
+    github: "AgileDiagnosis/Fx",
+    tags: ["animation", "animate", "CSS", "CSS3", "requestanimationframe", "animationframe", "transform", "hardware", "translate", "scale"],
+    description: "A tiny, high performance, fully cross browser, dependency free animation library for the modern web.",
+    url: "https://github.com/AgileDiagnosis/Fx",
+    source: "https://raw.github.com/AgileDiagnosis/Fx/master/src/fx.js"
+  },
+  {
     name: "zoe.js",
     github: "zestjs/zoe",
     tags: ["class", "inheritance", "events", "extend", "amd", "prototype", "prototypal"],
