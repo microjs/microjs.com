@@ -2192,5 +2192,12 @@ var MicroJS = [
     description: "Yielding enumeration replacement functions for async.forEachSeries() and jQuery.each()",
     url: "https://github.com/nicjansma/breakup.js",
     source: "https://raw.github.com/nicjansma/breakup.js/master/lib/breakup.js"
+  },
+  {
+    name: "Barman",
+    tags: ["traits", "oop", "classes", "objects", "object composition"],
+    description: "A small library to brew JavaScript objects.",
+    url: "https://github.com/dfernandez79/barman",
+    source: "https://raw.github.com/dfernandez79/barman/master/src/barman.js"
   }
 ];
