@@ -9,6 +9,14 @@
 
 var MicroJS = [
   {
+    name: "css-time.js",
+    github: "philbooth/css-time.js",
+    tags: ["css", "time", "string", "milliseconds", "convert", "conversion"],
+    description: "A tiny library that converts milliseconds to and from CSS time strings.",
+    url: "https://github.com/philbooth/css-time.js",
+    source: "https://raw.github.com/philbooth/css-time.js/master/src/css-time.js"
+  },
+  {
     name: "zoe.js",
     github: "zestjs/zoe",
     tags: ["class", "inheritance", "events", "extend", "amd", "prototype", "prototypal"],
