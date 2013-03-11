@@ -2198,6 +2198,7 @@ var MicroJS = [
     source: "https://raw.github.com/Calamari/BehaviorTree.js/master/btree-complete.js"
   },
   {
+<<<<<<< HEAD
     name: "PinkySwear.js",
     tags: ["promises"],
     description: "A tiny implementation of the Promises/A+ specification.",
@@ -2231,5 +2232,12 @@ var MicroJS = [
     description: "A small library to brew JavaScript objects.",
     url: "https://github.com/dfernandez79/barman",
     source: "https://raw.github.com/dfernandez79/barman/master/src/barman.js"
+  },
+  {
+    name: "smoothScroll.js",
+    tags: ["scroll", "smooth"],
+    description: "A teeny tiny, ease-in-out, smooth scroll library with no dependency",
+    url: "https://github.com/alicelieutier/smoothScroll",
+    source: "https://raw.github.com/alicelieutier/smoothScroll/master/smoothscroll.js"
   }
 ];

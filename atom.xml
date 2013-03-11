@@ -2337,14 +2337,4 @@
 		<updated>2013-02-06'T'10:18:53Z</updated>
 		<summary>A lightweight framework for building de-coupled apps</summary>
 	</entry>
-
-	<entry>
-		<title>PinkySwear.js</title>
-		<link href="https://github.com/timjansen/pinkyswear.js" />
-		<id>urn:uuid:c0ddb620-724d-11e2-8b8d-e7b67bffa613</id>
-		<updated>2013-02-09'T'00:14:44Z</updated>
-		<summary>A tiny implementation of the Promises/A+ specification.</summary>
-	</entry>
-
-
 </feed>
