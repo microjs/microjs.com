@@ -2473,5 +2473,29 @@
 		<summary>Colors.js is an easy to use color-manipulation library that is lightweight and very functional.</summary>
 	</entry>
 
+	<entry>
+		<title>alertify.js</title>
+		<link href="https://github.com/fabien-d/alertify.js" />
+		<id>urn:uuid:df7ec630-8ab4-11e2-a2f6-030e1b3626d2</id>
+		<updated>2013-03-12'T'01:33:37Z</updated>
+		<summary>JavaScript Alert/Notification System.</summary>
+	</entry>
+
+	<entry>
+		<title>Respond.js</title>
+		<link href="https://github.com/scottjehl/Respond" />
+		<id>urn:uuid:df7f1450-8ab4-11e2-a2f6-030e1b3626d2</id>
+		<updated>2013-03-12'T'01:33:37Z</updated>
+		<summary>A fast &amp; lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more).</summary>
+	</entry>
+
+	<entry>
+		<title>ColorConverter.js</title>
+		<link href="https://github.com/SimonWaldherr/ColorConverter.js" />
+		<id>urn:uuid:e6cce430-8ab4-11e2-a2f6-030e1b3626d2</id>
+		<updated>2013-03-12'T'01:33:37Z</updated>
+		<summary>Convert between RGB, YUV, HSL and HEX color defining with these JavaScript functions under MIT-License</summary>
+	</entry>
+
 
 </feed>
