@@ -2298,5 +2298,13 @@ var MicroJS = [
     description: "Upcast is a low-level JavaScript type checking and casting library.",
     url: "https://github.com/rowanmanning/upcast",
     source: "https://raw.github.com/rowanmanning/upcast/master/lib/upcast.js"
+  },
+  {
+    name: "ColorConverter.js",
+    github: "SimonWaldherr/ColorConverter.js",
+    tags: ["color", "color manipulation"],
+    description: "Convert between RGB, YUV, HSL and HEX color defining with these JavaScript functions under MIT-License",
+    url: "https://github.com/SimonWaldherr/ColorConverter.js",
+    source: "https://raw.github.com/SimonWaldherr/ColorConverter.js/master/colorconverter.js"
   }
 ];
