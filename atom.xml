@@ -2337,6 +2337,141 @@
 		<updated>2013-02-06'T'10:18:53Z</updated>
 		<summary>A lightweight framework for building de-coupled apps</summary>
 	</entry>
+	<entry>
+		<title>css-time.js</title>
+		<link href="https://github.com/philbooth/css-time.js" />
+		<id>urn:uuid:dfb31740-8aa1-11e2-888a-37abaacf2e5a</id>
+		<updated>2013-03-11'T'23:17:40Z</updated>
+		<summary>A tiny library that converts milliseconds to and from CSS time strings.</summary>
+	</entry>
+
+	<entry>
+		<title>sloth.js</title>
+		<link href="https://github.com/hakubo/Sloth" />
+		<id>urn:uuid:dffca360-8aa1-11e2-888a-37abaacf2e5a</id>
+		<updated>2013-03-11'T'23:17:40Z</updated>
+		<summary>Lazy initialize components of a webpage when they become visible</summary>
+	</entry>
+
+	<entry>
+		<title>accounting.js</title>
+		<link href="http://josscrowcroft.github.com/accounting.js/" />
+		<id>urn:uuid:e00aad20-8aa1-11e2-888a-37abaacf2e5a</id>
+		<updated>2013-03-11'T'23:17:40Z</updated>
+		<summary>A lightweight JavaScript library for number, money and currency formatting - fully localisable, zero dependencies.</summary>
+	</entry>
+
+	<entry>
+		<title>isMobile</title>
+		<link href="https://github.com/kaimallea/isMobile" />
+		<id>urn:uuid:e0113cd0-8aa1-11e2-888a-37abaacf2e5a</id>
+		<updated>2013-03-11'T'23:17:40Z</updated>
+		<summary>A simple JS library that detects if the device visiting the page is an Apple phones/tablet, Android phone/tablet, or a seven inch device (Nexus 7, Kindle Fire, Nook Tablet, Galaxy Tab)</summary>
+	</entry>
+
+	<entry>
+		<title>smoothScroll.js</title>
+		<link href="https://github.com/alicelieutier/smoothScroll" />
+		<id>urn:uuid:e8c2e270-8aa1-11e2-888a-37abaacf2e5a</id>
+		<updated>2013-03-11'T'23:17:40Z</updated>
+		<summary>A teeny tiny, ease-in-out, smooth scroll library with no dependency</summary>
+	</entry>
+
+	<entry>
+		<title>promiscuous</title>
+		<link href="https://github.com/RubenVerborgh/promiscuous" />
+		<id>urn:uuid:e8dc84f0-8aa1-11e2-888a-37abaacf2e5a</id>
+		<updated>2013-03-11'T'23:17:40Z</updated>
+		<summary>A minimal and fast promise/deferred implementation, compatible with Promises/A+</summary>
+	</entry>
+
+	<entry>
+		<title>strftime</title>
+		<link href="https://github.com/samsonjs/strftime" />
+		<id>urn:uuid:e8dcac00-8aa1-11e2-888a-37abaacf2e5a</id>
+		<updated>2013-03-11'T'23:17:40Z</updated>
+		<summary>strftime for JavaScript. Works in Node and browsers.</summary>
+	</entry>
+
+	<entry>
+		<title>PinkySwear.js</title>
+		<link href="https://github.com/timjansen/pinkyswear.js" />
+		<id>urn:uuid:e9036de0-8aa1-11e2-888a-37abaacf2e5a</id>
+		<updated>2013-03-11'T'23:17:40Z</updated>
+		<summary>A tiny implementation of the Promises/A+ specification.</summary>
+	</entry>
+
+	<entry>
+		<title>breakup.js</title>
+		<link href="https://github.com/nicjansma/breakup.js" />
+		<id>urn:uuid:e90c95a0-8aa1-11e2-888a-37abaacf2e5a</id>
+		<updated>2013-03-11'T'23:17:40Z</updated>
+		<summary>Yielding enumeration replacement functions for async.forEachSeries() and jQuery.each()</summary>
+	</entry>
+
+	<entry>
+		<title>Barman</title>
+		<link href="https://github.com/dfernandez79/barman" />
+		<id>urn:uuid:e90cbcb0-8aa1-11e2-888a-37abaacf2e5a</id>
+		<updated>2013-03-11'T'23:17:40Z</updated>
+		<summary>A small library to brew JavaScript objects.</summary>
+	</entry>
+
+	<entry>
+		<title>format</title>
+		<link href="https://github.com/samsonjs/format" />
+		<id>urn:uuid:e91680b0-8aa1-11e2-888a-37abaacf2e5a</id>
+		<updated>2013-03-11'T'23:17:40Z</updated>
+		<summary>printf, sprintf, and vsprintf for JavaScript. Works in Node and browsers.</summary>
+	</entry>
+
+	<entry>
+		<title>Upcast</title>
+		<link href="https://github.com/rowanmanning/upcast" />
+		<id>urn:uuid:e91bfef0-8aa1-11e2-888a-37abaacf2e5a</id>
+		<updated>2013-03-11'T'23:17:40Z</updated>
+		<summary>Upcast is a low-level JavaScript type checking and casting library.</summary>
+	</entry>
+
+	<entry>
+		<title>depot.js</title>
+		<link href="https://github.com/mkuklis/depot.js" />
+		<id>urn:uuid:e9232ae0-8aa1-11e2-888a-37abaacf2e5a</id>
+		<updated>2013-03-11'T'23:17:40Z</updated>
+		<summary>depot.js is a namespaced localStorage wrapper with a simple API.</summary>
+	</entry>
+
+	<entry>
+		<title>Proclaim</title>
+		<link href="https://github.com/rowanmanning/proclaim" />
+		<id>urn:uuid:e93ccd60-8aa1-11e2-888a-37abaacf2e5a</id>
+		<updated>2013-03-11'T'23:17:40Z</updated>
+		<summary>A simple assertion library for server and client side JavaScript.</summary>
+	</entry>
+
+	<entry>
+		<title>DCL.js</title>
+		<link href="http://www.dcljs.org/" />
+		<id>urn:uuid:e96d7a50-8aa1-11e2-888a-37abaacf2e5a</id>
+		<updated>2013-03-11'T'23:17:40Z</updated>
+		<summary>An elegant OOP with mixins + AOP for JavaScript</summary>
+	</entry>
+
+	<entry>
+		<title>fx.js</title>
+		<link href="https://github.com/AgileDiagnosis/Fx" />
+		<id>urn:uuid:9f9c9e40-8aa3-11e2-986d-577cdc69cb4d</id>
+		<updated>2013-03-11'T'23:30:09Z</updated>
+		<summary>A tiny, high performance, fully cross browser, dependency free animation library for the modern web.</summary>
+	</entry>
+
+	<entry>
+		<title>Colors.js</title>
+		<link href="http://matthewbj.github.com/Colors/" />
+		<id>urn:uuid:de226850-8aa5-11e2-abf5-ff146ac632cb</id>
+		<updated>2013-03-11'T'23:46:08Z</updated>
+		<summary>Colors.js is an easy to use color-manipulation library that is lightweight and very functional.</summary>
+	</entry>
 
 
 </feed>
