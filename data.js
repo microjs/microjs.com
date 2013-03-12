@@ -70,7 +70,7 @@ var MicroJS = [
     tags: ["notification", "alert"],
     description: "JavaScript Alert/Notification System.",
     url: "https://github.com/fabien-d/alertify.js",
-    source: "https://raw.github.com/fabien-d/alertify.js/0.3.8/src/alertify.js"
+    source: "https://raw.github.com/fabien-d/alertify.js/master/dist/alertify.js"
   },
   {
     name: "svg.js",
