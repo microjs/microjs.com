@@ -93,8 +93,8 @@ var MicroJS = [
     github: "scottjehl/Respond",
     tags: ["polyfill", "min-width", "max-width", "Media Queries", "CSS3"],
     description: "A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more).",
-    url: "https://github.com/igorlima/Respond",
-    source: "https://raw.github.com/igorlima/Respond/master/respond.src.js"
+    url: "https://github.com/scottjehl/Respond",
+    source: "https://raw.github.com/scottjehl/Respond/master/respond.src.js"
   },
  {
     name: "miuri.js",
