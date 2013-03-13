@@ -2306,5 +2306,13 @@ var MicroJS = [
     description: "Convert between RGB, YUV, HSL and HEX color defining with these JavaScript functions under MIT-License",
     url: "https://github.com/SimonWaldherr/ColorConverter.js",
     source: "https://raw.github.com/SimonWaldherr/ColorConverter.js/master/colorconverter.js"
+  },
+  {
+    name: "CSSfilter.js",
+    github: "SimonWaldherr/CSSfilter.js",
+    tags: ["css", "css3", "filter"],
+    description: "CSSfilter.js helps you, adding CSS filters to images (or other elements)",
+    url: "https://github.com/SimonWaldherr/CSSfilter.js",
+    source: "https://raw.github.com/SimonWaldherr/CSSfilter.js/master/cssfilter.js"
   }
 ];
