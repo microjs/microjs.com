@@ -625,6 +625,7 @@
   </p>
 
   <script src="data-min.js"></script>
+  <script src="http://simonwaldherr.github.com/ColorConverter.js/colorconverter.js"></script>
   <script type="text/javascript" id="scr">
 /* Micro-Framework-Listing-Site-Microlib
  * Now with extra-chocolatey easter eggs!
@@ -640,8 +641,21 @@
     , $results = $('results')
       // micro-templating
     , t = function (s, d){
-        for (var p in d) s = s.replace(new RegExp('{' + p + '}', 'g'), d[p])
-        return s
+        for (var p in d){
+          s = s.replace(new RegExp('{' + p + '}', 'g'), d[p]);
+        }
+        return s;
+      }
+    , s = function (s){
+        var sint   = (85+parseFloat(s)*60) > 360 ? 360 : 85+parseFloat(s)*60,
+        background = 'background: #'+convHSLtoHEX([sint,80,58])+';'
+                   + 'background: -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.2)), color-stop(0.5, rgba(255,255,255,0.1)), color-stop(0.501, rgba(255,255,255,0.0)), to(rgba(255,255,255,0.0))), -webkit-gradient(linear, left top, left bottom, from(#'+convHSLtoHEX([sint,80,58])+'), to(#'+convHSLtoHEX([sint,60,40])+'));'
+                   + 'background: -webkit-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)), -webkit-linear-gradient(#'+convHSLtoHEX([sint,80,58])+', #'+convHSLtoHEX([sint,60,40])+');'
+                   + 'background: -moz-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)), -moz-linear-gradient(#'+convHSLtoHEX([sint,80,58])+', #'+convHSLtoHEX([sint,60,40])+');'
+                   + 'background: -ms-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)), -ms-linear-gradient(#'+convHSLtoHEX([sint,80,58])+', #'+convHSLtoHEX([sint,60,40])+');'
+                   + 'background: -o-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)), -o-linear-gradient(#'+convHSLtoHEX([sint,80,58])+', #'+convHSLtoHEX([sint,60,40])+');'
+                   + 'background: linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)), linear-gradient(#'+convHSLtoHEX([sint,80,58])+', #'+convHSLtoHEX([sint,60,40])+');';
+        return background;
       }
     , render = function (results){
         var html = [], i = results.length, r
@@ -651,16 +665,16 @@
                 '<div class="stat">'
               + (r.ghwatchers ? t('<span class="w">{ghwatchers}</span><span class="f">{ghforks}</span>', r) : '')
               + (r.tweets ? t('<span class="t">{tweets}</span>', r) : '')
-              + '</div>'
+              + '</div>';
             r.heading = r.name.length < 16 ? 3 : 4;
-            r._rendered = t('<li><a href="{url}"><div class="size">{size}</div><div class="title"><h{heading}>{name}</h{heading}>{stat}</div>{description}</a></li>', r)
+            r._rendered = t('<li><a href="{url}" style="' + s(r.size) + '"><div class="size">{size}</div><div class="title"><h{heading}>{name}</h{heading}>{stat}</div>{description}</a></li>', r);
           }
-          html.push(results[i]._rendered)
+          html.push(results[i]._rendered);
         }
-        $results.innerHTML = html.join('')
+        $results.innerHTML = html.join('');
       }
 
-  MicroJS.sort(function () { return 0.5 - Math.random() })
+  MicroJS.sort(function () { return 0.5 - Math.random() });
 
 // mini feature-detect for some of the stuff we use with fallback for garbage browsers
 ;Array.prototype.forEach && Array.prototype.filter && document.documentElement.addEventListener && document.querySelector ?
