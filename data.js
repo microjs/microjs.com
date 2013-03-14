@@ -2306,5 +2306,12 @@ var MicroJS = [
     description: "Convert between RGB, YUV, HSL and HEX color defining with these JavaScript functions under MIT-License",
     url: "https://github.com/SimonWaldherr/ColorConverter.js",
     source: "https://raw.github.com/SimonWaldherr/ColorConverter.js/master/colorconverter.js"
+  },
+  {
+    name: "ShuntingYard.js",
+    tags: ["shunting yard", "algorithms", "math", "rpn", "reverse polish notation", "eval", "expression", "Dijkstra"],
+    description: "Calculate math from user input without using eval with Dijkstra's shunting yard algorithm and resolver for reverse polish notation.",
+    url: "https://github.com/Calamari/shunting-yard.js",
+    source: "https://raw.github.com/Calamari/shunting-yard.js/master/dist/shunting-yard.js"
   }
 ];
