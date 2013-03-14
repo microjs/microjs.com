@@ -2497,5 +2497,13 @@
 		<summary>Convert between RGB, YUV, HSL and HEX color defining with these JavaScript functions under MIT-License</summary>
 	</entry>
 
+	<entry>
+		<title>ShuntingYard.js</title>
+		<link href="https://github.com/Calamari/shunting-yard.js" />
+		<id>urn:uuid:b079a250-8cef-11e2-967f-8f782d1fd4e7</id>
+		<updated>2013-03-14'T'21:39:29Z</updated>
+		<summary>Calculate math from user input without using eval with Dijkstra&apos;s shunting yard algorithm and resolver for reverse polish notation.</summary>
+	</entry>
+
 
 </feed>
