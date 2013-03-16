@@ -179,6 +179,14 @@ var MicroJS = [
     source: "https://raw.github.com/philbooth/vagueTime.js/master/src/vagueTime.js"
   },
   {
+    name: "disTime.js",
+    github: "SimonWaldherr/disTime.js",
+    tags: ["time", "date", "dates", "times", "language"],
+    description: "converts and updates UNIX-Timestamps to strings like ' 5 days ago ' in three languages (en, de, it)",
+    url: "https://github.com/SimonWaldherr/disTime.js",
+    source: "https://raw.github.com/SimonWaldherr/disTime.js/master/disTime.js"
+  },
+  {
     name: "is.js",
     github: "Cedriking/is.js",
     tags: ["condition", "validate"],
