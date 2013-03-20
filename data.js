@@ -9,6 +9,14 @@
 
 var MicroJS = [
   {
+    name: "Countable",
+    github: "RadLikeWhoa/Countable",
+    tags: ["paragraphs", "words", "characters", "counting", "live", "text"],
+    description: "Countable is a JavaScript function to add live paragraph-, word- and character-counting to an HTML element.",
+    url: "http://radlikewhoa.github.com/Countable",
+    source: "https://raw.github.com/RadLikeWhoa/Countable/master/Countable.js"
+  },
+  {
     name: "Colors.js",
     github: "matthewbj/Colors",
     tags: ["color", "color manipulation"],

@@ -2497,5 +2497,13 @@
 		<summary>Convert between RGB, YUV, HSL and HEX color defining with these JavaScript functions under MIT-License</summary>
 	</entry>
 
+	<entry>
+		<title>Countable</title>
+		<link href="http://radlikewhoa.github.com/Countable" />
+		<id>urn:uuid:9ece6eb0-917b-11e2-a1fd-e93d198ad217</id>
+		<updated>2013-03-20'T'16:31:25Z</updated>
+		<summary>Countable is a JavaScript function to add live paragraph-, word- and character-counting to an HTML element.</summary>
+	</entry>
+
 
 </feed>
