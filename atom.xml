@@ -2497,5 +2497,13 @@
 		<summary>Convert between RGB, YUV, HSL and HEX color defining with these JavaScript functions under MIT-License</summary>
 	</entry>
 
+	<entry>
+		<title>Common.js</title>
+		<link href="https://github.com/commons/common.js" />
+		<id>urn:uuid:0322ef50-90f3-11e2-a8a3-f7004d46fb70</id>
+		<updated>2013-03-20'T'00:13:30Z</updated>
+		<summary>A collection of popular JavaScript snippets and a small util set under the &apos;c&apos; namespace</summary>
+	</entry>
+
 
 </feed>
