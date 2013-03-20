@@ -263,7 +263,22 @@ var MicroJS = [
     description: "Remote network and data debugging for your native iOS app using Chrome Developer Tools.",
     url: "https://github.com/square/PonyDebugger",
     source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
+  },
+  {
+    name: "iActiveRecord",
+    github: "AlexDenisov/iActiveRecord",
+    tags: ["sqlite"],
+    description: "ActiveRecord implementation around sqlite3.",
+    url: "https://github.com/AlexDenisov/iActiveRecord",
+    source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
+  },
+  {
+    name: "FontasticIcons",
+    github: "AlexDenisov/FontasticIcons",
+    tags: ["customui", "image", "coretext"],
+    description: "User-friendly interface for iconic fonts",
+    url: "https://github.com/AlexDenisov/FontasticIcons",
+    source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
   }
-
 
 ];
