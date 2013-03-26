@@ -2306,5 +2306,12 @@ var MicroJS = [
     description: "Convert between RGB, YUV, HSL and HEX color defining with these JavaScript functions under MIT-License",
     url: "https://github.com/SimonWaldherr/ColorConverter.js",
     source: "https://raw.github.com/SimonWaldherr/ColorConverter.js/master/colorconverter.js"
+  },
+  {
+    name: "Bespoke.js",
+    tags: ["presentation", "slides", "deck", "css3"],
+    description: "DIY presentation micro-framework, harnessing the power of CSS3 transitions.",
+    url: "https://github.com/markdalgleish/bespoke.js",
+    source: "https://raw.github.com/markdalgleish/bespoke.js/master/dist/bespoke.js"
   }
 ];
