@@ -2497,5 +2497,13 @@
 		<summary>Convert between RGB, YUV, HSL and HEX color defining with these JavaScript functions under MIT-License</summary>
 	</entry>
 
+	<entry>
+		<title>Bespoke.js</title>
+		<link href="https://github.com/markdalgleish/bespoke.js" />
+		<id>urn:uuid:1e544ae0-9610-11e2-a743-4570b68bd194</id>
+		<updated>2013-03-26'T'12:24:14Z</updated>
+		<summary>DIY presentation micro-framework, harnessing the power of CSS3 transitions.</summary>
+	</entry>
+
 
 </feed>
