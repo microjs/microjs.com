@@ -9,14 +9,6 @@
 
 var MicroJS = [
   {
-    name: "Colors.js",
-    github: "matthewbj/Colors",
-    tags: ["color", "color manipulation"],
-    description: "Colors.js is an easy to use color-manipulation library that is lightweight and very functional.",
-    url: "http://matthewbj.github.com/Colors/",
-    source: "https://raw.github.com/matthewbj/Colors/master/colors.js"
-  },
-  {
     name: "css-time.js",
     github: "philbooth/css-time.js",
     tags: ["css", "time", "string", "milliseconds", "convert", "conversion"],
@@ -2306,5 +2298,13 @@ var MicroJS = [
     description: "Convert between RGB, YUV, HSL and HEX color defining with these JavaScript functions under MIT-License",
     url: "https://github.com/SimonWaldherr/ColorConverter.js",
     source: "https://raw.github.com/SimonWaldherr/ColorConverter.js/master/colorconverter.js"
+  },
+  {
+    name: "obs.js",
+    github: "pluma/obs.js",
+    tags: ["observables", "pubsub", "async", "events"],
+    description: "Minimalist observable properties.",
+    url: "https://github.com/pluma/obs.js",
+    source: "https://raw.github.com/pluma/obs.js/master/lib/obs.js"
   }
 ];
