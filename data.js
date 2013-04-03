@@ -9,6 +9,14 @@
 
 var MicroJS = [
   {
+    name: "Colors.js",
+    github: "matthewbj/Colors",
+    tags: ["color", "color manipulation"],
+    description: "Colors.js is an easy to use color-manipulation library that is lightweight and very functional.",
+    url: "http://matthewbj.github.com/Colors/",
+    source: "https://raw.github.com/matthewbj/Colors/master/colors.js"
+  },
+  {
     name: "css-time.js",
     github: "philbooth/css-time.js",
     tags: ["css", "time", "string", "milliseconds", "convert", "conversion"],
