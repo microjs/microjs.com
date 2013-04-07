@@ -2210,6 +2210,22 @@ var MicroJS = [
     source: "https://raw.github.com/jakiestfu/Slow.js/master/slow.js"
   },
   {
+    name: "Behave.js",
+    github: "jakiestfu/Behave.js",
+    tags: ["ide", "text", "editor", "behave", "behaviors", "code", "ace", "codemirror"],
+    description: "A lightweight, cross browser library for adding IDE style behaviors to plain text areas",
+    url: "https://github.com/jakiestfu/Behave.js",
+    source: "https://raw.github.com/jakiestfu/Behave.js/master/behave.js"
+  },
+  {
+    name: "Snap.js",
+    github: "jakiestfu/Snap.js",
+    tags: ["snap", "droor", "drawer", "shelf", "mobile", "ios", "reveal", "slide", "drag", "pane", "back", "panel", "side", "menu"],
+    description: "A Library for creating beautiful mobile shelfs in Javascript",
+    url: "https://github.com/jakiestfu/Snap.js",
+    source: "https://raw.github.com/jakiestfu/Snap.js/master/snap.js"
+  },
+  {
     name: "enquire.js",
     github: "WickyNilliams/enquire.js",
     tags: ["matchMedia", "mediaquery", "mediaqueries", "css3", "css"],
