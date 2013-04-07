@@ -2497,29 +2497,4 @@
 		<summary>Convert between RGB, YUV, HSL and HEX color defining with these JavaScript functions under MIT-License</summary>
 	</entry>
 
-	<entry>
-		<title>ShuntingYard.js</title>
-		<link href="https://github.com/Calamari/shunting-yard.js" />
-		<id>urn:uuid:b079a250-8cef-11e2-967f-8f782d1fd4e7</id>
-		<updated>2013-03-14'T'21:39:29Z</updated>
-		<summary>Calculate math from user input without using eval with Dijkstra&apos;s shunting yard algorithm and resolver for reverse polish notation.</summary>
-	</entry>
-
-	<entry>
-		<title>CSSfilter.js</title>
-		<link href="https://github.com/SimonWaldherr/CSSfilter.js" />
-		<id>urn:uuid:058595e0-9f35-11e2-a539-53fa4708362d</id>
-		<updated>2013-04-07'T'03:41:07Z</updated>
-		<summary>CSSfilter.js helps you, adding CSS filters to images (or other elements)</summary>
-	</entry>
-
-	<entry>
-		<title>PullToRefresh</title>
-		<link href="https://github.com/SimonWaldherr/PullToRefresh" />
-		<id>urn:uuid:05863220-9f35-11e2-a539-53fa4708362d</id>
-		<updated>2013-04-07'T'03:41:07Z</updated>
-		<summary>A dependency-free PullToRefresh implementation</summary>
-	</entry>
-
-
 </feed>

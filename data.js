@@ -9,6 +9,14 @@
 
 var MicroJS = [
   {
+    name: "Countable",
+    github: "RadLikeWhoa/Countable",
+    tags: ["paragraphs", "words", "characters", "counting", "live", "text"],
+    description: "Countable is a JavaScript function to add live paragraph-, word- and character-counting to an HTML element.",
+    url: "http://radlikewhoa.github.com/Countable",
+    source: "https://raw.github.com/RadLikeWhoa/Countable/master/Countable.js"
+  },
+  {
     name: "Colors.js",
     github: "matthewbj/Colors",
     tags: ["color", "color manipulation"],
@@ -177,6 +185,14 @@ var MicroJS = [
     description: "formats time differences as a vague time, e.g. 'just now' or '3 weeks ago'",
     url: "https://github.com/philbooth/vagueTime.js",
     source: "https://raw.github.com/philbooth/vagueTime.js/master/src/vagueTime.js"
+  },
+  {
+    name: "disTime.js",
+    github: "SimonWaldherr/disTime.js",
+    tags: ["time", "date", "dates", "times", "language"],
+    description: "converts and updates UNIX-Timestamps to strings like ' 5 days ago ' in three languages (en, de, it)",
+    url: "https://github.com/SimonWaldherr/disTime.js",
+    source: "https://raw.github.com/SimonWaldherr/disTime.js/master/disTime.js"
   },
   {
     name: "is.js",
@@ -716,6 +732,13 @@ var MicroJS = [
     description: "Compatibility shims so that legacy JavaScript engines behave as closely as possible to ES5.",
     url: "https://github.com/kriskowal/es5-shim/",
     source: "https://raw.github.com/kriskowal/es5-shim/master/es5-shim.js"
+  },
+  {
+    name: "es6-shim",
+    tags: ["language", "polyfill", "shim", "harmony"],
+    description: "Compatibility shims so that legacy JavaScript engines behave as closely as possible to ES6 (Harmony).",
+    url: "https://github.com/paulmillr/es6-shim/",
+    source: "https://raw.github.com/paulmillr/es6-shim/master/es6-shim.js"
   },
   {
     name: "ES6-Map-Shim",
