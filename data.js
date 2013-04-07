@@ -9,6 +9,14 @@
 
 var MicroJS = [
   {
+    name: "Common.js",
+    github: "commons/common.js",
+    tags: ["common", "util", "query", "script", "cookie"],
+    description: "A collection of popular JavaScript snippets and a small util set under the 'c' namespace",
+    url: "https://github.com/commons/common.js",
+    source: "https://raw.github.com/commons/common.js/master/build/common.js"
+  },
+  {
     name: "Colors.js",
     github: "matthewbj/Colors",
     tags: ["color", "color manipulation"],
