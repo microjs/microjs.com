@@ -2352,5 +2352,12 @@ var MicroJS = [
     description: "Calculate math from user input without using eval with Dijkstra's shunting yard algorithm",
     url: "https://github.com/Calamari/shunting-yard.js",
     source: "https://raw.github.com/Calamari/shunting-yard.js/master/dist/shunting-yard.js"
+  },
+  {
+    name: "Bespoke.js",
+    tags: ["presentation", "slides", "deck", "css3"],
+    description: "DIY presentation micro-framework, harnessing the power of CSS3 transitions.",
+    url: "https://github.com/markdalgleish/bespoke.js",
+    source: "https://raw.github.com/markdalgleish/bespoke.js/master/dist/bespoke.js"
   }
 ];
