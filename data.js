@@ -2316,6 +2316,13 @@ var MicroJS = [
     source: "https://raw.github.com/rowanmanning/proclaim/master/lib/proclaim.js"
   },
   {
+    name: "Intro.js",
+    tags: ["intro", "introduction", "guide"],
+    description: "A better way for new feature introduction and step-by-step users guide for your website and project.",
+    url: "https://github.com/usablica/intro.js",
+    source: "https://raw.github.com/usablica/intro.js/master/intro.js"
+  },
+  {
     name: "Upcast",
     tags: ["cast", "check", "type", "types"],
     description: "Upcast is a low-level JavaScript type checking and casting library.",
