@@ -726,6 +726,13 @@ var MicroJS = [
     source: "https://raw.github.com/kriskowal/es5-shim/master/es5-shim.js"
   },
   {
+    name: "es6-shim",
+    tags: ["language", "polyfill", "shim", "harmony"],
+    description: "Compatibility shims so that legacy JavaScript engines behave as closely as possible to ES6 (Harmony).",
+    url: "https://github.com/paulmillr/es6-shim/",
+    source: "https://raw.github.com/paulmillr/es6-shim/master/es6-shim.js"
+  },
+  {
     name: "ES6-Map-Shim",
     tags: ["language", "polyfill"],
     description: "Shim for latest ES6.next Map spec",
