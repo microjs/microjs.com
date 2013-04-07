@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <title>Microjs: Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!</title>
-  <meta name="viewport" content="width=device-width; initial-scale=0.45">
+  <meta name="viewport" content="width=device-width, initial-scale=0.45">
   <link href="http://fonts.googleapis.com/css?family=Maiden+Orange" rel="stylesheet">
   <link href="atom.xml" type="application/atom+xml" rel="alternate" title="Microjs ATOM feed">
 
@@ -824,12 +824,12 @@
         if (!kw || !kw.length) return arr
         var kwre = [], l, i
         // turn keywords into matchers
-        kw.forEach(function (k) { kwre.push(new RegExp(' [^ ]*' + k.replace(/[^\w\-\.]/g, '') + '[^ ]* ')) })
+        kw.forEach(function (k) { kwre.push(new RegExp(' [^ ]*' + k.replace(/[^\w\-\.]/g, '').toLowerCase() + '[^ ]* ')) })
         l = kwre.length
         // perform an AND search for all keywords
         return arr.filter(function (el) {
           for (i = 0; i < l; i++)
-            if (!kwre[i].test(el._ss)) return false
+            if (!kwre[i].test(el._ss.toLowerCase())) return false
           return true
         })
       }
