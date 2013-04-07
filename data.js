@@ -2322,5 +2322,12 @@ var MicroJS = [
     description: "A dependency-free PullToRefresh implementation",
     url: "https://github.com/SimonWaldherr/PullToRefresh",
     source: "https://raw.github.com/SimonWaldherr/PullToRefresh/master/ptr.js"
+  },
+  {
+    name: "ShuntingYard.js",
+    tags: ["shunting yard", "algorithms", "math", "rpn", "reverse polish notation", "eval", "expression", "Dijkstra"],
+    description: "Calculate math from user input without using eval with Dijkstra's shunting yard algorithm",
+    url: "https://github.com/Calamari/shunting-yard.js",
+    source: "https://raw.github.com/Calamari/shunting-yard.js/master/dist/shunting-yard.js"
   }
 ];
