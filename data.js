@@ -2314,5 +2314,13 @@ var MicroJS = [
     description: "CSSfilter.js helps you, adding CSS filters to images (or other elements)",
     url: "https://github.com/SimonWaldherr/CSSfilter.js",
     source: "https://raw.github.com/SimonWaldherr/CSSfilter.js/master/cssfilter.js"
+  },
+  {
+    name: "PullToRefresh",
+    github: "SimonWaldherr/PullToRefresh",
+    tags: ["webkit", "mobile"],
+    description: "A dependency-free PullToRefresh implementation",
+    url: "https://github.com/SimonWaldherr/PullToRefresh",
+    source: "https://raw.github.com/SimonWaldherr/PullToRefresh/master/ptr.js"
   }
 ];
