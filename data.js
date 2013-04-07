@@ -14,7 +14,7 @@ var MicroJS = [
     tags: ["MVVC", "data binding", "template"],
     description: "iugo.js is an extremely lightweight one-way data-binding tool without the bloat of a full framework. Makes Seperating markup from content easy.",
     url: "http://iugojs.com",
-    source: "http://iugojs.com/downloads/iugo.min.js"
+    source: "https://raw.github.com/chrismichaelscott/iugo/master/iugo.js"
   },
   {
     name: "Colors.js",
