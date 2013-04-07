@@ -2496,5 +2496,85 @@
 		<updated>2013-03-12'T'01:33:37Z</updated>
 		<summary>Convert between RGB, YUV, HSL and HEX color defining with these JavaScript functions under MIT-License</summary>
 	</entry>
+	<entry>
+		<title>Countable</title>
+		<link href="http://radlikewhoa.github.io/Countable" />
+		<id>urn:uuid:204405d0-9f38-11e2-b039-2f5247d654bf</id>
+		<updated>2013-04-07'T'04:03:31Z</updated>
+		<summary>Countable is a JavaScript function to add live paragraph-, word- and character-counting to an HTML element.</summary>
+	</entry>
+
+	<entry>
+		<title>disTime.js</title>
+		<link href="https://github.com/SimonWaldherr/disTime.js" />
+		<id>urn:uuid:20447b00-9f38-11e2-b039-2f5247d654bf</id>
+		<updated>2013-04-07'T'04:03:31Z</updated>
+		<summary>converts and updates UNIX-Timestamps to strings like &apos; 5 days ago &apos; in three languages (en, de, it)</summary>
+	</entry>
+
+	<entry>
+		<title>es6-shim</title>
+		<link href="https://github.com/paulmillr/es6-shim/" />
+		<id>urn:uuid:22396d30-9f38-11e2-b039-2f5247d654bf</id>
+		<updated>2013-04-07'T'04:03:31Z</updated>
+		<summary>Compatibility shims so that legacy JavaScript engines behave as closely as possible to ES6 (Harmony).</summary>
+	</entry>
+
+	<entry>
+		<title>Behave.js</title>
+		<link href="https://github.com/jakiestfu/Behave.js" />
+		<id>urn:uuid:267ac060-9f38-11e2-b039-2f5247d654bf</id>
+		<updated>2013-04-07'T'04:03:31Z</updated>
+		<summary>A lightweight, cross browser library for adding IDE style behaviors to plain text areas</summary>
+	</entry>
+
+	<entry>
+		<title>Snap.js</title>
+		<link href="https://github.com/jakiestfu/Snap.js" />
+		<id>urn:uuid:267d3160-9f38-11e2-b039-2f5247d654bf</id>
+		<updated>2013-04-07'T'04:03:31Z</updated>
+		<summary>A Library for creating beautiful mobile shelfs in Javascript</summary>
+	</entry>
+
+	<entry>
+		<title>Intro.js</title>
+		<link href="https://github.com/usablica/intro.js" />
+		<id>urn:uuid:26ba1350-9f38-11e2-b039-2f5247d654bf</id>
+		<updated>2013-04-07'T'04:03:31Z</updated>
+		<summary>A better way for new feature introduction and step-by-step users guide for your website and project.</summary>
+	</entry>
+
+	<entry>
+		<title>CSSfilter.js</title>
+		<link href="https://github.com/SimonWaldherr/CSSfilter.js" />
+		<id>urn:uuid:26bf1c60-9f38-11e2-b039-2f5247d654bf</id>
+		<updated>2013-04-07'T'04:03:31Z</updated>
+		<summary>CSSfilter.js helps you, adding CSS filters to images (or other elements)</summary>
+	</entry>
+
+	<entry>
+		<title>PullToRefresh</title>
+		<link href="https://github.com/SimonWaldherr/PullToRefresh" />
+		<id>urn:uuid:26c02dd0-9f38-11e2-b039-2f5247d654bf</id>
+		<updated>2013-04-07'T'04:03:31Z</updated>
+		<summary>A dependency-free PullToRefresh implementation</summary>
+	</entry>
+
+	<entry>
+		<title>ShuntingYard.js</title>
+		<link href="https://github.com/Calamari/shunting-yard.js" />
+		<id>urn:uuid:26c0f120-9f38-11e2-b039-2f5247d654bf</id>
+		<updated>2013-04-07'T'04:03:31Z</updated>
+		<summary>Calculate math from user input without using eval with Dijkstra&apos;s shunting yard algorithm</summary>
+	</entry>
+
+	<entry>
+		<title>Bespoke.js</title>
+		<link href="https://github.com/markdalgleish/bespoke.js" />
+		<id>urn:uuid:26c2ecf0-9f38-11e2-b039-2f5247d654bf</id>
+		<updated>2013-04-07'T'04:03:31Z</updated>
+		<summary>DIY presentation micro-framework, harnessing the power of CSS3 transitions.</summary>
+	</entry>
+
 
 </feed>
