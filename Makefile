@@ -11,6 +11,9 @@ deps:
 deploy: compile
 	scp $(scpfiles) $(remotehost):$(remotepath)
 
+deploy-no-build: 
+	scp $(scpfiles) $(remotehost):$(remotepath)
+	
 # fully quiet except on a nasty error
 autodeploy:
 	@./build -q
