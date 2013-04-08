@@ -279,6 +279,14 @@ var MicroJS = [
     description: "User-friendly interface for iconic fonts",
     url: "https://github.com/AlexDenisov/FontasticIcons",
     source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
+  },
+  {
+    name: "PocketAPI",
+    github: "Pocket/Pocket-ObjC-SDK",
+    tags: ["pocket", "sharing", "networking"],
+    description: "Simple SDK for saving URLs to Pocket",
+    url: "https://github.com/Pocket/Pocket-ObjC-SDK",
+    source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
   }
 
 ];
