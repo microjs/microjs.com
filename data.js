@@ -1886,6 +1886,13 @@ var MicroJS = [
     source: "https://raw.github.com/malko/l.js/master/l.js"
   },
   {
+    name: "D.js",
+    tags: ["Promises","async","promises/A+"],
+    description: "A tiny implementation of the Promises/A+ specs for nodejs and the browser, with some extents to the specs. ",
+    url: "http://malko.github.io/D.js/",
+    source: "https://raw.github.com/malko/D.js/master/lib/D.js"
+  },
+  {
     name: "ES5-Class",
     tags: ["class", "inheritance"],
     description: "Native prototypal inheritance for Node.js and ES5-enabled Browsers",
