@@ -1882,7 +1882,7 @@ var MicroJS = [
     name: "l.js",
     tags: ["loader"],
     description: "Another Tiny js/css loader supporting aliases, ordered and parallel loading, callbacks ... ",
-    url: "https://github.com/malko/l.js",
+    url: "http://malko.github.io/l.js/",
     source: "https://raw.github.com/malko/l.js/master/l.js"
   },
   {
