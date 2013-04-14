@@ -1882,8 +1882,15 @@ var MicroJS = [
     name: "l.js",
     tags: ["loader"],
     description: "Another Tiny js/css loader supporting aliases, ordered and parallel loading, callbacks ... ",
-    url: "https://github.com/malko/l.js",
+    url: "http://malko.github.io/l.js/",
     source: "https://raw.github.com/malko/l.js/master/l.js"
+  },
+  {
+    name: "D.js",
+    tags: ["Promises","async","promises/A+"],
+    description: "A tiny implementation of the Promises/A+ specs for nodejs and the browser, with some extents to the specs. ",
+    url: "http://malko.github.io/D.js/",
+    source: "https://raw.github.com/malko/D.js/master/lib/D.js"
   },
   {
     name: "ES5-Class",
