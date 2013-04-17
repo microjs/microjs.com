@@ -2382,5 +2382,12 @@ var MicroJS = [
     description: "DIY presentation micro-framework, harnessing the power of CSS3 transitions.",
     url: "https://github.com/markdalgleish/bespoke.js",
     source: "https://raw.github.com/markdalgleish/bespoke.js/master/dist/bespoke.js"
+  },
+  {
+    name: "LogJS",
+    tags: ["logging", "CORS", "localStorage", "DOM"],
+    description: "Lightweight, extendable JavaScript logging library.",
+    url: "https://github.com/bfattori/LogJS.git",
+    source: "https://raw.github.com/bfattori/LogJS/master/log.js"
   }
 ];
