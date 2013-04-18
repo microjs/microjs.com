@@ -1303,6 +1303,13 @@ var MicroJS = [
     source: "https://raw.github.com/OiNutter/Obscura/master/dist/obscura.js"
   },
   {
+    name: "imgResize.js",
+    tags: ["canvas", "image", "manipulation", "resize"],
+    description: "Resize images in a Canvas based on edge detection.",
+    url: "https://github.com/SimonWaldherr/imgResize.js",
+    source: "https://raw.github.com/SimonWaldherr/imgResize.js/master/imgresize.js"
+  },
+  {
     name: "Shifty",
     tags: ["animation", "jsanimation"],
     description: "A teeny tiny tweening engine in JavaScript.",
