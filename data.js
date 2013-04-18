@@ -2382,5 +2382,12 @@ var MicroJS = [
     description: "DIY presentation micro-framework, harnessing the power of CSS3 transitions.",
     url: "https://github.com/markdalgleish/bespoke.js",
     source: "https://raw.github.com/markdalgleish/bespoke.js/master/dist/bespoke.js"
+  },
+  {
+    name: "dombuilder.js",
+    tags: ["dom", "template", "serialize", "dom-builder", "jsonml"],
+    description: "Sort of a cross between a template engine, JSON markup, and a DOM manipulation tool.",
+    url: "https://github.com/BlueJeansAndRain/dombuilder",
+    source: "https://raw.github.com/BlueJeansAndRain/dombuilder/master/dombuilder.js"
   }
 ];
