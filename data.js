@@ -952,15 +952,13 @@ var MicroJS = [
     url: "https://github.com/padolsey/satisfy",
     source: "https://raw.github.com/padolsey/satisfy/master/satisfy.js"
   },
-  /* domain gone
   {
     name: "jXHR",
     tags: ["json", "json-p", "xhr", "ajax", "cross-domain"],
     description: "JSON-P based cross-domain Ajax wrapped in the XHR API.",
-    url: "http://mulletxhr.com/",
-    source: "http://mulletxhr.com/jXHR-0.1.zip!/jXHR.js"
+    url: "https://gist.github.com/marianoviola/1576277",
+    source: "https://gist.github.com/marianoviola/1576277/raw/05536a8277e43da988863950a64fe88978f9d4d1/jXHR.js"
   },
-  */
   {
     name: "Ekho",
     tags: ["events"],
@@ -1279,15 +1277,13 @@ var MicroJS = [
     url: "http://tinyjs.sourceforge.net/tiny.js",
     source: "http://tinyjs.sourceforge.net/tiny.js"
   },
-  /* Gone
   {
     name:"Vine",
     tags:["events"],
     description:"An events library that supports binding, unbinding, and triggering events on DOM elements or JavaScript Objects",
-    url:"https://github.com/arexkun/Vine",
-    source:"https://raw.github.com/arexkun/Vine/master/vine.js"
+    url:"https://github.com/arextar/Vine",
+    source:"https://raw.github.com/arextar/Vine/master/vine.js"
   },
-  */
   {
     name: "micro-selector",
     tags: ["css"],
@@ -1821,7 +1817,7 @@ var MicroJS = [
   {
     name: "lostorage.js",
     tags: ["storage", "localStorage", "sessionStorage"],
-    description: "Client-side storage the way it should be – using the HTML5 localStorage API. lostorage.js allows you to save any kind of data.",
+    description: "Client-side storage the way it should be - using the HTML5 localStorage API. lostorage.js allows you to save any kind of data.",
     url: "https://github.com/js-coder/lostorage.js",
     source: "https://raw.github.com/js-coder/lostorage.js/master/lostorage.js"
   },
@@ -1906,15 +1902,13 @@ var MicroJS = [
     url: "https://github.com/lloyd/persona.js",
     source: "https://raw.github.com/lloyd/persona.js/master/persona.js"
   },
-  /*
   {
     name: "Driftwood",
     tags: ["logging", "error", "exception", "log"],
     description: "A simple library for logging and exception tracking in Javascript.",
-    url: "https://github.com/errplane/driftwood.js",
-    source: "https://raw.github.com/errplane/driftwood.js/master/driftwood.js"
+    url: "https://github.com/mattkanwisher/driftwood.js",
+    source: "https://raw.github.com/mattkanwisher/driftwood.js/master/driftwood.js"
   },
-  */
   {
     name: "progress.js",
     tags: ["progress", "bar", "progressbar"],
@@ -2349,7 +2343,7 @@ var MicroJS = [
     name: "ColorConverter.js",
     github: "SimonWaldherr/ColorConverter.js",
     tags: ["color", "color manipulation"],
-    description: "Convert between RGB, YUV, HSL and HEX color defining with these JavaScript functions under MIT-License",
+    description: "Convert between RGB, YUV, HSL, HSV, CMYK and HEX color defining with these JavaScript functions under MIT-License",
     url: "https://github.com/SimonWaldherr/ColorConverter.js",
     source: "https://raw.github.com/SimonWaldherr/ColorConverter.js/master/colorconverter.js"
   },
@@ -2364,7 +2358,7 @@ var MicroJS = [
   {
     name: "PullToRefresh",
     github: "SimonWaldherr/PullToRefresh",
-    tags: ["webkit", "mobile"],
+    tags: ["webkit", "mobile", "scroll"],
     description: "A dependency-free PullToRefresh implementation",
     url: "https://github.com/SimonWaldherr/PullToRefresh",
     source: "https://raw.github.com/SimonWaldherr/PullToRefresh/master/ptr.js"
