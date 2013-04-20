@@ -1488,6 +1488,13 @@ var MicroJS = [
     source: "https://raw.github.com/chjj/marked/master/lib/marked.js"
   },
   {
+    name: "tinyOSF.js",
+    tags: ["osf", "markup", "parser", "html", "shownotes"],
+    description: "a few lines of code to convert OSF to HTML.",
+    url: "https://github.com/shownotes/tinyOSF.js",
+    source: "https://raw.github.com/shownotes/tinyOSF.js/master/tinyosf.js"
+  },
+  {
     name: "mathmethods",
     tags: ["math", "language", "sugar"],
     description: "Give `Number.prototype` the `Math` methods it deserves.",
