@@ -401,7 +401,7 @@ var MicroJS = [
     tags: ["server", "pubsub", "events", "base"],
     description: "Transfer data objects from server to javascript on page load",
     url: "https://github.com/thanpolas/server2js",
-    source: "https://github.com/thanpolas/server2js/raw/master/source/server2.js"
+    source: "https://raw.github.com/thanpolas/server2js/master/dist/server2.min.js"
   },
   {
     name: "ready.js",
@@ -422,7 +422,7 @@ var MicroJS = [
     tags: ["feature"],
     description: "Detects native CSS3 and HTML5 features available in the current browser.",
     url: "http://www.modernizr.com/",
-    source: "https://raw.github.com/Modernizr/Modernizr/master/modernizr.js"
+    source: "http://modernizr.com/downloads/modernizr-latest.js"
   },
   {
     name: "Zepto",
@@ -687,7 +687,7 @@ var MicroJS = [
     tags: ["templating"],
     description: "Simple & powerful client-side templating for jQuery or Zepto.js.",
     url: "http://icanhazjs.com/",
-    source: "https://raw.github.com/andyet/ICanHaz.js/master/ICanHaz.js"
+    source: "https://raw.github.com/HenrikJoreteg/ICanHaz.js/master/ICanHaz.js"
   },
   {
     name: "Q",
@@ -952,15 +952,13 @@ var MicroJS = [
     url: "https://github.com/padolsey/satisfy",
     source: "https://raw.github.com/padolsey/satisfy/master/satisfy.js"
   },
-  /* domain gone
   {
     name: "jXHR",
     tags: ["json", "json-p", "xhr", "ajax", "cross-domain"],
     description: "JSON-P based cross-domain Ajax wrapped in the XHR API.",
-    url: "http://mulletxhr.com/",
-    source: "http://mulletxhr.com/jXHR-0.1.zip!/jXHR.js"
+    url: "https://gist.github.com/marianoviola/1576277",
+    source: "https://gist.github.com/marianoviola/1576277/raw/05536a8277e43da988863950a64fe88978f9d4d1/jXHR.js"
   },
-  */
   {
     name: "Ekho",
     tags: ["events"],
@@ -1036,14 +1034,14 @@ var MicroJS = [
     tags: ["loader", "commonjs"],
     description: "A CommonJS-like script/module loader.",
     url: "https://github.com/jiem/my-common",
-    source: "http://myjs.fr/my-common/my.common.js"
+    source: "https://raw.github.com/jiem/my-common/master/my.common.js"
   },
   {
     name: "my.class.js",
     tags: ["language", "class"],
     description: "Probably the fastest JS class system. No wrappers.",
     url: "https://github.com/jiem/my-class",
-    source: "http://myjs.fr/my-class/my.class.js"
+    source: "https://raw.github.com/jiem/my-class/master/my.class.js"
   },
   {
     name: "Class.js",
@@ -1279,15 +1277,13 @@ var MicroJS = [
     url: "http://tinyjs.sourceforge.net/tiny.js",
     source: "http://tinyjs.sourceforge.net/tiny.js"
   },
-  /* Gone
   {
     name:"Vine",
     tags:["events"],
     description:"An events library that supports binding, unbinding, and triggering events on DOM elements or JavaScript Objects",
-    url:"https://github.com/arexkun/Vine",
-    source:"https://raw.github.com/arexkun/Vine/master/vine.js"
+    url:"https://github.com/arextar/Vine",
+    source:"https://raw.github.com/arextar/Vine/master/vine.js"
   },
-  */
   {
     name: "micro-selector",
     tags: ["css"],
@@ -1422,7 +1418,7 @@ var MicroJS = [
     tags: ["events" ],
     description: "General purpose event triggering",
     url: "https://github.com/tmcw/happen",
-    source: "https://raw.github.com/tmcw/happen/master/src/happen.js"
+    source: "https://raw.github.com/tmcw/happen/master/happen.js"
   },
   {
     name: "zest",
@@ -1667,8 +1663,8 @@ var MicroJS = [
     name: "Smoke Signals",
     tags: ["events" ],
     description: "Really, really lightweight event emitting",
-    url: "https://github.com/bentomas/smokesignals",
-    source: "https://raw.github.com/bentomas/smokesignals/master/smokesignals.js"
+    url: "https://bitbucket.org/bentomas/smokesignals.js",
+    source: "https://bitbucket.org/bentomas/smokesignals.js/raw/master/smokesignals.unminified.js"
   },
   {
     name: "CSSClass",
@@ -1821,9 +1817,9 @@ var MicroJS = [
   {
     name: "lostorage.js",
     tags: ["storage", "localStorage", "sessionStorage"],
-    description: "Client-side storage the way it should be – using the HTML5 localStorage API. lostorage.js allows you to save any kind of data.",
+    description: "Client-side storage the way it should be - using the HTML5 localStorage API. lostorage.js allows you to save any kind of data.",
     url: "https://github.com/js-coder/lostorage.js",
-    source: "https://raw.github.com/js-coder/lostorage.js/master/lostorage.js"
+    source: "https://raw.github.com/js-coder/loStorage.js/master/src/loStorage.js"
   },
   {
     name: "guggenheim.js",
@@ -1838,23 +1834,23 @@ var MicroJS = [
     tags: ["events"],
     description: "Event Emitter Class for the browser based on NodeJS EventEmitter",
     url: "https://github.com/pazguille/jvent",
-    source: "https://raw.github.com/pazguille/jvent/master/jvent.js"
+    source: "https://raw.github.com/pazguille/jvent/master/standalone/jvent.js"
   },
   {
     name: "fader.js",
-    github: "lukasalexandre/fader.js",
-    url: "http://lukasalexandre.github.io/fader.js",
+    github: "lukelex/fader.js",
+    url: "http://lukelex.github.io/fader.js/",
     tags: ["animation"],
     description: "A micro library to fade elements in and out.",
-    source: "https://raw.github.com/lukasalexandre/fader.js/master/fader.js"
+    source: "https://raw.github.com/lukelex/fader.js/master/fader.js"
   },
   {
     name: "TemporizedSlider.js",
-    github: "lukasalexandre/TemporizedSlider.js",
-    url: "http://lukasalexandre.github.io/TemporizedSlider.js",
+    github: "lukelex/TemporizedSlider.js",
+    url: "http://lukelex.github.io/TemporizedSlider.js",
     tags: ["animation", "events"],
     description: "A micro library that implements a customizable temporized image slider, with custom text and title for each one.",
-    source: "https://raw.github.com/lukasalexandre/TemporizedSlider.js/master/temporized_slider.js"
+    source: "https://raw.github.com/lukelex/TemporizedSlider.js/master/temporized_slider.js"
   },
   {
     name: "hypo",
@@ -1906,15 +1902,13 @@ var MicroJS = [
     url: "https://github.com/lloyd/persona.js",
     source: "https://raw.github.com/lloyd/persona.js/master/persona.js"
   },
-  /*
   {
     name: "Driftwood",
     tags: ["logging", "error", "exception", "log"],
     description: "A simple library for logging and exception tracking in Javascript.",
-    url: "https://github.com/errplane/driftwood.js",
-    source: "https://raw.github.com/errplane/driftwood.js/master/driftwood.js"
+    url: "https://github.com/mattkanwisher/driftwood.js",
+    source: "https://raw.github.com/mattkanwisher/driftwood.js/master/driftwood.js"
   },
-  */
   {
     name: "progress.js",
     tags: ["progress", "bar", "progressbar"],
@@ -1973,10 +1967,11 @@ var MicroJS = [
   },
   {
     name: "BigScreen",
+    github: "bdougherty/BigScreen",
     tags: ["browser", "canvas"],
     description: "BigScreen is a simple library for using the JavaScript Full Screen API.",
     url: "http://brad.is/coding/BigScreen/",
-    source: "https://raw.github.com/bdougherty/BigScreen/master/dist/bigscreen.js"
+    source: "https://raw.github.com/bdougherty/BigScreen/master/bigscreen.js"
   },
   {
     name: "string.js",
@@ -2013,7 +2008,7 @@ var MicroJS = [
     tags: ["events", "mobile", "touch", "multitouch"],
     description: "A tiny javascript library that can be used to control gestures on touch devices.",
     url: "http://eightmedia.github.io/hammer.js/",
-    source: "https://raw.github.com/EightMedia/hammer.js/master/hammer.js"
+    source: "https://raw.github.com/EightMedia/hammer.js/master/dist/hammer.js"
   },
   {
     name: "Probability.js",
@@ -2034,7 +2029,7 @@ var MicroJS = [
     tags: ["framework", "base", "dom", "events", "ajax", "polyfill", "functional"],
     description: "Craft.js is a small but powerful JavaScript framework that helps you to build web apps easily.",
     url: "http://craftjs.org",
-    source: "https://raw.github.com/mlbli/craft/master/craft.js"
+    source: "https://raw.github.com/mlbli/craft/master/dist/craft.js"
   },
   {
     name: "Mouse",
@@ -2070,7 +2065,7 @@ var MicroJS = [
     tags: ["modal", "popup", "message"],
     description: "A self-contained modal popup library",
     url: "https://github.com/Nycto/PicoModal",
-    source: "https://raw.github.com/Nycto/PicoModal/master/picoModal.js"
+    source: "https://raw.github.com/Nycto/PicoModal/master/src/picoModal.js"
   },
   {
     name: "nwt",
@@ -2349,7 +2344,7 @@ var MicroJS = [
     name: "ColorConverter.js",
     github: "SimonWaldherr/ColorConverter.js",
     tags: ["color", "color manipulation"],
-    description: "Convert between RGB, YUV, HSL and HEX color defining with these JavaScript functions under MIT-License",
+    description: "Convert between RGB, YUV, HSL, HSV, CMYK and HEX color defining with these JavaScript functions under MIT-License",
     url: "https://github.com/SimonWaldherr/ColorConverter.js",
     source: "https://raw.github.com/SimonWaldherr/ColorConverter.js/master/colorconverter.js"
   },
@@ -2364,7 +2359,7 @@ var MicroJS = [
   {
     name: "PullToRefresh",
     github: "SimonWaldherr/PullToRefresh",
-    tags: ["webkit", "mobile"],
+    tags: ["webkit", "mobile", "scroll"],
     description: "A dependency-free PullToRefresh implementation",
     url: "https://github.com/SimonWaldherr/PullToRefresh",
     source: "https://raw.github.com/SimonWaldherr/PullToRefresh/master/ptr.js"
