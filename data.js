@@ -9,6 +9,14 @@
 
 var MicroJS = [
   {
+    name: "OneDollar.js",
+    github: "voidplus/onedollar-coffeescript",
+    tags: ["gesture", "recognition", "recognizer", "multitouch", "interactive", "input", "jquery"],
+    description: "Implementation of the $1 Gesture Recognizer, a two-dimensional template based gesture recognition, for JavaScript and jQuery.",
+    url: "https://github.com/voidplus/onedollar-coffeescript",
+    source: "https://raw.github.com/voidplus/onedollar-coffeescript/master/lib/onedollar.js"
+  },
+  {
     name: "Countable",
     github: "RadLikeWhoa/Countable",
     tags: ["paragraphs", "words", "characters", "counting", "live", "text"],
