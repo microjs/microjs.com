@@ -2405,5 +2405,12 @@ var MicroJS = [
     description: "DIY presentation micro-framework, harnessing the power of CSS3 transitions.",
     url: "https://github.com/markdalgleish/bespoke.js",
     source: "https://raw.github.com/markdalgleish/bespoke.js/master/dist/bespoke.js"
+  },
+  {
+    name: "usertiming.js",
+    tags: ["usertiming", "user timing", "performance timeline", "window.performance.now", "mark", "measure"],
+    description: "User Timing polyfill",
+    url: "https://github.com/nicjansma/usertiming.js",
+    source: "https://raw.github.com/nicjansma/usertiming.js/master/src/usertiming.js"
   }
 ];
