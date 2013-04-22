@@ -1904,7 +1904,7 @@ var MicroJS = [
   {
     name: "D.js",
     tags: ["Promises","async","promises/A+"],
-    description: "A tiny implementation of the Promises/A+ specs for nodejs and the browser, with some extents to the specs. ",
+    description: "A tiny implementation of the Promises/A+ spec for Node.js and the browser, with some extensions to the spec ",
     url: "http://malko.github.io/D.js/",
     source: "https://raw.github.com/malko/D.js/master/lib/D.js"
   },
