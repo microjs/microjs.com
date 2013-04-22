@@ -2435,5 +2435,12 @@ var MicroJS = [
     description: "A cross between a template engine, JSON markup, and a DOM manipulation tool",
     url: "https://github.com/BlueJeansAndRain/dombuilder",
     source: "https://raw.github.com/BlueJeansAndRain/dombuilder/master/dombuilder.js"
+  },
+  {
+    name: "animx",
+    tags: ["animation", "css3"],
+    description: "Easily define CSS keyframes and animations during runtime",
+    url: "https://github.com/bjorkstam/animx",
+    source: "https://raw.github.com/bjorkstam/animx/master/animx.js"
   }
 ];
