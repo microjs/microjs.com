@@ -17,6 +17,14 @@ var MicroJS = [
     source: "https://raw.github.com/RadLikeWhoa/Countable/master/Countable.js"
   },
   {
+    name: "iugo.js",
+    github: "chrismichaelscott/iugo",
+    tags: ["MVVC", "data binding", "template"],
+    description: "An extremely lightweight one-way data-binding tool without the bloat of a full framework. Makes separating markup from content easy.",
+    url: "http://iugojs.com",
+    source: "https://raw.github.com/chrismichaelscott/iugo/master/iugo.js"
+  },
+  {
     name: "Colors.js",
     github: "matthewbj/Colors",
     tags: ["color", "color manipulation"],
