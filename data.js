@@ -2220,6 +2220,13 @@ var MicroJS = [
     source: "https://raw.github.com/mdix/ipsum.js/master/ipsum.js"
   },
   {
+    name: "TimeJump",
+    tags: ["audio", "video", "podcast", "player"],
+    description: "TimeJump adds deep-linking to HTML5 audio and video podcasts.",
+    url: "https://github.com/davatron5000/TimeJump",
+    source: "https://raw.github.com/davatron5000/TimeJump/master/timeJump.js"
+  },
+  {
     name: "preloadimages.js",
     tags: ["preload", "images", "asset"],
     description: "Preload images and callback when they are all ready",
