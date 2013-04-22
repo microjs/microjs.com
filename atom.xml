@@ -2579,77 +2579,80 @@
 	<entry>
 		<title>OneDollar.js</title>
 		<link href="https://github.com/voidplus/onedollar-coffeescript" />
-		<id>urn:uuid:84ae28f0-aaf2-11e2-8536-8bfc766e55f8</id>
-		<updated>2013-04-22'T'02:15:28Z</updated>
-		<summary>A JavaScript implementation of the 	<entry>
+		<id>urn:uuid:13b94520-aaf3-11e2-acd3-65389379f67c</id>
+		<updated>2013-04-22'T'02:19:26Z</updated>
+		<summary>A JavaScript implementation of the $1 Gesture Recognizer, a two-dimensional template based gesture recognition</summary>
+	</entry>
+
+	<entry>
 		<title>iugo.js</title>
 		<link href="http://iugojs.com" />
-		<id>urn:uuid:84ae7710-aaf2-11e2-8536-8bfc766e55f8</id>
-		<updated>2013-04-22'T'02:15:28Z</updated>
+		<id>urn:uuid:13b96c30-aaf3-11e2-acd3-65389379f67c</id>
+		<updated>2013-04-22'T'02:19:26Z</updated>
 		<summary>An extremely lightweight one-way data-binding tool without the bloat of a full framework. Makes separating markup from content easy.</summary>
 	</entry>
 
 	<entry>
 		<title>jXHR</title>
 		<link href="https://gist.github.com/marianoviola/1576277" />
-		<id>urn:uuid:85a421b0-aaf2-11e2-8536-8bfc766e55f8</id>
-		<updated>2013-04-22'T'02:15:28Z</updated>
+		<id>urn:uuid:14ad6920-aaf3-11e2-acd3-65389379f67c</id>
+		<updated>2013-04-22'T'02:19:26Z</updated>
 		<summary>JSON-P based cross-domain Ajax wrapped in the XHR API.</summary>
 	</entry>
 
 	<entry>
 		<title>imgResize.js</title>
 		<link href="https://github.com/SimonWaldherr/imgResize.js" />
-		<id>urn:uuid:865e22e0-aaf2-11e2-8536-8bfc766e55f8</id>
-		<updated>2013-04-22'T'02:15:28Z</updated>
+		<id>urn:uuid:1549f740-aaf3-11e2-acd3-65389379f67c</id>
+		<updated>2013-04-22'T'02:19:26Z</updated>
 		<summary>Resize images in a Canvas based on edge detection.</summary>
 	</entry>
 
 	<entry>
 		<title>tinyOSF.js</title>
 		<link href="https://github.com/shownotes/tinyOSF.js" />
-		<id>urn:uuid:8717fd00-aaf2-11e2-8536-8bfc766e55f8</id>
-		<updated>2013-04-22'T'02:15:28Z</updated>
+		<id>urn:uuid:15a33ad0-aaf3-11e2-acd3-65389379f67c</id>
+		<updated>2013-04-22'T'02:19:26Z</updated>
 		<summary>a few lines of code to convert OSF to HTML.</summary>
 	</entry>
 
 	<entry>
 		<title>D.js</title>
 		<link href="http://malko.github.io/D.js/" />
-		<id>urn:uuid:884cac70-aaf2-11e2-8536-8bfc766e55f8</id>
-		<updated>2013-04-22'T'02:15:28Z</updated>
+		<id>urn:uuid:16bb6190-aaf3-11e2-acd3-65389379f67c</id>
+		<updated>2013-04-22'T'02:19:26Z</updated>
 		<summary>A tiny implementation of the Promises/A+ spec for Node.js and the browser, with some extensions to the spec </summary>
 	</entry>
 
 	<entry>
 		<title>TimeJump</title>
 		<link href="https://github.com/davatron5000/TimeJump" />
-		<id>urn:uuid:89567b50-aaf2-11e2-8536-8bfc766e55f8</id>
-		<updated>2013-04-22'T'02:15:28Z</updated>
+		<id>urn:uuid:17ff5340-aaf3-11e2-acd3-65389379f67c</id>
+		<updated>2013-04-22'T'02:19:26Z</updated>
 		<summary>TimeJump adds deep-linking to HTML5 audio and video podcasts.</summary>
 	</entry>
 
 	<entry>
 		<title>animx</title>
 		<link href="https://github.com/bjorkstam/animx" />
-		<id>urn:uuid:89bf7650-aaf2-11e2-8536-8bfc766e55f8</id>
-		<updated>2013-04-22'T'02:15:28Z</updated>
+		<id>urn:uuid:1828ad30-aaf3-11e2-acd3-65389379f67c</id>
+		<updated>2013-04-22'T'02:19:26Z</updated>
 		<summary>Easily define CSS keyframes and animations during runtime</summary>
 	</entry>
 
 	<entry>
 		<title>usertiming.js</title>
 		<link href="https://github.com/nicjansma/usertiming.js" />
-		<id>urn:uuid:89cdf540-aaf2-11e2-8536-8bfc766e55f8</id>
-		<updated>2013-04-22'T'02:15:28Z</updated>
+		<id>urn:uuid:1854c640-aaf3-11e2-acd3-65389379f67c</id>
+		<updated>2013-04-22'T'02:19:26Z</updated>
 		<summary>User Timing polyfill</summary>
 	</entry>
 
 	<entry>
 		<title>dombuilder.js</title>
 		<link href="https://github.com/BlueJeansAndRain/dombuilder" />
-		<id>urn:uuid:89e5c300-aaf2-11e2-8536-8bfc766e55f8</id>
-		<updated>2013-04-22'T'02:15:28Z</updated>
+		<id>urn:uuid:187609e0-aaf3-11e2-acd3-65389379f67c</id>
+		<updated>2013-04-22'T'02:19:26Z</updated>
 		<summary>A cross between a template engine, JSON markup, and a DOM manipulation tool</summary>
 	</entry>
 
