@@ -2412,5 +2412,12 @@ var MicroJS = [
     description: "User Timing polyfill",
     url: "https://github.com/nicjansma/usertiming.js",
     source: "https://raw.github.com/nicjansma/usertiming.js/master/src/usertiming.js"
+  },
+  {
+    name: "dombuilder.js",
+    tags: ["dom", "template", "serialize", "dom-builder", "jsonml"],
+    description: "A cross between a template engine, JSON markup, and a DOM manipulation tool",
+    url: "https://github.com/BlueJeansAndRain/dombuilder",
+    source: "https://raw.github.com/BlueJeansAndRain/dombuilder/master/dombuilder.js"
   }
 ];
