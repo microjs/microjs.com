@@ -2430,11 +2430,12 @@ var MicroJS = [
     source: "https://raw.github.com/nicjansma/usertiming.js/master/src/usertiming.js"
   },
   {
-    name: "dombuilder.js",
+    name: "DOMaker",
+    github: "BlueJeansAndRain/DOMaker",
     tags: ["dom", "template", "serialize", "dom-builder", "jsonml"],
-    description: "A cross between a template engine, JSON markup, and a DOM manipulation tool",
-    url: "https://github.com/BlueJeansAndRain/dombuilder",
-    source: "https://raw.github.com/BlueJeansAndRain/dombuilder/master/dombuilder.js"
+    description: "Document Object Maker - Create your DOM from data, not strings.",
+    url: "https://github.com/BlueJeansAndRain/DOMaker",
+    source: "https://raw.github.com/BlueJeansAndRain/DOMaker/master/domaker.js"
   },
   {
     name: "animx",
