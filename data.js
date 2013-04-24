@@ -2443,5 +2443,13 @@ var MicroJS = [
     description: "Easily define CSS keyframes and animations during runtime",
     url: "https://github.com/bjorkstam/animx",
     source: "https://raw.github.com/bjorkstam/animx/master/animx.js"
+  },
+  {
+    name: "StdClassJS",
+    github: "BlueJeansAndRain/stdclassjs",
+    tags: ["oop", "class", "extend", "mixin"],
+    description: "A dead simple JavaScript inheritance implementation.",
+    url: "https://github.com/BlueJeansAndRain/stdclassjs",
+    source: "https://raw.github.com/BlueJeansAndRain/stdclassjs/master/stdclass.js"
   }
 ];
