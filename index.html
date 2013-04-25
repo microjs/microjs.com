@@ -93,8 +93,7 @@
       -webkit-transform: scale(1);
     }
   }
-  li a {
-    height: 60px;
+  li {
     -moz-border-radius: 25px;
     -webkit-border-radius: 25px;
     border-radius: 25px;
@@ -110,7 +109,24 @@
     padding: 20px;
     -webkit-animation: appear 0.2s;
   }
-  li:nth-child(6n+1) a {
+  li * {
+    -webkit-font-smoothing: antialiased;
+    text-rendering:optimizeLegibility;
+    text-overflow: ellipsis;
+    color: #fff;
+    text-decoration: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+  }
+  li a {
+    height: 60px;
+  }
+  li span {
+    font-weight: bold;
+  }
+  li:nth-child(6n+1) {
     background: #791982;
     background:
       -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.2)), color-stop(0.5, rgba(255,255,255,0.1)), color-stop(0.501, rgba(255,255,255,0.0)), to(rgba(255,255,255,0.0))),
@@ -131,7 +147,7 @@
       linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
       linear-gradient(#a839b2, #6c1075);
   }
-  li:nth-child(6n+2) a {
+  li:nth-child(6n+2) {
     background: #C4004D;
     background:
       -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.2)), color-stop(0.5, rgba(255,255,255,0.1)), color-stop(0.501, rgba(255,255,255,0.0)), to(rgba(255,255,255,0.0))),
@@ -152,7 +168,7 @@
       linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
       linear-gradient(#ff0071, #bb0047);
   }
-  li:nth-child(6n+3) a {
+  li:nth-child(6n+3) {
     background: #81A02C;
     background:
       -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.2)), color-stop(0.5, rgba(255,255,255,0.1)), color-stop(0.501, rgba(255,255,255,0.0)), to(rgba(255,255,255,0.0))),
@@ -173,7 +189,7 @@
       linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
       linear-gradient(#acd030, #6f9113);
   }
-  li:nth-child(6n+4) a {
+  li:nth-child(6n+4) {
     background: #4A8419;
     background:
       -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.2)), color-stop(0.5, rgba(255,255,255,0.1)), color-stop(0.501, rgba(255,255,255,0.0)), to(rgba(255,255,255,0.0))),
@@ -194,7 +210,7 @@
       linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
       linear-gradient(#58aa00, #337100);
   }
-  li:nth-child(6n+5) a {
+  li:nth-child(6n+5) {
     background: #18946D;
     background:
       -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.2)), color-stop(0.5, rgba(255,255,255,0.1)), color-stop(0.501, rgba(255,255,255,0.0)), to(rgba(255,255,255,0.0))),
@@ -215,7 +231,7 @@
       linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
       linear-gradient(#00aa78, #05603e);
   }
-  li:nth-child(6n+6) a {
+  li:nth-child(6n+6) {
     background: #1E577F;
     background:
       -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.2)), color-stop(0.5, rgba(255,255,255,0.1)), color-stop(0.501, rgba(255,255,255,0.0)), to(rgba(255,255,255,0.0))),
@@ -237,7 +253,7 @@
       linear-gradient(#0074ae, #073c66);
   }
 
-  li a:hover, li a:focus {
+  li:hover, li:focus {
     background:
       -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.1)), color-stop(0.5, rgba(255,255,255,0.2)), color-stop(0.501, rgba(255,255,255,0.1)), to(rgba(255,255,255,0.1))),
       -webkit-gradient(linear, left top, left bottom, from(#3a3e40), to(#2a2e30));
@@ -260,7 +276,7 @@
     -moz-box-shadow:0 0 50px rgba(255,255,255,0.15);
     -webkit-box-shadow:0 0 100px rgba(255,255,255,0.15);
   }
-  li:nth-child(6n+1) a:hover, li:nth-child(6n+1) a:focus {
+  li:nth-child(6n+1):hover, li:nth-child(6n+1):focus {
     background:
       -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.1)), color-stop(0.5, rgba(255,255,255,0.2)), color-stop(0.501, rgba(255,255,255,0.1)), to(rgba(255,255,255,0.1))),
       -webkit-gradient(linear, left top, left bottom, from(#A839B2), to(#6c1075));
@@ -280,7 +296,7 @@
       linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
       linear-gradient(#A839B2, #6c1075);
   }
-  li:nth-child(6n+2) a:hover, li:nth-child(6n+2) a:focus {
+  li:nth-child(6n+2):hover, li:nth-child(6n+2):focus {
     background:
       -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.1)), color-stop(0.5, rgba(255,255,255,0.2)), color-stop(0.501, rgba(255,255,255,0.1)), to(rgba(255,255,255,0.1))),
       -webkit-gradient(linear, left top, left bottom, from(#ff0071), to(#bb0047));
@@ -300,7 +316,7 @@
       linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
       linear-gradient(#ff0071, #bb0047);
   }
-  li:nth-child(6n+3) a:hover, li:nth-child(6n+3) a:focus {
+  li:nth-child(6n+3):hover, li:nth-child(6n+3):focus {
     background:
       -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.1)), color-stop(0.5, rgba(255,255,255,0.2)), color-stop(0.501, rgba(255,255,255,0.1)), to(rgba(255,255,255,0.1))),
       -webkit-gradient(linear, left top, left bottom, from(#acd030), to(#6f9113));
@@ -320,7 +336,7 @@
       linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
       linear-gradient(#acd030, #6f9113);
   }
-  li:nth-child(6n+4) a:hover, li:nth-child(6n+4) a:focus {
+  li:nth-child(6n+4):hover, li:nth-child(6n+4):focus {
     background:
       -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.1)), color-stop(0.5, rgba(255,255,255,0.2)), color-stop(0.501, rgba(255,255,255,0.1)), to(rgba(255,255,255,0.1))),
       -webkit-gradient(linear, left top, left bottom, from(#58aa00), to(#337100));
@@ -340,7 +356,7 @@
       linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
       linear-gradient(#58aa00, #337100);
   }
-  li:nth-child(6n+5) a:hover, li:hover:nth-child(6n+5) a:focus {
+  li:nth-child(6n+5):hover, li:hover:nth-child(6n+5):focus {
     background:
       -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.1)), color-stop(0.5, rgba(255,255,255,0.2)), color-stop(0.501, rgba(255,255,255,0.1)), to(rgba(255,255,255,0.1))),
       -webkit-gradient(linear, left top, left bottom, from(#00aa78), to(#05603e));
@@ -360,7 +376,7 @@
       linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
       linear-gradient(#00aa78, #05603e);
   }
-  li:nth-child(6n+6) a:hover, li:nth-child(6n+6) a:focus {
+  li:nth-child(6n+6):hover, li:nth-child(6n+6):focus {
     background:
       -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.1)), color-stop(0.5, rgba(255,255,255,0.2)), color-stop(0.501, rgba(255,255,255,0.1)), to(rgba(255,255,255,0.1))),
       -webkit-gradient(linear, left top, left bottom, from(#0074ae), to(#073c66));
@@ -386,6 +402,7 @@
     border-right: 1px solid rgba(255,255,255,1.0);
     padding: 0 20px 0 0;
     height: 60px;
+    overflow: hidden;
   }
   li h3, li h4 {
     display: inline;
@@ -405,20 +422,34 @@
     height: 19px;
     opacity: 0.5;
   }
-  .title .stat span {
-    background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAABeCAYAAAAqoZR9AAAD3UlEQVRYCe2Yz0sUYRjHXfupZlmJRVa7URBRB/sLXOhQhw4eIoQg7GYXsS5Bh0ios9ChW4xEVLeiYxdF6FAUah0rdpVOHdK0QiSxz3ecZ3xndmZ3lqAu+8DH932f5/s8887zzs6qubW1taa/seaE5H5806DKCwGay6dY1LSDgHbGZ7AAg5AHi2kun2LSSOvHTKBRgQnohzy4Mc3l6wVppPXjJlLSHKiyBzIJpx3kuwPSSKscbnS9koTaotYepJlHQBppldOU0w9MP3YG3VkMxrThNIHPIF3BTqHEYgmOQi3bhUBa5YQFLEmVa1k5ItAtgMyORs1JM4+A9NLK8nYLM1S9BF5QvcB4N5hreA5FuAIyaZUzq2rCPcYJ1jpnddlMPtMmHqOC9iDlmfcGawbf/CNjlge7gF/QbkHbugzzoK2dANd0xIOgmDTSrhsVbWs26nbc7bP0TT7FTOeP9iBZPXfMs9gdOHTVWTdo82oFTFN1dHtQVZgWbBRoamr0oHYPDvIAdac9RPLXepQfoFmBqxInWvzT5awPMP8Bi7Df8Uc+jdWOcZgrtkE7DCVeXc6Uyvvwz4PZNyadUKHfTA1doQXULL0DjsE56AAzvRcew0v4CHPwBZZVcQR+Qb2mnFsq0AZP6s1G/wha7Z42sXhYRxEPbTNEmqgi92EV0kyxe+A/P4yRAtpNNyxDmv0koBOynVd8nI/T2W2QZq0EpAkt/iCdDCPpk8iXTrUCk9Q4C3omXjn1TjnzSA/U1XcwAxfc+2Supl2ED/Aa/BNgjBRowXEetiuQQoWm1sc5stukRbwHSZqqvkaB2m/lqg1UsNHEf9iDLhq+DC/UedeynkInSVvgq5useZYCSn4aJE4G48aQ8rm390EH8fegt/G1JK0Jk8Y9TvJQUrJ8SYnydcWSt7LWbir0FY6EZGnewhvQ12AkJ7IIgtcZdc83HPEY899gf1uGefFTOER7Dwct/sS4F3Jgp7CDuY5zw5yrqKpdXTtYgiKcge8g3wrchHAHSW/lVcrTXt/0C4jM9emrT2vf4rcgpx5bmfsdqe9E2REIk+VI2oH8mS1pB5mTJWwUaPSg8RzU8ZHhBTIA4zCamkZwGIpxAb4eMCsx6Ytr/DWB0UAl0YCJmI9D3MK46fSO0/vPtRILbT3J9D8V3/TG9Q1VgckUuH9s+bGUH9P4y+ELJZfLlXGMQVbrQRi9GLtQw8YhixUTr0RmX4Zsz5L1e78HBXMwaltlZx2fLuAYCZ0ka9tTkMVKiHTvUcPZAbfB/XuZZWglZsMQbRplwmO0koiKNg/GcnBCMff68v9/M/0B9AVrOMtvKLgAAAAASUVORK5CYII=");
+  span.icon {
+    background-image: url("data:image/png;base64,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");
     background-repeat: no-repeat;
     display: inline-block;
     padding: 1px 8px 0 24px;
   }
-  .title .stat .w {
+  .icon.w {
     background-position: 4px -25px;
   }
-  .title .stat .f {
+  .icon.f {
     background-position: 4px -50px;
   }
-  .title .stat .t {
+  .icon.t {
     background-position: 4px -75px;
+  }
+  div#config {
+    display: inline-block;
+  }
+  #ineed .icon {
+    height: 24px;
+    display: inline-block;
+    cursor: pointer;
+  }
+  #ineed .icon.color {
+    background-position: 4px -100px;
+  }
+  #ineed .icon.tag {
+    background-position: 4px -125px;
   }
   li div.size {
     float: right;
@@ -506,6 +537,10 @@
     line-height: 100%;
     text-align: left;
   }
+  .tags {
+    display: block;
+    margin-top: 25px;
+  }
   #ineed {
     margin: 10px auto;
     font-size: 25px;
@@ -523,7 +558,7 @@
     background: black;
     color: white;
     padding: 3px;
-    width: 502px;
+    width: 415px;
   }
   #ineed_select {
     position: absolute;
@@ -560,7 +595,12 @@
   </div>
 
   <div id="ineed" style="display: none;">
-    <span>I need ...</span><input type="text" id="ineed_text">
+    <span>I need ...</span>
+    <input type="text" id="ineed_text">
+    <div id="config">
+      <span class="icon tag" title="show/hide tags" onclick=""> </span>
+      <span class="icon color" title="change colors" onclick=""> </span>
+    </div>
     <div id="ineed_select" style="display: none;"></div>
   </div>
 
@@ -640,24 +680,44 @@
     , $results = $('results')
       // micro-templating
     , t = function (s, d){
-        for (var p in d) s = s.replace(new RegExp('{' + p + '}', 'g'), d[p])
-        return s
+        for (var p in d) s = s.replace(new RegExp('{' + p + '}', 'g'), d[p]);
+        return s;
       }
     , render = function (results){
-        var html = [], i = results.length, r
+        var html = [], i = results.length, r, tags;
         while (i--) {
           if (!(r = results[i])._rendered) {
+            tags = '<span>'+results[i].tags.join('</span>, <span>')+'</span>';
             r.stat =
                 '<div class="stat">'
-              + (r.ghwatchers ? t('<span class="w">{ghwatchers}</span><span class="f">{ghforks}</span>', r) : '')
-              + (r.tweets ? t('<span class="t">{tweets}</span>', r) : '')
+              + (r.ghwatchers ? t('<span class="w icon">{ghwatchers}</span><span class="f icon">{ghforks}</span>', r) : '')
+              + (r.tweets ? t('<span class="t icon">{tweets}</span>', r) : '')
               + '</div>'
             r.heading = r.name.length < 16 ? 3 : 4;
-            r._rendered = t('<li><a href="{url}"><div class="size">{size}</div><div class="title"><h{heading}>{name}</h{heading}>{stat}</div>{description}</a></li>', r)
+            r._rendered = t('<li><a href="{url}"><div class="size">{size}</div><div class="title"><h{heading}>{name}</h{heading}>{stat}</div>{description}</a><div class="tags">'+tags+'</div></li>', r)
           }
           html.push(results[i]._rendered)
         }
-        $results.innerHTML = html.join('')
+        $results.innerHTML = html.join('');
+        var i, j, tagDivs, tagSpans, searchBox, libMatches, changeEvent;
+        tagDivs = document.getElementsByClassName('tags');
+        searchBox = document.getElementById('ineed_text');
+        for(i = 0; i < tagDivs.length; i++) {
+          if(tagDivs[i] !== undefined) {
+            tagSpans = tagDivs[i].getElementsByTagName('span');
+            for(j = 0; j < tagSpans.length; j++) {
+              if(tagSpans[j] !== undefined) {
+                tagSpans[j].onclick = function () {
+                  searchBox.value = this.innerHTML;
+                  window.location.hash = this.innerHTML;
+                  changeEvent = document.createEvent("HTMLEvents");
+                  changeEvent.initEvent("change", false, true);
+                  searchBox.dispatchEvent(changeEvent);
+                };
+              }
+            }
+          }
+        }
       }
 
   MicroJS.sort(function () { return 0.5 - Math.random() })
@@ -841,6 +901,7 @@
   $ineedText.addEventListener('click', focusListener, false)
   $ineedText.addEventListener('blur', blurListener, false)
   $ineedText.addEventListener('keydown', keydownListener, false)
+  $ineedText.addEventListener('change', search, false)
   $ineedSelect.addEventListener('click', selectListener, false)
 
   ;(function(kw) {
@@ -852,7 +913,7 @@
   }(location.href.split('#')[1]))
 
   search()
-  $ineed.style.display = ''
+  $ineed.style.display = '';
 
 })() : render(MicroJS) // fallback for old browsers, you don't deserve the sweetness!
 
