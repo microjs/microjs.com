@@ -2649,11 +2649,11 @@
 	</entry>
 
 	<entry>
-		<title>dombuilder.js</title>
-		<link href="https://github.com/BlueJeansAndRain/dombuilder" />
+		<title>DOMaker</title>
+		<link href="https://github.com/BlueJeansAndRain/DOMaker" />
 		<id>urn:uuid:187609e0-aaf3-11e2-acd3-65389379f67c</id>
-		<updated>2013-04-22'T'02:19:26Z</updated>
-		<summary>A cross between a template engine, JSON markup, and a DOM manipulation tool</summary>
+		<updated>2013-04-22'T'18:59:00Z</updated>
+		<summary>Document Object Maker - Create your DOM from data, not strings.</summary>
 	</entry>
 
 
