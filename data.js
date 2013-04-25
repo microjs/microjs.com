@@ -460,8 +460,9 @@ var MicroJS = [
     tags: ["base", "dom", "mobile", "ajax", "events", "webkit", "animation"],
     description: "DOM library for authoring HTML5 mobile web applications, works cross-device and cross-platform.",
     url: "http://xuijs.com",
-    // TODO: multiple editions - needs better handling
-    source: "http://xuijs.com/downloads/xui-2.3.2.js"
+    source: ["https://raw.github.com/xui/xui/master/src/header.js",
+             "https://raw.github.com/xui/xui/master/src/base.js",
+             "https://raw.github.com/xui/xui/master/src/footer.js"]
   },
   {
     name: "Underscore",
@@ -545,7 +546,7 @@ var MicroJS = [
     tags: ["data", "storage", "webkit", "mobile"],
     description: "Client side JSON document store. Perfect for WebKit mobile apps.",
     url: "http://brian.io/lawnchair/",
-    source: "http://brian.io/lawnchair/downloads/lawnchair-0.6.1.js"
+    source: "https://raw.github.com/brianleroux/lawnchair/master/src/Lawnchair.js"
   },
   /* Too Big 7kb
   {
@@ -563,6 +564,7 @@ var MicroJS = [
     url: "https://github.com/NV/placeholder.js",
     source: "http://nv.github.io/placeholder.js/placeholder.js"
   },
+  /* N/A
   {
     name: "Micro-Templating",
     tags: ["templating"],
@@ -570,6 +572,7 @@ var MicroJS = [
     url: "http://ejohn.org/blog/javascript-micro-templating/",
     source: "http://www.manning.com/resig/JavaScriptNinjaSourceCode.zip!/code/07/11.js"
   },
+  */
   {
     name: "Transparency.js",
     tags: ["templating"],
@@ -597,7 +600,7 @@ var MicroJS = [
     tags: ["animation", "webkit"],
     description: "Animation library that uses CSS transforms and transitions to create smooth, hardware-accelerated animations.",
     url: "http://extralogical.net/projects/firmin/",
-    source: "http://extralogical.net/projects/firmin/downloads/firmin-1.0.0.js"
+    source: "https://raw.github.com/beastaugh/firmin/master/src/firmin.js"
   },
   {
     name: "Bonzo",
@@ -647,6 +650,7 @@ var MicroJS = [
     description: "Spec-compatible (v1.1+λ) Mustache templating: written in CoffeeScript, runnable anywhere.",
     url: "https://github.com/pvande/Milk",
     source: "https://raw.github.com/pvande/Milk/master/dist/v1.2.0/milk.js"
+    //source: "https://raw.github.com/pvande/Milk/master/milk.coffee"
   },
   {
     name: "Director",
@@ -675,7 +679,7 @@ var MicroJS = [
     tags: ["templating"],
     description: "Mold is a templating library.",
     url: "http://marijnhaverbeke.nl/mold/",
-    source: "http://marijnhaverbeke.nl/mold/mold.js"
+    source: "https://raw.github.com/marijnh/mold/master/mold.js"
   },
   /* gzipped file too big, 5.1 kB is not "micro"
   {
@@ -1387,7 +1391,10 @@ var MicroJS = [
     tags: ["animation", "jsanimation"],
     description: "A JavaScript work-around for hardware accelerated CSS3 transitions with custom easing functions.",
     url: "https://github.com/joelambert/morf",
-    source: "http://www.joelambert.co.uk/morf/js/morf.js"
+    source: ["https://raw.github.com/joelambert/morf/master/js/src/morf.js",
+             "https://raw.github.com/joelambert/morf/master/js/src/morf.utils.js",
+             "https://raw.github.com/joelambert/morf/master/js/src/WebkitCSSMatrix.ext.js",
+             "https://raw.github.com/joelambert/morf/master/js/src/shifty.fn.scripty2.js"]
   },
   {
     name: "typogr.js",
@@ -1507,7 +1514,11 @@ var MicroJS = [
     tags: ["functional", "language", "data", "sugar"],
     description: "A small collection of utility functions to make working with JavaScript that much sweeter and more expressive.",
     url: "http://supplementjs.com",
-    source: "https://raw.github.com/olivernn/supplement.js/master/dist/supplement-0.1.1.js"
+    source: ["https://raw.github.com/olivernn/supplement.js/master/src/array.js",
+             "https://raw.github.com/olivernn/supplement.js/master/src/function.js",
+             "https://raw.github.com/olivernn/supplement.js/master/src/number.js",
+             "https://raw.github.com/olivernn/supplement.js/master/src/object.js",
+             "https://raw.github.com/olivernn/supplement.js/master/src/supplement.js"]
   },
   {
     name: "marked",
@@ -1518,7 +1529,7 @@ var MicroJS = [
   },
   {
     name: "tinyOSF.js",
-    tags: ["osf", "markup", "parser", "html", "shownotes"],
+    tags: ["osf", "markup", "parser", "html", "shownotes", "podcast"],
     description: "a few lines of code to convert OSF to HTML.",
     url: "https://github.com/shownotes/tinyOSF.js",
     source: "https://raw.github.com/shownotes/tinyOSF.js/master/tinyosf.js"
