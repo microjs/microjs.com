@@ -1514,11 +1514,7 @@ var MicroJS = [
     tags: ["functional", "language", "data", "sugar"],
     description: "A small collection of utility functions to make working with JavaScript that much sweeter and more expressive.",
     url: "http://supplementjs.com",
-    source: ["https://raw.github.com/olivernn/supplement.js/master/src/array.js",
-             "https://raw.github.com/olivernn/supplement.js/master/src/function.js",
-             "https://raw.github.com/olivernn/supplement.js/master/src/number.js",
-             "https://raw.github.com/olivernn/supplement.js/master/src/object.js",
-             "https://raw.github.com/olivernn/supplement.js/master/src/supplement.js"]
+    source: "https://raw.github.com/olivernn/supplement.js/master/dist/supplement-0.1.1.js"
   },
   {
     name: "marked",
