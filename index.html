@@ -110,6 +110,7 @@
     -webkit-animation: appear 0.2s;
   }
   li * {
+    cursor: pointer;
     -webkit-font-smoothing: antialiased;
     text-rendering:optimizeLegibility;
     text-overflow: ellipsis;
@@ -539,7 +540,7 @@
   }
   .tags {
     display: block;
-    margin-top: 25px;
+    margin: 25px 115px 0 175px;
   }
   #ineed {
     margin: 10px auto;
@@ -582,7 +583,7 @@
   }
 
   </style>
-  <style id="tagVisibility">.tags{display:none;}</style>
+  <style id="tagVisibility" data-color="">.tags{display:none;}</style>
   </head>
   <body>
 
@@ -666,7 +667,7 @@
   </p>
 
   <script src="data-min.js"></script>
-  <script src="http://simonwaldherr.github.com/ColorConverter.js/colorconverter.js"></script>
+  <script src="http://simonwaldherr.github.io/ColorConverter.js/colorconverter.js"></script>
   <script type="text/javascript" id="scr">
 /* Micro-Framework-Listing-Site-Microlib
  * Now with extra-chocolatey easter eggs!
@@ -701,6 +702,9 @@
           html.push(results[i]._rendered)
         }
         $results.innerHTML = html.join('');
+        if(document.getElementById('tagVisibility').getAttribute('data-color') === 'true') {
+          toggleColorMode();
+        }
         var i, j, tagDivs, tagSpans, searchBox, libMatches, changeEvent;
         tagDivs = document.getElementsByClassName('tags');
         searchBox = document.getElementById('ineed_text');
@@ -715,6 +719,7 @@
                   changeEvent = document.createEvent("HTMLEvents");
                   changeEvent.initEvent("change", false, true);
                   searchBox.dispatchEvent(changeEvent);
+                  window.scrollTo(0, 100);
                 };
               }
             }
@@ -946,9 +951,11 @@ var toggleColorMode = function () {
       + 'background: linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)), linear-gradient(#'+convHSLtoHEX([sint,80,58])+', #'+convHSLtoHEX([sint,60,40])+');';
       elements[i].setAttribute("style", background);
     }
+    document.getElementById('tagVisibility').setAttribute('data-color',true);
   } else {
     for(i = 0; i < elements.length; i++) {
       elements[i].style.background = '';
+      document.getElementById('tagVisibility').setAttribute('data-color',false);
     }
   }
 }
