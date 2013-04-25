@@ -582,6 +582,7 @@
   }
 
   </style>
+  <style id="tagVisibility">.tags{display:none;}</style>
   </head>
   <body>
 
@@ -598,8 +599,8 @@
     <span>I need ...</span>
     <input type="text" id="ineed_text">
     <div id="config">
-      <span class="icon tag" title="show/hide tags" onclick=""> </span>
-      <span class="icon color" title="change colors" onclick=""> </span>
+      <span class="icon tag" title="show/hide tags" onclick="toggleTagVisibility()"> </span>
+      <span class="icon color" title="change colors" onclick="toggleColorMode()"> </span>
     </div>
     <div id="ineed_select" style="display: none;"></div>
   </div>
@@ -665,6 +666,7 @@
   </p>
 
   <script src="data-min.js"></script>
+  <script src="http://simonwaldherr.github.com/ColorConverter.js/colorconverter.js"></script>
   <script type="text/javascript" id="scr">
 /* Micro-Framework-Listing-Site-Microlib
  * Now with extra-chocolatey easter eggs!
@@ -918,6 +920,38 @@
 })() : render(MicroJS) // fallback for old browsers, you don't deserve the sweetness!
 
 })()
+
+var toggleTagVisibility = function () {
+  var tagStyleElement = document.getElementById('tagVisibility');
+  if(tagStyleElement.innerHTML === '.tags{display:none;}') {
+    tagStyleElement.innerHTML = '.tags{display:block;}';
+  } else {
+    tagStyleElement.innerHTML = '.tags{display:none;}';
+  }
+}
+
+var toggleColorMode = function () {
+  var sint, size, background, i, elements;
+  elements = document.getElementById('results').children;
+  if(elements[0].style.background === '') {
+    for(i = 0; i < elements.length; i++) {
+      size = elements[i].getElementsByClassName('size')[0].innerHTML;
+      sint = (85+parseFloat(size)*60) > 360 ? 360 : 85+parseFloat(size)*60;
+      background = 'background: #'+convHSLtoHEX([sint,80,58])+';'
+      + 'background: -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.2)), color-stop(0.5, rgba(255,255,255,0.1)), color-stop(0.501, rgba(255,255,255,0.0)), to(rgba(255,255,255,0.0))), -webkit-gradient(linear, left top, left bottom, from(#'+convHSLtoHEX([sint,80,58])+'), to(#'+convHSLtoHEX([sint,60,40])+'));'
+      + 'background: -webkit-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)), -webkit-linear-gradient(#'+convHSLtoHEX([sint,80,58])+', #'+convHSLtoHEX([sint,60,40])+');'
+      + 'background: -moz-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)), -moz-linear-gradient(#'+convHSLtoHEX([sint,80,58])+', #'+convHSLtoHEX([sint,60,40])+');'
+      + 'background: -ms-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)), -ms-linear-gradient(#'+convHSLtoHEX([sint,80,58])+', #'+convHSLtoHEX([sint,60,40])+');'
+      + 'background: -o-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)), -o-linear-gradient(#'+convHSLtoHEX([sint,80,58])+', #'+convHSLtoHEX([sint,60,40])+');'
+      + 'background: linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)), linear-gradient(#'+convHSLtoHEX([sint,80,58])+', #'+convHSLtoHEX([sint,60,40])+');';
+      elements[i].setAttribute("style", background);
+    }
+  } else {
+    for(i = 0; i < elements.length; i++) {
+      elements[i].style.background = '';
+    }
+  }
+}
 
   </script>
 
