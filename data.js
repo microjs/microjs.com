@@ -96,6 +96,7 @@ var MicroJS = [
     url: "https://github.com/fabien-d/alertify.js",
     source: "https://raw.github.com/fabien-d/alertify.js/master/dist/alertify.js"
   },
+  /* gzipped file too big, 7.4 kB is not "micro"
   {
     name: "svg.js",
     github: "wout/svg.js",
@@ -104,6 +105,7 @@ var MicroJS = [
     url: "https://github.com/wout/svg.js",
     source: "https://raw.github.com/wout/svg.js/master/dist/svg.js"
   },
+  */
   {
     name: "isMobile",
     github: "kaimallea/isMobile",
@@ -281,6 +283,7 @@ var MicroJS = [
     url: "https://github.com/One-com/one-color",
     source: "https://raw.github.com/One-com/one-color/master/one-color-debug.js"
   },
+  /* gzipped file too big, 5.9 kB is not "micro"
   {
     name: "Validation",
     tags: ["validation", "testing"],
@@ -288,6 +291,7 @@ var MicroJS = [
     url: "https://github.com/One-com/one-validation",
     source: "https://raw.github.com/One-com/one-validation/master/validation.js"
   },
+  */
   {
     name: "Histogram",
     tags: ["canvas", "color"],
@@ -417,7 +421,10 @@ var MicroJS = [
     tags: ["server", "pubsub", "events", "base"],
     description: "Transfer data objects from server to javascript on page load",
     url: "https://github.com/thanpolas/server2js",
-    source: "https://raw.github.com/thanpolas/server2js/master/dist/server2.min.js"
+    source: ["https://raw.github.com/thanpolas/server2js/master/src/server2.js",
+             "https://raw.github.com/thanpolas/server2js/master/src/server2js.export.js",
+             "https://raw.github.com/thanpolas/server2js/master/lib/goog.string.js",
+             "https://raw.github.com/thanpolas/server2js/master/lib/server2js.node.js"]
   },
   {
     name: "ready.js",
@@ -670,6 +677,7 @@ var MicroJS = [
     url: "http://marijnhaverbeke.nl/mold/",
     source: "http://marijnhaverbeke.nl/mold/mold.js"
   },
+  /* gzipped file too big, 5.1 kB is not "micro"
   {
     name: "Tempo",
     tags: ["templating"],
@@ -677,6 +685,7 @@ var MicroJS = [
     url: "http://twigkit.github.io/tempo/",
     source: "https://raw.github.com/twigkit/tempo/master/tempo.js"
   },
+  */
   {
     name: "Reqwest",
     tags: ["ajax"],
@@ -1026,6 +1035,7 @@ var MicroJS = [
   },
   {
     name: "Augment.js",
+    github: "olivernn/augment.js",
     tags: ["polyfill"],
     description: "Enables use of modern JavaScript by augmenting built in objects with the latest JavaScript methods.",
     url: "http://augmentjs.com",
@@ -1181,7 +1191,7 @@ var MicroJS = [
   {
     name: "Jaml",
     tags: ["templating"],
-    description: "Jaml tries to emulate Ruby’s Haml library, making it easy to generate HTML in your JavaScript projects.",
+    description: "Jaml tries to emulate Ruby's Haml library, making it easy to generate HTML in your JavaScript projects.",
     url: "http://edspencer.github.io/jaml/",
     source: "https://raw.github.com/edspencer/jaml/master/Jaml-all.js"
   },
@@ -1753,13 +1763,16 @@ var MicroJS = [
     url: "https://github.com/stackp/promisejs",
     source: "https://raw.github.com/stackp/promisejs/master/promise.js"
   },
+  /* gzipped file too big, 5.3 kB is not "micro"
   {
     name: "Moment.js",
+    github: "timrwood/moment",
     tags: ["date"],
     description: "Parse, manipulate, and format dates.",
     url: "http://momentjs.com/",
     source: "https://raw.github.com/timrwood/moment/master/moment.js"
   },
+  */
   {
     name: "swiftcore.js",
     tags: ["IOC", "dependency injection", "microkernel"],
@@ -2061,6 +2074,7 @@ var MicroJS = [
     url: "https://github.com/fschaefer/Timer.js",
     source: "https://raw.github.com/fschaefer/Timer.js/master/Timer.js"
   },
+  /* gzipped file too big, 10.5 kB is not "micro"
   {
     name: "Craft.js",
     tags: ["framework", "base", "dom", "events", "ajax", "polyfill", "functional"],
@@ -2068,6 +2082,7 @@ var MicroJS = [
     url: "http://craftjs.org",
     source: "https://raw.github.com/mlbli/craft/master/dist/craft.js"
   },
+  */
   {
     name: "Mouse",
     tags: [ "mouse", "mousebind", "bind", "events", "input", "buttons", "mice" ],
@@ -2146,7 +2161,7 @@ var MicroJS = [
     tags: ["ajax", "jquery"],
     description: "Standalone AJAX library inspired by jQuery/zepto",
     url: "https://github.com/ForbesLindesay/ajax",
-    source: "https://component.jit.su/ForbesLindesay/ajax/download/latest.js"
+    source: "https://raw.github.com/ForbesLindesay/ajax/master/index.js"
   },
   {
     name: "parsy",
