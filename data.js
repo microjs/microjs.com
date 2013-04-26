@@ -2443,5 +2443,12 @@ var MicroJS = [
     description: "Easily define CSS keyframes and animations during runtime",
     url: "https://github.com/bjorkstam/animx",
     source: "https://raw.github.com/bjorkstam/animx/master/animx.js"
+  },
+  {
+    name: "keydrown",
+    tags: ["games"],
+    description: "A JavaScript key state handler for web apps",
+    url: "https://github.com/jeremyckahn/keydrown",
+    source: "https://raw.github.com/jeremyckahn/keydrown/master/dist/keydrown.min.js"
   }
 ];
