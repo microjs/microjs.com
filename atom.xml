@@ -2274,5 +2274,45 @@
 		<summary>A software update kit for iOS and Android.</summary>
 	</entry>
 
+	<entry>
+		<title>PhFacebook</title>
+		<link href="https://github.com/philippec/PhFacebook" />
+		<id>urn:uuid:b98d98e0-aff1-11e2-8685-a3ab6ec96990</id>
+		<updated>2013-04-28'T'10:52:25Z</updated>
+		<summary>A Cocoa / Objective-C wrapper for the Facebook API, including authentication.</summary>
+	</entry>
+
+	<entry>
+		<title>PocketAPI</title>
+		<link href="https://github.com/Pocket/Pocket-ObjC-SDK" />
+		<id>urn:uuid:b9c99070-aff1-11e2-8685-a3ab6ec96990</id>
+		<updated>2013-04-28'T'10:52:25Z</updated>
+		<summary>Simple SDK for saving URLs to Pocket</summary>
+	</entry>
+
+	<entry>
+		<title>FontasticIcons</title>
+		<link href="https://github.com/AlexDenisov/FontasticIcons" />
+		<id>urn:uuid:b9c99071-aff1-11e2-8685-a3ab6ec96990</id>
+		<updated>2013-04-28'T'10:52:25Z</updated>
+		<summary>User-friendly interface for iconic fonts</summary>
+	</entry>
+
+	<entry>
+		<title>iActiveRecord</title>
+		<link href="https://github.com/AlexDenisov/iActiveRecord" />
+		<id>urn:uuid:b9c9de90-aff1-11e2-8685-a3ab6ec96990</id>
+		<updated>2013-04-28'T'10:52:25Z</updated>
+		<summary>ActiveRecord implementation around sqlite3.</summary>
+	</entry>
+
+	<entry>
+		<title>PonyDebugger</title>
+		<link href="https://github.com/square/PonyDebugger" />
+		<id>urn:uuid:b9cdd630-aff1-11e2-8685-a3ab6ec96990</id>
+		<updated>2013-04-28'T'10:52:25Z</updated>
+		<summary>Remote network and data debugging for your native iOS app using Chrome Developer Tools.</summary>
+	</entry>
+
 
 </feed>
