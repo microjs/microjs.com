@@ -9,6 +9,14 @@
 
 var MicroJS = [
   {
+    name: "safemap.js",
+    github: "philbooth/safemap.js",
+    tags: ["map", "dictionary", "associative array", "data structure"],
+    description: "A tiny, safe, ES3-compliant map/dictionary implementation.",
+    url: "https://github.com/philbooth/safemap.js",
+    source: "https://raw.github.com/philbooth/safemap.js/blob/master/src/safemap.js"
+  },
+  {
     name: "OneDollar.js",
     github: "voidplus/onedollar-coffeescript",
     tags: ["gesture", "recognition", "recognizer", "multitouch", "interactive", "input", "jquery"],
