@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <title>objclibs: Fantastic Objective-C Frameworks!</title>
-  <meta name="viewport" content="width=device-width; initial-scale=0.45">
+  <meta name="viewport" content="width=device-width, initial-scale=0.45">
   <meta name="google-site-verification" content="pZmhz4QZzJyjdt-YzTBw9qXmZWt3jGYE9exOTYklREs" />
   <link href="http://fonts.googleapis.com/css?family=Maiden+Orange" rel="stylesheet">
 
@@ -641,7 +641,7 @@
           if (!(r = results[i])._rendered) {
             r.stat =
                 '<div class="stat">'
-              + ((r.ghwatchers && (r.ghforks>5)) ? t('<span class="w">{ghwatchers}</span><span class="f">{ghforks}</span>', r) : '')
+              + (r.ghwatchers ? t('<span class="w">{ghwatchers}</span><span class="f">{ghforks}</span>', r) : '')
               + (r.tweets ? t('<span class="t">{tweets}</span>', r) : '')
               + '</div>'
             r.heading = r.name.length < 16 ? 3 : 4;

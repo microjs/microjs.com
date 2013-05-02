@@ -288,5 +288,4 @@ var MicroJS = [
     url: "https://github.com/Pocket/Pocket-ObjC-SDK",
     source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
   }
-
 ];
