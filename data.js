@@ -11,7 +11,7 @@ var MicroJS = [
   {
     name: "imageflip.js",
     github: "erf/imageflip",
-    tags: ["slideshow", "images", "collage"],
+    tags: ["slideshow", "images", "gallery", "collage"],
     description: "Minimalistic slideshow library.",
     url: "https://github.com/erf/imageflip",
     source: "https://github.com/erf/imageflip/blob/master/imageflip.js"
