@@ -9,12 +9,12 @@
 
 var MicroJS = [
   {
-    name: "imageflip.js",
-    github: "erf/imageflip",
+    name: "ImageFlip.js",
+    github: "erf/ImageFlip.js",
     tags: ["slideshow", "images", "gallery", "collage"],
     description: "Minimalistic slideshow library.",
-    url: "https://github.com/erf/imageflip",
-    source: "https://github.com/erf/imageflip/blob/master/imageflip.js"
+    url: "https://github.com/erf/ImageFlip.js",
+    source: "https://github.com/erf/ImageFlip.js/blob/master/imageflip.js"
   },
   {
     name: "OneDollar.js",
