@@ -2314,5 +2314,21 @@
 		<summary>Remote network and data debugging for your native iOS app using Chrome Developer Tools.</summary>
 	</entry>
 
+	<entry>
+		<title>FrameAccessor</title>
+		<link href="https://github.com/AlexDenisov/FrameAccessor" />
+		<id>urn:uuid:2e5fc440-b970-11e2-82d4-f5e8a1bcc434</id>
+		<updated>2013-05-10'T'12:50:20Z</updated>
+		<summary>Easy access to view&apos;s frame</summary>
+	</entry>
+
+	<entry>
+		<title>TMTumblrSDK</title>
+		<link href="https://github.com/Tumblr/TMTumblrSDK" />
+		<id>urn:uuid:2e6d7fe0-b970-11e2-82d4-f5e8a1bcc434</id>
+		<updated>2013-05-10'T'12:50:20Z</updated>
+		<summary>Unopinionated and flexible library for easily integrating Tumblr data into your iOS or OS X application</summary>
+	</entry>
+
 
 </feed>
