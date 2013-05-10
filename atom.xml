@@ -2330,5 +2330,29 @@
 		<summary>Unopinionated and flexible library for easily integrating Tumblr data into your iOS or OS X application</summary>
 	</entry>
 
+	<entry>
+		<title>ModelKit</title>
+		<link href="https://github.com/jawngee/ModelKit" />
+		<id>urn:uuid:215b8600-b973-11e2-9a9f-353b9f575584</id>
+		<updated>2013-05-10'T'13:11:27Z</updated>
+		<summary>A better model framework for Objective-C with support for REST and BaaS services like Parse.</summary>
+	</entry>
+
+	<entry>
+		<title>MASPreferences</title>
+		<link href="https://github.com/shpakovski/MASPreferences" />
+		<id>urn:uuid:218afa70-b973-11e2-9a9f-353b9f575584</id>
+		<updated>2013-05-10'T'13:11:27Z</updated>
+		<summary>Missed AppKit components for creating preference windows and panes from NSViewController objects.</summary>
+	</entry>
+
+	<entry>
+		<title>MASShortcut</title>
+		<link href="https://github.com/shpakovski/MASShortcut" />
+		<id>urn:uuid:218f8e50-b973-11e2-9a9f-353b9f575584</id>
+		<updated>2013-05-10'T'13:11:27Z</updated>
+		<summary>Missed AppKit component for entering and remembering hotkeys in the user defaults.</summary>
+	</entry>
+
 
 </feed>
