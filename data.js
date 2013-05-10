@@ -2443,5 +2443,12 @@ var MicroJS = [
     description: "Easily define CSS keyframes and animations during runtime",
     url: "https://github.com/bjorkstam/animx",
     source: "https://raw.github.com/bjorkstam/animx/master/animx.js"
+  },
+  {
+    name: "vivi.js",
+    tags: ["animation", "animate", "css", "css3", "keyframe", "defined" ],
+    description: "Tiny wrapper for CSS Defined Animations (@keyframes).",
+    url: "https://github.com/musictheory/vivi.js",
+    source: "https://raw.github.com/musictheory/vivi.js/master/src/vivi.js"
   }
 ];
