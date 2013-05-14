@@ -2443,5 +2443,12 @@ var MicroJS = [
     description: "Easily define CSS keyframes and animations during runtime",
     url: "https://github.com/bjorkstam/animx",
     source: "https://raw.github.com/bjorkstam/animx/master/animx.js"
+  },
+  {
+    name: "LogJS",
+    tags: ["logging", "CORS", "localStorage", "DOM"],
+    description: "Lightweight, extendable JavaScript logging library.",
+    url: "https://github.com/bfattori/LogJS",
+    source: "https://raw.github.com/bfattori/LogJS/master/log.js"
   }
 ];
