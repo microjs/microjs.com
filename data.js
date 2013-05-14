@@ -96,6 +96,7 @@ var MicroJS = [
     url: "https://github.com/fabien-d/alertify.js",
     source: "https://raw.github.com/fabien-d/alertify.js/master/dist/alertify.js"
   },
+  /* gzipped file too big, 7.4 kB is not "micro"
   {
     name: "svg.js",
     github: "wout/svg.js",
@@ -104,6 +105,7 @@ var MicroJS = [
     url: "https://github.com/wout/svg.js",
     source: "https://raw.github.com/wout/svg.js/master/dist/svg.js"
   },
+  */
   {
     name: "isMobile",
     github: "kaimallea/isMobile",
@@ -281,6 +283,7 @@ var MicroJS = [
     url: "https://github.com/One-com/one-color",
     source: "https://raw.github.com/One-com/one-color/master/one-color-debug.js"
   },
+  /* gzipped file too big, 5.9 kB is not "micro"
   {
     name: "Validation",
     tags: ["validation", "testing"],
@@ -288,6 +291,7 @@ var MicroJS = [
     url: "https://github.com/One-com/one-validation",
     source: "https://raw.github.com/One-com/one-validation/master/validation.js"
   },
+  */
   {
     name: "Histogram",
     tags: ["canvas", "color"],
@@ -417,7 +421,10 @@ var MicroJS = [
     tags: ["server", "pubsub", "events", "base"],
     description: "Transfer data objects from server to javascript on page load",
     url: "https://github.com/thanpolas/server2js",
-    source: "https://raw.github.com/thanpolas/server2js/master/dist/server2.min.js"
+    source: ["https://raw.github.com/thanpolas/server2js/master/src/server2.js",
+             "https://raw.github.com/thanpolas/server2js/master/src/server2js.export.js",
+             "https://raw.github.com/thanpolas/server2js/master/lib/goog.string.js",
+             "https://raw.github.com/thanpolas/server2js/master/lib/server2js.node.js"]
   },
   {
     name: "ready.js",
@@ -453,8 +460,9 @@ var MicroJS = [
     tags: ["base", "dom", "mobile", "ajax", "events", "webkit", "animation"],
     description: "DOM library for authoring HTML5 mobile web applications, works cross-device and cross-platform.",
     url: "http://xuijs.com",
-    // TODO: multiple editions - needs better handling
-    source: "http://xuijs.com/downloads/xui-2.3.2.js"
+    source: ["https://raw.github.com/xui/xui/master/src/header.js",
+             "https://raw.github.com/xui/xui/master/src/base.js",
+             "https://raw.github.com/xui/xui/master/src/footer.js"]
   },
   {
     name: "Underscore",
@@ -538,7 +546,7 @@ var MicroJS = [
     tags: ["data", "storage", "webkit", "mobile"],
     description: "Client side JSON document store. Perfect for WebKit mobile apps.",
     url: "http://brian.io/lawnchair/",
-    source: "http://brian.io/lawnchair/downloads/lawnchair-0.6.1.js"
+    source: "https://raw.github.com/brianleroux/lawnchair/master/src/Lawnchair.js"
   },
   /* Too Big 7kb
   {
@@ -556,6 +564,7 @@ var MicroJS = [
     url: "https://github.com/NV/placeholder.js",
     source: "http://nv.github.io/placeholder.js/placeholder.js"
   },
+  /* N/A
   {
     name: "Micro-Templating",
     tags: ["templating"],
@@ -563,6 +572,7 @@ var MicroJS = [
     url: "http://ejohn.org/blog/javascript-micro-templating/",
     source: "http://www.manning.com/resig/JavaScriptNinjaSourceCode.zip!/code/07/11.js"
   },
+  */
   {
     name: "Transparency.js",
     tags: ["templating"],
@@ -590,7 +600,7 @@ var MicroJS = [
     tags: ["animation", "webkit"],
     description: "Animation library that uses CSS transforms and transitions to create smooth, hardware-accelerated animations.",
     url: "http://extralogical.net/projects/firmin/",
-    source: "http://extralogical.net/projects/firmin/downloads/firmin-1.0.0.js"
+    source: "https://raw.github.com/beastaugh/firmin/master/src/firmin.js"
   },
   {
     name: "Bonzo",
@@ -640,6 +650,7 @@ var MicroJS = [
     description: "Spec-compatible (v1.1+λ) Mustache templating: written in CoffeeScript, runnable anywhere.",
     url: "https://github.com/pvande/Milk",
     source: "https://raw.github.com/pvande/Milk/master/dist/v1.2.0/milk.js"
+    //source: "https://raw.github.com/pvande/Milk/master/milk.coffee"
   },
   {
     name: "Director",
@@ -668,8 +679,9 @@ var MicroJS = [
     tags: ["templating"],
     description: "Mold is a templating library.",
     url: "http://marijnhaverbeke.nl/mold/",
-    source: "http://marijnhaverbeke.nl/mold/mold.js"
+    source: "https://raw.github.com/marijnh/mold/master/mold.js"
   },
+  /* gzipped file too big, 5.1 kB is not "micro"
   {
     name: "Tempo",
     tags: ["templating"],
@@ -677,6 +689,7 @@ var MicroJS = [
     url: "http://twigkit.github.io/tempo/",
     source: "https://raw.github.com/twigkit/tempo/master/tempo.js"
   },
+  */
   {
     name: "Reqwest",
     tags: ["ajax"],
@@ -1026,6 +1039,7 @@ var MicroJS = [
   },
   {
     name: "Augment.js",
+    github: "olivernn/augment.js",
     tags: ["polyfill"],
     description: "Enables use of modern JavaScript by augmenting built in objects with the latest JavaScript methods.",
     url: "http://augmentjs.com",
@@ -1181,7 +1195,7 @@ var MicroJS = [
   {
     name: "Jaml",
     tags: ["templating"],
-    description: "Jaml tries to emulate Ruby’s Haml library, making it easy to generate HTML in your JavaScript projects.",
+    description: "Jaml tries to emulate Ruby's Haml library, making it easy to generate HTML in your JavaScript projects.",
     url: "http://edspencer.github.io/jaml/",
     source: "https://raw.github.com/edspencer/jaml/master/Jaml-all.js"
   },
@@ -1377,7 +1391,10 @@ var MicroJS = [
     tags: ["animation", "jsanimation"],
     description: "A JavaScript work-around for hardware accelerated CSS3 transitions with custom easing functions.",
     url: "https://github.com/joelambert/morf",
-    source: "http://www.joelambert.co.uk/morf/js/morf.js"
+    source: ["https://raw.github.com/joelambert/morf/master/js/src/morf.js",
+             "https://raw.github.com/joelambert/morf/master/js/src/morf.utils.js",
+             "https://raw.github.com/joelambert/morf/master/js/src/WebkitCSSMatrix.ext.js",
+             "https://raw.github.com/joelambert/morf/master/js/src/shifty.fn.scripty2.js"]
   },
   {
     name: "typogr.js",
@@ -1508,7 +1525,7 @@ var MicroJS = [
   },
   {
     name: "tinyOSF.js",
-    tags: ["osf", "markup", "parser", "html", "shownotes"],
+    tags: ["osf", "markup", "parser", "html", "shownotes", "podcast"],
     description: "a few lines of code to convert OSF to HTML.",
     url: "https://github.com/shownotes/tinyOSF.js",
     source: "https://raw.github.com/shownotes/tinyOSF.js/master/tinyosf.js"
@@ -1753,13 +1770,16 @@ var MicroJS = [
     url: "https://github.com/stackp/promisejs",
     source: "https://raw.github.com/stackp/promisejs/master/promise.js"
   },
+  /* gzipped file too big, 5.3 kB is not "micro"
   {
     name: "Moment.js",
+    github: "timrwood/moment",
     tags: ["date"],
     description: "Parse, manipulate, and format dates.",
     url: "http://momentjs.com/",
     source: "https://raw.github.com/timrwood/moment/master/moment.js"
   },
+  */
   {
     name: "swiftcore.js",
     tags: ["IOC", "dependency injection", "microkernel"],
@@ -2061,6 +2081,7 @@ var MicroJS = [
     url: "https://github.com/fschaefer/Timer.js",
     source: "https://raw.github.com/fschaefer/Timer.js/master/Timer.js"
   },
+  /* gzipped file too big, 10.5 kB is not "micro"
   {
     name: "Craft.js",
     tags: ["framework", "base", "dom", "events", "ajax", "polyfill", "functional"],
@@ -2068,6 +2089,7 @@ var MicroJS = [
     url: "http://craftjs.org",
     source: "https://raw.github.com/mlbli/craft/master/dist/craft.js"
   },
+  */
   {
     name: "Mouse",
     tags: [ "mouse", "mousebind", "bind", "events", "input", "buttons", "mice" ],
@@ -2146,7 +2168,7 @@ var MicroJS = [
     tags: ["ajax", "jquery"],
     description: "Standalone AJAX library inspired by jQuery/zepto",
     url: "https://github.com/ForbesLindesay/ajax",
-    source: "https://component.jit.su/ForbesLindesay/ajax/download/latest.js"
+    source: "https://raw.github.com/ForbesLindesay/ajax/master/index.js"
   },
   {
     name: "parsy",
