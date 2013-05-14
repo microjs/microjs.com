@@ -2457,5 +2457,13 @@ var MicroJS = [
     description: "Lightweight, extendable JavaScript logging library.",
     url: "https://github.com/bfattori/LogJS",
     source: "https://raw.github.com/bfattori/LogJS/master/log.js"
+  },
+  {
+    name: "StdClassJS",
+    github: "BlueJeansAndRain/stdclassjs",
+    tags: ["oop", "class", "extend", "mixin"],
+    description: "A dead simple JavaScript inheritance implementation.",
+    url: "https://github.com/BlueJeansAndRain/stdclassjs",
+    source: "https://raw.github.com/BlueJeansAndRain/stdclassjs/master/stdclass.js"
   }
 ];
