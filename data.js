@@ -351,6 +351,13 @@ var MicroJS = [
     url: "https://github.com/jeromeetienne/gowiththeflow.js",
     source: "https://raw.github.com/jeromeetienne/gowiththeflow.js/master/gowiththeflow.js"
   },
+  {
+    name: "creatorpattern.js",
+    tags: ["pattern", "creator", "node", "browser"],
+    description: "Micro library to easily add the creator pattern to your class.",
+    url: "https://github.com/jeromeetienne/creatorpattern.js",
+    source: "https://raw.github.com/jeromeetienne/creatorpattern.js/master/creatorpattern.js"
+  },
   /* Too big, 5.5kb
   {
     name: "Prevel Framework",
