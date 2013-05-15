@@ -14,7 +14,7 @@ var MicroJS = [
     tags: ["slideshow", "images", "gallery", "collage"],
     description: "Minimalistic slideshow library.",
     url: "https://github.com/erf/ImageFlip.js",
-    source: "https://github.com/erf/ImageFlip.js/blob/master/imageflip.js"
+    source: "https://raw.github.com/erf/ImageFlip.js/master/imageflip.js"
   },
   {
     name: "safemap.js",
@@ -22,7 +22,7 @@ var MicroJS = [
     tags: ["map", "dictionary", "associative array", "data structure"],
     description: "A tiny, safe, ES3-compliant map/dictionary implementation.",
     url: "https://github.com/philbooth/safemap.js",
-    source: "https://raw.github.com/philbooth/safemap.js/blob/master/src/safemap.js"
+    source: "https://raw.github.com/philbooth/safemap.js/master/src/safemap.js"
   },
   {
     name: "OneDollar.js",
@@ -34,11 +34,11 @@ var MicroJS = [
   },
   {
     name: "LocalDB.js",
-    github: "https://github.com/Agnostic/LocalDB.js",
+    github: "Agnostic/LocalDB.js",
     tags: ["nosql", "ODM", "mongo", "json", "database", "web applications", "localStorage"],
     description: "LocalDB.js is a tool that maps the structure of the databases in objects using the localStorage API, no database drivers are required, just add the library and use it!",
     url: "http://agnostic.github.io/LocalDB.js",
-    source: "https://github.com/Agnostic/LocalDB.js/blob/master/src/LocalDB.js"
+    source: "https://raw.github.com/Agnostic/LocalDB.js/master/src/LocalDB.js"
   },
   {
     name: "Countable",
@@ -284,7 +284,7 @@ var MicroJS = [
     tags: ["framework", "mvc", "events", "command", "observer"],
     description: "Javascript mvc framework that help developers write loosely-coupled applications to increase scalability and maintainability.",
     url: "http://somajs.github.io/somajs/",
-    source: "http://somajs.github.io/somajs/examples/native/framework/src/soma.js"
+    source: "https://raw.github.com/somajs/somajs/master/build/soma.js"
   },
   {
     name: "Minion",
@@ -2531,7 +2531,7 @@ var MicroJS = [
     tags: ["dom", "selectors", "traversing", "library"],
     description: "micro DOM selector library that maps queries to native get commands",
     url: "https://github.com/james2doyle/saltjs",
-    source: "https://github.com/james2doyle/saltjs/blob/master/salt.js"
+    source: "https://raw.github.com/james2doyle/saltjs/master/salt.js"
   },
   {
     name: "defineObject",
