@@ -2656,5 +2656,85 @@
 		<summary>Document Object Maker - Create your DOM from data, not strings.</summary>
 	</entry>
 
+	<entry>
+		<title>ImageFlip.js</title>
+		<link href="https://github.com/erf/ImageFlip.js" />
+		<id>urn:uuid:2ba21fa0-bcf9-11e2-a716-536b24f28675</id>
+		<updated>2013-05-15'T'00:48:31Z</updated>
+		<summary>Minimalistic slideshow library.</summary>
+	</entry>
+
+	<entry>
+		<title>safemap.js</title>
+		<link href="https://github.com/philbooth/safemap.js" />
+		<id>urn:uuid:2d9e64d0-bcf9-11e2-a716-536b24f28675</id>
+		<updated>2013-05-15'T'00:48:31Z</updated>
+		<summary>A tiny, safe, ES3-compliant map/dictionary implementation.</summary>
+	</entry>
+
+	<entry>
+		<title>creatorpattern.js</title>
+		<link href="https://github.com/jeromeetienne/creatorpattern.js" />
+		<id>urn:uuid:2deab010-bcf9-11e2-a716-536b24f28675</id>
+		<updated>2013-05-15'T'00:48:31Z</updated>
+		<summary>Micro library to easily add the creator pattern to your class.</summary>
+	</entry>
+
+	<entry>
+		<title>LocalDB.js</title>
+		<link href="http://agnostic.github.io/LocalDB.js" />
+		<id>urn:uuid:2deab011-bcf9-11e2-a716-536b24f28675</id>
+		<updated>2013-05-15'T'00:48:31Z</updated>
+		<summary>LocalDB.js is a tool that maps the structure of the databases in objects using the localStorage API, no database drivers are required, just add the library and use it!</summary>
+	</entry>
+
+	<entry>
+		<title>keydrown</title>
+		<link href="https://github.com/jeremyckahn/keydrown" />
+		<id>urn:uuid:3600d900-bcf9-11e2-a716-536b24f28675</id>
+		<updated>2013-05-15'T'00:48:31Z</updated>
+		<summary>A JavaScript key state handler for web apps</summary>
+	</entry>
+
+	<entry>
+		<title>StdClassJS</title>
+		<link href="https://github.com/BlueJeansAndRain/stdclassjs" />
+		<id>urn:uuid:36010010-bcf9-11e2-a716-536b24f28675</id>
+		<updated>2013-05-15'T'00:48:31Z</updated>
+		<summary>A dead simple JavaScript inheritance implementation.</summary>
+	</entry>
+
+	<entry>
+		<title>salt.js</title>
+		<link href="https://github.com/james2doyle/saltjs" />
+		<id>urn:uuid:3611a1e0-bcf9-11e2-a716-536b24f28675</id>
+		<updated>2013-05-15'T'00:48:31Z</updated>
+		<summary>micro DOM selector library that maps queries to native get commands</summary>
+	</entry>
+
+	<entry>
+		<title>LogJS</title>
+		<link href="https://github.com/bfattori/LogJS" />
+		<id>urn:uuid:3611c8f0-bcf9-11e2-a716-536b24f28675</id>
+		<updated>2013-05-15'T'00:48:31Z</updated>
+		<summary>Lightweight, extendable JavaScript logging library.</summary>
+	</entry>
+
+	<entry>
+		<title>defineObject</title>
+		<link href="https://github.com/smelnikov/defineObject" />
+		<id>urn:uuid:3611c8f1-bcf9-11e2-a716-536b24f28675</id>
+		<updated>2013-05-15'T'00:48:31Z</updated>
+		<summary>A bit of sugar for defining JavaScript Objects and their Prototypes.</summary>
+	</entry>
+
+	<entry>
+		<title>vivi.js</title>
+		<link href="https://github.com/musictheory/vivi.js" />
+		<id>urn:uuid:3611f000-bcf9-11e2-a716-536b24f28675</id>
+		<updated>2013-05-15'T'00:48:31Z</updated>
+		<summary>Tiny wrapper for CSS Defined Animations (@keyframes).</summary>
+	</entry>
+
 
 </feed>
