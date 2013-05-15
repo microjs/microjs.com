@@ -9,6 +9,14 @@
 
 var MicroJS = [
   {
+    name: "ImageFlip.js",
+    github: "erf/ImageFlip.js",
+    tags: ["slideshow", "images", "gallery", "collage"],
+    description: "Minimalistic slideshow library.",
+    url: "https://github.com/erf/ImageFlip.js",
+    source: "https://github.com/erf/ImageFlip.js/blob/master/imageflip.js"
+  },
+  {
     name: "OneDollar.js",
     github: "voidplus/onedollar-coffeescript",
     tags: ["gesture", "recognition", "recognizer", "multitouch", "interactive", "input", "jquery"],
