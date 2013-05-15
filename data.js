@@ -2510,5 +2510,12 @@ var MicroJS = [
     description: "A JavaScript key state handler for web apps",
     url: "https://github.com/jeremyckahn/keydrown",
     source: "https://raw.github.com/jeremyckahn/keydrown/master/dist/keydrown.min.js"
+  },
+  {
+    name: "vivi.js",
+    tags: ["animation", "animate", "css", "css3", "keyframe", "defined" ],
+    description: "Tiny wrapper for CSS Defined Animations (@keyframes).",
+    url: "https://github.com/musictheory/vivi.js",
+    source: "https://raw.github.com/musictheory/vivi.js/master/src/vivi.js"
   }
 ];
