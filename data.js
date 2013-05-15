@@ -2525,5 +2525,12 @@ var MicroJS = [
     description: "Tiny wrapper for CSS Defined Animations (@keyframes).",
     url: "https://github.com/musictheory/vivi.js",
     source: "https://raw.github.com/musictheory/vivi.js/master/src/vivi.js"
+  },
+  {
+    name: "salt.js",
+    tags: ["dom", "selectors", "traversing", "library"],
+    description: "micro DOM selector library that maps queries to native get commands",
+    url: "https://github.com/james2doyle/saltjs",
+    source: "https://github.com/james2doyle/saltjs/blob/master/salt.js"
   }
 ];
