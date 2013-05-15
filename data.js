@@ -8,6 +8,22 @@
 // See examples below.
 
 var MicroJS = [
+  {
+    name: "sawkit-client",
+    github: "cScarlson/sawkit-client",
+    tags: ["websocket", "socket", "HTML5", "custom", "events", "emit", "emission", "on", "jquery"],
+    description: "A non-intrusive Facade Pattern on the HTML5 WebSocket API which allows for: custom event-emissions, custom event-listeners, and binary sending - all in a chainable, jQuery-LIKE way.",
+    url: "https://github.com/cScarlson/sawkit-client",
+    source: "https://raw.github.com/cScarlson/sawkit-client/master/$ws.js"
+  },
+  {
+    name: "SDB.js",
+    github: "cScarlson/SDB",
+    tags: ["IndexedDB", "database", "object", "store"],
+    description: "A Facade Pattern on the HTML5 IndexedDB API.",
+    url: "https://github.com/cScarlson/SDB",
+    source: "https://raw.github.com/cScarlson/SDB/master/SDB.js"
+  },
    {
     name: "ImageFlip.js",
     github: "erf/ImageFlip.js",
