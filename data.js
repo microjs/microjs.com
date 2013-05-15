@@ -2532,5 +2532,12 @@ var MicroJS = [
     description: "micro DOM selector library that maps queries to native get commands",
     url: "https://github.com/james2doyle/saltjs",
     source: "https://github.com/james2doyle/saltjs/blob/master/salt.js"
+  },
+  {
+    name: "defineObject",
+    tags: ["prototypes", "objects", "mixins"],
+    description: "A bit of sugar for defining JavaScript Objects and their Prototypes.",
+    url: "https://github.com/smelnikov/defineObject",
+    source: "https://raw.github.com/smelnikov/defineObject/master/defineObject.js"
   }
 ];
