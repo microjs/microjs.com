@@ -33,6 +33,14 @@ var MicroJS = [
     source: "https://raw.github.com/voidplus/onedollar-coffeescript/master/lib/onedollar.js"
   },
   {
+    name: "LocalDB.js",
+    github: "https://github.com/Agnostic/LocalDB.js",
+    tags: ["nosql", "ODM", "mongo", "json", "database", "web applications", "localStorage"],
+    description: "LocalDB.js is a tool that maps the structure of the databases in objects using the localStorage API, no database drivers are required, just add the library and use it!",
+    url: "http://agnostic.github.io/LocalDB.js",
+    source: "https://github.com/Agnostic/LocalDB.js/blob/master/src/LocalDB.js"
+  },
+  {
     name: "Countable",
     github: "RadLikeWhoa/Countable",
     tags: ["paragraphs", "words", "characters", "counting", "live", "text"],
