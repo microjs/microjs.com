@@ -19,7 +19,7 @@ var MicroJS = [
   {
     name: "SDB.js",
     github: "cScarlson/SDB",
-    tags: ["IndexedDB", "database", "object", "store"],
+    tags: ["IndexedDB", "database", "object", "store", "localStorage"],
     description: "A Facade Pattern on the HTML5 IndexedDB API.",
     url: "https://github.com/cScarlson/SDB",
     source: "https://raw.github.com/cScarlson/SDB/master/SDB.js"
