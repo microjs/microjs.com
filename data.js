@@ -2448,7 +2448,7 @@ var MicroJS = [
     name: "color.js",
     github: "brehaut/color-js",
     tags: ["color", "color manipulation"],
-    description: "A API to deal with immutable color objects in RGB, HSV, and HSL color spaces with optional alpha channels. Comprehensive CSS string format parsers and output.",
+    description: "API for immutable color objects in RGB, HSV and HSL with optional alpha. Comprehensive CSS format parsing and output.",
     url: "https://github.com/brehaut/color-js/",
     source: "https://raw.github.com/brehaut/color-js/master/color.js"
   },
