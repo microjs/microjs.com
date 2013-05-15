@@ -2487,5 +2487,12 @@ var MicroJS = [
     description: "A dead simple JavaScript inheritance implementation.",
     url: "https://github.com/BlueJeansAndRain/stdclassjs",
     source: "https://raw.github.com/BlueJeansAndRain/stdclassjs/master/stdclass.js"
+  },
+  {
+    name: "keydrown",
+    tags: ["games"],
+    description: "A JavaScript key state handler for web apps",
+    url: "https://github.com/jeremyckahn/keydrown",
+    source: "https://raw.github.com/jeremyckahn/keydrown/master/dist/keydrown.min.js"
   }
 ];
