@@ -2539,5 +2539,12 @@ var MicroJS = [
     description: "A bit of sugar for defining JavaScript Objects and their Prototypes.",
     url: "https://github.com/smelnikov/defineObject",
     source: "https://raw.github.com/smelnikov/defineObject/master/defineObject.js"
+  },
+  {
+    name: "signwriting_thin.js",
+    tags: ["sign language","html","css","svg"],
+    description: "View written sign language using the SignWriting Thin Viewer.",
+    url: "https://github.com/Slevinski/swis",
+    source: "https://github.com/Slevinski/swis/raw/master/js/signwriting_thin.min.js"
   }
 ];
