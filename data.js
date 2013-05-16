@@ -1773,6 +1773,14 @@ var MicroJS = [
     source: "https://raw.github.com/keithamus/jwerty/master/jwerty.js"
   },
   {
+    name: "konami.js",
+    github: "SimonWaldherr/konami.js",
+    tags: ["events", "input", "bind", "keypress"],
+    description: "logs every keypress and store it for later",
+    url: "https://github.com/SimonWaldherr/konami.js",
+    source: "https://raw.github.com/SimonWaldherr/konami.js/master/konami.js"
+  },
+  {
     name: "filesize.js",
     tags: ["math", "language", "amd"],
     description: "JavaScript library to generate a human readable String describing the filesize",
