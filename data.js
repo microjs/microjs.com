@@ -2462,6 +2462,14 @@ var MicroJS = [
     source: "https://raw.github.com/SimonWaldherr/PullToRefresh/master/ptr.js"
   },
   {
+    name: "infinity.js",
+    github: "SimonWaldherr/infinity.js",
+    tags: ["ajax", "scroll"],
+    description: "dependency-free infinite scrolling",
+    url: "https://github.com/SimonWaldherr/infinity.js",
+    source: "https://raw.github.com/SimonWaldherr/infinity.js/master/infinity.js"
+  },
+  {
     name: "ShuntingYard.js",
     tags: ["shunting yard", "algorithms", "math", "rpn", "reverse polish notation", "eval", "expression", "Dijkstra"],
     description: "Calculate math from user input without using eval with Dijkstra's shunting yard algorithm",
