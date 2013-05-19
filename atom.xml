@@ -2736,5 +2736,13 @@
 		<summary>Tiny wrapper for CSS Defined Animations (@keyframes).</summary>
 	</entry>
 
+	<entry>
+		<title>csv.js</title>
+		<link href="https://github.com/avoidwork/csv.js" />
+		<id>urn:uuid:539734e0-c0dd-11e2-ab40-9bd8cce63f98</id>
+		<updated>2013-05-19'T'23:39:08Z</updated>
+		<summary>Convert JSON, Arrays or Objects to CSV</summary>
+	</entry>
+
 
 </feed>
