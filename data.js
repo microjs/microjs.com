@@ -1780,6 +1780,13 @@ var MicroJS = [
     source: "https://raw.github.com/avoidwork/filesize.js/master/lib/filesize.js"
   },
   {
+    name: "csv.js",
+    tags: ["csv", "json", "array", "object", "encode", "transform"],
+    description: "Convert JSON, Arrays or Objects to CSV",
+    url: "https://github.com/avoidwork/csv.js",
+    source: "https://raw.github.com/avoidwork/csv.js/master/lib/csv.js"
+  },
+  {
     name: "bacon.js",
     tags: ["mobile" ],
     description: "Detects a mobile browser",
