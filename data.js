@@ -1626,6 +1626,14 @@ var MicroJS = [
     source: "https://raw.github.com/flosse/scaleApp/master/dist/scaleApp.js"
   },
   {
+    name: "Choona.js",
+    github: "nsisodiya/choona.js",
+    tags: ["pubsub", "modular", "scalable", "sandbox", "spa", "architecture"],
+    description: "Choona.js is a tiny JavaScript framework for scalable , modular architecture for one-page-applications",
+    url: "https://github.com/nsisodiya/choona.js",
+    source: "https://raw.github.com/nsisodiya/choona.js/master/choona.js"
+  },
+  {
     name: "Humane JS",
     tags: ["notification", "alert"],
     description: "A simple, modern, browser notification system",
