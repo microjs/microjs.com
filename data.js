@@ -729,6 +729,13 @@ var MicroJS = [
     source: "https://raw.github.com/ded/Reqwest/master/reqwest.js"
   },
   {
+    name: "majaX.js",
+    tags: ["ajax", "xml", "csv", "json"],
+    description: "make AJAX Requests and return (parsed) values.",
+    url: "https://github.com/SimonWaldherr/majaX.js",
+    source: "https://raw.github.com/SimonWaldherr/majaX.js/master/majax.js"
+  },
+  {
     name: "JSON2",
     tags: ["polyfill", "json"],
     description: "Creates a JSON property in the global object, if there  isn't already one, with stringify and parse methods.",
