@@ -2545,6 +2545,6 @@ var MicroJS = [
     tags: ["class", "inheritance", "namespace", "node"],
     description: "JavaScript classical inheritance for the browser and Node.js. Super methods and namespaces",
     url: "https://github.com/jimmynewtron/ClassJS",
-    source: "https://raw.github.com/jimmynewtron/ClassJS/master/dist/classjs-latest.js"
+    source: "https://raw.github.com/jimmynewtron/ClassJS/master/src/core/Class.js"
   },
 ];
