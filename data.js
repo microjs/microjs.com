@@ -8,6 +8,15 @@
 // See examples below.
 
 var MicroJS = [
+   
+   {
+    name: "Miniscroll.js",
+    github: "rogerluiz/Miniscroll-JS",
+    tags: ["scrollbar", "touch", "desktop", "scroll"],
+    description: "A simple scrollbar for desktop and mobile application using javascript. ",
+    url: "https://github.com/rogerluiz/Miniscroll-JS",
+    source: "https://raw.github.com/rogerluiz/Miniscroll-JS/master/miniscroll.js"
+   },
    {
     name: "ImageFlip.js",
     github: "erf/ImageFlip.js",
