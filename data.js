@@ -2539,5 +2539,12 @@ var MicroJS = [
     description: "A bit of sugar for defining JavaScript Objects and their Prototypes.",
     url: "https://github.com/smelnikov/defineObject",
     source: "https://raw.github.com/smelnikov/defineObject/master/defineObject.js"
-  }
+  },
+  {
+    name: "ClassJS",
+    tags: ["class", "inheritance", "namespace", "node"],
+    description: "JavaScript classical inheritance for the browser and Node.js. Super methods and namespaces",
+    url: "https://github.com/jimmynewtron/ClassJS",
+    source: "https://raw.github.com/jimmynewtron/ClassJS/master/dist/classjs-latest.js"
+  },
 ];
