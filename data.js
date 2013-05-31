@@ -2546,5 +2546,5 @@ var MicroJS = [
     description: "ākāśe (sanskrit for "in the sky"/"to the sky") is a small decoupled, event-driven architecture framework based",
     url: "https://github.com/cedmax/akase",
     source: "https://raw.github.com/cedmax/akase/master/dist/akase.js"
-  },
+  }
 ];
