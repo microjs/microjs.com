@@ -2736,5 +2736,13 @@
 		<summary>Tiny wrapper for CSS Defined Animations (@keyframes).</summary>
 	</entry>
 
+	<entry>
+		<title>Hamster.js</title>
+		<link href="https://github.com/monospaced/hamster.js" />
+		<id>urn:uuid:d33ac950-c9f2-11e2-bb63-d102c0f9abf5</id>
+		<updated>2013-05-31'T'13:05:20Z</updated>
+		<summary>A standalone JavaScript library for cross-browser mouse wheel support.</summary>
+	</entry>
+
 
 </feed>

@@ -2539,5 +2539,13 @@ var MicroJS = [
     description: "A bit of sugar for defining JavaScript Objects and their Prototypes.",
     url: "https://github.com/smelnikov/defineObject",
     source: "https://raw.github.com/smelnikov/defineObject/master/defineObject.js"
+  },
+  {
+    name: "Hamster.js",
+    github: "monospaced/hamster.js",
+    tags: ["mousewheel", "mouse", "wheel", "events"],
+    description: "A standalone JavaScript library for cross-browser mouse wheel support.",
+    url: "https://github.com/monospaced/hamster.js",
+    source: "http://monospaced.github.io/hamster.js/hamster.js"
   }
 ];
