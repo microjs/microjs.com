@@ -2539,5 +2539,12 @@ var MicroJS = [
     description: "A bit of sugar for defining JavaScript Objects and their Prototypes.",
     url: "https://github.com/smelnikov/defineObject",
     source: "https://raw.github.com/smelnikov/defineObject/master/defineObject.js"
+  },
+  {
+    name: "akase",
+    tags: ["amd", "module", "scalable", "architecture", "scaffolding", "event"],
+    description: "ākāśe (sanskrit for "in the sky"/"to the sky") is a small decoupled, event-driven architecture framework based",
+    url: "https://github.com/cedmax/akase",
+    source: "https://raw.github.com/cedmax/akase/master/dist/akase.js"
   }
 ];
