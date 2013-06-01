@@ -2539,5 +2539,12 @@ var MicroJS = [
     description: "A bit of sugar for defining JavaScript Objects and their Prototypes.",
     url: "https://github.com/smelnikov/defineObject",
     source: "https://raw.github.com/smelnikov/defineObject/master/defineObject.js"
+  },
+  {
+    name: "spin.js",
+    tags: ["spinning", "indicator", "loading", "spinner"],
+    description: "A spinning activity indicator. An animated CSS3 loading spinner.",
+    url: "http://fgnass.github.io/spin.js/",
+    source: "https://raw.github.com/fgnass/spin.js/gh-pages/dist/spin.js"
   }
 ];
