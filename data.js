@@ -9,6 +9,14 @@
 
 var MicroJS = [
    {
+    name: "remove.js",
+    github: "scrapmac/snippets/tree/master/remove.js",
+    tags: ["string", "remove", "cleanup", "redundant", "gibberish", "trim"],
+    description: "Small but powerful string cleanup and reduction library.",
+    url: "https://github.com/scrapmac/snippets/tree/master/remove.js",
+    source: "https://github.com/scrapmac/snippets/raw/master/remove.js/remove.js"
+   },
+   {
     name: "ImageFlip.js",
     github: "erf/ImageFlip.js",
     tags: ["slideshow", "images", "gallery", "collage"],
