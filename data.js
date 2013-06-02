@@ -730,8 +730,9 @@ var MicroJS = [
   },
   {
     name: "majaX.js",
-    tags: ["ajax", "xml", "csv", "json"],
-    description: "make AJAX Requests and return (parsed) values.",
+    github: "SimonWaldherr/majaX.js",
+    tags: ["ajax", "http", "xml", "csv", "json", "binary", "api"],
+    description: "make AJAX Requests and get (parsed) values (and headers).",
     url: "https://github.com/SimonWaldherr/majaX.js",
     source: "https://raw.github.com/SimonWaldherr/majaX.js/master/majax.js"
   },
