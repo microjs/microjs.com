@@ -1226,7 +1226,7 @@ var MicroJS = [
   {
     name: "quark",
     tags: ["base"],
-    description: "Build your own framework from scratchhttps://raw.github.com/pyrsmk/quark/master/src/quark.js",
+    description: "Build your own framework from scratch",
     url: "https://github.com/pyrsmk/quark",
     source: [
        "https://raw.github.com/pyrsmk/quark/master/src/quark.js",
