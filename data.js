@@ -1184,7 +1184,7 @@ var MicroJS = [
   {
     name: "nut",
     tags: ["css"],
-    description: "The concise CSS selector engine",
+    description: "A concise CSS selector engine",
     url: "https://github.com/pyrsmk/nut",
     source: "https://raw.github.com/pyrsmk/nut/master/src/nut.js"
   },
@@ -1198,23 +1198,40 @@ var MicroJS = [
   {
     name: "W",
     tags: ["responsive"],
-    description: "Width management tool for responsive designs",
+    description: "Width management tool for responsive designers",
     url: "https://github.com/pyrsmk/W",
     source: "https://raw.github.com/pyrsmk/W/master/src/W.js"
   },
   {
     name: "toast",
     tags: ["loader"],
-    description: "A tiny and powerful resource loader",
+    description: "A simple CSS and JS resource loader",
     url: "https://github.com/pyrsmk/toast",
     source: "https://raw.github.com/pyrsmk/toast/master/src/toast.js"
   },
   {
     name: "mediatizr",
     tags: ["polyfill", "responsive"],
-    description: "Adds media queries support to incapable browsers",
+    description: "A media queries polyfill",
     url: "https://github.com/pyrsmk/mediatizr",
     source: "https://raw.github.com/pyrsmk/mediatizr/master/src/mediatizr.js"
+  },
+  {
+    name: "qwest",
+    tags: ["ajax"],
+    description: "Ajax library with promises and XHR2 support",
+    url: "https://github.com/pyrsmk/qwest",
+    source: "https://raw.github.com/pyrsmk/qwest/master/src/qwest.js"
+  },
+  {
+    name: "quark",
+    tags: ["base"],
+    description: "Build your own framework from scratchhttps://raw.github.com/pyrsmk/quark/master/src/quark.js",
+    url: "https://github.com/pyrsmk/quark",
+    source: [
+       "https://raw.github.com/pyrsmk/quark/master/src/quark.js",
+       "https://raw.github.com/pyrsmk/quark/master/src/starter.js"
+    ]
   },
   {
     name: "DragDrop",
