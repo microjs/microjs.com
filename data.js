@@ -2539,5 +2539,19 @@ var MicroJS = [
     description: "A bit of sugar for defining JavaScript Objects and their Prototypes.",
     url: "https://github.com/smelnikov/defineObject",
     source: "https://raw.github.com/smelnikov/defineObject/master/defineObject.js"
+  },
+  {
+    name: "Graph",
+    tags: ["traversing", "graph"],
+    description: "Provides \"jQuery-like\" functionality for graph structures in JavaScript.",
+    url: "https://github.com/ryansmith94/Graph",
+    source: "https://raw.github.com/ryansmith94/Graph/master/src/core.js"
+  },
+  {
+    name: "Scorebook",
+    tags: ["cricket", "scoring"],
+    description: "A JavaScript library for cricket scoring.",
+    url: "https://github.com/ryansmith94/Scorebook",
+    source: "https://raw.github.com/ryansmith94/Scorebook/master/src/core.js"
   }
 ];
