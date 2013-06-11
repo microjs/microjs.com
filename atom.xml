@@ -2736,5 +2736,21 @@
 		<summary>Tiny wrapper for CSS Defined Animations (@keyframes).</summary>
 	</entry>
 
+	<entry>
+		<title>Graph</title>
+		<link href="https://github.com/ryansmith94/Graph" />
+		<id>urn:uuid:5c10b670-d297-11e2-8413-2fde39ea24fd</id>
+		<updated>2013-06-11'T'13:03:29Z</updated>
+		<summary>Provides &quot;jQuery-like&quot; functionality for graph structures in JavaScript.</summary>
+	</entry>
+
+	<entry>
+		<title>Scorebook</title>
+		<link href="https://github.com/ryansmith94/Scorebook" />
+		<id>urn:uuid:5c134e80-d297-11e2-8413-2fde39ea24fd</id>
+		<updated>2013-06-11'T'13:03:29Z</updated>
+		<summary>A JavaScript library for cricket scoring.</summary>
+	</entry>
+
 
 </feed>
