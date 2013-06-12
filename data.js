@@ -2625,4 +2625,12 @@ var MicroJS = [
     url: "https://github.com/jimmynewtron/ClassJS",
     source: "https://raw.github.com/jimmynewtron/ClassJS/master/src/core/Class.js"
   },
+  {
+    name: "Hamster.js",
+    github: "monospaced/hamster.js",
+    tags: ["mousewheel", "mouse", "wheel", "events"],
+    description: "A standalone JavaScript library for cross-browser mouse wheel support.",
+    url: "https://github.com/monospaced/hamster.js",
+    source: "http://monospaced.github.io/hamster.js/hamster.js"
+  }
 ];
