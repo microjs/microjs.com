@@ -853,15 +853,14 @@
 
   search()
   $ineed.style.display = ''
+  $ineedText.focus()
+  window.setTimeout(hideopt,10)
 
 })() : render(MicroJS) // fallback for old browsers, you don't deserve the sweetness!
 
 })();
 
-document.getElementById('ineed_text').focus();
-document.getElementById('ineed_select').style.display = 'none';
-
-  </script>
+</script>
 
 <script>
   var _gauges = _gauges || [];
