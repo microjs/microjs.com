@@ -2672,5 +2672,19 @@ var MicroJS = [
     description: "A spinning activity indicator. An animated CSS3 loading spinner.",
     url: "http://fgnass.github.io/spin.js/",
     source: "https://raw.github.com/fgnass/spin.js/gh-pages/dist/spin.js"
+  },
+  {
+    name: "Graph",
+    tags: ["traversing", "graph"],
+    description: "Provides jQuery-like functionality for graph structures in JavaScript.",
+    url: "https://github.com/ryansmith94/Graph",
+    source: "https://raw.github.com/ryansmith94/Graph/master/src/core.js"
+  },
+  {
+    name: "Scorebook",
+    tags: ["cricket", "scoring"],
+    description: "A JavaScript library for cricket scoring.",
+    url: "https://github.com/ryansmith94/Scorebook",
+    source: "https://raw.github.com/ryansmith94/Scorebook/master/src/core.js"
   }
 ];
