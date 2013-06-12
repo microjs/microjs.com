@@ -2565,4 +2565,11 @@ var MicroJS = [
     url: "https://github.com/brehaut/color-js/",
     source: "https://raw.github.com/brehaut/color-js/master/color.js"
   },
+  {
+    name: "ScriptInclude",
+    tags: ["loader"],
+    description: "Simple includes in the browser.",
+    url: "https://github.com/EvanHahn/ScriptInclude",
+    source: "https://raw.github.com/EvanHahn/ScriptInclude/master/include.js"
+  }
 ];
