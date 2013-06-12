@@ -9,6 +9,14 @@
 
 var MicroJS = [
   {
+    name: "store",
+    github: "nbubna/store",
+    tags: ["localStorage", "sessionStorage", "JSON", "namespace", "API", "extensible"],
+    description: "A better API for using localStorage and sessionStorage.",
+    url: "https://github.com/nbubna/store",
+    source: "https://raw.github.com/nbubna/store/master/dist/store2.js"
+  },
+  {
     name: "sawkit-client",
     github: "cScarlson/sawkit-client",
     tags: ["websocket", "socket", "HTML5", "custom", "events", "emit", "emission", "on", "jquery"],

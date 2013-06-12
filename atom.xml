@@ -2888,5 +2888,13 @@
 		<summary>Build your own framework from scratch</summary>
 	</entry>
 
+	<entry>
+		<title>store</title>
+		<link href="https://github.com/nbubna/store" />
+		<id>urn:uuid:044677f0-d3b3-11e2-92d5-a5d3d5c4c949</id>
+		<updated>2013-06-12'T'22:53:36Z</updated>
+		<summary>A better way to use localStorage and sessionStorage.</summary>
+	</entry>
+
 
 </feed>
