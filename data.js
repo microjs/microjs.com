@@ -2498,6 +2498,7 @@ var MicroJS = [
     source: "https://raw.github.com/bjorkstam/animx/master/animx.js"
   },
   {
+<<<<<<< HEAD
     name: "LogJS",
     tags: ["logging", "CORS", "localStorage", "DOM"],
     description: "Lightweight, extendable JavaScript logging library.",
@@ -2539,5 +2540,13 @@ var MicroJS = [
     description: "A bit of sugar for defining JavaScript Objects and their Prototypes.",
     url: "https://github.com/smelnikov/defineObject",
     source: "https://raw.github.com/smelnikov/defineObject/master/defineObject.js"
-  }
+  },
+  {
+    name: "color.js",
+    github: "brehaut/color-js",
+    tags: ["color", "color manipulation"],
+    description: "API for immutable color objects in RGB, HSV and HSL with optional alpha. Comprehensive CSS format parsing and output.",
+    url: "https://github.com/brehaut/color-js/",
+    source: "https://raw.github.com/brehaut/color-js/master/color.js"
+  },
 ];
