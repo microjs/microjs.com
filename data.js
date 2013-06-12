@@ -2539,5 +2539,13 @@ var MicroJS = [
     description: "A bit of sugar for defining JavaScript Objects and their Prototypes.",
     url: "https://github.com/smelnikov/defineObject",
     source: "https://raw.github.com/smelnikov/defineObject/master/defineObject.js"
+  },
+  {
+    name: "cssanimevent",
+    github: "magnetikonline/cssanimevent",
+    tags: ["animation", "css3", "events", "polyfill", "transitions"],
+    description: "CSS3 animation and transition DOM event handler with a simple fallback pattern for unsupported browsers.",
+    url: "https://github.com/magnetikonline/cssanimevent",
+    source: "https://raw.github.com/magnetikonline/cssanimevent/master/cssanimevent.js"
   }
 ];
