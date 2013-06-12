@@ -34,7 +34,7 @@ var MicroJS = [
   },
   {
     name: "remove.js",
-    github: "scrapmac/snippets/tree/master/remove.js",
+    github: "scrapmac/snippets",
     tags: ["string", "remove", "cleanup", "redundant", "gibberish", "trim"],
     description: "Small but powerful string cleanup and reduction library.",
     url: "https://github.com/scrapmac/snippets/tree/master/remove.js",
@@ -90,11 +90,11 @@ var MicroJS = [
   },
   {
     name: "Colors.js",
-    github: "matthewbj/Colors",
+    github: "mbjordan/Colors",
     tags: ["color", "color manipulation"],
     description: "Colors.js is an easy to use color-manipulation library that is lightweight and very functional.",
-    url: "http://matthewbj.github.io/Colors/",
-    source: "https://raw.github.com/matthewbj/Colors/master/colors.js"
+    url: "http://mbjordan.github.io/Colors/",
+    source: "https://raw.github.com/mbjordan/Colors/master/colors.js"
   },
   {
     name: "css-time.js",
@@ -122,11 +122,11 @@ var MicroJS = [
   },
   {
     name: "fx.js",
-    github: "AgileDiagnosis/Fx",
+    github: "agilemd/Fx",
     tags: ["animation", "animate", "CSS", "CSS3", "requestanimationframe", "animationframe", "transform", "hardware", "translate", "scale"],
     description: "A tiny, high performance, fully cross browser, dependency free animation library for the modern web.",
-    url: "https://github.com/AgileDiagnosis/Fx",
-    source: "https://raw.github.com/AgileDiagnosis/Fx/master/src/fx.js"
+    url: "https://github.com/agilemd/Fx",
+    source: "https://raw.github.com/agilemd/Fx/master/src/fx.js"
   },
   {
     name: "zoe.js",
@@ -547,8 +547,8 @@ var MicroJS = [
     name: "Weld",
     tags: ["templating"],
     description: "Completely unobtrusive, full featured template antimatter. Works in Node.js or the Browser, awesome built-in debugger.",
-    url: "http://github.com/hij1nx/weld",
-    source: "https://raw.github.com/hij1nx/weld/master/lib/weld.js"
+    url: "http://github.com/tmpvar/weld",
+    source: "https://raw.github.com/tmpvar/weld/master/lib/weld.js"
   },
   {
     name: "Mustache",
@@ -1863,8 +1863,8 @@ var MicroJS = [
     name: "bacon.js",
     tags: ["mobile" ],
     description: "Detects a mobile browser",
-    url: "https://github.com/tajjyarden/bacon.js",
-    source: "https://raw.github.com/tajjyarden/bacon.js/master/bacon.js"
+    url: "https://github.com/tgolen/bacon.js",
+    source: "https://raw.github.com/tgolen/bacon.js/master/bacon.js"
   },
   {
     name: "JSON 3",
