@@ -24,7 +24,15 @@ var MicroJS = [
     url: "https://github.com/cScarlson/SDB",
     source: "https://raw.github.com/cScarlson/SDB/master/SDB.js"
   },
-   {
+  {
+    name: "Miniscroll.js",
+    github: "rogerluiz/Miniscroll-JS",
+    tags: ["scrollbar", "touch", "desktop", "scroll"],
+    description: "A simple scrollbar for desktop and mobile application using javascript. ",
+    url: "https://github.com/rogerluiz/Miniscroll-JS",
+    source: "https://raw.github.com/rogerluiz/Miniscroll-JS/master/miniscroll.js"
+  },
+  {
     name: "ImageFlip.js",
     github: "erf/ImageFlip.js",
     tags: ["slideshow", "images", "gallery", "collage"],
@@ -2545,7 +2553,6 @@ var MicroJS = [
     source: "https://raw.github.com/bjorkstam/animx/master/animx.js"
   },
   {
-<<<<<<< HEAD
     name: "LogJS",
     tags: ["logging", "CORS", "localStorage", "DOM"],
     description: "Lightweight, extendable JavaScript logging library.",
