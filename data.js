@@ -2632,5 +2632,12 @@ var MicroJS = [
     description: "A standalone JavaScript library for cross-browser mouse wheel support.",
     url: "https://github.com/monospaced/hamster.js",
     source: "http://monospaced.github.io/hamster.js/hamster.js"
+  },
+  {
+    name: "spin.js",
+    tags: ["spinning", "indicator", "loading", "spinner"],
+    description: "A spinning activity indicator. An animated CSS3 loading spinner.",
+    url: "http://fgnass.github.io/spin.js/",
+    source: "https://raw.github.com/fgnass/spin.js/gh-pages/dist/spin.js"
   }
 ];
