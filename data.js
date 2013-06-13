@@ -2686,5 +2686,12 @@ var MicroJS = [
     description: "A JavaScript library for cricket scoring.",
     url: "https://github.com/ryansmith94/Scorebook",
     source: "https://raw.github.com/ryansmith94/Scorebook/master/src/core.js"
+  },
+  {
+    name: "Assert",
+    tags: ["testing"],
+    description: "A JavaScript micro-library that provides testing functionality.",
+    url: "https://github.com/ryansmith94/Assert",
+    source: "https://raw.github.com/ryansmith94/Assert/master/src/core.js"
   }
 ];
