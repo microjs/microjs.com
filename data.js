@@ -2686,5 +2686,13 @@ var MicroJS = [
     description: "A JavaScript library for cricket scoring.",
     url: "https://github.com/ryansmith94/Scorebook",
     source: "https://raw.github.com/ryansmith94/Scorebook/master/src/core.js"
+  },
+  {
+    name: "SVGEventListener",
+    github: "madsgraphics/SVGEventListener",
+    tags: ["svg", "events", "animation", "polyfill"],
+    description: "A polyfill for animate events on SVG on non-supported browsers, like webkit engines",
+    url: "https://github.com/madsgraphics/SVGEventListener",
+    source: "https://raw.github.com/madsgraphics/SVGEventListener/master/SVGEventListener.js"
   }
 ];
