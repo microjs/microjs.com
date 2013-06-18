@@ -2686,5 +2686,12 @@ var MicroJS = [
     description: "A JavaScript library for cricket scoring.",
     url: "https://github.com/ryansmith94/Scorebook",
     source: "https://raw.github.com/ryansmith94/Scorebook/master/src/core.js"
+  },
+  {
+    name: "chronology.js",
+    tags: ["undo", "redo", "history", "chronology"],
+    description: "A micro javascript library for managing an undo/redo history.",
+    url: "http://chronology.wout.co.uk",
+    source: "https://raw.github.com/wout/chronology.js/master/chronology.js"
   }
 ];
