@@ -2888,5 +2888,13 @@
 		<summary>Build your own framework from scratch</summary>
 	</entry>
 
+	<entry>
+		<title>DoubleMetaphone</title>
+		<link href="https://github.com/hgoebl/doublemetaphone" />
+		<id>urn:uuid:75cb5e00-d858-11e2-800b-4741063c1b17</id>
+		<updated>2013-06-18'T'20:48:18Z</updated>
+		<summary>Phonetically encode w/ DoubleMetaphone algorithm (&apos;Alexander&apos; -&gt; &apos;ALKS&apos;)</summary>
+	</entry>
+
 
 </feed>
