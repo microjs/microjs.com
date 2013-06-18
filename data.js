@@ -712,6 +712,7 @@ var MicroJS = [
     tags: ["templating"],
     description: "Spec-compatible (v1.1+λ) Mustache templating: written in CoffeeScript, runnable anywhere.",
     url: "https://github.com/pvande/Milk",
+    // version is current as of 18-JUN-2013, 2 years old
     source: "https://raw.github.com/pvande/Milk/master/dist/v1.2.0/milk.js"
     //source: "https://raw.github.com/pvande/Milk/master/milk.coffee"
   },
@@ -1053,6 +1054,7 @@ var MicroJS = [
     source: "https://raw.github.com/padolsey/satisfy/master/satisfy.js"
   },
   {
+    // can ignore "GitHub says: Not Found" (checked 18-JUN-2013)
     name: "jXHR",
     tags: ["json", "json-p", "xhr", "ajax", "cross-domain"],
     description: "JSON-P based cross-domain Ajax wrapped in the XHR API.",
@@ -1602,6 +1604,7 @@ var MicroJS = [
     tags: ["functional", "language", "data", "sugar"],
     description: "A small collection of utility functions to make working with JavaScript that much sweeter and more expressive.",
     url: "http://supplementjs.com",
+    // version is current as of 18-JUN-2013, 2 years old
     source: "https://raw.github.com/olivernn/supplement.js/master/dist/supplement-0.1.1.js"
   },
   {
@@ -1910,6 +1913,7 @@ var MicroJS = [
     tags: ["inputControl", "chars", "numbers"],
     description: "InputControl is a powerfull script to controlling own input text to accept specific chars or numbers.",
     url: "https://github.com/metalipower/inputControl",
+    // version is current as of 18-JUN-2013, 1 year old
     source: "https://raw.github.com/metalipower/inputControl/master/inputControl-1.0.js"
   },
   {
@@ -2686,5 +2690,12 @@ var MicroJS = [
     description: "A JavaScript library for cricket scoring.",
     url: "https://github.com/ryansmith94/Scorebook",
     source: "https://raw.github.com/ryansmith94/Scorebook/master/src/core.js"
+  },
+  {
+    name: "DoubleMetaphone",
+    tags: ["phonetic", "metaphone", "codec", "sounds", "like"],
+    description: "Phonetically encode w/ DoubleMetaphone algorithm ('Alexander' -> 'ALKS')",
+    url: "https://github.com/hgoebl/doublemetaphone",
+    source: "https://raw.github.com/hgoebl/doublemetaphone/master/doublemetaphone.js"
   }
 ];
