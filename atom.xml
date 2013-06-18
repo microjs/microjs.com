@@ -2888,5 +2888,13 @@
 		<summary>Build your own framework from scratch</summary>
 	</entry>
 
+	<entry>
+		<title>chronology.js</title>
+		<link href="http://chronology.wout.co.uk" />
+		<id>urn:uuid:4a306800-d7f2-11e2-829c-ef996d6f21ef</id>
+		<updated>2013-06-18'T'08:36:56Z</updated>
+		<summary>A micro javascript library for managing an undo/redo history.</summary>
+	</entry>
+
 
 </feed>
