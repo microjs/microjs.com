@@ -9,13 +9,21 @@
 
 var MicroJS = [
   {
+    name: "Oboe.js",
+    github: "jimhigson/oboe.js",
+    tags: ["ajax", "streaming", "download", "json", "parser", "sax", "jsonpath", "http"],
+    description: "Library for progressive parsing of ajax responses. Provides notification of objects found without waiting for the request to complete.",
+    url: "https://github.com/jimhigson/oboe.js",
+    source: "https://raw.github.com/jimhigson/oboe.js/master/dist/oboe.js"
+  },   
+  {
     name: "sawkit-client",
     github: "cScarlson/sawkit-client",
     tags: ["websocket", "socket", "HTML5", "custom", "events", "emit", "emission", "on", "jquery"],
     description: "A non-intrusive Facade Pattern on the HTML5 WebSocket API which allows for: custom event-emissions, custom event-listeners, and binary sending - all in a chainable, jQuery-LIKE way.",
     url: "https://github.com/cScarlson/sawkit-client",
     source: "https://raw.github.com/cScarlson/sawkit-client/master/$ws.js"
-  },
+  }, 
   {
     name: "SDB.js",
     github: "cScarlson/SDB",
