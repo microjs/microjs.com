@@ -12,7 +12,7 @@ var MicroJS = [
     name: "Oboe.js",
     github: "jimhigson/oboe.js",
     tags: ["ajax", "streaming", "download", "json", "parser", "sax", "jsonpath", "http"],
-    description: "Progressive parser allowing the use of downloaded json objects while the ajax request is still ongoing.",
+    description: "Library for progressive parsing of ajax responses. Provides notification of objects found without waiting for the request to complete.",
     url: "https://github.com/jimhigson/oboe.js",
     source: "https://raw.github.com/jimhigson/oboe.js/master/dist/oboe.js"
   },   
