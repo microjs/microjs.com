@@ -11,10 +11,10 @@ var MicroJS = [
   {
     name: "attach.js",
     github: "nicbell/attach.js",
-    tags: ["DOM", "instantiation", "attach", "javascript"],
+    tags: ["dom", "instantiation", "attach", "javascript"],
     description: "A DOM instantiation API designed to tidy up and encapsulate attaching JavaScript to the page.",
     url: "http://nicbell.github.io/attach.js/",
-    source: "https://github.com/nicbell/attach.js/blob/master/attach.js"
+    source: "https://raw.github.com/nicbell/attach.js/master/attach.js"
   },
   {
     name: "sawkit-client",
