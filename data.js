@@ -2686,5 +2686,12 @@ var MicroJS = [
     description: "A JavaScript library for cricket scoring.",
     url: "https://github.com/ryansmith94/Scorebook",
     source: "https://raw.github.com/ryansmith94/Scorebook/master/src/core.js"
+  },
+  {
+    name: "Commuinst",
+    tags: ["worker", "parallel"],
+    description: "Web workers, but easy.",
+    url: "https://github.com/calvinmetcalf/communist",
+    source: "https://raw.github.com/calvinmetcalf/communist/master/dist/communist.js"
   }
 ];
