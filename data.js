@@ -9,6 +9,14 @@
 
 var MicroJS = [
   {
+    name: "loglevel",
+    github: "pimterry/loglevel",
+    tags: ["log", "logging", "console"],
+    description: "Minimal lightweight logging for JavaScript, adding reliable log level methods to wrap any available console.log methods",
+    url: "https://github.com/pimterry/loglevel",
+    source: "https://raw.github.com/pimterry/loglevel/master/dist/loglevel.js"
+  },
+  {
     name: "sawkit-client",
     github: "cScarlson/sawkit-client",
     tags: ["websocket", "socket", "HTML5", "custom", "events", "emit", "emission", "on", "jquery"],
