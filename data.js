@@ -13,7 +13,7 @@ var MicroJS = [
     github: "johnrobinsn/goo.js",
     tags: ["HTML5", "canvas"],
     description: "Microlibrary that makes it quick and easy to draw using the HTML5 Canvas API/",
-    url: "https://github.com/johnrobinsn/goo.js",
+    url: "http://www.storminthecastle.com/projects/goo.js/",
     source: "https://raw.github.com/johnrobinsn/goo.js/master/src/goo.js"
   },  
   {
