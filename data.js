@@ -1860,6 +1860,13 @@ var MicroJS = [
     source: "https://raw.github.com/avoidwork/csv.js/master/lib/csv.js"
   },
   {
+    name: "assure.js",
+    tags: ["promises", "promise", "deferred", "deferreds", "aynchronous", "async"],
+    description: "Promises/A+ micro library to help with asynchronous work flow.",
+    url: "https://github.com/avoidwork/assure",
+    source: "https://raw.github.com/avoidwork/assure/master/lib/assure.js"
+  },
+  {
     name: "bacon.js",
     tags: ["mobile" ],
     description: "Detects a mobile browser",
