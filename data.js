@@ -2686,5 +2686,12 @@ var MicroJS = [
     description: "A JavaScript library for cricket scoring.",
     url: "https://github.com/ryansmith94/Scorebook",
     source: "https://raw.github.com/ryansmith94/Scorebook/master/src/core.js"
+  },
+  {
+    name: "civem.js",
+    tags: ["html5", "input", "validation"],
+    description: "Custom error messages for HTML5 form validation.",
+    url: "https://github.com/javanto/civem.js",
+    source: "https://raw.github.com/javanto/civem.js/master/src/civem.js"
   }
 ];
