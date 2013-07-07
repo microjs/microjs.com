@@ -370,6 +370,14 @@ var MicroJS = [
     source: "https://raw.github.com/ctult/TinyDOM/master/tinyDOM.js"
   },
   {
+    name: "DOMpteur",
+    github: "SimonWaldherr/DOMpteur",
+    tags: ["dom", "ready", "html", "getElement", "selector"],
+    description: "play with the Document Object Model (DOM) tree - change and insert Elements.",
+    url: "https://github.com/SimonWaldherr/DOMpteur",
+    source: "https://raw.github.com/SimonWaldherr/DOMpteur/master/DOMpteur.js"
+  },
+  {
     name: "cssFx",
     tags: ["css", "css3", "polyfill"],
     description: "Standalone polyfill that inserts the vendor-specific CSS3 properties necessary for old and new browsers.",
