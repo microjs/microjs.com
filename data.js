@@ -2693,5 +2693,12 @@ var MicroJS = [
     description: "A JavaScript micro-library that provides testing functionality.",
     url: "https://github.com/ryansmith94/Assert",
     source: "https://raw.github.com/ryansmith94/Assert/master/src/core.js"
+  },
+  {
+    name: "Pledges",
+    tags: ["promise", "pledge"],
+    description: "A JavaScript micro-library that provides promise functionality.",
+    url: "https://github.com/ryansmith94/Pledges",
+    source: "https://raw.github.com/ryansmith94/Pledges/master/src/core.js"
   }
 ];
