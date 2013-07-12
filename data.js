@@ -1052,6 +1052,7 @@ var MicroJS = [
     url: "https://github.com/padolsey/satisfy",
     source: "https://raw.github.com/padolsey/satisfy/master/satisfy.js"
   },
+  /* The gist was removed. It doesn't seem to be maintained
   {
     name: "jXHR",
     tags: ["json", "json-p", "xhr", "ajax", "cross-domain"],
@@ -1059,6 +1060,7 @@ var MicroJS = [
     url: "https://gist.github.com/marianoviola/1576277",
     source: "https://gist.github.com/marianoviola/1576277/raw/05536a8277e43da988863950a64fe88978f9d4d1/jXHR.js"
   },
+  */
   {
     name: "Ekho",
     tags: ["events"],
