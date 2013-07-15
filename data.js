@@ -1489,7 +1489,7 @@ var MicroJS = [
   },
   {
     name: "tinyOSF.js",
-    tags: ["osf", "markup", "parser", "html", "shownotes"],
+    tags: ["osf", "markup", "parser", "html", "shownotes", "mp4chaps", "podcast"],
     description: "a few lines of code to convert OSF to HTML.",
     url: "https://github.com/simonwaldherr/tinyOSF.js",
     source: ["https://raw.github.com/simonwaldherr/tinyOSF.js/master/tinyosf.js", "https://raw.github.com/SimonWaldherr/tinyOSF.js/master/tinyosf_exportmodules.js"]
