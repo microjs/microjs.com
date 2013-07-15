@@ -9,6 +9,70 @@
 
 var MicroJS = [
   {
+    name: "sawkit-client",
+    github: "cScarlson/sawkit-client",
+    tags: ["websocket", "socket", "HTML5", "custom", "events", "emit", "emission", "on", "jquery"],
+    description: "A non-intrusive Facade Pattern on the HTML5 WebSocket API which allows for: custom event-emissions, custom event-listeners, and binary sending - all in a chainable, jQuery-LIKE way.",
+    url: "https://github.com/cScarlson/sawkit-client",
+    source: "https://raw.github.com/cScarlson/sawkit-client/master/$ws.js"
+  },
+  {
+    name: "SDB.js",
+    github: "cScarlson/SDB",
+    tags: ["IndexedDB", "database", "object", "store", "localStorage"],
+    description: "A Facade Pattern on the HTML5 IndexedDB API.",
+    url: "https://github.com/cScarlson/SDB",
+    source: "https://raw.github.com/cScarlson/SDB/master/SDB.js"
+  },
+  {
+    name: "Miniscroll.js",
+    github: "rogerluiz/Miniscroll-JS",
+    tags: ["scrollbar", "touch", "desktop", "scroll"],
+    description: "A simple scrollbar for desktop and mobile application using javascript. ",
+    url: "https://github.com/rogerluiz/Miniscroll-JS",
+    source: "https://raw.github.com/rogerluiz/Miniscroll-JS/master/miniscroll.js"
+  },
+  {
+    name: "remove.js",
+    github: "scrapmac/snippets",
+    tags: ["string", "remove", "cleanup", "redundant", "gibberish", "trim"],
+    description: "Small but powerful string cleanup and reduction library.",
+    url: "https://github.com/scrapmac/snippets/tree/master/remove.js",
+    source: "https://github.com/scrapmac/snippets/raw/master/remove.js/remove.js"
+  },
+  {
+    name: "ImageFlip.js",
+    github: "erf/ImageFlip.js",
+    tags: ["slideshow", "images", "gallery", "collage"],
+    description: "Minimalistic slideshow library.",
+    url: "https://github.com/erf/ImageFlip.js",
+    source: "https://raw.github.com/erf/ImageFlip.js/master/imageflip.js"
+  },
+  {
+    name: "safemap.js",
+    github: "philbooth/safemap.js",
+    tags: ["map", "dictionary", "associative array", "data structure"],
+    description: "A tiny, safe, ES3-compliant map/dictionary implementation.",
+    url: "https://github.com/philbooth/safemap.js",
+    source: "https://raw.github.com/philbooth/safemap.js/master/src/safemap.js"
+  },
+  {
+    name: "OneDollar.js",
+    github: "voidplus/onedollar-coffeescript",
+    tags: ["gesture", "recognition", "recognizer", "multitouch", "interactive", "input", "jquery"],
+    description: "A JavaScript implementation of the &dollar;1 Gesture Recognizer, a two-dimensional template based gesture recognition",
+    url: "https://github.com/voidplus/onedollar-coffeescript",
+    source: "https://raw.github.com/voidplus/onedollar-coffeescript/master/lib/onedollar.js"
+  },
+  {
+    name: "LocalDB.js",
+    github: "Agnostic/LocalDB.js",
+    tags: ["nosql", "ODM", "mongo", "json", "database", "web applications", "localStorage"],
+    description: "LocalDB.js is a tool that maps the structure of the databases in objects using the localStorage API, no database drivers are required, just add the library and use it!",
+    url: "http://agnostic.github.io/LocalDB.js",
+    source: "https://raw.github.com/Agnostic/LocalDB.js/master/src/LocalDB.js"
+  },
+  {
     name: "Countable",
     github: "RadLikeWhoa/Countable",
     tags: ["paragraphs", "words", "characters", "counting", "live", "text"],
@@ -17,12 +81,20 @@ var MicroJS = [
     source: "https://raw.github.com/RadLikeWhoa/Countable/master/Countable.js"
   },
   {
+    name: "iugo.js",
+    github: "chrismichaelscott/iugo",
+    tags: ["MVVC", "data binding", "template"],
+    description: "An extremely lightweight one-way data-binding tool without the bloat of a full framework. Makes separating markup from content easy.",
+    url: "http://iugojs.com",
+    source: "https://raw.github.com/chrismichaelscott/iugo/master/iugo.js"
+  },
+  {
     name: "Colors.js",
-    github: "matthewbj/Colors",
+    github: "mbjordan/Colors",
     tags: ["color", "color manipulation"],
     description: "Colors.js is an easy to use color-manipulation library that is lightweight and very functional.",
-    url: "http://matthewbj.github.io/Colors/",
-    source: "https://raw.github.com/matthewbj/Colors/master/colors.js"
+    url: "http://mbjordan.github.io/Colors/",
+    source: "https://raw.github.com/mbjordan/Colors/master/colors.js"
   },
   {
     name: "css-time.js",
@@ -50,11 +122,11 @@ var MicroJS = [
   },
   {
     name: "fx.js",
-    github: "AgileDiagnosis/Fx",
+    github: "agilemd/Fx",
     tags: ["animation", "animate", "CSS", "CSS3", "requestanimationframe", "animationframe", "transform", "hardware", "translate", "scale"],
     description: "A tiny, high performance, fully cross browser, dependency free animation library for the modern web.",
-    url: "https://github.com/AgileDiagnosis/Fx",
-    source: "https://raw.github.com/AgileDiagnosis/Fx/master/src/fx.js"
+    url: "https://github.com/agilemd/Fx",
+    source: "https://raw.github.com/agilemd/Fx/master/src/fx.js"
   },
   {
     name: "zoe.js",
@@ -80,6 +152,7 @@ var MicroJS = [
     url: "https://github.com/fabien-d/alertify.js",
     source: "https://raw.github.com/fabien-d/alertify.js/master/dist/alertify.js"
   },
+  /* gzipped file too big, 7.4 kB is not "micro"
   {
     name: "svg.js",
     github: "wout/svg.js",
@@ -88,6 +161,7 @@ var MicroJS = [
     url: "https://github.com/wout/svg.js",
     source: "https://raw.github.com/wout/svg.js/master/dist/svg.js"
   },
+  */
   {
     name: "isMobile",
     github: "kaimallea/isMobile",
@@ -189,8 +263,8 @@ var MicroJS = [
   {
     name: "disTime.js",
     github: "SimonWaldherr/disTime.js",
-    tags: ["time", "date", "dates", "times", "language"],
-    description: "converts and updates UNIX-Timestamps to strings like ' 5 days ago ' in three languages (en, de, it)",
+    tags: ["time", "date", "dates", "times", "language", "ago"],
+    description: "converts and updates UNIX-Timestamps to strings like ' 5 days ago ' in six languages (en, de, it, es, fr, pt)",
     url: "https://github.com/SimonWaldherr/disTime.js",
     source: "https://raw.github.com/SimonWaldherr/disTime.js/master/disTime.js"
   },
@@ -242,7 +316,7 @@ var MicroJS = [
     tags: ["framework", "mvc", "events", "command", "observer"],
     description: "Javascript mvc framework that help developers write loosely-coupled applications to increase scalability and maintainability.",
     url: "http://somajs.github.io/somajs/",
-    source: "http://somajs.github.io/somajs/examples/native/framework/src/soma.js"
+    source: "https://raw.github.com/somajs/somajs/master/build/soma.js"
   },
   {
     name: "Minion",
@@ -265,6 +339,7 @@ var MicroJS = [
     url: "https://github.com/One-com/one-color",
     source: "https://raw.github.com/One-com/one-color/master/one-color-debug.js"
   },
+  /* gzipped file too big, 5.9 kB is not "micro"
   {
     name: "Validation",
     tags: ["validation", "testing"],
@@ -272,6 +347,7 @@ var MicroJS = [
     url: "https://github.com/One-com/one-validation",
     source: "https://raw.github.com/One-com/one-validation/master/validation.js"
   },
+  */
   {
     name: "Histogram",
     tags: ["canvas", "color"],
@@ -334,6 +410,13 @@ var MicroJS = [
     description: "Async flow control micro library for node and browser.",
     url: "https://github.com/jeromeetienne/gowiththeflow.js",
     source: "https://raw.github.com/jeromeetienne/gowiththeflow.js/master/gowiththeflow.js"
+  },
+  {
+    name: "creatorpattern.js",
+    tags: ["pattern", "creator", "node", "browser"],
+    description: "Micro library to easily add the creator pattern to your class.",
+    url: "https://github.com/jeromeetienne/creatorpattern.js",
+    source: "https://raw.github.com/jeromeetienne/creatorpattern.js/master/creatorpattern.js"
   },
   /* Too big, 5.5kb
   {
@@ -401,7 +484,10 @@ var MicroJS = [
     tags: ["server", "pubsub", "events", "base"],
     description: "Transfer data objects from server to javascript on page load",
     url: "https://github.com/thanpolas/server2js",
-    source: "https://github.com/thanpolas/server2js/raw/master/source/server2.js"
+    source: ["https://raw.github.com/thanpolas/server2js/master/src/server2.js",
+             "https://raw.github.com/thanpolas/server2js/master/src/server2js.export.js",
+             "https://raw.github.com/thanpolas/server2js/master/lib/goog.string.js",
+             "https://raw.github.com/thanpolas/server2js/master/lib/server2js.node.js"]
   },
   {
     name: "ready.js",
@@ -422,7 +508,7 @@ var MicroJS = [
     tags: ["feature"],
     description: "Detects native CSS3 and HTML5 features available in the current browser.",
     url: "http://www.modernizr.com/",
-    source: "https://raw.github.com/Modernizr/Modernizr/master/modernizr.js"
+    source: "http://modernizr.com/downloads/modernizr-latest.js"
   },
   {
     name: "Zepto",
@@ -437,8 +523,9 @@ var MicroJS = [
     tags: ["base", "dom", "mobile", "ajax", "events", "webkit", "animation"],
     description: "DOM library for authoring HTML5 mobile web applications, works cross-device and cross-platform.",
     url: "http://xuijs.com",
-    // TODO: multiple editions - needs better handling
-    source: "http://xuijs.com/downloads/xui-2.3.2.js"
+    source: ["https://raw.github.com/xui/xui/master/src/header.js",
+             "https://raw.github.com/xui/xui/master/src/base.js",
+             "https://raw.github.com/xui/xui/master/src/footer.js"]
   },
   {
     name: "Underscore",
@@ -460,8 +547,8 @@ var MicroJS = [
     name: "Weld",
     tags: ["templating"],
     description: "Completely unobtrusive, full featured template antimatter. Works in Node.js or the Browser, awesome built-in debugger.",
-    url: "http://github.com/hij1nx/weld",
-    source: "https://raw.github.com/hij1nx/weld/master/lib/weld.js"
+    url: "http://github.com/tmpvar/weld",
+    source: "https://raw.github.com/tmpvar/weld/master/lib/weld.js"
   },
   {
     name: "Mustache",
@@ -522,7 +609,7 @@ var MicroJS = [
     tags: ["data", "storage", "webkit", "mobile"],
     description: "Client side JSON document store. Perfect for WebKit mobile apps.",
     url: "http://brian.io/lawnchair/",
-    source: "http://brian.io/lawnchair/downloads/lawnchair-0.6.1.js"
+    source: "https://raw.github.com/brianleroux/lawnchair/master/src/Lawnchair.js"
   },
   /* Too Big 7kb
   {
@@ -540,6 +627,7 @@ var MicroJS = [
     url: "https://github.com/NV/placeholder.js",
     source: "http://nv.github.io/placeholder.js/placeholder.js"
   },
+  /* N/A
   {
     name: "Micro-Templating",
     tags: ["templating"],
@@ -547,6 +635,7 @@ var MicroJS = [
     url: "http://ejohn.org/blog/javascript-micro-templating/",
     source: "http://www.manning.com/resig/JavaScriptNinjaSourceCode.zip!/code/07/11.js"
   },
+  */
   {
     name: "Transparency.js",
     tags: ["templating"],
@@ -574,7 +663,7 @@ var MicroJS = [
     tags: ["animation", "webkit"],
     description: "Animation library that uses CSS transforms and transitions to create smooth, hardware-accelerated animations.",
     url: "http://extralogical.net/projects/firmin/",
-    source: "http://extralogical.net/projects/firmin/downloads/firmin-1.0.0.js"
+    source: "https://raw.github.com/beastaugh/firmin/master/src/firmin.js"
   },
   {
     name: "Bonzo",
@@ -624,6 +713,7 @@ var MicroJS = [
     description: "Spec-compatible (v1.1+λ) Mustache templating: written in CoffeeScript, runnable anywhere.",
     url: "https://github.com/pvande/Milk",
     source: "https://raw.github.com/pvande/Milk/master/dist/v1.2.0/milk.js"
+    //source: "https://raw.github.com/pvande/Milk/master/milk.coffee"
   },
   {
     name: "Director",
@@ -652,8 +742,9 @@ var MicroJS = [
     tags: ["templating"],
     description: "Mold is a templating library.",
     url: "http://marijnhaverbeke.nl/mold/",
-    source: "http://marijnhaverbeke.nl/mold/mold.js"
+    source: "https://raw.github.com/marijnh/mold/master/mold.js"
   },
+  /* gzipped file too big, 5.1 kB is not "micro"
   {
     name: "Tempo",
     tags: ["templating"],
@@ -661,12 +752,21 @@ var MicroJS = [
     url: "http://twigkit.github.io/tempo/",
     source: "https://raw.github.com/twigkit/tempo/master/tempo.js"
   },
+  */
   {
     name: "Reqwest",
     tags: ["ajax"],
     description: "Robust wrapper for asynchronous http requests.",
     url: "https://github.com/ded/Reqwest",
     source: "https://raw.github.com/ded/Reqwest/master/reqwest.js"
+  },
+  {
+    name: "majaX.js",
+    github: "SimonWaldherr/majaX.js",
+    tags: ["ajax", "http", "xml", "csv", "json", "binary", "api"],
+    description: "make AJAX Requests and get (parsed) values (and headers).",
+    url: "https://github.com/SimonWaldherr/majaX.js",
+    source: "https://raw.github.com/SimonWaldherr/majaX.js/master/majax.js"
   },
   {
     name: "JSON2",
@@ -687,7 +787,7 @@ var MicroJS = [
     tags: ["templating"],
     description: "Simple & powerful client-side templating for jQuery or Zepto.js.",
     url: "http://icanhazjs.com/",
-    source: "https://raw.github.com/andyet/ICanHaz.js/master/ICanHaz.js"
+    source: "https://raw.github.com/HenrikJoreteg/ICanHaz.js/master/ICanHaz.js"
   },
   {
     name: "Q",
@@ -952,15 +1052,13 @@ var MicroJS = [
     url: "https://github.com/padolsey/satisfy",
     source: "https://raw.github.com/padolsey/satisfy/master/satisfy.js"
   },
-  /* domain gone
   {
     name: "jXHR",
     tags: ["json", "json-p", "xhr", "ajax", "cross-domain"],
     description: "JSON-P based cross-domain Ajax wrapped in the XHR API.",
-    url: "http://mulletxhr.com/",
-    source: "http://mulletxhr.com/jXHR-0.1.zip!/jXHR.js"
+    url: "https://gist.github.com/marianoviola/1576277",
+    source: "https://gist.github.com/marianoviola/1576277/raw/05536a8277e43da988863950a64fe88978f9d4d1/jXHR.js"
   },
-  */
   {
     name: "Ekho",
     tags: ["events"],
@@ -1012,6 +1110,7 @@ var MicroJS = [
   },
   {
     name: "Augment.js",
+    github: "olivernn/augment.js",
     tags: ["polyfill"],
     description: "Enables use of modern JavaScript by augmenting built in objects with the latest JavaScript methods.",
     url: "http://augmentjs.com",
@@ -1036,14 +1135,14 @@ var MicroJS = [
     tags: ["loader", "commonjs"],
     description: "A CommonJS-like script/module loader.",
     url: "https://github.com/jiem/my-common",
-    source: "http://myjs.fr/my-common/my.common.js"
+    source: "https://raw.github.com/jiem/my-common/master/my.common.js"
   },
   {
     name: "my.class.js",
     tags: ["language", "class"],
     description: "Probably the fastest JS class system. No wrappers.",
     url: "https://github.com/jiem/my-class",
-    source: "http://myjs.fr/my-class/my.class.js"
+    source: "https://raw.github.com/jiem/my-class/master/my.class.js"
   },
   {
     name: "Class.js",
@@ -1125,7 +1224,7 @@ var MicroJS = [
   {
     name: "nut",
     tags: ["css"],
-    description: "The concise CSS selector engine",
+    description: "A concise CSS selector engine",
     url: "https://github.com/pyrsmk/nut",
     source: "https://raw.github.com/pyrsmk/nut/master/src/nut.js"
   },
@@ -1139,23 +1238,40 @@ var MicroJS = [
   {
     name: "W",
     tags: ["responsive"],
-    description: "Width management tool for responsive designs",
+    description: "Width management tool for responsive designers",
     url: "https://github.com/pyrsmk/W",
     source: "https://raw.github.com/pyrsmk/W/master/src/W.js"
   },
   {
     name: "toast",
     tags: ["loader"],
-    description: "A tiny and powerful resource loader",
+    description: "A simple CSS and JS resource loader",
     url: "https://github.com/pyrsmk/toast",
     source: "https://raw.github.com/pyrsmk/toast/master/src/toast.js"
   },
   {
     name: "mediatizr",
     tags: ["polyfill", "responsive"],
-    description: "Adds media queries support to incapable browsers",
+    description: "A media queries polyfill",
     url: "https://github.com/pyrsmk/mediatizr",
     source: "https://raw.github.com/pyrsmk/mediatizr/master/src/mediatizr.js"
+  },
+  {
+    name: "qwest",
+    tags: ["ajax"],
+    description: "Ajax library with promises and XHR2 support",
+    url: "https://github.com/pyrsmk/qwest",
+    source: "https://raw.github.com/pyrsmk/qwest/master/src/qwest.js"
+  },
+  {
+    name: "quark",
+    tags: ["base"],
+    description: "Build your own framework from scratch",
+    url: "https://github.com/pyrsmk/quark",
+    source: [
+       "https://raw.github.com/pyrsmk/quark/master/src/quark.js",
+       "https://raw.github.com/pyrsmk/quark/master/src/starter.js"
+    ]
   },
   {
     name: "DragDrop",
@@ -1167,7 +1283,7 @@ var MicroJS = [
   {
     name: "Jaml",
     tags: ["templating"],
-    description: "Jaml tries to emulate Ruby’s Haml library, making it easy to generate HTML in your JavaScript projects.",
+    description: "Jaml tries to emulate Ruby's Haml library, making it easy to generate HTML in your JavaScript projects.",
     url: "http://edspencer.github.io/jaml/",
     source: "https://raw.github.com/edspencer/jaml/master/Jaml-all.js"
   },
@@ -1279,15 +1395,13 @@ var MicroJS = [
     url: "http://tinyjs.sourceforge.net/tiny.js",
     source: "http://tinyjs.sourceforge.net/tiny.js"
   },
-  /* Gone
   {
     name:"Vine",
     tags:["events"],
     description:"An events library that supports binding, unbinding, and triggering events on DOM elements or JavaScript Objects",
-    url:"https://github.com/arexkun/Vine",
-    source:"https://raw.github.com/arexkun/Vine/master/vine.js"
+    url:"https://github.com/arextar/Vine",
+    source:"https://raw.github.com/arextar/Vine/master/vine.js"
   },
-  */
   {
     name: "micro-selector",
     tags: ["css"],
@@ -1301,6 +1415,13 @@ var MicroJS = [
     description: "Canvas based image manipulation library",
     url: "https://github.com/OiNutter/Obscura",
     source: "https://raw.github.com/OiNutter/Obscura/master/dist/obscura.js"
+  },
+  {
+    name: "imgResize.js",
+    tags: ["canvas", "image", "manipulation", "resize"],
+    description: "Resize images in a Canvas based on edge detection.",
+    url: "https://github.com/SimonWaldherr/imgResize.js",
+    source: "https://raw.github.com/SimonWaldherr/imgResize.js/master/imgresize.js"
   },
   {
     name: "Shifty",
@@ -1358,7 +1479,10 @@ var MicroJS = [
     tags: ["animation", "jsanimation"],
     description: "A JavaScript work-around for hardware accelerated CSS3 transitions with custom easing functions.",
     url: "https://github.com/joelambert/morf",
-    source: "http://www.joelambert.co.uk/morf/js/morf.js"
+    source: ["https://raw.github.com/joelambert/morf/master/js/src/morf.js",
+             "https://raw.github.com/joelambert/morf/master/js/src/morf.utils.js",
+             "https://raw.github.com/joelambert/morf/master/js/src/WebkitCSSMatrix.ext.js",
+             "https://raw.github.com/joelambert/morf/master/js/src/shifty.fn.scripty2.js"]
   },
   {
     name: "typogr.js",
@@ -1422,7 +1546,7 @@ var MicroJS = [
     tags: ["events" ],
     description: "General purpose event triggering",
     url: "https://github.com/tmcw/happen",
-    source: "https://raw.github.com/tmcw/happen/master/src/happen.js"
+    source: "https://raw.github.com/tmcw/happen/master/happen.js"
   },
   {
     name: "zest",
@@ -1559,6 +1683,14 @@ var MicroJS = [
     source: "https://raw.github.com/flosse/scaleApp/master/dist/scaleApp.js"
   },
   {
+    name: "Choona.js",
+    github: "nsisodiya/choona.js",
+    tags: ["pubsub", "modular", "scalable", "sandbox", "spa", "architecture"],
+    description: "Choona.js is a tiny JavaScript framework for scalable , modular architecture for one-page-applications",
+    url: "https://github.com/nsisodiya/choona.js",
+    source: "https://raw.github.com/nsisodiya/choona.js/master/choona.js"
+  },
+  {
     name: "Humane JS",
     tags: ["notification", "alert"],
     description: "A simple, modern, browser notification system",
@@ -1674,8 +1806,8 @@ var MicroJS = [
     name: "Smoke Signals",
     tags: ["events" ],
     description: "Really, really lightweight event emitting",
-    url: "https://github.com/bentomas/smokesignals",
-    source: "https://raw.github.com/bentomas/smokesignals/master/smokesignals.js"
+    url: "https://bitbucket.org/bentomas/smokesignals.js",
+    source: "https://bitbucket.org/bentomas/smokesignals.js/raw/master/smokesignals.unminified.js"
   },
   {
     name: "CSSClass",
@@ -1706,6 +1838,14 @@ var MicroJS = [
     source: "https://raw.github.com/keithamus/jwerty/master/jwerty.js"
   },
   {
+    name: "konami.js",
+    github: "SimonWaldherr/konami.js",
+    tags: ["events", "input", "bind", "keypress"],
+    description: "logs every keypress and store it for later",
+    url: "https://github.com/SimonWaldherr/konami.js",
+    source: "https://raw.github.com/SimonWaldherr/konami.js/master/konami.js"
+  },
+  {
     name: "filesize.js",
     tags: ["math", "language", "amd"],
     description: "JavaScript library to generate a human readable String describing the filesize",
@@ -1713,11 +1853,18 @@ var MicroJS = [
     source: "https://raw.github.com/avoidwork/filesize.js/master/lib/filesize.js"
   },
   {
+    name: "csv.js",
+    tags: ["csv", "json", "array", "object", "encode", "transform"],
+    description: "Convert JSON, Arrays or Objects to CSV",
+    url: "https://github.com/avoidwork/csv.js",
+    source: "https://raw.github.com/avoidwork/csv.js/master/lib/csv.js"
+  },
+  {
     name: "bacon.js",
     tags: ["mobile" ],
     description: "Detects a mobile browser",
-    url: "https://github.com/tajjyarden/bacon.js",
-    source: "https://raw.github.com/tajjyarden/bacon.js/master/bacon.js"
+    url: "https://github.com/tgolen/bacon.js",
+    source: "https://raw.github.com/tgolen/bacon.js/master/bacon.js"
   },
   {
     name: "JSON 3",
@@ -1734,13 +1881,16 @@ var MicroJS = [
     url: "https://github.com/stackp/promisejs",
     source: "https://raw.github.com/stackp/promisejs/master/promise.js"
   },
+  /* gzipped file too big, 5.3 kB is not "micro"
   {
     name: "Moment.js",
+    github: "timrwood/moment",
     tags: ["date"],
     description: "Parse, manipulate, and format dates.",
     url: "http://momentjs.com/",
     source: "https://raw.github.com/timrwood/moment/master/moment.js"
   },
+  */
   {
     name: "swiftcore.js",
     tags: ["IOC", "dependency injection", "microkernel"],
@@ -1828,9 +1978,9 @@ var MicroJS = [
   {
     name: "lostorage.js",
     tags: ["storage", "localStorage", "sessionStorage"],
-    description: "Client-side storage the way it should be – using the HTML5 localStorage API. lostorage.js allows you to save any kind of data.",
+    description: "Client-side storage the way it should be - using the HTML5 localStorage API. lostorage.js allows you to save any kind of data.",
     url: "https://github.com/js-coder/lostorage.js",
-    source: "https://raw.github.com/js-coder/lostorage.js/master/lostorage.js"
+    source: "https://raw.github.com/js-coder/loStorage.js/master/src/loStorage.js"
   },
   {
     name: "guggenheim.js",
@@ -1845,23 +1995,23 @@ var MicroJS = [
     tags: ["events"],
     description: "Event Emitter Class for the browser based on NodeJS EventEmitter",
     url: "https://github.com/pazguille/jvent",
-    source: "https://raw.github.com/pazguille/jvent/master/jvent.js"
+    source: "https://raw.github.com/pazguille/jvent/master/standalone/jvent.js"
   },
   {
     name: "fader.js",
-    github: "lukasalexandre/fader.js",
-    url: "http://lukasalexandre.github.io/fader.js",
+    github: "lukelex/fader.js",
+    url: "http://lukelex.github.io/fader.js/",
     tags: ["animation"],
     description: "A micro library to fade elements in and out.",
-    source: "https://raw.github.com/lukasalexandre/fader.js/master/fader.js"
+    source: "https://raw.github.com/lukelex/fader.js/master/fader.js"
   },
   {
     name: "TemporizedSlider.js",
-    github: "lukasalexandre/TemporizedSlider.js",
-    url: "http://lukasalexandre.github.io/TemporizedSlider.js",
+    github: "lukelex/TemporizedSlider.js",
+    url: "http://lukelex.github.io/TemporizedSlider.js",
     tags: ["animation", "events"],
     description: "A micro library that implements a customizable temporized image slider, with custom text and title for each one.",
-    source: "https://raw.github.com/lukasalexandre/TemporizedSlider.js/master/temporized_slider.js"
+    source: "https://raw.github.com/lukelex/TemporizedSlider.js/master/temporized_slider.js"
   },
   {
     name: "hypo",
@@ -1889,8 +2039,15 @@ var MicroJS = [
     name: "l.js",
     tags: ["loader"],
     description: "Another Tiny js/css loader supporting aliases, ordered and parallel loading, callbacks ... ",
-    url: "https://github.com/malko/l.js",
+    url: "http://malko.github.io/l.js/",
     source: "https://raw.github.com/malko/l.js/master/l.js"
+  },
+  {
+    name: "D.js",
+    tags: ["Promises","async","promises/A+"],
+    description: "A tiny implementation of the Promises/A+ spec for Node.js and the browser, with some extensions to the spec ",
+    url: "http://malko.github.io/D.js/",
+    source: "https://raw.github.com/malko/D.js/master/lib/D.js"
   },
   {
     name: "ES5-Class",
@@ -1913,15 +2070,13 @@ var MicroJS = [
     url: "https://github.com/lloyd/persona.js",
     source: "https://raw.github.com/lloyd/persona.js/master/persona.js"
   },
-  /*
   {
     name: "Driftwood",
     tags: ["logging", "error", "exception", "log"],
     description: "A simple library for logging and exception tracking in Javascript.",
-    url: "https://github.com/errplane/driftwood.js",
-    source: "https://raw.github.com/errplane/driftwood.js/master/driftwood.js"
+    url: "https://github.com/mattkanwisher/driftwood.js",
+    source: "https://raw.github.com/mattkanwisher/driftwood.js/master/driftwood.js"
   },
-  */
   {
     name: "progress.js",
     tags: ["progress", "bar", "progressbar"],
@@ -1980,10 +2135,11 @@ var MicroJS = [
   },
   {
     name: "BigScreen",
+    github: "bdougherty/BigScreen",
     tags: ["browser", "canvas"],
     description: "BigScreen is a simple library for using the JavaScript Full Screen API.",
     url: "http://brad.is/coding/BigScreen/",
-    source: "https://raw.github.com/bdougherty/BigScreen/master/dist/bigscreen.js"
+    source: "https://raw.github.com/bdougherty/BigScreen/master/bigscreen.js"
   },
   {
     name: "string.js",
@@ -2020,7 +2176,7 @@ var MicroJS = [
     tags: ["events", "mobile", "touch", "multitouch"],
     description: "A tiny javascript library that can be used to control gestures on touch devices.",
     url: "http://eightmedia.github.io/hammer.js/",
-    source: "https://raw.github.com/EightMedia/hammer.js/master/hammer.js"
+    source: "https://raw.github.com/EightMedia/hammer.js/master/dist/hammer.js"
   },
   {
     name: "Probability.js",
@@ -2036,13 +2192,15 @@ var MicroJS = [
     url: "https://github.com/fschaefer/Timer.js",
     source: "https://raw.github.com/fschaefer/Timer.js/master/Timer.js"
   },
+  /* gzipped file too big, 10.5 kB is not "micro"
   {
     name: "Craft.js",
     tags: ["framework", "base", "dom", "events", "ajax", "polyfill", "functional"],
     description: "Craft.js is a small but powerful JavaScript framework that helps you to build web apps easily.",
     url: "http://craftjs.org",
-    source: "https://raw.github.com/mlbli/craft/master/craft.js"
+    source: "https://raw.github.com/mlbli/craft/master/dist/craft.js"
   },
+  */
   {
     name: "Mouse",
     tags: [ "mouse", "mousebind", "bind", "events", "input", "buttons", "mice" ],
@@ -2077,7 +2235,7 @@ var MicroJS = [
     tags: ["modal", "popup", "message"],
     description: "A self-contained modal popup library",
     url: "https://github.com/Nycto/PicoModal",
-    source: "https://raw.github.com/Nycto/PicoModal/master/picoModal.js"
+    source: "https://raw.github.com/Nycto/PicoModal/master/src/picoModal.js"
   },
   {
     name: "nwt",
@@ -2121,7 +2279,7 @@ var MicroJS = [
     tags: ["ajax", "jquery"],
     description: "Standalone AJAX library inspired by jQuery/zepto",
     url: "https://github.com/ForbesLindesay/ajax",
-    source: "https://component.jit.su/ForbesLindesay/ajax/download/latest.js"
+    source: "https://raw.github.com/ForbesLindesay/ajax/master/index.js"
   },
   {
     name: "parsy",
@@ -2193,6 +2351,13 @@ var MicroJS = [
     description: "Increases / decreases text quantity inside inline elements by pressing keys to check if the design can cope with different text length.",
     url: "https://github.com/mdix/ipsum.js",
     source: "https://raw.github.com/mdix/ipsum.js/master/ipsum.js"
+  },
+  {
+    name: "TimeJump",
+    tags: ["audio", "video", "podcast", "player"],
+    description: "TimeJump adds deep-linking to HTML5 audio and video podcasts.",
+    url: "https://github.com/davatron5000/TimeJump",
+    source: "https://raw.github.com/davatron5000/TimeJump/master/timeJump.js"
   },
   {
     name: "preloadimages.js",
@@ -2356,7 +2521,7 @@ var MicroJS = [
     name: "ColorConverter.js",
     github: "SimonWaldherr/ColorConverter.js",
     tags: ["color", "color manipulation"],
-    description: "Convert between RGB, YUV, HSL and HEX color defining with these JavaScript functions under MIT-License",
+    description: "Convert between RGB, YUV, HSL, HSV, CMYK and HEX color defining with these JavaScript functions under MIT-License",
     url: "https://github.com/SimonWaldherr/ColorConverter.js",
     source: "https://raw.github.com/SimonWaldherr/ColorConverter.js/master/colorconverter.js"
   },
@@ -2371,10 +2536,18 @@ var MicroJS = [
   {
     name: "PullToRefresh",
     github: "SimonWaldherr/PullToRefresh",
-    tags: ["webkit", "mobile"],
+    tags: ["webkit", "mobile", "scroll"],
     description: "A dependency-free PullToRefresh implementation",
     url: "https://github.com/SimonWaldherr/PullToRefresh",
     source: "https://raw.github.com/SimonWaldherr/PullToRefresh/master/ptr.js"
+  },
+  {
+    name: "infinity.js",
+    github: "SimonWaldherr/infinity.js",
+    tags: ["ajax", "scroll"],
+    description: "dependency-free infinite scrolling",
+    url: "https://github.com/SimonWaldherr/infinity.js",
+    source: "https://raw.github.com/SimonWaldherr/infinity.js/master/infinity.js"
   },
   {
     name: "ShuntingYard.js",
@@ -2389,5 +2562,129 @@ var MicroJS = [
     description: "DIY presentation micro-framework, harnessing the power of CSS3 transitions.",
     url: "https://github.com/markdalgleish/bespoke.js",
     source: "https://raw.github.com/markdalgleish/bespoke.js/master/dist/bespoke.js"
+  },
+  {
+    name: "usertiming.js",
+    tags: ["usertiming", "user timing", "performance timeline", "window.performance.now", "mark", "measure"],
+    description: "User Timing polyfill",
+    url: "https://github.com/nicjansma/usertiming.js",
+    source: "https://raw.github.com/nicjansma/usertiming.js/master/src/usertiming.js"
+  },
+  {
+    name: "DOMaker",
+    github: "BlueJeansAndRain/DOMaker",
+    tags: ["dom", "template", "serialize", "dom-builder", "jsonml"],
+    description: "Document Object Maker - Create your DOM from data, not strings.",
+    url: "https://github.com/BlueJeansAndRain/DOMaker",
+    source: "https://raw.github.com/BlueJeansAndRain/DOMaker/master/domaker.js"
+  },
+  {
+    name: "animx",
+    tags: ["animation", "css3"],
+    description: "Easily define CSS keyframes and animations during runtime",
+    url: "https://github.com/bjorkstam/animx",
+    source: "https://raw.github.com/bjorkstam/animx/master/animx.js"
+  },
+  {
+    name: "LogJS",
+    tags: ["logging", "CORS", "localStorage", "DOM"],
+    description: "Lightweight, extendable JavaScript logging library.",
+    url: "https://github.com/bfattori/LogJS",
+    source: "https://raw.github.com/bfattori/LogJS/master/log.js"
+  },
+  {
+    name: "StdClassJS",
+    github: "BlueJeansAndRain/stdclassjs",
+    tags: ["oop", "class", "extend", "mixin"],
+    description: "A dead simple JavaScript inheritance implementation.",
+    url: "https://github.com/BlueJeansAndRain/stdclassjs",
+    source: "https://raw.github.com/BlueJeansAndRain/stdclassjs/master/stdclass.js"
+  },
+  {
+    name: "keydrown",
+    tags: ["games"],
+    description: "A JavaScript key state handler for web apps",
+    url: "https://github.com/jeremyckahn/keydrown",
+    source: "https://raw.github.com/jeremyckahn/keydrown/master/dist/keydrown.min.js"
+  },
+  {
+    name: "vivi.js",
+    tags: ["animation", "animate", "css", "css3", "keyframe", "defined" ],
+    description: "Tiny wrapper for CSS Defined Animations (@keyframes).",
+    url: "https://github.com/musictheory/vivi.js",
+    source: "https://raw.github.com/musictheory/vivi.js/master/src/vivi.js"
+  },
+  {
+    name: "salt.js",
+    tags: ["dom", "selectors", "traversing", "library"],
+    description: "micro DOM selector library that maps queries to native get commands",
+    url: "https://github.com/james2doyle/saltjs",
+    source: "https://raw.github.com/james2doyle/saltjs/master/salt.js"
+  },
+  {
+    name: "defineObject",
+    tags: ["prototypes", "objects", "mixins"],
+    description: "A bit of sugar for defining JavaScript Objects and their Prototypes.",
+    url: "https://github.com/smelnikov/defineObject",
+    source: "https://raw.github.com/smelnikov/defineObject/master/defineObject.js"
+  },
+  {
+    name: "color.js",
+    github: "brehaut/color-js",
+    tags: ["color", "color manipulation"],
+    description: "API for immutable color objects in RGB, HSV and HSL with optional alpha. Comprehensive CSS format parsing and output.",
+    url: "https://github.com/brehaut/color-js/",
+    source: "https://raw.github.com/brehaut/color-js/master/color.js"
+  },
+  {
+    name: "ScriptInclude",
+    tags: ["loader"],
+    description: "Simple includes in the browser.",
+    url: "https://github.com/EvanHahn/ScriptInclude",
+    source: "https://raw.github.com/EvanHahn/ScriptInclude/master/include.js"
+  },
+  {
+    name: "cssanimevent",
+    github: "magnetikonline/cssanimevent",
+    tags: ["animation", "css3", "events", "polyfill", "transitions"],
+    description: "CSS3 animation and transition DOM event handler with a simple fallback pattern for unsupported browsers.",
+    url: "https://github.com/magnetikonline/cssanimevent",
+    source: "https://raw.github.com/magnetikonline/cssanimevent/master/cssanimevent.js"
+  },
+  {
+    name: "ClassJS",
+    tags: ["class", "inheritance", "namespace", "node"],
+    description: "JavaScript classical inheritance for the browser and Node.js. Super methods and namespaces",
+    url: "https://github.com/jimmynewtron/ClassJS",
+    source: "https://raw.github.com/jimmynewtron/ClassJS/master/src/core/Class.js"
+  },
+  {
+    name: "Hamster.js",
+    github: "monospaced/hamster.js",
+    tags: ["mousewheel", "mouse", "wheel", "events"],
+    description: "A standalone JavaScript library for cross-browser mouse wheel support.",
+    url: "https://github.com/monospaced/hamster.js",
+    source: "http://monospaced.github.io/hamster.js/hamster.js"
+  },
+  {
+    name: "spin.js",
+    tags: ["spinning", "indicator", "loading", "spinner"],
+    description: "A spinning activity indicator. An animated CSS3 loading spinner.",
+    url: "http://fgnass.github.io/spin.js/",
+    source: "https://raw.github.com/fgnass/spin.js/gh-pages/dist/spin.js"
+  },
+  {
+    name: "Graph",
+    tags: ["traversing", "graph"],
+    description: "Provides jQuery-like functionality for graph structures in JavaScript.",
+    url: "https://github.com/ryansmith94/Graph",
+    source: "https://raw.github.com/ryansmith94/Graph/master/src/core.js"
+  },
+  {
+    name: "Scorebook",
+    tags: ["cricket", "scoring"],
+    description: "A JavaScript library for cricket scoring.",
+    url: "https://github.com/ryansmith94/Scorebook",
+    source: "https://raw.github.com/ryansmith94/Scorebook/master/src/core.js"
   }
 ];

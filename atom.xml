@@ -2576,5 +2576,317 @@
 		<summary>DIY presentation micro-framework, harnessing the power of CSS3 transitions.</summary>
 	</entry>
 
+	<entry>
+		<title>OneDollar.js</title>
+		<link href="https://github.com/voidplus/onedollar-coffeescript" />
+		<id>urn:uuid:13b94520-aaf3-11e2-acd3-65389379f67c</id>
+		<updated>2013-04-22'T'02:19:26Z</updated>
+		<summary>A JavaScript implementation of the $1 Gesture Recognizer, a two-dimensional template based gesture recognition</summary>
+	</entry>
+
+	<entry>
+		<title>iugo.js</title>
+		<link href="http://iugojs.com" />
+		<id>urn:uuid:13b96c30-aaf3-11e2-acd3-65389379f67c</id>
+		<updated>2013-04-22'T'02:19:26Z</updated>
+		<summary>An extremely lightweight one-way data-binding tool without the bloat of a full framework. Makes separating markup from content easy.</summary>
+	</entry>
+
+	<entry>
+		<title>jXHR</title>
+		<link href="https://gist.github.com/marianoviola/1576277" />
+		<id>urn:uuid:14ad6920-aaf3-11e2-acd3-65389379f67c</id>
+		<updated>2013-04-22'T'02:19:26Z</updated>
+		<summary>JSON-P based cross-domain Ajax wrapped in the XHR API.</summary>
+	</entry>
+
+	<entry>
+		<title>imgResize.js</title>
+		<link href="https://github.com/SimonWaldherr/imgResize.js" />
+		<id>urn:uuid:1549f740-aaf3-11e2-acd3-65389379f67c</id>
+		<updated>2013-04-22'T'02:19:26Z</updated>
+		<summary>Resize images in a Canvas based on edge detection.</summary>
+	</entry>
+
+	<entry>
+		<title>tinyOSF.js</title>
+		<link href="https://github.com/shownotes/tinyOSF.js" />
+		<id>urn:uuid:15a33ad0-aaf3-11e2-acd3-65389379f67c</id>
+		<updated>2013-04-22'T'02:19:26Z</updated>
+		<summary>a few lines of code to convert OSF to HTML.</summary>
+	</entry>
+
+	<entry>
+		<title>D.js</title>
+		<link href="http://malko.github.io/D.js/" />
+		<id>urn:uuid:16bb6190-aaf3-11e2-acd3-65389379f67c</id>
+		<updated>2013-04-22'T'02:19:26Z</updated>
+		<summary>A tiny implementation of the Promises/A+ spec for Node.js and the browser, with some extensions to the spec </summary>
+	</entry>
+
+	<entry>
+		<title>TimeJump</title>
+		<link href="https://github.com/davatron5000/TimeJump" />
+		<id>urn:uuid:17ff5340-aaf3-11e2-acd3-65389379f67c</id>
+		<updated>2013-04-22'T'02:19:26Z</updated>
+		<summary>TimeJump adds deep-linking to HTML5 audio and video podcasts.</summary>
+	</entry>
+
+	<entry>
+		<title>animx</title>
+		<link href="https://github.com/bjorkstam/animx" />
+		<id>urn:uuid:1828ad30-aaf3-11e2-acd3-65389379f67c</id>
+		<updated>2013-04-22'T'02:19:26Z</updated>
+		<summary>Easily define CSS keyframes and animations during runtime</summary>
+	</entry>
+
+	<entry>
+		<title>usertiming.js</title>
+		<link href="https://github.com/nicjansma/usertiming.js" />
+		<id>urn:uuid:1854c640-aaf3-11e2-acd3-65389379f67c</id>
+		<updated>2013-04-22'T'02:19:26Z</updated>
+		<summary>User Timing polyfill</summary>
+	</entry>
+
+	<entry>
+		<title>DOMaker</title>
+		<link href="https://github.com/BlueJeansAndRain/DOMaker" />
+		<id>urn:uuid:187609e0-aaf3-11e2-acd3-65389379f67c</id>
+		<updated>2013-04-22'T'18:59:00Z</updated>
+		<summary>Document Object Maker - Create your DOM from data, not strings.</summary>
+	</entry>
+
+	<entry>
+		<title>ImageFlip.js</title>
+		<link href="https://github.com/erf/ImageFlip.js" />
+		<id>urn:uuid:2ba21fa0-bcf9-11e2-a716-536b24f28675</id>
+		<updated>2013-05-15'T'00:48:31Z</updated>
+		<summary>Minimalistic slideshow library.</summary>
+	</entry>
+
+	<entry>
+		<title>safemap.js</title>
+		<link href="https://github.com/philbooth/safemap.js" />
+		<id>urn:uuid:2d9e64d0-bcf9-11e2-a716-536b24f28675</id>
+		<updated>2013-05-15'T'00:48:31Z</updated>
+		<summary>A tiny, safe, ES3-compliant map/dictionary implementation.</summary>
+	</entry>
+
+	<entry>
+		<title>creatorpattern.js</title>
+		<link href="https://github.com/jeromeetienne/creatorpattern.js" />
+		<id>urn:uuid:2deab010-bcf9-11e2-a716-536b24f28675</id>
+		<updated>2013-05-15'T'00:48:31Z</updated>
+		<summary>Micro library to easily add the creator pattern to your class.</summary>
+	</entry>
+
+	<entry>
+		<title>LocalDB.js</title>
+		<link href="http://agnostic.github.io/LocalDB.js" />
+		<id>urn:uuid:2deab011-bcf9-11e2-a716-536b24f28675</id>
+		<updated>2013-05-15'T'00:48:31Z</updated>
+		<summary>LocalDB.js is a tool that maps the structure of the databases in objects using the localStorage API, no database drivers are required, just add the library and use it!</summary>
+	</entry>
+
+	<entry>
+		<title>keydrown</title>
+		<link href="https://github.com/jeremyckahn/keydrown" />
+		<id>urn:uuid:3600d900-bcf9-11e2-a716-536b24f28675</id>
+		<updated>2013-05-15'T'00:48:31Z</updated>
+		<summary>A JavaScript key state handler for web apps</summary>
+	</entry>
+
+	<entry>
+		<title>StdClassJS</title>
+		<link href="https://github.com/BlueJeansAndRain/stdclassjs" />
+		<id>urn:uuid:36010010-bcf9-11e2-a716-536b24f28675</id>
+		<updated>2013-05-15'T'00:48:31Z</updated>
+		<summary>A dead simple JavaScript inheritance implementation.</summary>
+	</entry>
+
+	<entry>
+		<title>salt.js</title>
+		<link href="https://github.com/james2doyle/saltjs" />
+		<id>urn:uuid:3611a1e0-bcf9-11e2-a716-536b24f28675</id>
+		<updated>2013-05-15'T'00:48:31Z</updated>
+		<summary>micro DOM selector library that maps queries to native get commands</summary>
+	</entry>
+
+	<entry>
+		<title>LogJS</title>
+		<link href="https://github.com/bfattori/LogJS" />
+		<id>urn:uuid:3611c8f0-bcf9-11e2-a716-536b24f28675</id>
+		<updated>2013-05-15'T'00:48:31Z</updated>
+		<summary>Lightweight, extendable JavaScript logging library.</summary>
+	</entry>
+
+	<entry>
+		<title>defineObject</title>
+		<link href="https://github.com/smelnikov/defineObject" />
+		<id>urn:uuid:3611c8f1-bcf9-11e2-a716-536b24f28675</id>
+		<updated>2013-05-15'T'00:48:31Z</updated>
+		<summary>A bit of sugar for defining JavaScript Objects and their Prototypes.</summary>
+	</entry>
+
+	<entry>
+		<title>vivi.js</title>
+		<link href="https://github.com/musictheory/vivi.js" />
+		<id>urn:uuid:3611f000-bcf9-11e2-a716-536b24f28675</id>
+		<updated>2013-05-15'T'00:48:31Z</updated>
+		<summary>Tiny wrapper for CSS Defined Animations (@keyframes).</summary>
+	</entry>
+
+	<entry>
+		<title>Graph</title>
+		<link href="https://github.com/ryansmith94/Graph" />
+		<id>urn:uuid:5c10b670-d297-11e2-8413-2fde39ea24fd</id>
+		<updated>2013-06-11'T'13:03:29Z</updated>
+		<summary>Provides &quot;jQuery-like&quot; functionality for graph structures in JavaScript.</summary>
+	</entry>
+
+	<entry>
+		<title>Scorebook</title>
+		<link href="https://github.com/ryansmith94/Scorebook" />
+		<id>urn:uuid:5c134e80-d297-11e2-8413-2fde39ea24fd</id>
+		<updated>2013-06-11'T'13:03:29Z</updated>
+		<summary>A JavaScript library for cricket scoring.</summary>
+	</entry>
+
+	<entry>
+		<title>sawkit-client</title>
+		<link href="https://github.com/cScarlson/sawkit-client" />
+		<id>urn:uuid:19c3cfa0-d300-11e2-8a6d-073e2c9a82a6</id>
+		<updated>2013-06-12'T'01:33:32Z</updated>
+		<summary>A non-intrusive Facade Pattern on the HTML5 WebSocket API which allows for: custom event-emissions, custom event-listeners, and binary sending - all in a chainable, jQuery-LIKE way.</summary>
+	</entry>
+
+	<entry>
+		<title>SDB.js</title>
+		<link href="https://github.com/cScarlson/SDB" />
+		<id>urn:uuid:19c3f6b0-d300-11e2-8a6d-073e2c9a82a6</id>
+		<updated>2013-06-12'T'01:33:32Z</updated>
+		<summary>A Facade Pattern on the HTML5 IndexedDB API.</summary>
+	</entry>
+
+	<entry>
+		<title>Miniscroll.js</title>
+		<link href="https://github.com/rogerluiz/Miniscroll-JS" />
+		<id>urn:uuid:19c444d0-d300-11e2-8a6d-073e2c9a82a6</id>
+		<updated>2013-06-12'T'01:33:32Z</updated>
+		<summary>A simple scrollbar for desktop and mobile application using javascript. </summary>
+	</entry>
+
+	<entry>
+		<title>majaX.js</title>
+		<link href="https://github.com/SimonWaldherr/majaX.js" />
+		<id>urn:uuid:1c3ac310-d300-11e2-8a6d-073e2c9a82a6</id>
+		<updated>2013-06-12'T'01:33:32Z</updated>
+		<summary>make AJAX Requests and get (parsed) values (and headers).</summary>
+	</entry>
+
+	<entry>
+		<title>qwest</title>
+		<link href="https://github.com/pyrsmk/qwest" />
+		<id>urn:uuid:1d695800-d300-11e2-8a6d-073e2c9a82a6</id>
+		<updated>2013-06-12'T'01:33:32Z</updated>
+		<summary>Ajax library with promises and XHR2 support</summary>
+	</entry>
+
+	<entry>
+		<title>Choona.js</title>
+		<link href="https://github.com/nsisodiya/choona.js" />
+		<id>urn:uuid:1e6b85c0-d300-11e2-8a6d-073e2c9a82a6</id>
+		<updated>2013-06-12'T'01:33:32Z</updated>
+		<summary>Choona.js is a tiny JavaScript framework for scalable , modular architecture for one-page-applications</summary>
+	</entry>
+
+	<entry>
+		<title>csv.js</title>
+		<link href="https://github.com/avoidwork/csv.js" />
+		<id>urn:uuid:1ed9ff00-d300-11e2-8a6d-073e2c9a82a6</id>
+		<updated>2013-06-12'T'01:33:32Z</updated>
+		<summary>Convert JSON, Arrays or Objects to CSV</summary>
+	</entry>
+
+	<entry>
+		<title>konami.js</title>
+		<link href="https://github.com/SimonWaldherr/konami.js" />
+		<id>urn:uuid:1f218f50-d300-11e2-8a6d-073e2c9a82a6</id>
+		<updated>2013-06-12'T'01:33:32Z</updated>
+		<summary>logs every keypress and store it for later</summary>
+	</entry>
+
+	<entry>
+		<title>infinity.js</title>
+		<link href="https://github.com/SimonWaldherr/infinity.js" />
+		<id>urn:uuid:20bb4220-d300-11e2-8a6d-073e2c9a82a6</id>
+		<updated>2013-06-12'T'01:33:32Z</updated>
+		<summary>dependency-free infinite scrolling</summary>
+	</entry>
+
+	<entry>
+		<title>ScriptInclude</title>
+		<link href="https://github.com/EvanHahn/ScriptInclude" />
+		<id>urn:uuid:20dea8a0-d300-11e2-8a6d-073e2c9a82a6</id>
+		<updated>2013-06-12'T'01:33:32Z</updated>
+		<summary>Simple includes in the browser.</summary>
+	</entry>
+
+	<entry>
+		<title>Hamster.js</title>
+		<link href="https://github.com/monospaced/hamster.js" />
+		<id>urn:uuid:20e73420-d300-11e2-8a6d-073e2c9a82a6</id>
+		<updated>2013-06-12'T'01:33:32Z</updated>
+		<summary>A standalone JavaScript library for cross-browser mouse wheel support.</summary>
+	</entry>
+
+	<entry>
+		<title>cssanimevent</title>
+		<link href="https://github.com/magnetikonline/cssanimevent" />
+		<id>urn:uuid:21036eb0-d300-11e2-8a6d-073e2c9a82a6</id>
+		<updated>2013-06-12'T'01:33:32Z</updated>
+		<summary>CSS3 animation and transition DOM event handler with a simple fallback pattern for unsupported browsers.</summary>
+	</entry>
+
+	<entry>
+		<title>ClassJS</title>
+		<link href="https://github.com/jimmynewtron/ClassJS" />
+		<id>urn:uuid:21036eb1-d300-11e2-8a6d-073e2c9a82a6</id>
+		<updated>2013-06-12'T'01:33:32Z</updated>
+		<summary>JavaScript classical inheritance for the browser and Node.js. Super methods and namespaces</summary>
+	</entry>
+
+	<entry>
+		<title>color.js</title>
+		<link href="https://github.com/brehaut/color-js/" />
+		<id>urn:uuid:21036eb2-d300-11e2-8a6d-073e2c9a82a6</id>
+		<updated>2013-06-12'T'01:33:32Z</updated>
+		<summary>API for immutable color objects in RGB, HSV and HSL with optional alpha. Comprehensive CSS format parsing and output.</summary>
+	</entry>
+
+	<entry>
+		<title>spin.js</title>
+		<link href="http://fgnass.github.io/spin.js/" />
+		<id>urn:uuid:210395c0-d300-11e2-8a6d-073e2c9a82a6</id>
+		<updated>2013-06-12'T'01:33:32Z</updated>
+		<summary>A spinning activity indicator. An animated CSS3 loading spinner.</summary>
+	</entry>
+
+	<entry>
+		<title>remove.js</title>
+		<link href="https://github.com/scrapmac/snippets/tree/master/remove.js" />
+		<id>urn:uuid:210395c1-d300-11e2-8a6d-073e2c9a82a6</id>
+		<updated>2013-06-12'T'01:33:32Z</updated>
+		<summary>Small but powerful string cleanup and reduction library.</summary>
+	</entry>
+
+	<entry>
+		<title>quark</title>
+		<link href="https://github.com/pyrsmk/quark" />
+		<id>urn:uuid:21040af0-d300-11e2-8a6d-073e2c9a82a6</id>
+		<updated>2013-06-12'T'01:33:32Z</updated>
+		<summary>Build your own framework from scratch</summary>
+	</entry>
+
 
 </feed>
