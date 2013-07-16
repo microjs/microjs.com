@@ -2686,5 +2686,12 @@ var MicroJS = [
     description: "A JavaScript library for cricket scoring.",
     url: "https://github.com/ryansmith94/Scorebook",
     source: "https://raw.github.com/ryansmith94/Scorebook/master/src/core.js"
+  },
+  {
+    name: "i18nText",
+    tags: ["i18n"],
+    description: "A JavaScript library for i18n text messages.",
+    url: "https://bitbucket.org/vogdb/i18n-text",
+    source: "https://bitbucket.org/vogdb/i18n-text/raw/master/dist/i18nText.js"
   }
 ];
