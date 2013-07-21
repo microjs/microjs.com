@@ -2050,11 +2050,11 @@ var MicroJS = [
     source: "https://raw.github.com/malko/D.js/master/lib/D.js"
   },
   {
-    name: "ES5-Class",
+    name: "es5-class",
     tags: ["class", "inheritance"],
     description: "Native prototypal inheritance for Node.js and ES5-enabled Browsers",
-    url: "https://github.com/ShadowCloud/ES5-Class",
-    source: "https://raw.github.com/ShadowCloud/ES5-Class/master/class.js"
+    url: "https://github.com/bfil/es5-class",
+    source: "https://raw.github.com/bfil/es5-class/master/class.js"
   },
   {
     name: "Mousetrap",
