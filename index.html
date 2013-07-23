@@ -824,21 +824,28 @@
         e && keydownListener({ keyCode: 13 })
       }
     , keydownDelayed = cumulativeDelayed(function () { search() }, 250)
-    , showsearch = function () { showopt(); search() }
+    , showsearch = function () {
+        showopt();
+        search();
+      }
       // make our pseudo-select box work as if it was a real select box
     , keydownListener = function (e) {
         switch (e.keyCode) {
           case 38: //up
-            showsearch(); selectUp()
+            showsearch();
+            selectUp();
             break;
           case 40: //down
-            showsearch(); selectDown()
+            showsearch();
+            selectDown();
             break;
           case 13: //return
-            hideopt(); search()
+            hideopt();
+            search();
             break;
           default:
-            hideopt(); keydownDelayed()
+            hideopt();
+            keydownDelayed();
         }
       }
       // arrow-up
@@ -941,13 +948,13 @@ var toggleColorMode = function () {
     for(i = 0; i < elements.length; i++) {
       size = elements[i].getElementsByClassName('size')[0].innerHTML;
       sint = (85+parseFloat(size)*60) > 360 ? 360 : 85+parseFloat(size)*60;
-      background = 'background: #'+convHSLtoHEX([sint,80,58])+';'
-      + 'background: -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.2)), color-stop(0.5, rgba(255,255,255,0.1)), color-stop(0.501, rgba(255,255,255,0.0)), to(rgba(255,255,255,0.0))), -webkit-gradient(linear, left top, left bottom, from(#'+convHSLtoHEX([sint,80,58])+'), to(#'+convHSLtoHEX([sint,60,40])+'));'
-      + 'background: -webkit-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)), -webkit-linear-gradient(#'+convHSLtoHEX([sint,80,58])+', #'+convHSLtoHEX([sint,60,40])+');'
-      + 'background: -moz-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)), -moz-linear-gradient(#'+convHSLtoHEX([sint,80,58])+', #'+convHSLtoHEX([sint,60,40])+');'
-      + 'background: -ms-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)), -ms-linear-gradient(#'+convHSLtoHEX([sint,80,58])+', #'+convHSLtoHEX([sint,60,40])+');'
-      + 'background: -o-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)), -o-linear-gradient(#'+convHSLtoHEX([sint,80,58])+', #'+convHSLtoHEX([sint,60,40])+');'
-      + 'background: linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)), linear-gradient(#'+convHSLtoHEX([sint,80,58])+', #'+convHSLtoHEX([sint,60,40])+');';
+      background = 'background: #'+colorconv.HSL2HEX([sint,80,58])+';'
+      + 'background: -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.2)), color-stop(0.5, rgba(255,255,255,0.1)), color-stop(0.501, rgba(255,255,255,0.0)), to(rgba(255,255,255,0.0))), -webkit-gradient(linear, left top, left bottom, from(#'+colorconv.HSL2HEX([sint,80,58])+'), to(#'+colorconv.HSL2HEX([sint,60,40])+'));'
+      + 'background: -webkit-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)), -webkit-linear-gradient(#'+colorconv.HSL2HEX([sint,80,58])+', #'+colorconv.HSL2HEX([sint,60,40])+');'
+      + 'background: -moz-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)), -moz-linear-gradient(#'+colorconv.HSL2HEX([sint,80,58])+', #'+colorconv.HSL2HEX([sint,60,40])+');'
+      + 'background: -ms-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)), -ms-linear-gradient(#'+colorconv.HSL2HEX([sint,80,58])+', #'+colorconv.HSL2HEX([sint,60,40])+');'
+      + 'background: -o-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)), -o-linear-gradient(#'+colorconv.HSL2HEX([sint,80,58])+', #'+colorconv.HSL2HEX([sint,60,40])+');'
+      + 'background: linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)), linear-gradient(#'+colorconv.HSL2HEX([sint,80,58])+', #'+colorconv.HSL2HEX([sint,60,40])+');';
       elements[i].setAttribute("style", background);
     }
     document.getElementById('tagVisibility').setAttribute('data-color',true);
