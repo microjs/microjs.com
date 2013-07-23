@@ -651,7 +651,7 @@
   <p class="footer">
     <strong>microjs</strong> — a micro-site for micro-frameworks
     <span class="links">
-    © 2011-2012 <a href="//mir.aculo.us/">Thomas Fuchs</a> <span class="asterisk">✻</span>
+    © 2011-2013 <a href="//mir.aculo.us/">Thomas Fuchs</a> <span class="asterisk">✻</span>
     <a href="https://github.com/madrobby/microjs.com">source on GitHub</a> <span class="asterisk">✻</span>
     sizes minified &amp; gzipped
     </span>
@@ -666,7 +666,7 @@
   <script type="text/javascript" id="scr">
 /* Micro-Framework-Listing-Site-Microlib
  * Now with extra-chocolatey easter eggs!
- * Copyright (c) 2011-2012 @madrobby, @rvagg & other contributors
+ * Copyright (c) 2011-2013 @madrobby, @rvagg & other contributors
  * Licenced under the MIT open source licence - http://www.opensource.org/licenses/mit-license.html
  */
 
@@ -907,19 +907,23 @@
   $ineedSelect.addEventListener('click', selectListener, false)
 
   ;(function(kw) {
-    if (!kw) return
+    if (!kw) {
+      return;
+    }
     for (var i = 0; i < options.length; i++) {
       if (kw == options[i].tag) { kw = options[i].label; break; }
     }
-    $ineedText.value = kw
-  }(location.href.split('#')[1]))
+    $ineedText.value = kw;
+  }(location.href.split('#')[1]));
 
-  search()
+  search();
   $ineed.style.display = '';
+  $ineedText.focus();
+  window.setTimeout(hideopt,10);
 
-})() : render(MicroJS) // fallback for old browsers, you don't deserve the sweetness!
+})() : render(MicroJS); // fallback for old browsers, you don't deserve the sweetness!
 
-})()
+})();
 
 var toggleTagVisibility = function () {
   var tagStyleElement = document.getElementById('tagVisibility');
@@ -955,8 +959,7 @@ var toggleColorMode = function () {
   }
 }
 
-  </script>
-
+</script>
 <script>
   var _gauges = _gauges || [];
   (function() {
