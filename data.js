@@ -1860,6 +1860,13 @@ var MicroJS = [
     source: "https://raw.github.com/avoidwork/csv.js/master/lib/csv.js"
   },
   {
+    name: "tiny-lru.js",
+    tags: ["LRU", "cache"],
+    description: "Least Recently Used cache",
+    url: "https://github.com/avoidwork/tiny-lru",
+    source: "https://raw.github.com/avoidwork/tiny-lru/master/lib/tiny-lru.js"
+  },
+  {
     name: "bacon.js",
     tags: ["mobile" ],
     description: "Detects a mobile browser",
