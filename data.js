@@ -272,7 +272,7 @@ var MicroJS = [
     name: "parseTime.js",
     github: "SimonWaldherr/parseTime.js",
     tags: ["time", "date", "dates", "times", "language", "parse", "strings"],
-    description: "convert strings like \"five days ago\" to an integer (with time in milliseconds) in two languages (en, de)",
+    description: "convert strings like \"five days ago\" to an integer (with time in milliseconds) in three languages (en, de, pt)",
     url: "https://github.com/SimonWaldherr/parseTime.js",
     source: "https://raw.github.com/SimonWaldherr/parseTime.js/master/parseTime.js"
   },
