@@ -1002,6 +1002,13 @@ var MicroJS = [
     source: "https://raw.github.com/tinyhippos/jWorkflow/master/lib/jWorkflow.js"
   },
   {
+    name: "jsFlow",
+    tags: ["functional", "workflow", "async","data", "games", "statemachine"],
+    description: "A simple library to define and run modular, reusable, dynamic flow modules (100% jWorkflow API compatibility)",
+    url: "https://github.com/Tapsi/jsFlow",
+    source: "https://raw.github.com/Tapsi/jsFlow/master/lib/jsFlow.js"
+  },
+  {
     name: "Events.js",
     tags: ["events", "dom"],
     description: "Cross-browser DOM events, with keystroke handling, hashchange, mouseenter/leave.",
