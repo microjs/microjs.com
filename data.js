@@ -2667,6 +2667,14 @@ var MicroJS = [
     source: "http://monospaced.github.io/hamster.js/hamster.js"
   },
   {
+    name: "MinifiedJS",
+    github: "https://github.com/timjansen/minified.js/",
+    tags: ["DOM manipulation", "animation", "cookies", "events", "HTTP requests"],
+    description: "Minified.js is a client-side JavaScript library, comparable to jQuery and MooTools in scope. Its features include DOM manipulation, animation, events, cookies and HTTP requests",
+    url: "http://minifiedjs.com/",
+    source: "http://minifiedjs.com/download/minified-web.noie.js"
+  },
+  {
     name: "spin.js",
     tags: ["spinning", "indicator", "loading", "spinner"],
     description: "A spinning activity indicator. An animated CSS3 loading spinner.",
