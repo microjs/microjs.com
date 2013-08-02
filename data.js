@@ -1281,6 +1281,13 @@ var MicroJS = [
     source: "https://raw.github.com/kbjr/DragDrop/master/drag-drop.js"
   },
   {
+    name: "Async",
+    tags: ["control flow", "module", "asynchronous "],
+    description: "Async is a utility module which provides straight-forward, powerful functions for working with asynchronous JavaScript.",
+    url: "https://github.com/caolan/async",
+    source: "https://raw.github.com/caolan/async/master/lib/async.js"
+  },
+  {
     name: "Jaml",
     tags: ["templating"],
     description: "Jaml tries to emulate Ruby's Haml library, making it easy to generate HTML in your JavaScript projects.",
