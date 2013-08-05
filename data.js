@@ -9,6 +9,14 @@
 
 var MicroJS = [
   {
+    name: "Satnav",
+    github: "f5io/satnav-js",
+    tags: ["routing", "micro", "hashchange", "pushState"],
+    description: "A micro (~1.5kb gzipped) JS routing library. Satnav provides functionality for Regex-like paths in JavaScript.",
+    url: "https://github.com/f5io/satnav-js",
+    source: "https://raw.github.com/f5io/satnav-js/master/lib/satnav.js"
+  },
+  {
     name: "sawkit-client",
     github: "cScarlson/sawkit-client",
     tags: ["websocket", "socket", "HTML5", "custom", "events", "emit", "emission", "on", "jquery"],

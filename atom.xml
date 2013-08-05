@@ -2888,5 +2888,13 @@
 		<summary>Build your own framework from scratch</summary>
 	</entry>
 
+	<entry>
+		<title>Satnav</title>
+		<link href="https://github.com/f5io/satnav-js" />
+		<id>urn:uuid:ba7d4950-fdbf-11e2-ad0e-1710a1f4642c</id>
+		<updated>2013-08-05'T'11:11:07Z</updated>
+		<summary>A micro (~1.5kb gzipped) JS routing library. Satnav provides functionality for Regex-like paths in JavaScript.</summary>
+	</entry>
+
 
 </feed>
