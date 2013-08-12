@@ -2686,5 +2686,12 @@ var MicroJS = [
     description: "A JavaScript library for cricket scoring.",
     url: "https://github.com/ryansmith94/Scorebook",
     source: "https://raw.github.com/ryansmith94/Scorebook/master/src/core.js"
+  },
+  {
+    name: "RaptorJS",
+    tags: ["class", "inheritance", "extend", "amd", "prototype", "prototypal", "lazy"],
+    description: "The core module of RaptorJS provides a lightweight module system that supports namespacing, AMD, class inheritance, mixins, enums and lazy initialization. Works in the browser and Node.js",
+    url: "https://github.com/raptorjs/raptorjs",
+    source: "http://raptorjs.org/dist/raptor.js"
   }
 ];
