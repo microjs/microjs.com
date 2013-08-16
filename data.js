@@ -2782,5 +2782,12 @@ var MicroJS = [
     description: "Custom error messages for HTML5 form validation.",
     url: "https://github.com/javanto/civem.js",
     source: "https://raw.github.com/javanto/civem.js/master/src/civem.js"
+  },
+  {
+    name: "i18nText",
+    tags: ["i18n"],
+    description: "A JavaScript library for i18n text messages.",
+    url: "https://bitbucket.org/vogdb/i18n-text",
+    source: "https://bitbucket.org/vogdb/i18n-text/raw/master/dist/i18nText.js"
   }
 ];
