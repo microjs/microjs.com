@@ -2694,5 +2694,12 @@ var MicroJS = [
     description: "A JavaScript library for cricket scoring.",
     url: "https://github.com/ryansmith94/Scorebook",
     source: "https://raw.github.com/ryansmith94/Scorebook/master/src/core.js"
+  },
+  {
+    name: "Pledges",
+    tags: ["promise", "pledge"],
+    description: "A JavaScript micro-library that provides promise functionality.",
+    url: "https://github.com/ryansmith94/Pledges",
+    source: "https://raw.github.com/ryansmith94/Pledges/master/src/core.js"
   }
 ];
