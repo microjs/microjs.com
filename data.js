@@ -2709,5 +2709,12 @@ var MicroJS = [
     description: "A polyfill for animate events on SVG on non-supported browsers, like webkit engines",
     url: "https://github.com/madsgraphics/SVGEventListener",
     source: "https://raw.github.com/madsgraphics/SVGEventListener/master/SVGEventListener.js"
+  },
+  {
+    name: "chronology.js",
+    tags: ["undo", "redo", "history", "chronology"],
+    description: "A micro javascript library for managing an undo/redo history.",
+    url: "http://chronology.wout.co.uk",
+    source: "https://raw.github.com/wout/chronology.js/master/chronology.js"
   }
 ];

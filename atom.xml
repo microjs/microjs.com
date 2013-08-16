@@ -2889,11 +2889,19 @@
 	</entry>
 
 	<entry>
+<<<<<<< HEAD
 		<title>store</title>
 		<link href="https://github.com/nbubna/store" />
 		<id>urn:uuid:044677f0-d3b3-11e2-92d5-a5d3d5c4c949</id>
 		<updated>2013-06-12'T'22:53:36Z</updated>
 		<summary>A better way to use localStorage and sessionStorage.</summary>
+=======
+		<title>chronology.js</title>
+		<link href="http://chronology.wout.co.uk" />
+		<id>urn:uuid:4a306800-d7f2-11e2-829c-ef996d6f21ef</id>
+		<updated>2013-06-18'T'08:36:56Z</updated>
+		<summary>A micro javascript library for managing an undo/redo history.</summary>
+>>>>>>> b38b9abf823e14bd96761a45fe87c360d336388e
 	</entry>
 
 
