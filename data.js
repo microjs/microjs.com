@@ -2765,6 +2765,14 @@ var MicroJS = [
     source: "https://raw.github.com/ryansmith94/Graph/master/src/core.js"
   },
   {
+    name: "thenBy",
+    github: "Teun/thenBy.js",
+    tags: ["sorting", "sort", "arrays"],
+    description: "Enable firstBy().thenBy().thenBy() sorting of arrays using the standard Array.sort",
+    url: "https://github.com/Teun/thenBy.js",
+    source: "https://raw.github.com/Teun/thenBy.js/master/thenBy.js"
+  },
+  {
     name: "Scorebook",
     tags: ["cricket", "scoring"],
     description: "A JavaScript library for cricket scoring.",
