@@ -15,7 +15,7 @@ var MicroJS = [
     description: "A better API for using localStorage and sessionStorage.",
     url: "https://github.com/nbubna/store",
     source: "https://raw.github.com/nbubna/store/master/dist/store2.js"
-  },   
+  },
   {
     name: "Oboe.js",
     github: "jimhigson/oboe.js",
@@ -23,7 +23,7 @@ var MicroJS = [
     description: "Library for progressive parsing of ajax responses. Provides notification of objects found without waiting for the request to complete.",
     url: "https://github.com/jimhigson/oboe.js",
     source: "https://raw.github.com/jimhigson/oboe.js/master/dist/oboe.js"
-  },   
+  },
   {
     name: "attach.js",
     github: "nicbell/attach.js",
@@ -31,7 +31,15 @@ var MicroJS = [
     description: "A DOM instantiation API designed to tidy up and encapsulate attaching JavaScript to the page.",
     url: "http://nicbell.github.io/attach.js/",
     source: "https://raw.github.com/nicbell/attach.js/master/attach.js"
-  },   
+  },
+  {
+    name: "loglevel",
+    github: "pimterry/loglevel",
+    tags: ["log", "logging", "console"],
+    description: "Minimal lightweight logging for JavaScript, adding reliable log level methods to wrap any available console.log methods",
+    url: "https://github.com/pimterry/loglevel",
+    source: "https://raw.github.com/pimterry/loglevel/master/dist/loglevel.js"
+  },
   {
     name: "sawkit-client",
     github: "cScarlson/sawkit-client",
@@ -39,7 +47,7 @@ var MicroJS = [
     description: "A non-intrusive Facade Pattern on the HTML5 WebSocket API which allows for: custom event-emissions, custom event-listeners, and binary sending - all in a chainable, jQuery-LIKE way.",
     url: "https://github.com/cScarlson/sawkit-client",
     source: "https://raw.github.com/cScarlson/sawkit-client/master/$ws.js"
-  }, 
+  },
   {
     name: "SDB.js",
     github: "cScarlson/SDB",
