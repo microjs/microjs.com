@@ -2840,10 +2840,10 @@ var MicroJS = [
     source: "https://raw.github.com/hgoebl/doublemetaphone/master/doublemetaphone.js"
   },
   {
-    name: "Commuinst",
+    name: "Catiline",
     tags: ["worker", "parallel"],
     description: "Web workers, but easy.",
-    url: "https://github.com/calvinmetcalf/catiline",
+    url: "http://catilinejs.com",
     source: "https://raw.github.com/calvinmetcalf/catiline/master/dist/catiline.js"
   },
   {
