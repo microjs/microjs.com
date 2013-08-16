@@ -304,9 +304,17 @@ var MicroJS = [
     name: "disTime.js",
     github: "SimonWaldherr/disTime.js",
     tags: ["time", "date", "dates", "times", "language", "ago"],
-    description: "converts and updates UNIX-Timestamps to strings like ' 5 days ago ' in six languages (en, de, it, es, fr, pt)",
+    description: "converts and updates UNIX-Timestamps to strings like \"5 days ago\" in six languages (en, de, it, es, fr, pt)",
     url: "https://github.com/SimonWaldherr/disTime.js",
     source: "https://raw.github.com/SimonWaldherr/disTime.js/master/disTime.js"
+  },
+  {
+    name: "parseTime.js",
+    github: "SimonWaldherr/parseTime.js",
+    tags: ["time", "date", "dates", "times", "language", "parse", "strings"],
+    description: "convert strings like \"five days ago\" to an integer (with time in milliseconds) in three languages (en, de, pt)",
+    url: "https://github.com/SimonWaldherr/parseTime.js",
+    source: "https://raw.github.com/SimonWaldherr/parseTime.js/master/parseTime.js"
   },
   {
     name: "is.js",
