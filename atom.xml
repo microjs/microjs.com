@@ -2890,6 +2890,7 @@
 
 	<entry>
 <<<<<<< HEAD
+<<<<<<< HEAD
 		<title>store</title>
 		<link href="https://github.com/nbubna/store" />
 		<id>urn:uuid:044677f0-d3b3-11e2-92d5-a5d3d5c4c949</id>
@@ -2902,6 +2903,13 @@
 		<updated>2013-06-18'T'08:36:56Z</updated>
 		<summary>A micro javascript library for managing an undo/redo history.</summary>
 >>>>>>> b38b9abf823e14bd96761a45fe87c360d336388e
+=======
+		<title>DoubleMetaphone</title>
+		<link href="https://github.com/hgoebl/doublemetaphone" />
+		<id>urn:uuid:75cb5e00-d858-11e2-800b-4741063c1b17</id>
+		<updated>2013-06-18'T'20:48:18Z</updated>
+		<summary>Phonetically encode w/ DoubleMetaphone algorithm (&apos;Alexander&apos; -&gt; &apos;ALKS&apos;)</summary>
+>>>>>>> 396ae22ea5a238378c7754d7eff4eb6c6c38ea30
 	</entry>
 
 
