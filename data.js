@@ -2844,5 +2844,12 @@ var MicroJS = [
     description: "A JavaScript library for i18n text messages.",
     url: "https://bitbucket.org/vogdb/i18n-text",
     source: "https://bitbucket.org/vogdb/i18n-text/raw/master/dist/i18nText.js"
+  },
+  {
+    name: "RaptorJS",
+    tags: ["class", "inheritance", "extend", "amd", "prototype", "prototypal", "lazy"],
+    description: "The core module of RaptorJS provides a lightweight module system that supports namespacing, AMD, class inheritance, mixins, enums and lazy initialization. Works in the browser and Node.js",
+    url: "https://github.com/raptorjs/raptorjs",
+    source: "http://raptorjs.org/dist/raptor.js"
   }
 ];

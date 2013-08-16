@@ -2920,5 +2920,13 @@
 		<summary>A micro (~1.5kb gzipped) JS routing library. Satnav provides functionality for Regex-like paths in JavaScript.</summary>
 	</entry>
 
+	<entry>
+		<title>RaptorJS</title>
+		<link href="http://raptorjs.org/modules-classes/developer-guide/" />
+		<id>urn:uuid:c2d1e780-0375-11e3-824c-c33cbf24dd79</id>
+		<updated>2013-08-12'T'17:36:25Z</updated>
+		<summary>The core module of RaptorJS provides a lightweight module system that supports namespacing, AMD, class inheritance, mixins, enums and lazy initialization. Works in the browser and Node.js</summary>
+	</entry>
+
 
 </feed>
