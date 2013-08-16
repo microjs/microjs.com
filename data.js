@@ -2773,5 +2773,12 @@ var MicroJS = [
     description: "Web workers, but easy.",
     url: "https://github.com/calvinmetcalf/catiline",
     source: "https://raw.github.com/calvinmetcalf/catiline/master/dist/catiline.js"
+  },
+  {
+    name: "civem.js",
+    tags: ["html5", "input", "validation"],
+    description: "Custom error messages for HTML5 form validation.",
+    url: "https://github.com/javanto/civem.js",
+    source: "https://raw.github.com/javanto/civem.js/master/src/civem.js"
   }
 ];
