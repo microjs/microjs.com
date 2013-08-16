@@ -2701,5 +2701,13 @@ var MicroJS = [
     description: "A JavaScript micro-library that provides promise functionality.",
     url: "https://github.com/ryansmith94/Pledges",
     source: "https://raw.github.com/ryansmith94/Pledges/master/src/core.js"
+  },
+  {
+    name: "SVGEventListener",
+    github: "madsgraphics/SVGEventListener",
+    tags: ["svg", "events", "animation", "polyfill"],
+    description: "A polyfill for animate events on SVG on non-supported browsers, like webkit engines",
+    url: "https://github.com/madsgraphics/SVGEventListener",
+    source: "https://raw.github.com/madsgraphics/SVGEventListener/master/SVGEventListener.js"
   }
 ];
