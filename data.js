@@ -41,6 +41,14 @@ var MicroJS = [
     source: "https://raw.github.com/pimterry/loglevel/master/dist/loglevel.js"
   },
   {
+    name: "goo.js",
+    github: "johnrobinsn/goo.js",
+    tags: ["HTML5", "canvas"],
+    description: "Microlibrary that makes it quick and easy to draw using the HTML5 Canvas API/",
+    url: "http://www.storminthecastle.com/projects/goo.js/",
+    source: "https://raw.github.com/johnrobinsn/goo.js/master/src/goo.js"
+  },
+  {
     name: "sawkit-client",
     github: "cScarlson/sawkit-client",
     tags: ["websocket", "socket", "HTML5", "custom", "events", "emit", "emission", "on", "jquery"],
