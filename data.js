@@ -57,6 +57,14 @@ var MicroJS = [
     source: "https://raw.github.com/f5io/satnav-js/master/lib/satnav.js"
   },
   {
+    name: "mediahack.js",
+    github: "pomke/mediahack",
+    tags: ["mediaquery", "mediaqueries", "css3", "css", "media"],
+    description: "Add media-query classes to DOM nodes",
+    url: "https://github.com/pomke/mediahack",
+    source: "https://raw.github.com/pomke/mediahack/master/mediahack.js"
+  },
+  {
     name: "sawkit-client",
     github: "cScarlson/sawkit-client",
     tags: ["websocket", "socket", "HTML5", "custom", "events", "emit", "emission", "on", "jquery"],
