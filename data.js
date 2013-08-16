@@ -176,6 +176,7 @@ var MicroJS = [
     url: "https://github.com/hakubo/Sloth",
     source: "https://raw.github.com/hakubo/Sloth/master/sloth.max.js"
   },
+  /* gone ?
   {
     name: "fx.js",
     github: "agilemd/Fx",
@@ -184,6 +185,7 @@ var MicroJS = [
     url: "https://github.com/agilemd/Fx",
     source: "https://raw.github.com/agilemd/Fx/master/src/fx.js"
   },
+  */
   {
     name: "zoe.js",
     github: "zestjs/zoe",
@@ -200,6 +202,7 @@ var MicroJS = [
     url: "https://github.com/zynga/atom",
     source: "https://raw.github.com/zynga/atom/master/atom.js"
   },
+  /* dist dir replaced with complex, versioned zip, will reenable after pull-request
   {
     name: "alertify.js",
     github: "fabien-d/alertify.js",
@@ -208,6 +211,7 @@ var MicroJS = [
     url: "https://github.com/fabien-d/alertify.js",
     source: "https://raw.github.com/fabien-d/alertify.js/master/dist/alertify.js"
   },
+  */
   /* gzipped file too big, 7.4 kB is not "micro"
   {
     name: "svg.js",
@@ -522,7 +526,7 @@ var MicroJS = [
   },
   {
     name: "Backbone",
-    github: "documentcloud/backbone",
+    github: "jashkenas/backbone",
     tags: ["mvc", "data", "functional"],
     description: "Lightweight MVC—models with custom events, collections with rich enumerables, views and RESTful JSON.",
     url: "http://backbonejs.org/",
@@ -601,7 +605,7 @@ var MicroJS = [
   },
   {
     name: "Underscore",
-    github: "documentcloud/underscore",
+    github: "jashkenas/underscore",
     tags: ["functional", "language", "data"],
     description: "A utility-belt that provides functional programming support that you would expect in Ruby.",
     url: "http://underscorejs.org/",
@@ -779,6 +783,7 @@ var MicroJS = [
     url: "http://classy.pocoo.org/",
     source: "https://raw.github.com/mitsuhiko/classy/master/classy.js"
   },
+  /* versioned releases, removed
   {
     name: "Milk",
     tags: ["templating"],
@@ -788,6 +793,7 @@ var MicroJS = [
     source: "https://raw.github.com/pvande/Milk/master/dist/v1.2.0/milk.js"
     //source: "https://raw.github.com/pvande/Milk/master/milk.coffee"
   },
+  */
   {
     name: "Director",
     tags: ["spa"],
@@ -1065,7 +1071,7 @@ var MicroJS = [
     tags: ["functional"],
     description: "A simple, four method API for differential inheritance and AOP.",
     url: "https://github.com/rpflorence/loom",
-    source: "https://raw.github.com/rpflorence/loom/master/src/loom.js"
+    source: "https://raw.github.com/rpflorence/loom/master/loom.js"
   },
   {
     name: "jWorkflow",
@@ -1433,7 +1439,9 @@ var MicroJS = [
     url: "http://mikemctiernan.github.io/Janis/",
     source: "https://raw.github.com/MikeMcTiernan/Janis/master/janis.js"
   },
+  /* switched to versioned releases, removed
   // requires Underscore, dependency allowed?
+  // not really!
   {
     name: "extend.js",
     tags: ["base", "language", "feature"],
@@ -1441,6 +1449,7 @@ var MicroJS = [
     url: "https://github.com/searls/extend.js",
     source: "https://raw.github.com/searls/extend.js/master/src/extend.js"
   },
+  */
   {
     name: "System.js",
     tags: ["feature"],
@@ -1643,7 +1652,7 @@ var MicroJS = [
     tags: ["cookies", "data", "store"],
     description: "A lightweight cookie library",
     url: "https://github.com/jgallen23/cookie-monster",
-    source: "https://raw.github.com/jgallen23/cookie-monster/master/dist/monster.js"
+    source: "https://raw.github.com/jgallen23/cookie-monster/master/dist/cookie-monster.js"
   },
   {
     name: "EditrJS",
@@ -1680,6 +1689,7 @@ var MicroJS = [
     url: "https://github.com/sandeepjain/fayer",
     source: "https://raw.github.com/sandeepjain/fayer/master/src/fayer.js"
   },
+  /* versioned releases, removed
   {
     name: "Supplement.js",
     tags: ["functional", "language", "data", "sugar"],
@@ -1688,6 +1698,7 @@ var MicroJS = [
     // version is current as of 18-JUN-2013, 2 years old
     source: "https://raw.github.com/olivernn/supplement.js/master/dist/supplement-0.1.1.js"
   },
+  */
   {
     name: "marked",
     tags: ["markdown", "markup", "parser"],
@@ -1900,6 +1911,7 @@ var MicroJS = [
     url: "https://github.com/EarMaster/CSSClass",
     source: "https://raw.github.com/EarMaster/CSSClass/master/CSSClass.js"
   },
+  /* switched to versioned releases, removed
   {
     name: "remoteStorage.js",
     tags: ["events", "ajax", "storage" ],
@@ -1907,6 +1919,7 @@ var MicroJS = [
     url: "https://github.com/RemoteStorage/remoteStorage.js",
     source: "https://raw.github.com/RemoteStorage/remoteStorage.js/master/src/remoteStorage.js"
   },
+  */
   {
     name: "impress.js",
     tags: ["animation", "jsanimation", "css", "css3" ],
@@ -1996,6 +2009,7 @@ var MicroJS = [
     url: "https://github.com/bripkens/mix.js",
     source: "https://raw.github.com/bripkens/mix.js/master/mix.js"
   },
+  /* versioned releases, removed
   {
     name: "inputControl",
     tags: ["inputControl", "chars", "numbers"],
@@ -2004,6 +2018,7 @@ var MicroJS = [
     // version is current as of 18-JUN-2013, 1 year old
     source: "https://raw.github.com/metalipower/inputControl/master/inputControl-1.0.js"
   },
+  */
   {
     name: "cookie.js",
     tags: ["cookie.js", "cookies", "storage"],
@@ -2050,8 +2065,8 @@ var MicroJS = [
     name: "Dijon",
     tags: ["IOC", "dependency injection"],
     description: "An IOC/DI framework in Javascript, inspired by Robotlegs and Swiftsuspenders",
-    url: "https://github.com/creynders/dijon-framework",
-    source: "https://raw.github.com/creynders/dijon-framework/master/src/dijon.js"
+    url: "https://github.com/creynders/dijon",
+    source: "https://raw.github.com/creynders/dijon/master/dist/dijon.js"
   },
   {
     name: "ua.js",
@@ -2664,11 +2679,10 @@ var MicroJS = [
   },
   {
     name: "DOMaker",
-    github: "BlueJeansAndRain/DOMaker",
     tags: ["dom", "template", "serialize", "dom-builder", "jsonml"],
     description: "Document Object Maker - Create your DOM from data, not strings.",
-    url: "https://github.com/BlueJeansAndRain/DOMaker",
-    source: "https://raw.github.com/BlueJeansAndRain/DOMaker/master/domaker.js"
+    url: "https://github.com/BlueJeansAndRain/scaffold",
+    source: "https://raw.github.com/BlueJeansAndRain/scaffold/master/scaffold.js"
   },
   {
     name: "animx",
@@ -2747,8 +2761,8 @@ var MicroJS = [
     name: "ClassJS",
     tags: ["class", "inheritance", "namespace", "node"],
     description: "JavaScript classical inheritance for the browser and Node.js. Super methods and namespaces",
-    url: "https://github.com/jimmynewtron/ClassJS",
-    source: "https://raw.github.com/jimmynewtron/ClassJS/master/src/core/Class.js"
+    url: "https://github.com/darlanalves/ClassJS",
+    source: "https://raw.github.com/darlanalves/ClassJS/master/src/class/class.js"
   },
   {
     name: "Hamster.js",
@@ -2760,11 +2774,11 @@ var MicroJS = [
   },
   {
     name: "MinifiedJS",
-    github: "https://github.com/timjansen/minified.js/",
+    github: "timjansen/minified.js",
     tags: ["DOM manipulation", "animation", "cookies", "events", "HTTP requests"],
     description: "Minified.js is a client-side JavaScript library, comparable to jQuery and MooTools in scope. Its features include DOM manipulation, animation, events, cookies and HTTP requests",
     url: "http://minifiedjs.com/",
-    source: "http://minifiedjs.com/download/minified-web.noie.js"
+    source: "http://minifiedjs.com/download/minified-web-src.noie.js"
   },
   {
     name: "spin.js",
@@ -2786,7 +2800,8 @@ var MicroJS = [
     tags: ["sorting", "sort", "arrays"],
     description: "Enable firstBy().thenBy().thenBy() sorting of arrays using the standard Array.sort",
     url: "https://github.com/Teun/thenBy.js",
-    source: "https://raw.github.com/Teun/thenBy.js/master/thenBy.js"
+    source: "https://raw.github.com/Teun/thenBy.js/master/thenBy.js",
+    tinyminify: true
   },
   {
     name: "Scorebook",

@@ -2928,5 +2928,141 @@
 		<summary>The core module of RaptorJS provides a lightweight module system that supports namespacing, AMD, class inheritance, mixins, enums and lazy initialization. Works in the browser and Node.js</summary>
 	</entry>
 
+	<entry>
+		<title>attach.js</title>
+		<link href="http://nicbell.github.io/attach.js/" />
+		<id>urn:uuid:9f69bd90-0659-11e3-8df7-57cadfb7cb41</id>
+		<updated>2013-08-16'T'09:52:47Z</updated>
+		<summary>A DOM instantiation API designed to tidy up and encapsulate attaching JavaScript to the page.</summary>
+	</entry>
+
+	<entry>
+		<title>mediahack.js</title>
+		<link href="https://github.com/pomke/mediahack" />
+		<id>urn:uuid:9f69e4a0-0659-11e3-8df7-57cadfb7cb41</id>
+		<updated>2013-08-16'T'09:52:47Z</updated>
+		<summary>Add media-query classes to DOM nodes</summary>
+	</entry>
+
+	<entry>
+		<title>loglevel</title>
+		<link href="https://github.com/pimterry/loglevel" />
+		<id>urn:uuid:9f6a0bb0-0659-11e3-8df7-57cadfb7cb41</id>
+		<updated>2013-08-16'T'09:52:47Z</updated>
+		<summary>Minimal lightweight logging for JavaScript, adding reliable log level methods to wrap any available console.log methods</summary>
+	</entry>
+
+	<entry>
+		<title>goo.js</title>
+		<link href="http://www.storminthecastle.com/projects/goo.js/" />
+		<id>urn:uuid:9f6a0bb1-0659-11e3-8df7-57cadfb7cb41</id>
+		<updated>2013-08-16'T'09:52:47Z</updated>
+		<summary>Microlibrary that makes it quick and easy to draw using the HTML5 Canvas API/</summary>
+	</entry>
+
+	<entry>
+		<title>Oboe.js</title>
+		<link href="https://github.com/jimhigson/oboe.js" />
+		<id>urn:uuid:9f6a32c0-0659-11e3-8df7-57cadfb7cb41</id>
+		<updated>2013-08-16'T'09:52:47Z</updated>
+		<summary>Library for progressive parsing of ajax responses. Provides notification of objects found without waiting for the request to complete.</summary>
+	</entry>
+
+	<entry>
+		<title>parseTime.js</title>
+		<link href="https://github.com/SimonWaldherr/parseTime.js" />
+		<id>urn:uuid:a0187420-0659-11e3-8df7-57cadfb7cb41</id>
+		<updated>2013-08-16'T'09:52:47Z</updated>
+		<summary>convert strings like &quot;five days ago&quot; to an integer (with time in milliseconds) in three languages (en, de, pt)</summary>
+	</entry>
+
+	<entry>
+		<title>DOMpteur</title>
+		<link href="https://github.com/SimonWaldherr/DOMpteur" />
+		<id>urn:uuid:a0d3fbf0-0659-11e3-8df7-57cadfb7cb41</id>
+		<updated>2013-08-16'T'09:52:47Z</updated>
+		<summary>play with the Document Object Model (DOM) tree - change and insert Elements.</summary>
+	</entry>
+
+	<entry>
+		<title>Async</title>
+		<link href="https://github.com/caolan/async" />
+		<id>urn:uuid:a7c61740-0659-11e3-8df7-57cadfb7cb41</id>
+		<updated>2013-08-16'T'09:52:47Z</updated>
+		<summary>Async is a utility module which provides straight-forward, powerful functions for working with asynchronous JavaScript.</summary>
+	</entry>
+
+	<entry>
+		<title>tiny-lru.js</title>
+		<link href="https://github.com/avoidwork/tiny-lru" />
+		<id>urn:uuid:aabd3730-0659-11e3-8df7-57cadfb7cb41</id>
+		<updated>2013-08-16'T'09:52:47Z</updated>
+		<summary>Least Recently Used cache</summary>
+	</entry>
+
+	<entry>
+		<title>es5-class</title>
+		<link href="https://github.com/bfil/es5-class" />
+		<id>urn:uuid:abcd47a0-0659-11e3-8df7-57cadfb7cb41</id>
+		<updated>2013-08-16'T'09:52:47Z</updated>
+		<summary>Native prototypal inheritance for Node.js and ES5-enabled Browsers</summary>
+	</entry>
+
+	<entry>
+		<title>Pledges</title>
+		<link href="https://github.com/ryansmith94/Pledges" />
+		<id>urn:uuid:af7715c0-0659-11e3-8df7-57cadfb7cb41</id>
+		<updated>2013-08-16'T'09:52:47Z</updated>
+		<summary>A JavaScript micro-library that provides promise functionality.</summary>
+	</entry>
+
+	<entry>
+		<title>SVGEventListener</title>
+		<link href="https://github.com/madsgraphics/SVGEventListener" />
+		<id>urn:uuid:af88f010-0659-11e3-8df7-57cadfb7cb41</id>
+		<updated>2013-08-16'T'09:52:47Z</updated>
+		<summary>A polyfill for animate events on SVG on non-supported browsers, like webkit engines</summary>
+	</entry>
+
+	<entry>
+		<title>Commuinst</title>
+		<link href="https://github.com/calvinmetcalf/catiline" />
+		<id>urn:uuid:afb38280-0659-11e3-8df7-57cadfb7cb41</id>
+		<updated>2013-08-16'T'09:52:47Z</updated>
+		<summary>Web workers, but easy.</summary>
+	</entry>
+
+	<entry>
+		<title>civem.js</title>
+		<link href="https://github.com/javanto/civem.js" />
+		<id>urn:uuid:afb3d0a0-0659-11e3-8df7-57cadfb7cb41</id>
+		<updated>2013-08-16'T'09:52:47Z</updated>
+		<summary>Custom error messages for HTML5 form validation.</summary>
+	</entry>
+
+	<entry>
+		<title>i18nText</title>
+		<link href="https://bitbucket.org/vogdb/i18n-text" />
+		<id>urn:uuid:afb81660-0659-11e3-8df7-57cadfb7cb41</id>
+		<updated>2013-08-16'T'09:52:47Z</updated>
+		<summary>A JavaScript library for i18n text messages.</summary>
+	</entry>
+
+	<entry>
+		<title>MinifiedJS</title>
+		<link href="http://minifiedjs.com/" />
+		<id>urn:uuid:ee41cd80-065a-11e3-b41e-69e69a647677</id>
+		<updated>2013-08-16'T'10:01:40Z</updated>
+		<summary>Minified.js is a client-side JavaScript library, comparable to jQuery and MooTools in scope. Its features include DOM manipulation, animation, events, cookies and HTTP requests</summary>
+	</entry>
+
+	<entry>
+		<title>thenBy</title>
+		<link href="https://github.com/Teun/thenBy.js" />
+		<id>urn:uuid:1687c000-065c-11e3-8f11-f9bf472ecd33</id>
+		<updated>2013-08-16'T'10:09:56Z</updated>
+		<summary>Enable firstBy().thenBy().thenBy() sorting of arrays using the standard Array.sort</summary>
+	</entry>
+
 
 </feed>
