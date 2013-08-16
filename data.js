@@ -2708,6 +2708,7 @@ var MicroJS = [
     source: "https://raw.github.com/ryansmith94/Scorebook/master/src/core.js"
   },
   {
+<<<<<<< HEAD
     name: "Pledges",
     tags: ["promise", "pledge"],
     description: "A JavaScript micro-library that provides promise functionality.",
@@ -2735,5 +2736,12 @@ var MicroJS = [
     description: "Phonetically encode w/ DoubleMetaphone algorithm ('Alexander' -> 'ALKS')",
     url: "https://github.com/hgoebl/doublemetaphone",
     source: "https://raw.github.com/hgoebl/doublemetaphone/master/doublemetaphone.js"
+  },
+  {
+    name: "Commuinst",
+    tags: ["worker", "parallel"],
+    description: "Web workers, but easy.",
+    url: "https://github.com/calvinmetcalf/catiline",
+    source: "https://raw.github.com/calvinmetcalf/catiline/master/dist/catiline.js"
   }
 ];
