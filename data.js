@@ -2686,5 +2686,12 @@ var MicroJS = [
     description: "A JavaScript library for cricket scoring.",
     url: "https://github.com/ryansmith94/Scorebook",
     source: "https://raw.github.com/ryansmith94/Scorebook/master/src/core.js"
+  },
+  {
+    name: "Lie",
+    tags: ["promise", "deferred","async"],
+    description: "A very small library for promises",
+    url: "https://github.com/calvinmetcalf/lie",
+    source: "https://raw.github.com/calvinmetcalf/lie/master/dist/lie.js"
   }
 ];
