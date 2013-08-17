@@ -2811,6 +2811,7 @@ var MicroJS = [
     source: "https://raw.github.com/ryansmith94/Scorebook/master/src/core.js"
   },
   {
+<<<<<<< HEAD
     name: "Pledges",
     tags: ["promise", "pledge"],
     description: "A JavaScript micro-library that provides promise functionality.",
@@ -2880,5 +2881,12 @@ var MicroJS = [
     description: "Sorts an Array of Objects with SQL ORDER BY clause",
     url: "https://github.com/avoidwork/keysort",
     source: "https://raw.github.com/avoidwork/keysort/master/lib/keysort.js"
+  },
+  {
+    name: "Lie",
+    tags: ["promise", "deferred","async"],
+    description: "A very small library for promises",
+    url: "https://github.com/calvinmetcalf/lie",
+    source: "https://raw.github.com/calvinmetcalf/lie/master/dist/lie.js"
   }
 ];
