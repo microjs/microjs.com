@@ -2866,5 +2866,12 @@ var MicroJS = [
     description: "The core module of RaptorJS provides a lightweight module system that supports namespacing, AMD, class inheritance, mixins, enums and lazy initialization. Works in the browser and Node.js",
     url: "https://github.com/raptorjs/raptorjs",
     source: "http://raptorjs.org/dist/raptor.js"
+  },
+  {
+    name: "assure.js",
+    tags: ["promises", "promise", "deferred", "deferreds", "aynchronous", "async"],
+    description: "Promises/A+ micro library to help with asynchronous work flow.",
+    url: "https://github.com/avoidwork/assure",
+    source: "https://raw.github.com/avoidwork/assure/master/lib/assure.js"
   }
 ];
