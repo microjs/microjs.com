@@ -3064,5 +3064,13 @@
 		<summary>Enable firstBy().thenBy().thenBy() sorting of arrays using the standard Array.sort</summary>
 	</entry>
 
+	<entry>
+		<title>Catiline</title>
+		<link href="http://catilinejs.com" />
+		<id>urn:uuid:994e3bc0-07d0-11e3-af0f-112e290caa6f</id>
+		<updated>2013-08-18'T'06:36:30+00:00</updated>
+		<summary>Web workers, but easy.</summary>
+	</entry>
+
 
 </feed>
