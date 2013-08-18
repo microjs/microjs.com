@@ -94,7 +94,7 @@ var MicroJS = [
     tags: ["string", "remove", "cleanup", "redundant", "gibberish", "trim"],
     description: "Small but powerful string cleanup and reduction library.",
     url: "https://github.com/scrapmac/snippets/tree/master/remove.js",
-    source: "https://github.com/scrapmac/snippets/raw/master/remove.js/remove.js"
+    source: "https://raw.github.com/scrapmac/snippets/master/remove.js/remove.js"
   },
   {
     name: "ImageFlip.js",
@@ -570,7 +570,7 @@ var MicroJS = [
     tags: ["async", "node.js", "watch", "flow", "flow control"],
     description: "Monitor multiple async operations and triggers when all or some are complete.",
     url: "https://github.com/thanpolas/ready.js",
-    source: "https://github.com/thanpolas/ready.js/raw/master/lib/ready.js"
+    source: "https://raw.github.com/thanpolas/ready.js/master/lib/ready.js"
   },
   {
     name: "MinPubSub",
@@ -1888,7 +1888,7 @@ var MicroJS = [
     tags: ["nodejs", "browsers", "templating", "partials", "custom delimiters"],
     description: "The fastest + concise javascript template engine for nodejs and browsers. Partials, custom delimiters and more.",
     url: "https://github.com/olado/doT",
-    source: "https://github.com/olado/doT/raw/master/doT.js"
+    source: "https://raw.github.com/olado/doT/master/doT.js"
   },
   {
     name: "Stapes.js",
@@ -2415,7 +2415,7 @@ var MicroJS = [
     tags: ["events"],
     description: "Keyboard shortcuts handling with support for key sequences.",
     url: "https://github.com/piranha/keymage",
-    source: "https://github.com/piranha/keymage/raw/master/keymage.js"
+    source: "https://raw.github.com/piranha/keymage/master/keymage.js"
   },
   {
     name: "Chic",
