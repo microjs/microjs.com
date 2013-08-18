@@ -7,7 +7,7 @@
 // also be just the raw JS if it's small enough, an array of source files or a ZIP file.
 // See examples below.
 
-var MicroJS = [
+module.exports = [
   {
     name: "store",
     github: "nbubna/store",
