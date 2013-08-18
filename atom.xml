@@ -3080,5 +3080,13 @@
 		<summary>A very small library for promises</summary>
 	</entry>
 
+	<entry>
+		<title>assure.js</title>
+		<link href="https://github.com/avoidwork/assure" />
+		<id>urn:uuid:6aef6b60-07d9-11e3-b92c-35f09178402a</id>
+		<updated>2013-08-18'T'07:39:25+00:00</updated>
+		<summary>Promises/A+ micro library to help with asynchronous work flow.</summary>
+	</entry>
+
 
 </feed>
