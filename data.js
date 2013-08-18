@@ -2873,5 +2873,12 @@ module.exports = [
     description: "A very small library for promises",
     url: "https://github.com/calvinmetcalf/lie",
     source: "https://raw.github.com/calvinmetcalf/lie/master/dist/lie.js"
+  },
+  {
+    name: "assure.js",
+    tags: ["promises", "promise", "deferred", "deferreds", "aynchronous", "async"],
+    description: "Promises/A+ micro library to help with asynchronous work flow.",
+    url: "https://github.com/avoidwork/assure",
+    source: "https://raw.github.com/avoidwork/assure/master/lib/assure.js"
   }
 ];
