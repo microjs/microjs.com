@@ -37,7 +37,7 @@ file with a name that's unlikely to change (no version numbers).
 
 (1) It's ok to target a specific platform, like node.js, or WebKit.
 
-(2) To check the minified and compressed size of your library from the command line, either use `./build -v` (see below) or run:
+(2) To check the minified and compressed size of your library from the command line, either use `./build.js -v` (see below) or run:
 
     $ uglifyjs yourlib.js | gzip -9f | wc -c
 

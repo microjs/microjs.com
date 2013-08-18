@@ -1,20 +1,24 @@
 {
-    "name": "microjs.com"
-  , "author": ""
-  , "version": "1.0.0"
-  , "private": true
-  , "dependencies": {
-        "async": "*"
-      , "colors": "*"
-      , "uglify-js": "~1.3.0"
-      , "zip": "*"
-      , "request": "*"
-      , "date-utils": "*"
-      , "node-uuid": "*"
-      , "errno": "*"
-      , "read": "*"
-    }
-  , "engines": {
-        "node": "*"
-    }
+  "name": "microjs.com",
+  "author": "",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "colors": "*",
+    "uglify-js": "~1.3.0",
+    "zip": "*",
+    "node-uuid": "*",
+    "errno": "*",
+    "read": "*",
+    "hyperquest": "~0.1.7",
+    "bl": "~0.4.1",
+    "moment": "~2.1.0",
+    "map-async": "~0.1.1",
+    "after": "~0.8.1",
+    "xtend": "~2.0.6",
+    "async-memo": "0.0.1"
+  },
+  "engines": {
+    "node": "*"
+  }
 }
