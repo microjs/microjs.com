@@ -2866,5 +2866,12 @@ var MicroJS = [
     description: "The core module of RaptorJS provides a lightweight module system that supports namespacing, AMD, class inheritance, mixins, enums and lazy initialization. Works in the browser and Node.js",
     url: "https://github.com/raptorjs/raptorjs",
     source: "http://raptorjs.org/dist/raptor.js"
+  },
+  {
+    name: "Lie",
+    tags: ["promise", "deferred","async"],
+    description: "A very small library for promises",
+    url: "https://github.com/calvinmetcalf/lie",
+    source: "https://raw.github.com/calvinmetcalf/lie/master/dist/lie.js"
   }
 ];
