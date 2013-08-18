@@ -3072,5 +3072,13 @@
 		<summary>Web workers, but easy.</summary>
 	</entry>
 
+	<entry>
+		<title>Lie</title>
+		<link href="https://github.com/calvinmetcalf/lie" />
+		<id>urn:uuid:294b0e20-07d5-11e3-a1b5-dff74eff8be7</id>
+		<updated>2013-08-18'T'07:09:07+00:00</updated>
+		<summary>A very small library for promises</summary>
+	</entry>
+
 
 </feed>
