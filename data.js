@@ -659,6 +659,14 @@ module.exports = [
   },
   */
   {
+    name: "expando-js",
+    github: "jtenner/expando-js",
+    tags: ["template", "emmet", "shorthand", "javascript"],
+    description: "A blazing fast HTML generation tool that expands shorthand into (X)HTML",
+    url: "https://github.com/jtenner/expando-js",
+    source: "https://raw.github.com/jtenner/expando-js/blob/master/expando.js"
+  },
+  {
     name: "Sly",
     tags: ["css"],
     description: "Sly is a query selector engine allowing you to select elements with CSS1, CSS2 & CSS3 selectors.",
