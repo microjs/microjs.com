@@ -2880,5 +2880,12 @@ module.exports = [
     description: "Promises/A+ micro library to help with asynchronous work flow.",
     url: "https://github.com/avoidwork/assure",
     source: "https://raw.github.com/avoidwork/assure/master/lib/assure.js"
+  },
+  {
+    name: "klud.js",
+    tags: ["testing", "unit test", "assert", "spy", "mock"],
+    description: "A minimal unit testing library.",
+    url: "https://bitbucket.org/zserge/klud.js/",
+    source: "https://bitbucket.org/zserge/klud.js/raw/default/klud.js"
   }
 ];
