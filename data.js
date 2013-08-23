@@ -2888,5 +2888,12 @@ module.exports = [
     description: "A very small library for promises",
     url: "https://github.com/calvinmetcalf/lie",
     source: "https://raw.github.com/calvinmetcalf/lie/master/dist/lie.js"
+  },
+  {
+    name: "klud.js",
+    tags: ["testing", "unit test", "assert", "spy", "mock"],
+    description: "A minimal unit testing library.",
+    url: "https://bitbucket.org/zserge/klud.js/",
+    source: "https://bitbucket.org/zserge/klud.js/raw/default/klud.js"
   }
 ];
