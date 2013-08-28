@@ -9,6 +9,14 @@
 
 module.exports = [
   {
+    name: "minivents",
+    github: "allouis/minivents",
+    tags: ["events"],
+    description: "A mini event library for Javascript applications",
+    url: "https://github.com/allouis/minivents",
+    source: "https://raw.github.com/allouis/minivents/master/events.min.js"
+  },
+  {
     name: "store",
     github: "nbubna/store",
     tags: ["localStorage", "sessionStorage", "JSON", "namespace", "API", "extensible"],
