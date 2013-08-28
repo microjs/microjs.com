@@ -2873,5 +2873,12 @@ var MicroJS = [
     description: "Promises/A+ micro library to help with asynchronous work flow.",
     url: "https://github.com/avoidwork/assure",
     source: "https://raw.github.com/avoidwork/assure/master/lib/assure.js"
+  },
+  {
+    name: "keysort",
+    tags: ["array", "object", "sort", "keys", "sql", "where"],
+    description: "Sorts an Array of Objects with SQL ORDER BY clause",
+    url: "https://github.com/avoidwork/keysort",
+    source: "https://raw.github.com/avoidwork/keysort/master/lib/keysort.js"
   }
 ];
