@@ -2888,5 +2888,13 @@ module.exports = [
     description: "Utility class to simplify use of timers created by setTimeout.",
     url: "https://github.com/gamtiq/chronoman",
     source: "https://raw.github.com/gamtiq/chronoman/master/dist/chronoman.js"
+  },
+  {
+    name: "basespace",
+    github: "gamtiq/basespace",
+    tags: ["namespace", "ns", "space", "object"],
+    description: "Functions to create namespaces inside objects.",
+    url: "https://github.com/gamtiq/basespace",
+    source: "https://raw.github.com/gamtiq/basespace/master/dist/basespace.js"
   }
 ];
