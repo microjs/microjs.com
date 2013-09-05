@@ -1718,7 +1718,7 @@ module.exports = [
     tags: ["DOM"],
     description: "A simple and fast DOM creation utility",
     url: "https://github.com/KoryNunn/crel",
-    source: "httpshttps://raw.github.com/KoryNunn/crel/master/crel.js"
+    source: "https://raw.github.com/KoryNunn/crel/master/crel.js"
   },
   {
     name: "mathmethods",
