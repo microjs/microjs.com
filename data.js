@@ -2896,5 +2896,13 @@ module.exports = [
     description: "Functions to create namespaces inside objects.",
     url: "https://github.com/gamtiq/basespace",
     source: "https://raw.github.com/gamtiq/basespace/master/dist/basespace.js"
+  },
+  {
+    name: "mixing",
+    github: "gamtiq/mixing",
+    tags: ["mix", "merge", "mixin", "object"],
+    description: "Functions to mix objects.",
+    url: "https://github.com/gamtiq/mixing",
+    source: "https://raw.github.com/gamtiq/mixing/master/dist/mixing.js"
   }
 ];
