@@ -3088,5 +3088,13 @@
 		<summary>Promises/A+ micro library to help with asynchronous work flow.</summary>
 	</entry>
 
+	<entry>
+		<title>easter.js</title>
+		<link href="https://github.com/rkrupinski/easter.js" />
+		<id>urn:uuid:e6041130-1a57-11e3-b475-815e2bef5256</id>
+		<updated>2013-09-10'T'20:30:22+00:00</updated>
+		<summary>Easter eggs made easy.</summary>
+	</entry>
+
 
 </feed>
