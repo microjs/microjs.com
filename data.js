@@ -1419,6 +1419,62 @@ module.exports = [
     source: "https://raw.github.com/deepsweet/microjungle/master/src/microjungle.js"
   },
   {
+    name: "Transe.js",
+    tags: ["scroll", "transform", "css", "ui", "creative", "color", "json", "responsive"],
+    description: "Transformable scroll elements (with mobile support)",
+    url: "https://github.com/yckart/Transe.js",
+    source: "https://raw.github.com/yckart/Transe.js/master/transe.js"
+  },
+  {
+    name: "CSSDyer.js",
+    tags: ["css", "color", "parse", "ui", "rgb", "rgba", "hex", "creative"],
+    description: "Create your very own css-color",
+    url: "https://github.com/yckart/CSSDyer.js",
+    source: "https://raw.github.com/yckart/CSSDyer.js/master/cssdyer.js"
+  },
+  {
+    name: "DragValue.js",
+    tags: ["ui", "input", "forms", "drag"],
+    description: "Change values by dragging it",
+    url: "https://github.com/yckart/DragValue.js",
+    source: "https://raw.github.com/yckart/DragValue.js/master/dragvalue.js"
+  },
+  {
+    name: "Curtain.js",
+    tags: ["curtain", "scroll", "transform", "position", "css", "responsive", "creative"],
+    description: "Scrolls up your curtain!",
+    url: "https://github.com/yckart/Curtain.js",
+    source: "https://raw.github.com/yckart/Curtain.js/master/curtain.js"
+  },
+  {
+    name: "imageMaps.js",
+    tags: ["responsive", "image", "usemap", "imagemap", "map", "area"],
+    description: "Responsive image maps to all browsers",
+    url: "https://github.com/yckart/imageMaps.js",
+    source: "https://raw.github.com/yckart/imageMaps.js/master/imagemaps.js"
+  },
+  {
+    name: "SpellChecker.js",
+    tags: ["spell-correction", "spell", "linguist", "language", "text"],
+    description: "A javascript spell-correction",
+    url: "https://github.com/yckart/SpellChecker",
+    source: "https://raw.github.com/yckart/SpellChecker/master/index.js"
+  },
+  {
+    name: "BinaryHeap.js",
+    tags: ["binary", "heap", "binaryheap", "data", "algorithm"],
+    description: "Binary Heap implementation in Javascript",
+    url: "https://github.com/yckart/BinaryHeap",
+    source: "https://raw.github.com/yckart/BinaryHeap/master/index.js"
+  },
+  {
+    name: "Undone.js",
+    tags: ["undo", "redo", "done", "ui", "functional"],
+    description: "The undo/redo manager for well formed javascript applications.",
+    url: "https://github.com/yckart/undone.js",
+    source: "https://raw.github.com/yckart/undone.js/master/undone.js"
+  },
+  {
     name: "environ",
     tags: ["feature"],
     description: "Cross platform environment detection library.",
