@@ -2880,5 +2880,12 @@ module.exports = [
     description: "Promises/A+ micro library to help with asynchronous work flow.",
     url: "https://github.com/avoidwork/assure",
     source: "https://raw.github.com/avoidwork/assure/master/lib/assure.js"
+  },
+  {
+    name: "henka",
+    tags: ["responsive", "respond", "media", "query", "media-query", "queries"],
+    description: "Light weight, portable, single purpose responsive javascript library.",
+    url: "https://github.com/toxigenicpoem/henka",
+    source: "https://raw.github.com/toxigenicpoem/henka/master/src/js/henka-src.js"
   }
 ];
