@@ -2880,5 +2880,12 @@ module.exports = [
     description: "Promises/A+ micro library to help with asynchronous work flow.",
     url: "https://github.com/avoidwork/assure",
     source: "https://raw.github.com/avoidwork/assure/master/lib/assure.js"
+  },
+  {
+    name: "rssi",
+    tags: ["interpolation", "string", "formatting", "template", "templating"],
+    description: "Ruby-like simple string interpolation for Node.js and browsers.",
+    url: "https://github.com/mvasilkov/rssi",
+    source: "https://raw.github.com/mvasilkov/rssi/master/rssi.js"
   }
 ];
