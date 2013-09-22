@@ -2880,5 +2880,12 @@ module.exports = [
     description: "Promises/A+ micro library to help with asynchronous work flow.",
     url: "https://github.com/avoidwork/assure",
     source: "https://raw.github.com/avoidwork/assure/master/lib/assure.js"
+  },
+  {
+    name: "trier.js",
+    tags: ["repeat", "retry", "predicate", "conditional", "invocation"],
+    description: "Because everyone loves a trier! Conditional and repeated task invocation for node and browser.",
+    url: "https://github.com/philbooth/trier.js",
+    source: "https://raw.github.com/philbooth/trier.js/master/src/trier.js"
   }
 ];
