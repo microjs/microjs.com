@@ -1842,6 +1842,14 @@ module.exports = [
     source: "https://raw.github.com/dperrymorrow/callbacks.js/master/callbacks.js"
   },
   {
+    name: "route-recognizer",
+    github: "tildeio/route-recognizer",
+    tags: ["path", "route", "modular library"],
+    description: "It's a lightweight JavaScript library that matches paths against registered routes. It includes support for dynamic and star segments and nested handlers.",
+    url: "https://github.com/tildeio/route-recognizer",
+    source: "https://raw.github.com/tildeio/route-recognizer/master/dist/route-recognizer.js"
+  },
+  {
     name: "Router.js",
     tags: ["routing", "rails"],
     url: "https://github.com/dperrymorrow/router.js",
