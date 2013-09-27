@@ -2368,6 +2368,14 @@ module.exports = [
     source: "https://raw.github.com/pb82/MissMatch/master/lib/MissMatch.js"
   },
   {
+    name: "Almond",
+    github: "jrburke/almond",
+    tags: ["amd", "loader", "module"],
+    description: "A minimal AMD API implementation for use after optimized builds.",
+    url: "https://github.com/jrburke/almond",
+    source: "https://raw.github.com/jrburke/almond/0.2.6/almond.js"
+  },
+  {
     name: "Rainbow",
     tags: ["dom", "syntax", "code", "highlighter"],
     description: "Simple, extendable code syntax highlighting library.",
