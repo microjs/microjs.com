@@ -2904,5 +2904,13 @@ module.exports = [
     description: "Functions to mix objects.",
     url: "https://github.com/gamtiq/mixing",
     source: "https://raw.github.com/gamtiq/mixing/master/dist/mixing.js"
+  },
+  {
+    name: "extend",
+    github: "gamtiq/extend",
+    tags: ["extend", "inherit", "prototype", "inheritance", "class"],
+    description: "Make one class (constructor function) inherited from another.",
+    url: "https://github.com/gamtiq/extend",
+    source: "https://raw.github.com/gamtiq/extend/master/dist/extend.js"
   }
 ];
