@@ -2880,5 +2880,12 @@ module.exports = [
     description: "Promises/A+ micro library to help with asynchronous work flow.",
     url: "https://github.com/avoidwork/assure",
     source: "https://raw.github.com/avoidwork/assure/master/lib/assure.js"
+  },
+  {
+    name: "gameloop.js",
+    tags: ["games"],
+    description: "Very simple library to create game loop.",
+    url: "https://github.com/arthesowy/gameloop.js",
+    source: "https://github.com/arthesowy/gameloop.js/blob/master/gameloop.js"
   }
 ];
