@@ -2880,5 +2880,12 @@ module.exports = [
     description: "Promises/A+ micro library to help with asynchronous work flow.",
     url: "https://github.com/avoidwork/assure",
     source: "https://raw.github.com/avoidwork/assure/master/lib/assure.js"
+  },
+  {
+    name: "FastActive",
+    tags: ["events", "mobile", "touch"],
+    description: "FastActive is a javascript snippet that makes websites and web apps feel as responsive as native apps on touch devices.",
+    url: "https://github.com/jonathanstark/FastActive",
+    source: "https://raw.github.com/jonathanstark/FastActive/master/FastActive.js"
   }
 ];

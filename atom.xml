@@ -3088,5 +3088,13 @@
 		<summary>Promises/A+ micro library to help with asynchronous work flow.</summary>
 	</entry>
 
+	<entry>
+		<title>FastActive</title>
+		<link href="https://github.com/jonathanstark/FastActive" />
+		<id>urn:uuid:9cd7a180-310d-11e3-9cd7-1bbe5ada54c3</id>
+		<updated>2013-10-09'T'18:06:25+00:00</updated>
+		<summary>FastActive is a javascript snippet that makes websites and web apps feel as responsive as native apps on touch devices.</summary>
+	</entry>
+
 
 </feed>
