@@ -3088,5 +3088,13 @@
 		<summary>Promises/A+ micro library to help with asynchronous work flow.</summary>
 	</entry>
 
+	<entry>
+		<title>JSONP</title>
+		<link href="https://github.com/larryosborn/JSONP" />
+		<id>urn:uuid:1ebd5f20-37f1-11e3-9f06-29008e35f30c</id>
+		<updated>2013-10-18'T'12:30:25+00:00</updated>
+		<summary>A slim JSONP request library for Javascript</summary>
+	</entry>
+
 
 </feed>
