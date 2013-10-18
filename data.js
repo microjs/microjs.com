@@ -2880,5 +2880,12 @@ module.exports = [
     description: "Promises/A+ micro library to help with asynchronous work flow.",
     url: "https://github.com/avoidwork/assure",
     source: "https://raw.github.com/avoidwork/assure/master/lib/assure.js"
+  },
+  {
+    name: "JSONP",
+    tags: ["jsonp", "asynchronous", "async"],
+    description: "A slim JSONP request library for Javascript",
+    url: "https://github.com/larryosborn/JSONP",
+    source: "https://raw.github.com/larryosborn/JSONP/master/dist/jsonp.js"
   }
 ];
