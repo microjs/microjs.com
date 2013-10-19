@@ -2354,5 +2354,21 @@
 		<summary>Missed AppKit component for entering and remembering hotkeys in the user defaults.</summary>
 	</entry>
 
+	<entry>
+		<title>ReactiveCocoa</title>
+		<link href="https://github.com/ReactiveCocoa/ReactiveCocoa" />
+		<id>urn:uuid:e3e1f760-390a-11e3-8956-ef603919f5eb</id>
+		<updated>2013-10-19'T'22:07:46Z</updated>
+		<summary>A framework for composing and transforming streams of values</summary>
+	</entry>
+
+	<entry>
+		<title>FastImageCache</title>
+		<link href="https://github.com/path/FastImageCache.git" />
+		<id>urn:uuid:e3e21e70-390a-11e3-8956-ef603919f5eb</id>
+		<updated>2013-10-19'T'22:07:46Z</updated>
+		<summary>iOS library for quickly displaying images while scrolling</summary>
+	</entry>
+
 
 </feed>
