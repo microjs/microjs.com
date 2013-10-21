@@ -342,5 +342,13 @@ var MicroJS = [
     description: "Missed AppKit component for entering and remembering hotkeys in the user defaults.",
     url: "https://github.com/shpakovski/MASShortcut",
     source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
+  },
+  {
+    name: "BloodMagic",
+    github: "railsware/BloodMagic",
+    tags: ["common", "dependency_injection"],
+    description: "Kind of custom property attributes",
+    url: "https://github.com/railsware/BloodMagic",
+    source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
   }
 ];
