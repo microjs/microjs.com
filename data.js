@@ -9,6 +9,22 @@
 
 var MicroJS = [
   {
+    name: "FastImageCache",
+    github: "path/FastImageCache",
+    tags: ["asyncimage"],
+    description: "iOS library for quickly displaying images while scrolling",
+    url: "https://github.com/path/FastImageCache.git",
+    source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
+  },
+  {
+    name: "ReactiveCocoa",
+    github: "ReactiveCocoa/ReactiveCocoa",
+    tags: ["reactive"],
+    description: "A framework for composing and transforming streams of values",
+    url: "https://github.com/ReactiveCocoa/ReactiveCocoa",
+    source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
+  },
+  {
     name: "CoreParse",
     github: "beelsebob/CoreParse",
     tags: ["parsing"],
