@@ -9,6 +9,118 @@
 
 module.exports = [
   {
+    name: "isbn-cover",
+    github: "eighttrackmind/isbn-cover",
+    tags: ["isbn", "cover", "book", "amazon", "picture", "photo", "image"],
+    description: "Get a book cover image from its ISBN",
+    url: "https://github.com/eighttrackmind/isbn-cover",
+    source: "https://raw.github.com/eighttrackmind/isbn-cover/master/isbn-cover.js"
+  },
+  {
+    name: "uxhr",
+    github: "eighttrackmind/uxhr",
+    tags: ["xhr", "ajax", "request", "get", "post", "put", "delete", "head", "XMLHttpRequest", "XMLHTTP"],
+    description: "The teeny tiny cross-browser XHR library - just 502 bytes gzipped!",
+    url: "https://github.com/eighttrackmind/uxhr",
+    source: "https://raw.github.com/eighttrackmind/uxhr/master/uxhr.js"
+  },
+  {
+    name: "umodel",
+    github: "eighttrackmind/umodel",
+    tags: ["map", "model", "mvc", "registry", "store", "storage", "key", "value", "deep", "backbone"],
+    description: "Tiny, generic, fully tested model.",
+    url: "https://github.com/eighttrackmind/umodel",
+    source: "https://raw.github.com/eighttrackmind/umodel/master/umodel.js"
+  },
+  {
+    name: "qtip",
+    github: "eighttrackmind/qtip",
+    tags: ["tooltip", "popup", "tip", "help", "hover", "ios", "android", "mobile", "interface", "ui"],
+    description: "pretty, mobile-friendly tooltips",
+    url: "https://github.com/eighttrackmind/qtip",
+    source: "https://raw.github.com/eighttrackmind/qtip/master/qtip.js"
+  },
+  {
+    name: "matrix-utilities",
+    github: "eighttrackmind/matrix-utilities",
+    tags: ["matrix", "flip", "identity", "css", "css3", "transform", "translate", "rotate", "skew", "perspective", "scale", "add", "multiply"],
+    description: "Tiny, high performance utilities for performing 2/3D matrix calculations. Full unit test coverage, compatible with Node/CommonJS, AMD, and browser globals.",
+    url: "https://github.com/eighttrackmind/matrix-utilities",
+    source: "https://raw.github.com/eighttrackmind/matrix-utilities/master/matrix-utilities.js"
+  },
+  {
+    name: "izzy",
+    github: "eighttrackmind/izzy",
+    tags: ["is", "type", "typeof", "instanceof", "instance", "type check", "string", "number", "defined", "array", "object", "boolean", "primitive"],
+    description: "A micro library for naive type checking",
+    url: "https://github.com/eighttrackmind/izzy",
+    source: "https://raw.github.com/eighttrackmind/izzy/master/izzy.js"
+  },
+  {
+    name: "tranny",
+    github: "eighttrackmind/tranny",
+    tags: ["transform", "3d", "css", "matrix", "identity", "multiply", "css3"],
+    description: "A little library for converting compound CSS transforms into their matrix equivalents",
+    url: "https://github.com/eighttrackmind/tranny",
+    source: "https://raw.github.com/eighttrackmind/tranny/master/tranny.standalone.js"
+  },
+  {
+    name: "transform-to-matrix",
+    github: "eighttrackmind/transform-to-matrix",
+    tags: ["matrix", "css", "css3", "transform", "translate", "rotate", "skew", "perspective", "scale"],
+    description: "A tiny library to get 2/3D matricies from CSS3 transform functions. Fully covered by unit tests, with support for AMD, CommonJS, Node, and browser globals.",
+    url: "https://github.com/eighttrackmind/transform-to-matrix",
+    source: "https://raw.github.com/eighttrackmind/transform-to-matrix/master/transform-to-matrix.js"
+  },
+  {
+    name: "textwidth",
+    github: "eighttrackmind/textwidth",
+    tags: ["compute", "width", "text", "offset", "render", "offsetWidth", "font"],
+    description: "Get some text's offsetWidth without rendering it in the DOM",
+    url: "https://github.com/eighttrackmind/textwidth",
+    source: "https://raw.github.com/eighttrackmind/textwidth/master/src/textwidth.js"
+  },
+  {
+    name: "penner",
+    github: "eighttrackmind/penner",
+    tags: ["easing", "ease", "transition", "tween", "animation", "css", "effects", "animationframe", "transform"],
+    description: "A library for Penner's easing equations.",
+    url: "https://github.com/eighttrackmind/penner",
+    source: "https://raw.github.com/eighttrackmind/penner/master/penner.js"
+  },
+  {
+    name: "annie",
+    github: "eighttrackmind/annie",
+    tags: ["animation", "css", "effects", "requestanimationframe", "animationframe", "performance", "vendor", "prefix", "transform", "3d"],
+    description: "A super tiny library for authoring cross-browser animations",
+    url: "https://github.com/eighttrackmind/annie",
+    source: "https://raw.github.com/eighttrackmind/annie/master/annie.js"
+  },
+  {
+    name: "draggable",
+    github: "eighttrackmind/draggable",
+    tags: ["drag", "drop", "drag and drop", "dragndrop", "move"],
+    description: "High performance, cross browser, full featured drag and drop in a tiny (2k gzipped) package",
+    url: "https://github.com/eighttrackmind/draggable",
+    source: "https://raw.github.com/eighttrackmind/draggable/master/src/draggable.js"
+  },
+  {
+    name: "Chart",
+    github: "eighttrackmind/Chart",
+    tags: ["chart", "graph", "bar", "diagram", "histogram"],
+    description: "Automatically generate bar charts from tables.",
+    url: "https://github.com/eighttrackmind/Chart",
+    source: "https://raw.github.com/eighttrackmind/Chart/master/Chart.js"
+  },
+  {
+    name: "Styled",
+    github: "eighttrackmind/Styled.js",
+    tags: ["select", "dropdown", "drop", "down", "ui", "interface", "box", "menu"],
+    description: "High performance, dependency free, cross-browser styled <select>'s",
+    url: "https://github.com/eighttrackmind/Styled.js",
+    source: "https://raw.github.com/eighttrackmind/Styled.js/master/javascripts/styled.js"
+  },
+  {
     name: "store",
     github: "nbubna/store",
     tags: ["localStorage", "sessionStorage", "JSON", "namespace", "API", "extensible"],
@@ -176,16 +288,6 @@ module.exports = [
     url: "https://github.com/hakubo/Sloth",
     source: "https://raw.github.com/hakubo/Sloth/master/sloth.max.js"
   },
-  /* gone ?
-  {
-    name: "fx.js",
-    github: "agilemd/Fx",
-    tags: ["animation", "animate", "CSS", "CSS3", "requestanimationframe", "animationframe", "transform", "hardware", "translate", "scale"],
-    description: "A tiny, high performance, fully cross browser, dependency free animation library for the modern web.",
-    url: "https://github.com/agilemd/Fx",
-    source: "https://raw.github.com/agilemd/Fx/master/src/fx.js"
-  },
-  */
   {
     name: "zoe.js",
     github: "zestjs/zoe",
