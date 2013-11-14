@@ -3088,5 +3088,117 @@
 		<summary>Promises/A+ micro library to help with asynchronous work flow.</summary>
 	</entry>
 
+	<entry>
+		<title>isbn-cover</title>
+		<link href="https://github.com/eighttrackmind/isbn-cover" />
+		<id>urn:uuid:2372c1d0-4ce2-11e3-9c09-5b2b5f837839</id>
+		<updated>2013-11-14'T'04:06:06+00:00</updated>
+		<summary>Get a book cover image from its ISBN</summary>
+	</entry>
+
+	<entry>
+		<title>qtip</title>
+		<link href="https://github.com/eighttrackmind/qtip" />
+		<id>urn:uuid:2372e8e0-4ce2-11e3-9c09-5b2b5f837839</id>
+		<updated>2013-11-14'T'04:06:06+00:00</updated>
+		<summary>pretty, mobile-friendly tooltips</summary>
+	</entry>
+
+	<entry>
+		<title>matrix-utilities</title>
+		<link href="https://github.com/eighttrackmind/matrix-utilities" />
+		<id>urn:uuid:23730ff0-4ce2-11e3-9c09-5b2b5f837839</id>
+		<updated>2013-11-14'T'04:06:06+00:00</updated>
+		<summary>Tiny, high performance utilities for performing 2/3D matrix calculations. Full unit test coverage, compatible with Node/CommonJS, AMD, and browser globals.</summary>
+	</entry>
+
+	<entry>
+		<title>izzy</title>
+		<link href="https://github.com/eighttrackmind/izzy" />
+		<id>urn:uuid:23730ff1-4ce2-11e3-9c09-5b2b5f837839</id>
+		<updated>2013-11-14'T'04:06:06+00:00</updated>
+		<summary>A micro library for naive type checking</summary>
+	</entry>
+
+	<entry>
+		<title>tranny</title>
+		<link href="https://github.com/eighttrackmind/tranny" />
+		<id>urn:uuid:23730ff2-4ce2-11e3-9c09-5b2b5f837839</id>
+		<updated>2013-11-14'T'04:06:06+00:00</updated>
+		<summary>A little library for converting compound CSS transforms into their matrix equivalents</summary>
+	</entry>
+
+	<entry>
+		<title>textwidth</title>
+		<link href="https://github.com/eighttrackmind/textwidth" />
+		<id>urn:uuid:23733700-4ce2-11e3-9c09-5b2b5f837839</id>
+		<updated>2013-11-14'T'04:06:06+00:00</updated>
+		<summary>Get some text&apos;s offsetWidth without rendering it in the DOM</summary>
+	</entry>
+
+	<entry>
+		<title>uxhr</title>
+		<link href="https://github.com/eighttrackmind/uxhr" />
+		<id>urn:uuid:23733701-4ce2-11e3-9c09-5b2b5f837839</id>
+		<updated>2013-11-14'T'04:06:06+00:00</updated>
+		<summary>The teeny tiny cross-browser XHR library - just 502 bytes gzipped!</summary>
+	</entry>
+
+	<entry>
+		<title>Chart</title>
+		<link href="https://github.com/eighttrackmind/Chart" />
+		<id>urn:uuid:23733702-4ce2-11e3-9c09-5b2b5f837839</id>
+		<updated>2013-11-14'T'04:06:06+00:00</updated>
+		<summary>Automatically generate bar charts from tables.</summary>
+	</entry>
+
+	<entry>
+		<title>umodel</title>
+		<link href="https://github.com/eighttrackmind/umodel" />
+		<id>urn:uuid:2373ac30-4ce2-11e3-9c09-5b2b5f837839</id>
+		<updated>2013-11-14'T'04:06:06+00:00</updated>
+		<summary>Tiny, generic, fully tested model.</summary>
+	</entry>
+
+	<entry>
+		<title>penner</title>
+		<link href="https://github.com/eighttrackmind/penner" />
+		<id>urn:uuid:2373ac31-4ce2-11e3-9c09-5b2b5f837839</id>
+		<updated>2013-11-14'T'04:06:06+00:00</updated>
+		<summary>A library for Penner&apos;s easing equations.</summary>
+	</entry>
+
+	<entry>
+		<title>transform-to-matrix</title>
+		<link href="https://github.com/eighttrackmind/transform-to-matrix" />
+		<id>urn:uuid:2373ac32-4ce2-11e3-9c09-5b2b5f837839</id>
+		<updated>2013-11-14'T'04:06:06+00:00</updated>
+		<summary>A tiny library to get 2/3D matricies from CSS3 transform functions. Fully covered by unit tests, with support for AMD, CommonJS, Node, and browser globals.</summary>
+	</entry>
+
+	<entry>
+		<title>annie</title>
+		<link href="https://github.com/eighttrackmind/annie" />
+		<id>urn:uuid:2373d340-4ce2-11e3-9c09-5b2b5f837839</id>
+		<updated>2013-11-14'T'04:06:06+00:00</updated>
+		<summary>A super tiny library for authoring cross-browser animations</summary>
+	</entry>
+
+	<entry>
+		<title>draggable</title>
+		<link href="https://github.com/eighttrackmind/draggable" />
+		<id>urn:uuid:23784010-4ce2-11e3-9c09-5b2b5f837839</id>
+		<updated>2013-11-14'T'04:06:06+00:00</updated>
+		<summary>High performance, cross browser, full featured drag and drop in a tiny (2k gzipped) package</summary>
+	</entry>
+
+	<entry>
+		<title>Styled</title>
+		<link href="https://github.com/eighttrackmind/Styled.js" />
+		<id>urn:uuid:2378dc50-4ce2-11e3-9c09-5b2b5f837839</id>
+		<updated>2013-11-14'T'04:06:06+00:00</updated>
+		<summary>High performance, dependency free, cross-browser styled &lt;select&gt;&apos;s</summary>
+	</entry>
+
 
 </feed>
