@@ -2880,5 +2880,14 @@ module.exports = [
     description: "Promises/A+ micro library to help with asynchronous work flow.",
     url: "https://github.com/avoidwork/assure",
     source: "https://raw.github.com/avoidwork/assure/master/lib/assure.js"
+  },
+  {
+    name: "Draggabilly",
+    tags: ["drag", "draganddrop", "drop", "draggable"],
+    description: "Make that shiz draggable.",
+    url: "https://github.com/desandro/draggabilly",
+    source: "https://raw.github.com/desandro/draggabilly/master/draggabilly.js"
   }
+  
+  
 ];
