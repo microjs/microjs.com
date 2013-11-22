@@ -2880,5 +2880,12 @@ module.exports = [
     description: "Promises/A+ micro library to help with asynchronous work flow.",
     url: "https://github.com/avoidwork/assure",
     source: "https://raw.github.com/avoidwork/assure/master/lib/assure.js"
+  },
+  {
+    name: "ResponsiveComments",
+    tags: ["responsive", "rwd", "conditional", "loading", "progressive", "enhancement"],
+    description: "A client-side solution to conditional loading.",
+    url: "http://responsivecomments.com/",
+    source: "https://raw.github.com/chambaz/ResponsiveComments/master/responsive-comments.js"
   }
 ];
