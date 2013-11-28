@@ -2880,5 +2880,12 @@ module.exports = [
     description: "Promises/A+ micro library to help with asynchronous work flow.",
     url: "https://github.com/avoidwork/assure",
     source: "https://raw.github.com/avoidwork/assure/master/lib/assure.js"
+  },
+  {
+    name: "jsonScript",
+    tags: ["games","content"],
+    description: "A damn small data manipulation engine.",
+    url: "https://github.com/Tapsi/jsonScript",
+    source: "https://raw.github.com/Tapsi/jsonScript/master/dist/jsonScript_runtime_1.0_min.js"
   }
 ];
