@@ -9,6 +9,14 @@
 
 module.exports = [
   {
+    name: "JsChannels",
+    github: "brophdawg11/JsChannels",
+    tags: ["Channels", "core.async", "async", "Promise", "Deferred", "Deferreds", "Promises"],
+    description: "A minimal JavaScript Channels library, inspired by Clojure's core.async.",
+    url: "https://github.com/brophdawg11/JsChannels",
+    source: "https://github.com/brophdawg11/JsChannels/blob/master/channel.min.js"
+  },
+  {
     name: "store",
     github: "nbubna/store",
     tags: ["localStorage", "sessionStorage", "JSON", "namespace", "API", "extensible"],
