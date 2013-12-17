@@ -9,6 +9,14 @@
 
 module.exports = [
   {
+    name: "tiptext.js",
+    github: "agamemnus/tiptext.js",
+    tags: ["mutation observers", "pretty", "dom", "tool tip", "tooltip", "tool tips", "tooltips", "floating tooltip", "floating tool tips", "floating tool tips"],
+    description: "A floating tooltip function, using mutation observers. Has 6 customizable callbacks!",
+    url: "https://github.com/agamemnus/tiptext.js",
+    source: "https://raw.github.com/agamemnus/tiptext.js/gh-pages/tiptext-1.0.js"
+  },
+  {
     name: "store",
     github: "nbubna/store",
     tags: ["localStorage", "sessionStorage", "JSON", "namespace", "API", "extensible"],
