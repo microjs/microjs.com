@@ -9,6 +9,14 @@
 
 module.exports = [
   {
+    name: "swiftclick",
+    github: "tmwagency/swiftclick",
+    tags: ["mobile", "touch", "events", "swiftclick"],
+    description: "SwiftClick is a library created to eliminate the 300ms click event delay on touch devices that support orientation change.",
+    url: "https://github.com/tmwagency/swiftclick",
+    source: "https://raw.github.com/tmwagency/swiftclick/master/js/libs/swiftclick.js"
+  },
+  {
     name: "store",
     github: "nbubna/store",
     tags: ["localStorage", "sessionStorage", "JSON", "namespace", "API", "extensible"],
