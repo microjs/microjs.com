@@ -81,6 +81,14 @@ module.exports = [
     source: "https://raw.github.com/cScarlson/SDB/master/SDB.js"
   },
   {
+    name: "Tempreites",
+    github: "fiatjaf/tempreites",
+    tags: ["templating"],
+    description: "Semantic templates. Binds data to HTML markup. Direto da roça for the browser and server, no DOM needed, just strings.",
+    url: "https://github.com/fiatjaf/tempreites",
+    source: "https://raw.github.com/fiatjaf/tempreites/master/dist/tempreites.js"
+  },
+  {
     name: "Miniscroll.js",
     github: "rogerluiz/Miniscroll-JS",
     tags: ["scrollbar", "touch", "desktop", "scroll"],
