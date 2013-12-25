@@ -14,7 +14,7 @@ module.exports = [
     tags: ["events"],
     description: "A mini event library for Javascript applications",
     url: "https://github.com/allouis/minivents",
-    source: "https://raw.github.com/allouis/minivents/master/events.min.js"
+    source: "https://raw.github.com/allouis/minivents/master/minivents.js"
   },
   {
     name: "store",
@@ -2841,7 +2841,6 @@ module.exports = [
     source: "https://raw.github.com/ryansmith94/Scorebook/master/src/core.js"
   },
   {
-<<<<<<< HEAD
     name: "Pledges",
     tags: ["promise", "pledge"],
     description: "A JavaScript micro-library that provides promise functionality.",
