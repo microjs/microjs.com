@@ -1978,6 +1978,14 @@ module.exports = [
     source: "https://raw.github.com/keithamus/jwerty/master/jwerty.js"
   },
   {
+    name: "Agility.js",
+    github: "arturadib/agility",
+    tags: ["MVC", "maintainable code", "development speed", "write less", "do more"],
+    description: "Agility is an MVC library for client-side Javascript that lets you write maintainable code without compromising on development speed. It's write less, do more with maintainability.",
+    url: "http://agilityjs.com",
+    source: "http://agilityjs.com/docs/agility.min.js"
+  },
+  {
     name: "konami.js",
     github: "SimonWaldherr/konami.js",
     tags: ["events", "input", "bind", "keypress"],
