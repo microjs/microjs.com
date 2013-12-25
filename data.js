@@ -587,6 +587,14 @@ module.exports = [
     source: "https://raw.github.com/devongovett/slang/master/slang.js"
   },
   {
+    name: "Rococo",
+    github: "schuttelaar/Rococo",
+    tags: ["mvc", "data", "functional", "events"],
+    description: "Rococo is a Micro Framework to create elegant and robust Javascript Applications.",
+    url: "http://rococojs.org/",
+    source: "https://raw.github.com/schuttelaar/Rococo/master/rococo.js"
+  },
+  {
     name: "Backbone",
     github: "jashkenas/backbone",
     tags: ["mvc", "data", "functional"],
