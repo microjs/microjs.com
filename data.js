@@ -22,7 +22,7 @@ module.exports = [
     tags: ["ajax", "streaming", "download", "json", "parser", "sax", "jsonpath", "http"],
     description: "Library for progressive parsing of ajax responses. Provides notification of objects found without waiting for the request to complete.",
     url: "https://github.com/jimhigson/oboe.js",
-    source: "https://raw.github.com/jimhigson/oboe.js/master/dist/oboe.js"
+    source: "https://raw.github.com/jimhigson/oboe.js/master/dist/oboe-browser.js"
   },
     {
     name: "webSqlSync.js",
@@ -94,7 +94,7 @@ module.exports = [
     tags: ["scrollbar", "touch", "desktop", "scroll"],
     description: "A simple scrollbar for desktop and mobile application using javascript. ",
     url: "https://github.com/rogerluiz/Miniscroll-JS",
-    source: "https://raw.github.com/rogerluiz/Miniscroll-JS/master/miniscroll.js"
+    source: "https://raw.github.com/rogerluiz/Miniscroll-JS/master/dist/miniscroll.js"
   },
   {
     name: "remove.js",
@@ -252,7 +252,7 @@ module.exports = [
     tags: ["polyfill", "min-width", "max-width", "Media Queries", "CSS3"],
     description: "A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more).",
     url: "https://github.com/scottjehl/Respond",
-    source: "https://raw.github.com/scottjehl/Respond/master/respond.src.js"
+    source: "https://raw.github.com/scottjehl/Respond/master/dest/respond.src.js"
   },
  {
     name: "miuri.js",
@@ -740,7 +740,7 @@ module.exports = [
     tags: ["templating"],
     description: "Bizarrely clean & simple syntax sugar for building HTML/XML strings",
     url: "http://jsfiddle.net/SubtleGradient/4W3RR/",
-    source: "https://raw.github.com/gist/278016/BuildSugar.SubtleGradient.js"
+    source: "https://gist.github.com/subtleGradient/278016/raw/BuildSugar.SubtleGradient.js"
   },
   {
     name: "Tweet-Templ",
@@ -1157,6 +1157,7 @@ module.exports = [
     source: "https://gist.github.com/marianoviola/1576277/raw/05536a8277e43da988863950a64fe88978f9d4d1/jXHR.js"
   },
   */
+  /* dead link
   {
     name: "Ekho",
     tags: ["events"],
@@ -1164,6 +1165,7 @@ module.exports = [
     url: "https://bitbucket.org/killdream/ekho",
     source: "https://bitbucket.org/killdream/ekho/raw/tip/src/ekho.js"
   },
+  */
   {
     name: "JSON.minify",
     tags: ["json"],
@@ -1199,6 +1201,7 @@ module.exports = [
     url: "http://formfactorjs.com",
     source: "https://raw.github.com/PaulKinlan/formfactor/master/formfactor.js"
   },
+  /* versioned source, versioned directories, wut?
   {
     name: "Head JS",
     tags: ["loader", "polyfill", "feature", "responsive"],
@@ -1206,6 +1209,7 @@ module.exports = [
     url: "http://headjs.com/",
     source: "https://raw.github.com/headjs/headjs/master/dist/head.js"
   },
+  */
   {
     name: "Augment.js",
     github: "olivernn/augment.js",
@@ -1890,7 +1894,7 @@ module.exports = [
     tags: ["list", "extend", "templating", "utils", "sort", "search", "filter"],
     description: "Add search, sort and flexibility to plain HTML lists (div, ul, table, everything!).",
     url: "http://listjs.com",
-    source: "https://raw.github.com/javve/list/master/src/list.js"
+    source: "https://raw.github.com/javve/list.js/master/dist/list.js"
   },
   {
     name: "Mediator.js",
@@ -1979,6 +1983,7 @@ module.exports = [
     url: "https://github.com/avoidwork/tiny-lru",
     source: "https://raw.github.com/avoidwork/tiny-lru/master/lib/tiny-lru.js"
   },
+  /* dead link
   {
     name: "bacon.js",
     tags: ["mobile" ],
@@ -1986,6 +1991,7 @@ module.exports = [
     url: "https://github.com/tgolen/bacon.js",
     source: "https://raw.github.com/tgolen/bacon.js/master/bacon.js"
   },
+  */
   {
     name: "JSON 3",
     github: "bestiejs/json3",
@@ -2096,7 +2102,7 @@ module.exports = [
     tags: ["text utility"],
     description: "A JavaScript utility for processing text.",
     url: "https://github.com/rodrigoalvesvieira/microtext.js/",
-    source: "https://raw.github.com/rodrigoalvesvieira/microtext.js/master/microtext.js"
+    source: "https://raw.github.com/rodrigoalvesvieira/microtext.js/master/src/microtext.js"
   },
   {
     name: "lostorage.js",
@@ -2211,8 +2217,8 @@ module.exports = [
     name: "jph.js",
     tags: ["jsonp", "network", "json", "manager", "loader"],
     description: "A JS module for managing many asynchronous and synchronous JSONP requests, responses, timeouts and errors.",
-    url: "https://github.com/nokia-entertainment/JSONPHandler",
-    source: "https://raw.github.com/nokia-entertainment/JSONPHandler/master/jph.js"
+    url: "https://github.com/mixradio/JSONPHandler",
+    source: "https://raw.github.com/mixradio/JSONPHandler/master/jph.js"
   },
   {
     name: "shotgun.js",
@@ -2299,7 +2305,7 @@ module.exports = [
     tags: ["events", "mobile", "touch", "multitouch"],
     description: "A tiny javascript library that can be used to control gestures on touch devices.",
     url: "http://eightmedia.github.io/hammer.js/",
-    source: "https://raw.github.com/EightMedia/hammer.js/master/dist/hammer.js"
+    source: "https://raw.github.com/EightMedia/hammer.js/master/hammer.js"
   },
   {
     name: "Probability.js",
@@ -2596,7 +2602,7 @@ module.exports = [
     tags: ["traits", "oop", "classes", "objects", "object composition"],
     description: "A small library to brew JavaScript objects.",
     url: "https://github.com/dfernandez79/barman",
-    source: "https://raw.github.com/dfernandez79/barman/master/src/barman.js"
+    source: "https://raw.github.com/dfernandez79/barman/master/dist/barman.js"
   },
   {
     name: "smoothScroll.js",
@@ -2741,7 +2747,7 @@ module.exports = [
     tags: ["dom", "selectors", "traversing", "library"],
     description: "micro DOM selector library that maps queries to native get commands",
     url: "https://github.com/james2doyle/saltjs",
-    source: "https://raw.github.com/james2doyle/saltjs/master/salt.js"
+    source: "https://raw.github.com/james2doyle/saltjs/master/js/salt.js"
   },
   {
     name: "defineObject",
@@ -2794,14 +2800,14 @@ module.exports = [
     tags: ["DOM manipulation", "animation", "cookies", "events", "HTTP requests"],
     description: "Minified.js is a client-side JavaScript library, comparable to jQuery and MooTools in scope. Its features include DOM manipulation, animation, events, cookies and HTTP requests",
     url: "http://minifiedjs.com/",
-    source: "http://minifiedjs.com/download/minified-web-src.noie.js"
+    source: "http://minifiedjs.com/download/minified-src.js"
   },
   {
     name: "spin.js",
     tags: ["spinning", "indicator", "loading", "spinner"],
     description: "A spinning activity indicator. An animated CSS3 loading spinner.",
     url: "http://fgnass.github.io/spin.js/",
-    source: "https://raw.github.com/fgnass/spin.js/gh-pages/dist/spin.js"
+    source: "http://fgnass.github.io/spin.js/spin.js"
   },
   {
     name: "Graph",
