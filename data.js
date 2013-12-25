@@ -121,6 +121,14 @@ module.exports = [
     source: "https://raw.github.com/scrapmac/snippets/master/remove.js/remove.js"
   },
   {
+    name: "Taggle.js",
+    github: "okcoker/taggle.js",
+    tags: ["tags", "input", "autocomplete"],
+    description: "Form-ready delicious style tagging library.",
+    url: "http://sean.is/poppin/tags",
+    source: "https://raw.github.com/okcoker/taggle.js/master/assets/js/taggle.js"
+  },
+  {
     name: "ImageFlip.js",
     github: "erf/ImageFlip.js",
     tags: ["slideshow", "images", "gallery", "collage"],
