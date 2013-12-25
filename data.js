@@ -9,6 +9,14 @@
 
 module.exports = [
   {
+    name: "fpscounter",
+    size: "1.0k",
+    tags: ["performance", "canvas"],
+    description: "Creates a very simple fps counter in a browser. Zero config by default, options available.",
+    url: "https://github.com/pete-otaqui/fpscounter",
+    source: "https://raw.github.com/pete-otaqui/fpscounter/master/fpscounter.js"
+  },
+  {
     name: "minivents",
     github: "allouis/minivents",
     tags: ["events"],
