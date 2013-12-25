@@ -3138,5 +3138,12 @@ module.exports = [
     description: "Very simple library to create game loop.",
     url: "https://github.com/arthesowy/gameloop.js",
     source: "https://raw.github.com/arthesowy/gameloop.js/master/gameloop.js"
-  }
+  },
+  {
+    name: "FastActive",
+    tags: ["events", "mobile", "touch"],
+    description: "FastActive is a javascript snippet that makes websites and web apps feel as responsive as native apps on touch devices.",
+    url: "https://github.com/jonathanstark/FastActive",
+    source: "https://raw.github.com/jonathanstark/FastActive/master/FastActive.js"
+   }
 ];
