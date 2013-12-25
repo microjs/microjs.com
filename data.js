@@ -9,6 +9,14 @@
 
 module.exports = [
   {
+    name: "minivents",
+    github: "allouis/minivents",
+    tags: ["events"],
+    description: "A mini event library for Javascript applications",
+    url: "https://github.com/allouis/minivents",
+    source: "https://raw.github.com/allouis/minivents/master/events.min.js"
+  },
+  {
     name: "store",
     github: "nbubna/store",
     tags: ["localStorage", "sessionStorage", "JSON", "namespace", "API", "extensible"],
@@ -2889,6 +2897,13 @@ module.exports = [
     description: "The core module of RaptorJS provides a lightweight module system that supports namespacing, AMD, class inheritance, mixins, enums and lazy initialization. Works in the browser and Node.js",
     url: "https://github.com/raptorjs/raptorjs",
     source: "http://raptorjs.org/dist/raptor.js"
+  },
+  {
+    name: "Lie",
+    tags: ["promise", "deferred","async"],
+    description: "A very small library for promises",
+    url: "https://github.com/calvinmetcalf/lie",
+    source: "https://raw.github.com/calvinmetcalf/lie/master/dist/lie.js"
   },
   {
     name: "assure.js",
