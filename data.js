@@ -672,7 +672,7 @@ module.exports = [
     tags: ["template", "emmet", "shorthand", "javascript"],
     description: "A blazing fast HTML generation tool that expands shorthand into (X)HTML",
     url: "https://github.com/jtenner/expando-js",
-    source: "https://raw.github.com/jtenner/expando-js/blob/master/expando.js"
+    source: "https://raw.github.com/jtenner/expando-js/master/expando.js"
   },
   {
     name: "Sly",
