@@ -2294,6 +2294,14 @@ module.exports = [
     source: "https://raw.github.com/bdougherty/BigScreen/master/bigscreen.js"
   },
   {
+    name: "SwipeMe",
+    github: "kinglozzer/SwipeMe",
+    tags: ["swipe", "menu", "navigation", "off-canvas", "off", "canvas"],
+    description: "A lightweight Javascript library for swiping open/close off-canvas menus.",
+    url: "http://kinglozzer.github.io/SwipeMe/demo/index.html",
+    source: "https://raw.github.com/kinglozzer/SwipeMe/master/swipeme.js"
+  },
+  {
     name: "string.js",
     tags: ["string", "language"],
     description: "string.js is a lightweight (< 4 kb minified and gzipped) JavaScript library for the browser or for Node.js that provides extra String methods.",
