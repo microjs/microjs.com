@@ -2931,5 +2931,12 @@ module.exports = [
     description: "A minimal unit testing library.",
     url: "https://bitbucket.org/zserge/klud.js/",
     source: "https://bitbucket.org/zserge/klud.js/raw/default/klud.js"
+  },
+  {
+    name: "callbacks.js",
+    tags: ["callbacks", "events", "event manager"],
+    description: "Callbacks library similar to jQuery's Callbacks. There's also an event manager that allows you to use on(), one(), off() and trigger()",
+    url: "https://github.com/adrianmiu/callbacks",
+    source: "https://raw.github.com/adrianmiu/callbacks/master/src/callbacks.js"
   }
 ];
