@@ -3071,5 +3071,12 @@ module.exports = [
     description: "Easter eggs made easy.",
     url: "https://github.com/rkrupinski/easter.js",
     source: "https://raw.github.com/rkrupinski/easter.js/master/easter.js"
-   }
+  },
+  {
+    name: "henka",
+    tags: ["responsive", "respond", "media", "query", "media-query", "queries"],
+    description: "Light weight, portable, single purpose responsive javascript library.",
+    url: "https://github.com/toxigenicpoem/henka",
+    source: "https://raw.github.com/toxigenicpoem/henka/master/src/js/henka-src.js"
+  }
 ];
