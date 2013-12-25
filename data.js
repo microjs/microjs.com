@@ -2985,5 +2985,12 @@ module.exports = [
     description: "Make one class (constructor function) inherited from another.",
     url: "https://github.com/gamtiq/extend",
     source: "https://raw.github.com/gamtiq/extend/master/dist/extend.js"
-  }
+  },
+  {
+    name: "easter.js",
+    tags: ["easter-egg", "keys", "sequence"],
+    description: "Easter eggs made easy.",
+    url: "https://github.com/rkrupinski/easter.js",
+    source: "https://raw.github.com/rkrupinski/easter.js/master/easter.js"
+   }
 ];
