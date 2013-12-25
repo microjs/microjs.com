@@ -14,4 +14,8 @@ config.quiet   = process.argv.indexOf('-q') > -1
 if (process.argv.indexOf('-s') > -1)
   return stats(config)
 
-ghAuth(config, main.bind(null, config))
+ghAuth(config, function (err) {
+  if (err)
+    throw err
+  main(config)
+})
