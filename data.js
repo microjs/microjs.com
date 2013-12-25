@@ -17,6 +17,14 @@ module.exports = [
     source: "https://raw.github.com/allouis/minivents/master/minivents.js"
   },
   {
+    name: "audioJS",
+    github: "evandrolg/audiojs",
+    tags: ["audio", "html5"],
+    description: "AudioJS is a agnostic and cross-browser lib to work easily with the AudioContext API of HTML5.",
+    url: "https://github.com/evandrolg/audiojs",
+    source: "https://raw.github.com/EvandroLG/audioJS/master/src/audio-js.js"
+  },
+  {
     name: "store",
     github: "nbubna/store",
     tags: ["localStorage", "sessionStorage", "JSON", "namespace", "API", "extensible"],
