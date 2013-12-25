@@ -113,6 +113,13 @@ module.exports = [
     source: "https://raw.github.com/cScarlson/SDB/master/SDB.js"
   },
   {
+    name: "detect-indent",
+    tags: ["indent", "indentation", "detect", "infer", "identify", "code", "string", "text", "source", "space", "tab"],
+    description: "Detect the indentation of code.",
+    url: "https://github.com/sindresorhus/detect-indent",
+    source: "https://raw.github.com/sindresorhus/detect-indent/master/detect-indent.js"
+  },
+  {
     name: "Miniscroll.js",
     github: "rogerluiz/Miniscroll-JS",
     tags: ["scrollbar", "touch", "desktop", "scroll"],
