@@ -1635,6 +1635,14 @@ module.exports = [
     source: "http://bestiejs.github.io/maddy/lib/maddy.js"
   },
   {
+    name: "backburner.js",
+    github: "ebryn/backburner.js",
+    tags: ["DOM manipulation", "tiny Ember.js", "loop"],
+    description: "A rewrite of the Ember.js run loop as a generic microlibrary.",
+    url: "https://github.com/ebryn/backburner.js",
+    source: "https://raw.github.com/ebryn/backburner.js/master/dist/backburner.js-0.1.0.js"
+  },
+  {
     name: "resistance",
     tags: ["async", "flow"],
     description: "A tiny javascript async flow control library.",
