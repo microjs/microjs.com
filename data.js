@@ -48,6 +48,14 @@ module.exports = [
     url: "https://github.com/orbitaloop/WebSqlSync",
     source: "https://raw.github.com/orbitaloop/WebSqlSync/master/client_src/webSqlSync.js"
   },
+    {
+    name: "webSqlSync.js",
+    github: "orbitaloop/WebSqlSync",
+    tags: ["websql", "sqlite", "synchronization", "sync", "sql", "web-sql", "database", "server"],
+    description: "Library to synchronize automatically a local WebSql database (SQLite on the browser) with your server",
+    url: "https://github.com/orbitaloop/WebSqlSync",
+    source: "https://raw.github.com/orbitaloop/WebSqlSync/master/client_src/webSqlSync.js"
+  },
   {
     name: "attach.js",
     github: "nicbell/attach.js",
