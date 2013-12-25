@@ -3078,5 +3078,12 @@ module.exports = [
     description: "Light weight, portable, single purpose responsive javascript library.",
     url: "https://github.com/toxigenicpoem/henka",
     source: "https://raw.github.com/toxigenicpoem/henka/master/src/js/henka-src.js"
+  },
+  {
+    name: "rssi",
+    tags: ["interpolation", "string", "formatting", "template", "templating"],
+    description: "Ruby-like simple string interpolation for Node.js and browsers.",
+    url: "https://github.com/mvasilkov/rssi",
+    source: "https://raw.github.com/mvasilkov/rssi/master/rssi.js"
   }
 ];
