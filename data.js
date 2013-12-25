@@ -279,6 +279,14 @@ module.exports = [
     source: "https://raw.github.com/radmen/miuri.js/master/lib/miuri.js"
  },
  {
+    name: "RSVP.js",
+    github: "tildeio/rsvp.js",
+    tags: ["Promises/A+", "asynchronous"],
+    description: "it is a tiny implementation of Promises/A+ and a mixin for turning objects into event targets. It works in node and the browser.",
+    url: "https://github.com/tildeio/rsvp.js",
+    source: "http://rsvpjs-builds.s3.amazonaws.com/rsvp-latest.js"
+  },
+ {
     name: "Chibi",
     github: "kylebarrow/chibi",
     tags: ["chibi", "framework"],
