@@ -542,6 +542,13 @@ module.exports = [
     source: "https://raw.github.com/bemson/GSet/master/src/gset.js"
   },
   {
+      name: "nTh",
+      tags: ["string", "numbers", "formatting", "language","text"],
+      description: "A micro-library to return ordinal suffixes from integers (ie: 1st, 2nd, 3rd, 7th of 9)",
+      url: "https://github.com/dperish/nTh.js",
+      source: "https://raw.github.com/dperish/nTh.js/master/nTh.js"
+  },
+  {
     name: "Slang",
     tags: ["string", "functional", "language"],
     description: "A collection of utility functions for strings",
