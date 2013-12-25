@@ -2938,5 +2938,37 @@ module.exports = [
     description: "Callbacks library similar to jQuery's Callbacks. There's also an event manager that allows you to use on(), one(), off() and trigger()",
     url: "https://github.com/adrianmiu/callbacks",
     source: "https://raw.github.com/adrianmiu/callbacks/master/src/callbacks.js"
+  },
+  {
+    name: "chronoman",
+    github: "gamtiq/chronoman",
+    tags: ["setTimeout", "setInterval", "timer", "timeout", "management", "utility"],
+    description: "Utility class to simplify use of timers created by setTimeout.",
+    url: "https://github.com/gamtiq/chronoman",
+    source: "https://raw.github.com/gamtiq/chronoman/master/dist/chronoman.js"
+  },
+  {
+    name: "basespace",
+    github: "gamtiq/basespace",
+    tags: ["namespace", "ns", "space", "object"],
+    description: "Functions to create namespaces inside objects.",
+    url: "https://github.com/gamtiq/basespace",
+    source: "https://raw.github.com/gamtiq/basespace/master/dist/basespace.js"
+  },
+  {
+    name: "mixing",
+    github: "gamtiq/mixing",
+    tags: ["mix", "merge", "mixin", "object"],
+    description: "Functions to mix objects.",
+    url: "https://github.com/gamtiq/mixing",
+    source: "https://raw.github.com/gamtiq/mixing/master/dist/mixing.js"
+  },
+  {
+    name: "extend",
+    github: "gamtiq/extend",
+    tags: ["extend", "inherit", "prototype", "inheritance", "class"],
+    description: "Make one class (constructor function) inherited from another.",
+    url: "https://github.com/gamtiq/extend",
+    source: "https://raw.github.com/gamtiq/extend/master/dist/extend.js"
   }
 ];
