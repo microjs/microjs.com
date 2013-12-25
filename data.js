@@ -2995,10 +2995,26 @@ module.exports = [
     source: "https://raw.github.com/gamtiq/extend/master/dist/extend.js"
   },
   {
+    name: "numgen",
+    github: "gamtiq/numgen",
+    tags: ["number", "sequence", "generator", "progression", "Fibonacci"],
+    description: "Creates objects that generate number sequences.",
+    url: "https://github.com/gamtiq/numgen",
+    source: "https://raw.github.com/gamtiq/numgen/master/dist/numgen.js"
+  },
+  {
+    name: "duratiform",
+    github: "gamtiq/duratiform",
+    tags: ["time", "duration", "divide", "separate", "decompose", "format", "millisecond"],
+    description: "Utility to separate into parts and to format time duration in milliseconds.",
+    url: "https://github.com/gamtiq/duratiform",
+    source: "https://raw.github.com/gamtiq/duratiform/master/dist/duratiform.js"
+  },
+  {
     name: "easter.js",
     tags: ["easter-egg", "keys", "sequence"],
     description: "Easter eggs made easy.",
     url: "https://github.com/rkrupinski/easter.js",
     source: "https://raw.github.com/rkrupinski/easter.js/master/easter.js"
-   }
+  }
 ];
