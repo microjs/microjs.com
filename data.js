@@ -1750,6 +1750,13 @@ module.exports = [
     source: ["https://raw.github.com/simonwaldherr/tinyOSF.js/master/tinyosf.js", "https://raw.github.com/SimonWaldherr/tinyOSF.js/master/tinyosf_exportmodules.js"]
   },
   {
+    name: "crel",
+    tags: ["DOM"],
+    description: "A simple and fast DOM creation utility",
+    url: "https://github.com/KoryNunn/crel",
+    source: "https://raw.github.com/KoryNunn/crel/master/crel.js"
+  },
+  {
     name: "mathmethods",
     tags: ["math", "language", "sugar"],
     description: "Give `Number.prototype` the `Math` methods it deserves.",
