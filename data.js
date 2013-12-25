@@ -3085,5 +3085,12 @@ module.exports = [
     description: "Ruby-like simple string interpolation for Node.js and browsers.",
     url: "https://github.com/mvasilkov/rssi",
     source: "https://raw.github.com/mvasilkov/rssi/master/rssi.js"
+  },
+  {
+    name: "trier.js",
+    tags: ["repeat", "retry", "predicate", "conditional", "invocation"],
+    description: "Because everyone loves a trier! Conditional and repeated task invocation for node and browser.",
+    url: "https://github.com/philbooth/trier.js",
+    source: "https://raw.github.com/philbooth/trier.js/master/src/trier.js"
   }
 ];
