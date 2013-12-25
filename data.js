@@ -3124,5 +3124,12 @@ module.exports = [
     description: "Because everyone loves a trier! Conditional and repeated task invocation for node and browser.",
     url: "https://github.com/philbooth/trier.js",
     source: "https://raw.github.com/philbooth/trier.js/master/src/trier.js"
+  },
+  {
+    name: "gameloop.js",
+    tags: ["games"],
+    description: "Very simple library to create game loop.",
+    url: "https://github.com/arthesowy/gameloop.js",
+    source: "https://raw.github.com/arthesowy/gameloop.js/master/gameloop.js"
   }
 ];
