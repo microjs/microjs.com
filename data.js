@@ -3183,5 +3183,12 @@ module.exports = [
     description: "A slim JSONP request library for Javascript",
     url: "https://github.com/larryosborn/JSONP",
     source: "https://raw.github.com/larryosborn/JSONP/master/dist/jsonp.js"
+  },
+  {
+    name: "ResponsiveComments",
+    tags: ["responsive", "rwd", "conditional", "loading", "progressive", "enhancement"],
+    description: "A client-side solution to conditional loading.",
+    url: "http://responsivecomments.com/",
+    source: "https://raw.github.com/chambaz/ResponsiveComments/master/responsive-comments.js"
   }
 ];
