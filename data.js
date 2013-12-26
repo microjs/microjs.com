@@ -2248,8 +2248,8 @@ module.exports = [
     name: "an.hour.ago",
     tags: ["dates", "times", "language", "sugar"],
     description: "DSL for expressing and comparing dates and times",
-    url: "https://bitbucket.org/davidchambers/an.hour.ago",
-    source: "https://bitbucket.org/davidchambers/an.hour.ago/raw/default/an.hour.ago.js"
+    url: "https://github.com/davidchambers/an.hour.ago",
+    source: "https://raw.github.com/davidchambers/an.hour.ago/master/lib/an.hour.ago.js"
   },
   {
     name: "JSDeferred",
