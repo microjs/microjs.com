@@ -3088,5 +3088,373 @@
 		<summary>Promises/A+ micro library to help with asynchronous work flow.</summary>
 	</entry>
 
+	<entry>
+		<title>fpscounter</title>
+		<link href="https://github.com/pete-otaqui/fpscounter" />
+		<id>urn:uuid:a199c6d0-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>Creates a very simple fps counter in a browser. Zero config by default, options available.</summary>
+	</entry>
+
+	<entry>
+		<title>minivents</title>
+		<link href="https://github.com/allouis/minivents" />
+		<id>urn:uuid:a1abc830-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>A mini event library for Javascript applications</summary>
+	</entry>
+
+	<entry>
+		<title>audioJS</title>
+		<link href="https://github.com/evandrolg/audiojs" />
+		<id>urn:uuid:a1b209c0-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>AudioJS is a agnostic and cross-browser lib to work easily with the AudioContext API of HTML5.</summary>
+	</entry>
+
+	<entry>
+		<title>CornerJS</title>
+		<link href="https://github.com/Jabher/cornerjs" />
+		<id>urn:uuid:a1c1c130-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>IE9+ Angular-style directives for binding events to adding, removing and modifying classes, attributes and tags of DOM elements. Includes MutationObserver and WeakMap IE9+ polyfills</summary>
+	</entry>
+
+	<entry>
+		<title>http.js</title>
+		<link href="https://github.com/nauman1225/http.js" />
+		<id>urn:uuid:a1e352f0-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>http.js is an object oriented javascript library for making http requests and ajax calls.</summary>
+	</entry>
+
+	<entry>
+		<title>JsChannels</title>
+		<link href="https://github.com/brophdawg11/JsChannels" />
+		<id>urn:uuid:a1e7bfc0-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>A minimal JavaScript Channels library, inspired by Clojure&apos;s core.async.</summary>
+	</entry>
+
+	<entry>
+		<title>swiftclick</title>
+		<link href="https://github.com/tmwagency/swiftclick" />
+		<id>urn:uuid:a1ee9d90-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>SwiftClick is a library created to eliminate the 300ms click event delay on touch devices that support orientation change.</summary>
+	</entry>
+
+	<entry>
+		<title>webSqlSync.js</title>
+		<link href="https://github.com/orbitaloop/WebSqlSync" />
+		<id>urn:uuid:a22b7f80-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>Library to synchronize automatically a local WebSql database (SQLite on the browser) with your server</summary>
+	</entry>
+
+	<entry>
+		<title>detect-indent</title>
+		<link href="https://github.com/sindresorhus/detect-indent" />
+		<id>urn:uuid:a30e6570-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>Detect the indentation of code.</summary>
+	</entry>
+
+	<entry>
+		<title>Tempreites</title>
+		<link href="https://github.com/fiatjaf/tempreites" />
+		<id>urn:uuid:a30eb390-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>Semantic templates. Binds data to HTML markup. Direto da roça for the browser and server, no DOM needed, just strings.</summary>
+	</entry>
+
+	<entry>
+		<title>Taggle.js</title>
+		<link href="http://sean.is/poppin/tags" />
+		<id>urn:uuid:a37341c0-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>Form-ready delicious style tagging library.</summary>
+	</entry>
+
+	<entry>
+		<title>RSVP.js</title>
+		<link href="https://github.com/tildeio/rsvp.js" />
+		<id>urn:uuid:a5580750-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>it is a tiny implementation of Promises/A+ and a mixin for turning objects into event targets. It works in node and the browser.</summary>
+	</entry>
+
+	<entry>
+		<title>TinyCore.js</title>
+		<link href="https://github.com/mawrkus/tinycore" />
+		<id>urn:uuid:a6d00150-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>A tiny JavaScript modular architecture library.</summary>
+	</entry>
+
+	<entry>
+		<title>nTh</title>
+		<link href="https://github.com/dperish/nTh.js" />
+		<id>urn:uuid:a76c4150-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>A micro-library to return ordinal suffixes from integers (ie: 1st, 2nd, 3rd, 7th of 9)</summary>
+	</entry>
+
+	<entry>
+		<title>Rococo</title>
+		<link href="http://rococojs.org/" />
+		<id>urn:uuid:a7928e00-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>Rococo is a Micro Framework to create elegant and robust Javascript Applications.</summary>
+	</entry>
+
+	<entry>
+		<title>expando-js</title>
+		<link href="https://github.com/jtenner/expando-js" />
+		<id>urn:uuid:a9a73d30-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>A blazing fast HTML generation tool that expands shorthand into (X)HTML</summary>
+	</entry>
+
+	<entry>
+		<title>Metamorph.js</title>
+		<link href="https://github.com/tomhuda/metamorph.js" />
+		<id>urn:uuid:b25e8820-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>Metamorph.js is a library that allows you to create a string of HTML, insert it into the DOM, and update the contents later. It works for normal cases, like inserting text into a &lt;p&gt; tag, and more complicated cases, like updating an &lt;li&gt; inside a &lt;ul&gt; or a &lt;tr&gt; inside a &lt;table&gt; (even after the &lt;tbody&gt; was automatically generated). The motivation for the Metamorph library is to make it possible for template engines to insert arbitrary content into a String of outputted HTML that they are generating with the ability to replace exactly that content later.</summary>
+	</entry>
+
+	<entry>
+		<title>Transe.js</title>
+		<link href="https://github.com/yckart/Transe.js" />
+		<id>urn:uuid:b2afdc70-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>Transformable scroll elements (with mobile support)</summary>
+	</entry>
+
+	<entry>
+		<title>CSSDyer.js</title>
+		<link href="https://github.com/yckart/CSSDyer.js" />
+		<id>urn:uuid:b2d45460-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>Create your very own css-color</summary>
+	</entry>
+
+	<entry>
+		<title>DragValue.js</title>
+		<link href="https://github.com/yckart/DragValue.js" />
+		<id>urn:uuid:b2f6f790-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>Change values by dragging it</summary>
+	</entry>
+
+	<entry>
+		<title>Curtain.js</title>
+		<link href="https://github.com/yckart/Curtain.js" />
+		<id>urn:uuid:b2fdfc70-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>Scrolls up your curtain!</summary>
+	</entry>
+
+	<entry>
+		<title>imageMaps.js</title>
+		<link href="https://github.com/yckart/imageMaps.js" />
+		<id>urn:uuid:b3202a70-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>Responsive image maps to all browsers</summary>
+	</entry>
+
+	<entry>
+		<title>SpellChecker.js</title>
+		<link href="https://github.com/yckart/SpellChecker" />
+		<id>urn:uuid:b330f350-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>A javascript spell-correction</summary>
+	</entry>
+
+	<entry>
+		<title>BinaryHeap.js</title>
+		<link href="https://github.com/yckart/BinaryHeap" />
+		<id>urn:uuid:b34565b0-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>Binary Heap implementation in Javascript</summary>
+	</entry>
+
+	<entry>
+		<title>Undone.js</title>
+		<link href="https://github.com/yckart/undone.js" />
+		<id>urn:uuid:b387ecf0-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>The undo/redo manager for well formed javascript applications.</summary>
+	</entry>
+
+	<entry>
+		<title>crel</title>
+		<link href="https://github.com/KoryNunn/crel" />
+		<id>urn:uuid:b68f1270-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>A simple and fast DOM creation utility</summary>
+	</entry>
+
+	<entry>
+		<title>route-recognizer</title>
+		<link href="https://github.com/tildeio/route-recognizer" />
+		<id>urn:uuid:b83680e0-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>It&apos;s a lightweight JavaScript library that matches paths against registered routes. It includes support for dynamic and star segments and nested handlers.</summary>
+	</entry>
+
+	<entry>
+		<title>SwipeMe</title>
+		<link href="http://kinglozzer.github.io/SwipeMe/demo/index.html" />
+		<id>urn:uuid:bc88c400-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>A lightweight Javascript library for swiping open/close off-canvas menus.</summary>
+	</entry>
+
+	<entry>
+		<title>keysort</title>
+		<link href="https://github.com/avoidwork/keysort" />
+		<id>urn:uuid:c4879460-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>Sorts an Array of Objects with SQL ORDER BY clause</summary>
+	</entry>
+
+	<entry>
+		<title>klud.js</title>
+		<link href="https://bitbucket.org/zserge/klud.js/" />
+		<id>urn:uuid:c4eebaa0-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>A minimal unit testing library.</summary>
+	</entry>
+
+	<entry>
+		<title>canvas-manipulation</title>
+		<link href="https://bitbucket.org/vogdb/canvas-manipulation" />
+		<id>urn:uuid:c4ff5c70-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>Enable you canvas with zoom, drag and rotate functionality</summary>
+	</entry>
+
+	<entry>
+		<title>basespace</title>
+		<link href="https://github.com/gamtiq/basespace" />
+		<id>urn:uuid:c536c020-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>Functions to create namespaces inside objects.</summary>
+	</entry>
+
+	<entry>
+		<title>extend</title>
+		<link href="https://github.com/gamtiq/extend" />
+		<id>urn:uuid:c540ab30-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>Make one class (constructor function) inherited from another.</summary>
+	</entry>
+
+	<entry>
+		<title>numgen</title>
+		<link href="https://github.com/gamtiq/numgen" />
+		<id>urn:uuid:c5593c40-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>Creates objects that generate number sequences.</summary>
+	</entry>
+
+	<entry>
+		<title>duratiform</title>
+		<link href="https://github.com/gamtiq/duratiform" />
+		<id>urn:uuid:c568a590-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>Utility to separate into parts and to format time duration in milliseconds.</summary>
+	</entry>
+
+	<entry>
+		<title>easter.js</title>
+		<link href="https://github.com/rkrupinski/easter.js" />
+		<id>urn:uuid:c57c2d90-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>Easter eggs made easy.</summary>
+	</entry>
+
+	<entry>
+		<title>henka</title>
+		<link href="https://github.com/toxigenicpoem/henka" />
+		<id>urn:uuid:c5977dc0-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>Light weight, portable, single purpose responsive javascript library.</summary>
+	</entry>
+
+	<entry>
+		<title>rssi</title>
+		<link href="https://github.com/mvasilkov/rssi" />
+		<id>urn:uuid:c59ab210-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>Ruby-like simple string interpolation for Node.js and browsers.</summary>
+	</entry>
+
+	<entry>
+		<title>trier.js</title>
+		<link href="https://github.com/philbooth/trier.js" />
+		<id>urn:uuid:c5b035e0-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>Because everyone loves a trier! Conditional and repeated task invocation for node and browser.</summary>
+	</entry>
+
+	<entry>
+		<title>FastActive</title>
+		<link href="https://github.com/jonathanstark/FastActive" />
+		<id>urn:uuid:c5c71940-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>FastActive is a javascript snippet that makes websites and web apps feel as responsive as native apps on touch devices.</summary>
+	</entry>
+
+	<entry>
+		<title>JSONP</title>
+		<link href="https://github.com/larryosborn/JSONP" />
+		<id>urn:uuid:c5d2b200-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>A slim JSONP request library for Javascript</summary>
+	</entry>
+
+	<entry>
+		<title>ResponsiveComments</title>
+		<link href="http://responsivecomments.com/" />
+		<id>urn:uuid:c5ea0a90-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>A client-side solution to conditional loading.</summary>
+	</entry>
+
+	<entry>
+		<title>chronoman</title>
+		<link href="https://github.com/gamtiq/chronoman" />
+		<id>urn:uuid:c66f1910-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>Utility class to simplify use of timers created by setTimeout.</summary>
+	</entry>
+
+	<entry>
+		<title>mixing</title>
+		<link href="https://github.com/gamtiq/mixing" />
+		<id>urn:uuid:c69f9ef0-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>Functions to mix objects.</summary>
+	</entry>
+
+	<entry>
+		<title>gameloop.js</title>
+		<link href="https://github.com/arthesowy/gameloop.js" />
+		<id>urn:uuid:c7b10ef0-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>Very simple library to create game loop.</summary>
+	</entry>
+
+	<entry>
+		<title>callbacks.js</title>
+		<link href="https://github.com/adrianmiu/callbacks" />
+		<id>urn:uuid:c7bd6b00-6dfd-11e3-aa29-e7cf89a4b8fc</id>
+		<updated>2013-12-26'T'07:16:24+00:00</updated>
+		<summary>Callbacks library similar to jQuery&apos;s Callbacks. There&apos;s also an event manager that allows you to use on(), one(), off() and trigger()</summary>
+	</entry>
+
 
 </feed>

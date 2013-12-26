@@ -14,7 +14,7 @@ module.exports = [
     tags: ["notification", "cross-browser", "namespace"],
     description: "Arrow is a small library for displaying a arrow pointing to the browser download location",
     url: "https://github.com/ConduitInc/ArrowJS",
-    source: "https://github.com/ConduitInc/ArrowJS/blob/master/src/js/arrow.js"
+    source: "https://raw.github.com/ConduitInc/ArrowJS/master/src/js/arrow.js"
   },
   {
     name: "fpscounter",
