@@ -3245,5 +3245,13 @@ module.exports = [
     description: "A client-side solution to conditional loading.",
     url: "http://responsivecomments.com/",
     source: "https://raw.github.com/chambaz/ResponsiveComments/master/responsive-comments.js"
+  },
+  {
+    name: "Sparklines",
+    size: "3.6k",
+    tags: ["sparkline", "sparklines", "tiny", "graph", "line", "spark", "chart"],
+    description: "Create sparkline graphs inline with the text. Good defaults, easy to customize.",
+    url: "https://github.com/mariusGundersen/sparkline",
+    source: "https://raw.github.com/mariusGundersen/sparkline/master/source/sparkline.js"
   }
 ];
