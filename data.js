@@ -3032,6 +3032,13 @@ module.exports = [
     source: "https://bitbucket.org/vogdb/i18n-text/raw/master/dist/i18nText.js"
   },
   {
+    name: "canvas-manipulation",
+    tags: ["canvas"],
+    description: "Enable you canvas with zoom, drag and rotate functionality",
+    url: "https://bitbucket.org/vogdb/canvas-manipulation",
+    source: "https://bitbucket.org/vogdb/canvas-manipulation/raw/master/dist/canvas-manipulation.js"
+  },
+  {
     name: "RaptorJS",
     tags: ["class", "inheritance", "extend", "amd", "prototype", "prototypal", "lazy"],
     description: "The core module of RaptorJS provides a lightweight module system that supports namespacing, AMD, class inheritance, mixins, enums and lazy initialization. Works in the browser and Node.js",
