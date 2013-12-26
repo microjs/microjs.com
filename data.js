@@ -46,7 +46,7 @@ module.exports = [
     tags: ["directives", "WeakMap", "MutationObserver"],
     description: "IE9+ Angular-style directives for binding events to adding, removing and modifying classes, attributes and tags of DOM elements. Includes MutationObserver and WeakMap IE9+ polyfills",
     url: "https://github.com/Jabher/cornerjs",
-    source: "https://github.com/Jabher/cornerjs/blob/master/src/corner.js"
+    source: "https://raw.github.com/Jabher/cornerjs/master/src/corner.js"
   },
   {
     name: "store",
