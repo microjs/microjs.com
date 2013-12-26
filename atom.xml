@@ -3456,5 +3456,13 @@
 		<summary>Callbacks library similar to jQuery&apos;s Callbacks. There&apos;s also an event manager that allows you to use on(), one(), off() and trigger()</summary>
 	</entry>
 
+	<entry>
+		<title>ArrowJS</title>
+		<link href="https://github.com/ConduitInc/ArrowJS" />
+		<id>urn:uuid:8cae49c0-6dfe-11e3-8805-b36d8dd59002</id>
+		<updated>2013-12-26'T'07:22:58+00:00</updated>
+		<summary>Arrow is a small library for displaying a arrow pointing to the browser download location</summary>
+	</entry>
+
 
 </feed>
