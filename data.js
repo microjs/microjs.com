@@ -49,6 +49,14 @@ module.exports = [
     source: "https://raw.github.com/Jabher/cornerjs/master/src/corner.js"
   },
   {
+    name: "http.js",
+    github: " nauman1225/http.js",
+    tags: ["http", "ajax", "rest"],
+    description: "http.js is an object oriented javascript library for making http requests and ajax calls.",
+    url: "https://github.com/nauman1225/http.js",
+    source: "https://raw.github.com/nauman1225/http.js/master/http.js"
+  },
+  {
     name: "store",
     github: "nbubna/store",
     tags: ["localStorage", "sessionStorage", "JSON", "namespace", "API", "extensible"],
