@@ -3160,5 +3160,12 @@ module.exports = [
     description: "FastActive is a javascript snippet that makes websites and web apps feel as responsive as native apps on touch devices.",
     url: "https://github.com/jonathanstark/FastActive",
     source: "https://raw.github.com/jonathanstark/FastActive/master/FastActive.js"
-   }
+  },
+  {
+    name: "JSONP",
+    tags: ["jsonp", "asynchronous", "async"],
+    description: "A slim JSONP request library for Javascript",
+    url: "https://github.com/larryosborn/JSONP",
+    source: "https://raw.github.com/larryosborn/JSONP/master/dist/jsonp.js"
+  }
 ];
