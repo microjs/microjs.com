@@ -50,7 +50,7 @@ module.exports = [
   },
   {
     name: "http.js",
-    github: " nauman1225/http.js",
+    github: "nauman1225/http.js",
     tags: ["http", "ajax", "rest"],
     description: "http.js is an object oriented javascript library for making http requests and ajax calls.",
     url: "https://github.com/nauman1225/http.js",
