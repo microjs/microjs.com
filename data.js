@@ -538,6 +538,13 @@ module.exports = [
     source: "https://raw.github.com/jeromeetienne/MicroCache.js/master/microcache.js"
   },
   {
+    name: "TinyCore.js",
+    tags: ["architecture","module","scalable","spa"],
+    description: "A tiny JavaScript modular architecture library.",
+    url: "https://github.com/mawrkus/tinycore",
+    source: "https://raw.github.com/mawrkus/tinycore/master/build/TinyCore.js"
+  },
+  {
     name: "microevent.js",
     tags: ["events", "node"],
     description: "event emitter for any javascript object for node and browser.",
