@@ -62,7 +62,7 @@ module.exports = [
     tags: ["Channels", "core.async", "async", "Promise", "Deferred", "Deferreds", "Promises"],
     description: "A minimal JavaScript Channels library, inspired by Clojure's core.async.",
     url: "https://github.com/brophdawg11/JsChannels",
-    source: "https://github.com/brophdawg11/JsChannels/blob/master/channel.min.js"
+    source: "https://raw.github.com/brophdawg11/JsChannels/master/channel.js"
   },
   {
     name: "store",
