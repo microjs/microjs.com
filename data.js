@@ -9,6 +9,14 @@
 
 module.exports = [
   {
+    name: "Automator.js",
+    github: "brophdawg11/Automator.js",
+    tags: ["Automation", "Unit testing", "Sequence", "User interaction"],
+    description: "A minimal JavaScript library for automating practically anything in Javascript.",
+    url: "https://github.com/brophdawg11/Automator.js",
+    source: "https://raw.github.com/brophdawg11/Automator.js/master/automator.js"
+  },
+  {
     name: "JsChannels",
     github: "brophdawg11/JsChannels",
     tags: ["Channels", "core.async", "async", "Promise", "Deferred", "Deferreds", "Promises"],
