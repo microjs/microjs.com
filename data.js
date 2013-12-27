@@ -8,7 +8,15 @@
 // See examples below.
 
 module.exports = [
- {
+  {
+    name: "Infect.js",
+    github: "amwmedia/Infect.js",
+    tags: ["dependency injection", "DI", "dependency", "injection", "dependency-free"],
+    description: "Infectiously simple dependency injection for any JavaScript project",
+    url: "https://github.com/amwmedia/infect.js",
+    source: "https://raw.github.com/amwmedia/infect.js/master/infect.min.js"
+  },
+  {
     name: "ArrowJS",
     github: "ConduitInc/ArrowJS",
     tags: ["notification", "cross-browser", "namespace"],
