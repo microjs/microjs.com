@@ -1538,7 +1538,7 @@ module.exports = [
     name: "Metamorph.js",
     gitub: "tomhuda/metamorph.js",
     tags: ["string", "HTML", "DOM"],
-    description: "Metamorph.js is a library that allows you to create a string of HTML, insert it into the DOM, and update the contents later. It works for normal cases, like inserting text into a <p> tag, and more complicated cases, like updating an <li> inside a <ul> or a <tr> inside a <table> (even after the <tbody> was automatically generated). The motivation for the Metamorph library is to make it possible for template engines to insert arbitrary content into a String of outputted HTML that they are generating with the ability to replace exactly that content later.",
+    description: "Metamorph.js is a library that allows you to create a string of HTML, insert it into the DOM, and update the contents later.",
     url: "https://github.com/tomhuda/metamorph.js",
     source: "https://raw.github.com/tomhuda/metamorph.js/master/lib/metamorph.js"
   },
