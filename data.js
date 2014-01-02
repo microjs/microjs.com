@@ -2880,5 +2880,12 @@ module.exports = [
     description: "Promises/A+ micro library to help with asynchronous work flow.",
     url: "https://github.com/avoidwork/assure",
     source: "https://raw.github.com/avoidwork/assure/master/lib/assure.js"
+  },
+  {
+    name: "preloadr.js",
+    tags: ["preload", "images"],
+    description: "Preload images, one after another if needed and callback when every image is ready and/or all of them",
+    url: "https://github.com/borisschapira/preloadr",
+    source: "https://raw.github.com/borisschapira/preloadr/master/preloadr.js"
   }
 ];
