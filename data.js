@@ -9,6 +9,14 @@
 
 module.exports = [
  {
+    name: "P",
+    github: "evandrolg/p",
+    tags: ["promise", "callback", "library", "functional"],
+    description: "It's an agnostic, cross-browser and very lightweight library to help you to work with Promise in JavaScript.",
+    url: "https://github.com/evandrolg/p",
+    source: "https://github.com/EvandroLG/P/blob/master/src/p.js"
+ },
+ {
     name: "ArrowJS",
     github: "ConduitInc/ArrowJS",
     tags: ["notification", "cross-browser", "namespace"],
