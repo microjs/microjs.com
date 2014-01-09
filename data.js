@@ -350,5 +350,13 @@ var MicroJS = [
     description: "Kind of custom property attributes",
     url: "https://github.com/railsware/BloodMagic",
     source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
+  },
+  {
+    name: "LanguageBridge",
+    github: "rilagan/LanguageBridge",
+    tags: ["common", "foundation"],
+    description: "Provides a familar api (for foundation classes) for those who are new to objective c, or for those looking for functionality similar to other languages.",
+    url: "https://github.com/rilagan/LanguageBridge",
+    source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
   }
 ];

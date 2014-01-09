@@ -2370,5 +2370,21 @@
 		<summary>iOS library for quickly displaying images while scrolling</summary>
 	</entry>
 
+	<entry>
+		<title>LanguageBridge</title>
+		<link href="https://github.com/rilagan/LanguageBridge" />
+		<id>urn:uuid:1a68c530-78e3-11e3-b590-2f57b80f9a50</id>
+		<updated>2014-01-09'T'04:04:07Z</updated>
+		<summary>Provides a familar api (for foundation classes) for those who are new to objective c, or for those looking for functionality similar to other languages.</summary>
+	</entry>
+
+	<entry>
+		<title>BloodMagic</title>
+		<link href="https://github.com/railsware/BloodMagic" />
+		<id>urn:uuid:1a6cbcd0-78e3-11e3-b590-2f57b80f9a50</id>
+		<updated>2014-01-09'T'04:04:07Z</updated>
+		<summary>Kind of custom property attributes</summary>
+	</entry>
+
 
 </feed>
