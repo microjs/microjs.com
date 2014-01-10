@@ -3245,5 +3245,13 @@ module.exports = [
     description: "A client-side solution to conditional loading.",
     url: "http://responsivecomments.com/",
     source: "https://raw.github.com/chambaz/ResponsiveComments/master/responsive-comments.js"
-  }
+  },
+  {
+     name: "Dom.js",
+     size: "10.0k",
+     tags: ["dom", "dom manipulation", "dom traversal", "dom events", "crossbrowser", "event", "traversal"," manipulation"],
+     description: "DOM.js is a lightweight, fast and cross browser library for DOM traversal, manipulation and event handling.",
+     url: "https://github.com/dkraczkowski/dom.js",
+     source: "https://github.com/dkraczkowski/dom.js/blob/master/src/dom.min.js"
+   }
 ];
