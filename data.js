@@ -3245,5 +3245,14 @@ module.exports = [
     description: "A client-side solution to conditional loading.",
     url: "http://responsivecomments.com/",
     source: "https://raw.github.com/chambaz/ResponsiveComments/master/responsive-comments.js"
+  },
+  {
+    name: "YoutubeDelayed.js",
+    size: "4.2k",
+    tags: ["youtube", "video", "loader"],
+    description: "A a small script which allows you to load youtube player on page only when the user wants to watch the video.",
+    url: "https://github.com/MAD-GooZe/YoutubeDelayed.js",
+    source: ["https://raw.github.com/MAD-GooZe/YoutubeDelayed.js/master/bin/YoutubeDelayed.min.css",
+             "https://raw.github.com/MAD-GooZe/YoutubeDelayed.js/master/bin/YoutubeDelayed.min.js"]
   }
 ];
