@@ -3245,5 +3245,12 @@ module.exports = [
     description: "A client-side solution to conditional loading.",
     url: "http://responsivecomments.com/",
     source: "https://raw.github.com/chambaz/ResponsiveComments/master/responsive-comments.js"
+  },
+  {
+    name: "Contra",
+    tags: ["async", "asynchronous", "flow", "events", "callbacks", "queue"],
+    description: "Tiny asynchronous flow control library.",
+    url: "https://github.com/bevacqua/contra",
+    source: "https://raw.github.com/bevacqua/contra/master/dist/contra.js"
   }
 ];
