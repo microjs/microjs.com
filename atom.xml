@@ -3464,5 +3464,13 @@
 		<summary>Arrow is a small library for displaying a arrow pointing to the browser download location</summary>
 	</entry>
 
+	<entry>
+		<title>jQuery Evergreen</title>
+		<link href="http://webpro.github.io/jquery-evergreen/" />
+		<id>urn:uuid:a9a4d570-82f4-11e3-a8e8-e3044aada4e6</id>
+		<updated>2014-01-21'T'23:34:49+00:00</updated>
+		<summary>Small and fast DOM and event library for modern browsers. It has the same familiar API as jQuery, and is lean &amp; mean with small, optional modules.</summary>
+	</entry>
+
 
 </feed>
