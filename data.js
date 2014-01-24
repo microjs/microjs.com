@@ -2245,6 +2245,14 @@ module.exports = [
     source: "https://raw.github.com/js-coder/cookie.js/gh-pages/cookie.js"
   },
   {
+    name: "Ordering.js",
+    github : "bbaliguet/ordering",
+    tags: ["sort", "sorting", "ordering", "arrays"],
+    description: "Helper to build sorting functions for array.sort()",
+    url: "https://github.com/bbaliguet/ordering",
+    source: "https://raw.github.com/bbaliguet/ordering/master/ordering.js"
+  }, 
+  {
     name: "an.hour.ago",
     tags: ["dates", "times", "language", "sugar"],
     description: "DSL for expressing and comparing dates and times",

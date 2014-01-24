@@ -3464,5 +3464,13 @@
 		<summary>Arrow is a small library for displaying a arrow pointing to the browser download location</summary>
 	</entry>
 
+	<entry>
+		<title>Ordering.js</title>
+		<link href="https://github.com/bbaliguet/ordering" />
+		<id>urn:uuid:480cbf50-8536-11e3-bb2f-21001bfd3bbd</id>
+		<updated>2014-01-24'T'20:29:05+00:00</updated>
+		<summary>Helper to build sorting functions for array.sort()</summary>
+	</entry>
+
 
 </feed>
