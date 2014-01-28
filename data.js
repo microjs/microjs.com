@@ -168,6 +168,15 @@ module.exports = [
     source: "https://raw.github.com/fiatjaf/tempreites/master/dist/tempreites.js"
   },
   {
+    name: "asynquence",
+    github: "getify/asynquence",
+    tags: ["async", "asynchronous", "control flow", "flow control"],
+    description: "asynchronous flow-control using sequences and gates",
+    url: "https://github.com/getify/asynquence",
+    source: ["https://rawnpm.getify.io/asynquence/latest/asq.src.js",
+             "https://rawnpm.getify.io/asynquence-contrib/latest/contrib.src.js"]
+  },
+  {
     name: "Miniscroll.js",
     github: "rogerluiz/Miniscroll-JS",
     tags: ["scrollbar", "touch", "desktop", "scroll"],

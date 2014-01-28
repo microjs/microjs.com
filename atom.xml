@@ -3464,5 +3464,13 @@
 		<summary>Arrow is a small library for displaying a arrow pointing to the browser download location</summary>
 	</entry>
 
+	<entry>
+		<title>asynquence</title>
+		<link href="https://github.com/getify/asynquence" />
+		<id>urn:uuid:8a568ee0-87ac-11e3-a8e7-8dbb56af5777</id>
+		<updated>2014-01-27'T'23:41:23+00:00</updated>
+		<summary>asynchronous flow-control using sequences and gates</summary>
+	</entry>
+
 
 </feed>
