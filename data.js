@@ -3245,5 +3245,12 @@ module.exports = [
     description: "A client-side solution to conditional loading.",
     url: "http://responsivecomments.com/",
     source: "https://raw.github.com/chambaz/ResponsiveComments/master/responsive-comments.js"
+  },
+  {
+    name: "psQuery",
+    tags: ["jQuery", "DOM", "ajax", "CSS"],
+    description: "A fast jQuery replacement library for DOM, ajax, and CSS. 2kb minified+gzipped. Supports IE8+.",
+    url: "https://github.com/pseudosavant/psQuery",
+    source: "https://raw.github.com/pseudosavant/psQuery/master/src/psQuery.js"
   }
 ];
