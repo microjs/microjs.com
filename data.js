@@ -9,12 +9,12 @@
 
 module.exports = [
  {
-    name: "bLazy",
+    name: "bLazyJS",
     github: "dinbror/blazy",
-    tags: ["lazy", "image", "retina", "responsive"],
-    description: "lazy loading and multi-serving (retina and responsive) image script",
+    tags: ["lazy", "lazyload", "image", "images", "retina", "responsive", "loader"],
+    description: "A lightweight script for lazy loading and multi-serving (retina and responsive) images",
     url: "http://dinbror.dk/blazy/",
-    source: "https://raw2.github.com/dinbror/blazy/master/blazy.js"
+    source: "https://raw.github.com/dinbror/blazy/master/blazy.js"
   },
  {
     name: "ArrowJS",
