@@ -9,6 +9,14 @@
 
 module.exports = [
  {
+    name: "bLazy",
+    github: "dinbror/blazy",
+    tags: ["lazy", "image", "retina", "responsive"],
+    description: "lazy loading and multi-serving (retina and responsive) image script",
+    url: "http://dinbror.dk/blazy/",
+    source: "https://raw2.github.com/dinbror/blazy/master/blazy.js"
+  },
+ {
     name: "ArrowJS",
     github: "ConduitInc/ArrowJS",
     tags: ["notification", "cross-browser", "namespace"],
