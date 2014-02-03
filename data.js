@@ -2001,6 +2001,13 @@ module.exports = [
     source: "https://raw.github.com/wavded/humane-js/master/humane.js"
   },
   {
+    name: "Web Worker Proxies",
+    tags: ["web", "worker", "proxies", "rpc", "remote", "procedure", "call"],
+    description: "Tiny implementation of RPC-style interfaces for web workers.",
+    url: "https://github.com/omphalos/web-worker-proxies",
+    source: "https://raw.github.com/omphalos/web-worker-proxies/master/web-worker-proxies.js"
+  },
+  {
     name: "JSFace",
     tags: ["oop", "language", "commonjs", "node", "class"],
     description: "Small, fast, elegant, powerful, and cross platform OOP library. Support singleton, super call, private, mixins, plugins, AOP and more.",
