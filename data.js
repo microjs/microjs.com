@@ -3359,5 +3359,12 @@ module.exports = [
     description: "Tiny asynchronous flow control library.",
     url: "https://github.com/bevacqua/contra",
     source: "https://raw.github.com/bevacqua/contra/master/dist/contra.js"
+  },
+  {
+    name: "preloadr.js",
+    tags: ["preload", "images"],
+    description: "Preload images, one after another if needed and callback when every image is ready and/or all of them",
+    url: "https://github.com/borisschapira/preloadr",
+    source: "https://raw.github.com/borisschapira/preloadr/master/preloadr.js"
   }
 ];
