@@ -744,6 +744,13 @@ module.exports = [
     source: "http://modernizr.com/downloads/modernizr-latest.js"
   },
   {
+    name: "Namespacer",
+    tags: ["namespace", "modules"],
+    description: "A simple library for creating namespaced objects in the browser.",
+    url: "https://github.com/sporto/namespacer.js",
+    source: "https://raw.github.com/sporto/namespacer.js/master/src/namespacer.js"
+  },
+  {
     name: "Zepto",
     tags: ["base", "dom", "webkit", "jquery", "ajax", "events", "mobile"],
     description: "jQuery API-compatible framework for modern web browsers. Optional Ajax, Events, Data and Touch modules.",

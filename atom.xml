@@ -3464,5 +3464,13 @@
 		<summary>Arrow is a small library for displaying a arrow pointing to the browser download location</summary>
 	</entry>
 
+	<entry>
+		<title>Namespacer</title>
+		<link href="https://github.com/sporto/namespacer.js" />
+		<id>urn:uuid:00da3da0-84b0-11e3-a922-27928969689b</id>
+		<updated>2014-01-24'T'04:23:19+00:00</updated>
+		<summary>A simple library for creating namespaced objects in the browser.</summary>
+	</entry>
+
 
 </feed>
