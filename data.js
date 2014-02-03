@@ -3316,5 +3316,12 @@ module.exports = [
     description: "The 1kb client-side MVP library. An incredibly fast, powerful yet tiny tool for building large scale web applications.",
     url: "https://moot.it/riotjs/",
     source: "https://raw2.github.com/moot/riotjs/master/riot.js"
+  },
+  {
+    name: "Contra",
+    tags: ["async", "asynchronous", "flow", "events", "callbacks", "queue"],
+    description: "Tiny asynchronous flow control library.",
+    url: "https://github.com/bevacqua/contra",
+    source: "https://raw.github.com/bevacqua/contra/master/dist/contra.js"
   }
 ];
