@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Microjs</title>
-  <subtitle>Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!</subtitle>
-  <link href="http://microjs.com/atom.xml" rel="self" />
-  <link href="http://microjs.com/" />
-  <id>urn:uuid:15dfd290-5830-11e1-be28-87435970e5ad</id>
-  <updated>2003-12-13T18:30:02Z</updated>
-  <author>
-    <name>Thomas Fuchs</name>
-  </author>
+	<title>Microjs</title>
+	<subtitle>Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!</subtitle>
+	<link href="http://microjs.com/atom.xml" rel="self" />
+	<link href="http://microjs.com/" />
+	<id>urn:uuid:15dfd290-5830-11e1-be28-87435970e5ad</id>
+	<updated>2003-12-13T18:30:02Z</updated>
+	<author>
+		<name>Thomas Fuchs</name>
+	</author>
 
 	<entry>
 		<title>Simplify.js</title>
@@ -1424,7 +1424,7 @@
 		<id>urn:uuid:11daea50-6711-11e1-85ca-438f8c211b62</id>
 		<updated>2012-03-05'T'22:17:51Z</updated>
 		<summary>Javascript mvc framework that is meant to help developers to write loosely-coupled applications to increase scalability and maintainability.</summary>
-  </entry>
+	</entry>
 
 	<entry>
 		<title>doT.js</title>
@@ -3462,14 +3462,6 @@
 		<id>urn:uuid:8cae49c0-6dfe-11e3-8805-b36d8dd59002</id>
 		<updated>2013-12-26'T'07:22:58+00:00</updated>
 		<summary>Arrow is a small library for displaying a arrow pointing to the browser download location</summary>
-	</entry>
-
-	<entry>
-		<title>Namespacer</title>
-		<link href="https://github.com/sporto/namespacer.js" />
-		<id>urn:uuid:00da3da0-84b0-11e3-a922-27928969689b</id>
-		<updated>2014-01-24'T'04:23:19+00:00</updated>
-		<summary>A simple library for creating namespaced objects in the browser.</summary>
 	</entry>
 
 

@@ -40,6 +40,7 @@ module.exports = [
     url: "https://github.com/steelbreeze/state_lite.js",
     source: "https://raw2.github.com/steelbreeze/state_lite.js/master/src/state_lite.js"
   },
+  {
     name: "ArrowJS",
     github: "ConduitInc/ArrowJS",
     tags: ["notification", "cross-browser", "namespace"],
@@ -49,7 +50,6 @@ module.exports = [
   },
   {
     name: "fpscounter",
-    size: "1.0k",
     tags: ["performance", "canvas"],
     description: "Creates a very simple fps counter in a browser. Zero config by default, options available.",
     url: "https://github.com/pete-otaqui/fpscounter",
@@ -3318,7 +3318,6 @@ module.exports = [
   },
   {
     name: "Sparklines",
-    size: "3.6k",
     tags: ["sparkline", "sparklines", "tiny", "graph", "line", "spark", "chart"],
     description: "Create sparkline graphs inline with the text. Good defaults, easy to customize.",
     url: "https://github.com/mariusGundersen/sparkline",
@@ -3326,7 +3325,6 @@ module.exports = [
   },
   {
     name: "YoutubeDelayed.js",
-    size: "4.2k",
     tags: ["youtube", "video", "loader"],
     description: "A a small script which allows you to load youtube player on page only when the user wants to watch the video.",
     url: "https://github.com/MAD-GooZe/YoutubeDelayed.js",
