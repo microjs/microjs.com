@@ -33,6 +33,13 @@ module.exports = [
     source: "https://github.com/EvandroLG/P/blob/master/src/p.js"
  },
  {
+    name: "state_lite",
+    github: "steelbreeze/state_lite.js",
+    tags: ["finite", "state", "machine"],
+    description: "Lightweight state machine library for JavaScript",
+    url: "https://github.com/steelbreeze/state_lite.js",
+    source: "https://raw2.github.com/steelbreeze/state_lite.js/master/src/state_lite.js"
+  },
     name: "ArrowJS",
     github: "ConduitInc/ArrowJS",
     tags: ["notification", "cross-browser", "namespace"],
