@@ -25,6 +25,22 @@ module.exports = [
     source: "https://raw.github.com/RubaXa/Sortable/master/Sortable.js"
   },
   {
+    name: "cryptofoo",
+    github: "SimonWaldherr/cryptofoo",
+    tags: ["hash", "hashing", "md5", "whirlpool"],
+    description: "A good compromise between speed and validity to hash strings",
+    url: "https://github.com/SimonWaldherr/cryptofoo",
+    source: "https://raw.github.com/SimonWaldherr/cryptofoo/master/cryptofoo.js"
+  },
+  {
+    name: "micromarkdown.js",
+    github: "SimonWaldherr/micromarkdown.js",
+    tags: ["markdown", "md", "html", "converter"],
+    description: "convert markdown to HTML in under 5kb",
+    url: "https://github.com/SimonWaldherr/micromarkdown.js",
+    source: "https://raw2.github.com/SimonWaldherr/micromarkdown.js/master/micromarkdown.js"
+  },
+  {
     name: "P",
     github: "evandrolg/p",
     tags: ["promise", "callback", "library", "functional"],
