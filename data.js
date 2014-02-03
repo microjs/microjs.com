@@ -3309,5 +3309,12 @@ module.exports = [
     url: "https://github.com/MAD-GooZe/YoutubeDelayed.js",
     source: ["https://raw.github.com/MAD-GooZe/YoutubeDelayed.js/master/bin/YoutubeDelayed.min.css",
              "https://raw.github.com/MAD-GooZe/YoutubeDelayed.js/master/bin/YoutubeDelayed.min.js"]
+  },
+  {
+    name: "Riot",
+    tags: ["router", "event handling", "template engine", "mvp", "framework", "fast", "tiny"],
+    description: "The 1kb client-side MVP library. An incredibly fast, powerful yet tiny tool for building large scale web applications.",
+    url: "https://moot.it/riotjs/",
+    source: "https://raw2.github.com/moot/riotjs/master/riot.js"
   }
 ];
