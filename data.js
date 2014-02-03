@@ -14,7 +14,7 @@ module.exports = [
     tags: ["dependency injection", "DI", "dependency", "injection", "dependency-free"],
     description: "Infectiously simple dependency injection for any JavaScript project",
     url: "https://github.com/amwmedia/infect.js",
-    source: "https://raw.github.com/amwmedia/infect.js/master/infect.min.js"
+    source: "https://raw2.github.com/amwmedia/infect.js/master/infect.js"
   },
   {
     name: "Sortable",
@@ -30,7 +30,7 @@ module.exports = [
     tags: ["promise", "callback", "library", "functional"],
     description: "It's an agnostic, cross-browser and very lightweight library to help you to work with Promise in JavaScript.",
     url: "https://github.com/evandrolg/p",
-    source: "https://github.com/EvandroLG/P/blob/master/src/p.js"
+    source: "https://raw2.github.com/EvandroLG/P/master/src/p.js"
  },
  {
     name: "state_lite",
@@ -204,7 +204,7 @@ module.exports = [
     tags: ["templating"],
     description: "Semantic templates. Binds data to HTML markup. Direto da roça for the browser and server, no DOM needed, just strings.",
     url: "https://github.com/fiatjaf/tempreites",
-    source: "https://raw.github.com/fiatjaf/tempreites/master/dist/tempreites.js"
+    source: "https://raw2.github.com/fiatjaf/tempreites/master/src/tempreites.js"
   },
   {
     name: "asynquence",
@@ -2566,12 +2566,12 @@ module.exports = [
     source: "https://raw.github.com/fschaefer/Stately.js/master/Stately.js"
   },
   {
-    name: "mmd.js",
-    github: "gmac/micro-module-definition",
+    name: "pods.js",
+    github: "gmac/pods.js",
     tags: ["module", "ioc", "di", "injection", "dependency", "framework"],
     description: "A tiny synchronous module definition and dependency management framework.",
-    url: "https://github.com/gmac/micro-module-definition",
-    source: "https://raw.github.com/gmac/micro-module-definition/master/mmd.js"
+    url: "https://github.com/gmac/pods.js",
+    source: "https://raw2.github.com/gmac/pods.js/master/pods.js"
   },
   {
     name: "Hammer.js",
@@ -3328,8 +3328,7 @@ module.exports = [
     tags: ["youtube", "video", "loader"],
     description: "A a small script which allows you to load youtube player on page only when the user wants to watch the video.",
     url: "https://github.com/MAD-GooZe/YoutubeDelayed.js",
-    source: ["https://raw.github.com/MAD-GooZe/YoutubeDelayed.js/master/bin/YoutubeDelayed.min.css",
-             "https://raw.github.com/MAD-GooZe/YoutubeDelayed.js/master/bin/YoutubeDelayed.min.js"]
+    source: "https://raw2.github.com/MAD-GooZe/YoutubeDelayed.js/master/YoutubeDelayed.js"
   },
   {
     name: "Riot",
