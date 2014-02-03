@@ -3576,5 +3576,21 @@
 		<summary>Tiny asynchronous flow control library.</summary>
 	</entry>
 
+	<entry>
+		<title>cryptofoo</title>
+		<link href="https://github.com/SimonWaldherr/cryptofoo" />
+		<id>urn:uuid:98188130-8c72-11e3-ba43-3b502b2ebae2</id>
+		<updated>2014-02-03'T'01:29:14+00:00</updated>
+		<summary>A good compromise between speed and validity to hash strings</summary>
+	</entry>
+
+	<entry>
+		<title>micromarkdown.js</title>
+		<link href="https://github.com/SimonWaldherr/micromarkdown.js" />
+		<id>urn:uuid:981e74a0-8c72-11e3-ba43-3b502b2ebae2</id>
+		<updated>2014-02-03'T'01:29:14+00:00</updated>
+		<summary>convert markdown to HTML in under 5kb</summary>
+	</entry>
+
 
 </feed>
