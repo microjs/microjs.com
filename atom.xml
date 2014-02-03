@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Microjs</title>
-  <subtitle>Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!</subtitle>
-  <link href="http://microjs.com/atom.xml" rel="self" />
-  <link href="http://microjs.com/" />
-  <id>urn:uuid:15dfd290-5830-11e1-be28-87435970e5ad</id>
-  <updated>2003-12-13T18:30:02Z</updated>
-  <author>
-    <name>Thomas Fuchs</name>
-  </author>
+	<title>Microjs</title>
+	<subtitle>Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!</subtitle>
+	<link href="http://microjs.com/atom.xml" rel="self" />
+	<link href="http://microjs.com/" />
+	<id>urn:uuid:15dfd290-5830-11e1-be28-87435970e5ad</id>
+	<updated>2003-12-13T18:30:02Z</updated>
+	<author>
+		<name>Thomas Fuchs</name>
+	</author>
 
 	<entry>
 		<title>Simplify.js</title>
@@ -1424,7 +1424,7 @@
 		<id>urn:uuid:11daea50-6711-11e1-85ca-438f8c211b62</id>
 		<updated>2012-03-05'T'22:17:51Z</updated>
 		<summary>Javascript mvc framework that is meant to help developers to write loosely-coupled applications to increase scalability and maintainability.</summary>
-  </entry>
+	</entry>
 
 	<entry>
 		<title>doT.js</title>
@@ -3465,10 +3465,138 @@
 	</entry>
 
 	<entry>
+		<title>Infect.js</title>
+		<link href="https://github.com/amwmedia/infect.js" />
+		<id>urn:uuid:44681590-8c6e-11e3-bdf6-f31143aefe4a</id>
+		<updated>2014-02-03'T'00:58:16+00:00</updated>
+		<summary>Infectiously simple dependency injection for any JavaScript project</summary>
+	</entry>
+
+	<entry>
+		<title>Sortable</title>
+		<link href="http://rubaxa.github.com/Sortable/" />
+		<id>urn:uuid:4472c3f0-8c6e-11e3-bdf6-f31143aefe4a</id>
+		<updated>2014-02-03'T'00:58:16+00:00</updated>
+		<summary>Sortable is a minimalist JavaScript library for modern browsers and touch devices. No jQuery.</summary>
+	</entry>
+
+	<entry>
+		<title>P</title>
+		<link href="https://github.com/evandrolg/p" />
+		<id>urn:uuid:447953a0-8c6e-11e3-bdf6-f31143aefe4a</id>
+		<updated>2014-02-03'T'00:58:16+00:00</updated>
+		<summary>It&apos;s an agnostic, cross-browser and very lightweight library to help you to work with Promise in JavaScript.</summary>
+	</entry>
+
+	<entry>
+		<title>state_lite</title>
+		<link href="https://github.com/steelbreeze/state_lite.js" />
+		<id>urn:uuid:44e42360-8c6e-11e3-bdf6-f31143aefe4a</id>
+		<updated>2014-02-03'T'00:58:16+00:00</updated>
+		<summary>Lightweight state machine library for JavaScript</summary>
+	</entry>
+
+	<entry>
+		<title>Automator.js</title>
+		<link href="https://github.com/brophdawg11/Automator.js" />
+		<id>urn:uuid:45154580-8c6e-11e3-bdf6-f31143aefe4a</id>
+		<updated>2014-02-03'T'00:58:16+00:00</updated>
+		<summary>A minimal JavaScript library for automating practically anything in Javascript.</summary>
+	</entry>
+
+	<entry>
+		<title>asynquence</title>
+		<link href="https://github.com/getify/asynquence" />
+		<id>urn:uuid:46b7d1f0-8c6e-11e3-bdf6-f31143aefe4a</id>
+		<updated>2014-02-03'T'00:58:16+00:00</updated>
+		<summary>asynchronous flow-control using sequences and gates</summary>
+	</entry>
+
+	<entry>
+		<title>Namespacer</title>
+		<link href="https://github.com/sporto/namespacer.js" />
+		<id>urn:uuid:4afe2e30-8c6e-11e3-bdf6-f31143aefe4a</id>
+		<updated>2014-02-03'T'00:58:16+00:00</updated>
+		<summary>A simple library for creating namespaced objects in the browser.</summary>
+	</entry>
+
+	<entry>
+		<title>Composer.js</title>
+		<link href="https://github.com/jtenner/Composer.js" />
+		<id>urn:uuid:4bb8a490-8c6e-11e3-bdf6-f31143aefe4a</id>
+		<updated>2014-02-03'T'00:58:16+00:00</updated>
+		<summary>Compose objects with the flavor of musical functions. Simply include Composer.js on your page.</summary>
+	</entry>
+
+	<entry>
+		<title>Web Worker Proxies</title>
+		<link href="https://github.com/omphalos/web-worker-proxies" />
+		<id>urn:uuid:562826d0-8c6e-11e3-bdf6-f31143aefe4a</id>
+		<updated>2014-02-03'T'00:58:16+00:00</updated>
+		<summary>Tiny implementation of RPC-style interfaces for web workers.</summary>
+	</entry>
+
+	<entry>
+		<title>pods.js</title>
+		<link href="https://github.com/gmac/pods.js" />
+		<id>urn:uuid:5af53f40-8c6e-11e3-bdf6-f31143aefe4a</id>
+		<updated>2014-02-03'T'00:58:16+00:00</updated>
+		<summary>A tiny synchronous module definition and dependency management framework.</summary>
+	</entry>
+
+	<entry>
+		<title>Sparklines</title>
+		<link href="https://github.com/mariusGundersen/sparkline" />
+		<id>urn:uuid:617f7100-8c6e-11e3-bdf6-f31143aefe4a</id>
+		<updated>2014-02-03'T'00:58:16+00:00</updated>
+		<summary>Create sparkline graphs inline with the text. Good defaults, easy to customize.</summary>
+	</entry>
+
+	<entry>
+		<title>YoutubeDelayed.js</title>
+		<link href="https://github.com/MAD-GooZe/YoutubeDelayed.js" />
+		<id>urn:uuid:617fe630-8c6e-11e3-bdf6-f31143aefe4a</id>
+		<updated>2014-02-03'T'00:58:16+00:00</updated>
+		<summary>A a small script which allows you to load youtube player on page only when the user wants to watch the video.</summary>
+	</entry>
+
+	<entry>
+		<title>Riot</title>
+		<link href="https://moot.it/riotjs/" />
+		<id>urn:uuid:618ba600-8c6e-11e3-bdf6-f31143aefe4a</id>
+		<updated>2014-02-03'T'00:58:16+00:00</updated>
+		<summary>The 1kb client-side MVP library. An incredibly fast, powerful yet tiny tool for building large scale web applications.</summary>
+	</entry>
+
+	<entry>
+		<title>Contra</title>
+		<link href="https://github.com/bevacqua/contra" />
+		<id>urn:uuid:618c9060-8c6e-11e3-bdf6-f31143aefe4a</id>
+		<updated>2014-02-03'T'00:58:16+00:00</updated>
+		<summary>Tiny asynchronous flow control library.</summary>
+	</entry>
+
+	<entry>
+		<title>cryptofoo</title>
+		<link href="https://github.com/SimonWaldherr/cryptofoo" />
+		<id>urn:uuid:98188130-8c72-11e3-ba43-3b502b2ebae2</id>
+		<updated>2014-02-03'T'01:29:14+00:00</updated>
+		<summary>A good compromise between speed and validity to hash strings</summary>
+	</entry>
+
+	<entry>
+		<title>micromarkdown.js</title>
+		<link href="https://github.com/SimonWaldherr/micromarkdown.js" />
+		<id>urn:uuid:981e74a0-8c72-11e3-ba43-3b502b2ebae2</id>
+		<updated>2014-02-03'T'01:29:14+00:00</updated>
+		<summary>convert markdown to HTML in under 5kb</summary>
+	</entry>
+
+	<entry>
 		<title>Ordering.js</title>
 		<link href="https://github.com/bbaliguet/ordering" />
-		<id>urn:uuid:480cbf50-8536-11e3-bb2f-21001bfd3bbd</id>
-		<updated>2014-01-24'T'20:29:05+00:00</updated>
+		<id>urn:uuid:3cd8a460-8d14-11e3-8000-a589fdaf37ab</id>
+		<updated>2014-02-03'T'20:45:56+00:00</updated>
 		<summary>Helper to build sorting functions for array.sort()</summary>
 	</entry>
 

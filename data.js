@@ -8,7 +8,55 @@
 // See examples below.
 
 module.exports = [
+  {
+    name: "Infect.js",
+    github: "amwmedia/Infect.js",
+    tags: ["dependency injection", "DI", "dependency", "injection", "dependency-free"],
+    description: "Infectiously simple dependency injection for any JavaScript project",
+    url: "https://github.com/amwmedia/infect.js",
+    source: "https://raw2.github.com/amwmedia/infect.js/master/infect.js"
+  },
+  {
+    name: "Sortable",
+    github: "RubaXa/Sortable",
+    tags: ["sortable", "dnd", "reorder", "drag", "touch"],
+    description: "Sortable is a minimalist JavaScript library for modern browsers and touch devices. No jQuery.",
+    url: "http://rubaxa.github.com/Sortable/",
+    source: "https://raw.github.com/RubaXa/Sortable/master/Sortable.js"
+  },
+  {
+    name: "cryptofoo",
+    github: "SimonWaldherr/cryptofoo",
+    tags: ["hash", "hashing", "md5", "whirlpool"],
+    description: "A good compromise between speed and validity to hash strings",
+    url: "https://github.com/SimonWaldherr/cryptofoo",
+    source: "https://raw.github.com/SimonWaldherr/cryptofoo/master/cryptofoo.js"
+  },
+  {
+    name: "micromarkdown.js",
+    github: "SimonWaldherr/micromarkdown.js",
+    tags: ["markdown", "md", "html", "converter"],
+    description: "convert markdown to HTML in under 5kb",
+    url: "https://github.com/SimonWaldherr/micromarkdown.js",
+    source: "https://raw2.github.com/SimonWaldherr/micromarkdown.js/master/micromarkdown.js"
+  },
+  {
+    name: "P",
+    github: "evandrolg/p",
+    tags: ["promise", "callback", "library", "functional"],
+    description: "It's an agnostic, cross-browser and very lightweight library to help you to work with Promise in JavaScript.",
+    url: "https://github.com/evandrolg/p",
+    source: "https://raw2.github.com/EvandroLG/P/master/src/p.js"
+ },
  {
+    name: "state_lite",
+    github: "steelbreeze/state_lite.js",
+    tags: ["finite", "state", "machine"],
+    description: "Lightweight state machine library for JavaScript",
+    url: "https://github.com/steelbreeze/state_lite.js",
+    source: "https://raw2.github.com/steelbreeze/state_lite.js/master/src/state_lite.js"
+  },
+  {
     name: "ArrowJS",
     github: "ConduitInc/ArrowJS",
     tags: ["notification", "cross-browser", "namespace"],
@@ -18,7 +66,6 @@ module.exports = [
   },
   {
     name: "fpscounter",
-    size: "1.0k",
     tags: ["performance", "canvas"],
     description: "Creates a very simple fps counter in a browser. Zero config by default, options available.",
     url: "https://github.com/pete-otaqui/fpscounter",
@@ -55,6 +102,14 @@ module.exports = [
     description: "http.js is an object oriented javascript library for making http requests and ajax calls.",
     url: "https://github.com/nauman1225/http.js",
     source: "https://raw.github.com/nauman1225/http.js/master/http.js"
+  },
+  {
+    name: "Automator.js",
+    github: "brophdawg11/Automator.js",
+    tags: ["Automation", "Unit testing", "Sequence", "User interaction"],
+    description: "A minimal JavaScript library for automating practically anything in Javascript.",
+    url: "https://github.com/brophdawg11/Automator.js",
+    source: "https://raw.github.com/brophdawg11/Automator.js/master/automator.js"
   },
   {
     name: "JsChannels",
@@ -165,7 +220,16 @@ module.exports = [
     tags: ["templating"],
     description: "Semantic templates. Binds data to HTML markup. Direto da roça for the browser and server, no DOM needed, just strings.",
     url: "https://github.com/fiatjaf/tempreites",
-    source: "https://raw.github.com/fiatjaf/tempreites/master/dist/tempreites.js"
+    source: "https://raw2.github.com/fiatjaf/tempreites/master/src/tempreites.js"
+  },
+  {
+    name: "asynquence",
+    github: "getify/asynquence",
+    tags: ["async", "asynchronous", "control flow", "flow control"],
+    description: "asynchronous flow-control using sequences and gates",
+    url: "https://github.com/getify/asynquence",
+    source: ["https://rawnpm.getify.io/asynquence/latest/asq.src.js",
+             "https://rawnpm.getify.io/asynquence-contrib/latest/contrib.src.js"]
   },
   {
     name: "Miniscroll.js",
@@ -712,6 +776,13 @@ module.exports = [
     source: "http://modernizr.com/downloads/modernizr-latest.js"
   },
   {
+    name: "Namespacer",
+    tags: ["namespace", "modules"],
+    description: "A simple library for creating namespaced objects in the browser.",
+    url: "https://github.com/sporto/namespacer.js",
+    source: "https://raw.github.com/sporto/namespacer.js/master/src/namespacer.js"
+  },
+  {
     name: "Zepto",
     tags: ["base", "dom", "webkit", "jquery", "ajax", "events", "mobile"],
     description: "jQuery API-compatible framework for modern web browsers. Optional Ajax, Events, Data and Touch modules.",
@@ -790,6 +861,14 @@ module.exports = [
     description: "A blazing fast HTML generation tool that expands shorthand into (X)HTML",
     url: "https://github.com/jtenner/expando-js",
     source: "https://raw.github.com/jtenner/expando-js/master/expando.js"
+  },
+  {
+    name: "Composer.js",
+    github: "jtenner/Composer.js",
+    tags: ["oo", "prototype","object", "composition", "mixin"],
+    description: "Compose objects with the flavor of musical functions. Simply include Composer.js on your page.",
+    url: "https://github.com/jtenner/Composer.js",
+    source: "https://raw.github.com/jtenner/Composer.js/master/Composer.js"
   },
   {
     name: "Sly",
@@ -2001,6 +2080,13 @@ module.exports = [
     source: "https://raw.github.com/wavded/humane-js/master/humane.js"
   },
   {
+    name: "Web Worker Proxies",
+    tags: ["web", "worker", "proxies", "rpc", "remote", "procedure", "call"],
+    description: "Tiny implementation of RPC-style interfaces for web workers.",
+    url: "https://github.com/omphalos/web-worker-proxies",
+    source: "https://raw.github.com/omphalos/web-worker-proxies/master/web-worker-proxies.js"
+  },
+  {
     name: "JSFace",
     tags: ["oop", "language", "commonjs", "node", "class"],
     description: "Small, fast, elegant, powerful, and cross platform OOP library. Support singleton, super call, private, mixins, plugins, AOP and more.",
@@ -2504,12 +2590,12 @@ module.exports = [
     source: "https://raw.github.com/fschaefer/Stately.js/master/Stately.js"
   },
   {
-    name: "mmd.js",
-    github: "gmac/micro-module-definition",
+    name: "pods.js",
+    github: "gmac/pods.js",
     tags: ["module", "ioc", "di", "injection", "dependency", "framework"],
     description: "A tiny synchronous module definition and dependency management framework.",
-    url: "https://github.com/gmac/micro-module-definition",
-    source: "https://raw.github.com/gmac/micro-module-definition/master/mmd.js"
+    url: "https://github.com/gmac/pods.js",
+    source: "https://raw2.github.com/gmac/pods.js/master/pods.js"
   },
   {
     name: "Hammer.js",
@@ -3253,5 +3339,33 @@ module.exports = [
     description: "A client-side solution to conditional loading.",
     url: "http://responsivecomments.com/",
     source: "https://raw.github.com/chambaz/ResponsiveComments/master/responsive-comments.js"
+  },
+  {
+    name: "Sparklines",
+    tags: ["sparkline", "sparklines", "tiny", "graph", "line", "spark", "chart"],
+    description: "Create sparkline graphs inline with the text. Good defaults, easy to customize.",
+    url: "https://github.com/mariusGundersen/sparkline",
+    source: "https://raw.github.com/mariusGundersen/sparkline/master/source/sparkline.js"
+  },
+  {
+    name: "YoutubeDelayed.js",
+    tags: ["youtube", "video", "loader"],
+    description: "A a small script which allows you to load youtube player on page only when the user wants to watch the video.",
+    url: "https://github.com/MAD-GooZe/YoutubeDelayed.js",
+    source: "https://raw2.github.com/MAD-GooZe/YoutubeDelayed.js/master/YoutubeDelayed.js"
+  },
+  {
+    name: "Riot",
+    tags: ["router", "event handling", "template engine", "mvp", "framework", "fast", "tiny"],
+    description: "The 1kb client-side MVP library. An incredibly fast, powerful yet tiny tool for building large scale web applications.",
+    url: "https://moot.it/riotjs/",
+    source: "https://raw2.github.com/moot/riotjs/master/riot.js"
+  },
+  {
+    name: "Contra",
+    tags: ["async", "asynchronous", "flow", "events", "callbacks", "queue"],
+    description: "Tiny asynchronous flow control library.",
+    url: "https://github.com/bevacqua/contra",
+    source: "https://raw.github.com/bevacqua/contra/master/dist/contra.js"
   }
 ];
