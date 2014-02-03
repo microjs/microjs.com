@@ -792,6 +792,14 @@ module.exports = [
     source: "https://raw.github.com/jtenner/expando-js/master/expando.js"
   },
   {
+    name: "Composer.js",
+    github: "jtenner/Composer.js",
+    tags: ["oo", "prototype","object", "composition", "mixin"],
+    description: "Compose objects with the flavor of musical functions. Simply include Composer.js on your page.",
+    url: "https://github.com/jtenner/Composer.js",
+    source: "https://raw.github.com/jtenner/Composer.js/master/Composer.js"
+  },
+  {
     name: "Sly",
     tags: ["css"],
     description: "Sly is a query selector engine allowing you to select elements with CSS1, CSS2 & CSS3 selectors.",
