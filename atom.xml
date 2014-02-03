@@ -3595,9 +3595,25 @@
 	<entry>
 		<title>Ordering.js</title>
 		<link href="https://github.com/bbaliguet/ordering" />
-		<id>urn:uuid:3cd8a460-8d14-11e3-8000-a589fdaf37ab</id>
-		<updated>2014-02-03'T'20:45:56+00:00</updated>
+		<id>urn:uuid:c033ce10-8d1f-11e3-bd62-07b19ab7cc68</id>
+		<updated>2014-02-03'T'22:08:06+00:00</updated>
 		<summary>Helper to build sorting functions for array.sort()</summary>
+	</entry>
+
+	<entry>
+		<title>preloadr.js</title>
+		<link href="https://github.com/borisschapira/preloadr" />
+		<id>urn:uuid:c843b570-8d1f-11e3-bd62-07b19ab7cc68</id>
+		<updated>2014-02-03'T'22:08:06+00:00</updated>
+		<summary>Preload images, one after another if needed and callback when every image is ready and/or all of them</summary>
+	</entry>
+
+	<entry>
+		<title>psQuery</title>
+		<link href="https://github.com/pseudosavant/psQuery" />
+		<id>urn:uuid:c8440390-8d1f-11e3-bd62-07b19ab7cc68</id>
+		<updated>2014-02-03'T'22:08:06+00:00</updated>
+		<summary>A fast jQuery replacement library for DOM, ajax, and CSS. 2kb minified+gzipped. Supports IE8+.</summary>
 	</entry>
 
 
