@@ -3300,5 +3300,14 @@ module.exports = [
     description: "Create sparkline graphs inline with the text. Good defaults, easy to customize.",
     url: "https://github.com/mariusGundersen/sparkline",
     source: "https://raw.github.com/mariusGundersen/sparkline/master/source/sparkline.js"
+  },
+  {
+    name: "YoutubeDelayed.js",
+    size: "4.2k",
+    tags: ["youtube", "video", "loader"],
+    description: "A a small script which allows you to load youtube player on page only when the user wants to watch the video.",
+    url: "https://github.com/MAD-GooZe/YoutubeDelayed.js",
+    source: ["https://raw.github.com/MAD-GooZe/YoutubeDelayed.js/master/bin/YoutubeDelayed.min.css",
+             "https://raw.github.com/MAD-GooZe/YoutubeDelayed.js/master/bin/YoutubeDelayed.min.js"]
   }
 ];
