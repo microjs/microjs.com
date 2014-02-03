@@ -17,6 +17,14 @@ module.exports = [
     source: "https://raw.github.com/amwmedia/infect.js/master/infect.min.js"
   },
   {
+    name: "Sortable",
+    github: "RubaXa/Sortable",
+    tags: ["sortable", "dnd", "reorder", "drag", "touch"],
+    description: "Sortable is a minimalist JavaScript library for modern browsers and touch devices. No jQuery.",
+    url: "http://rubaxa.github.com/Sortable/",
+    source: "https://raw.github.com/RubaXa/Sortable/master/Sortable.js"
+  },
+  {
     name: "ArrowJS",
     github: "ConduitInc/ArrowJS",
     tags: ["notification", "cross-browser", "namespace"],
