@@ -3592,5 +3592,13 @@
 		<summary>convert markdown to HTML in under 5kb</summary>
 	</entry>
 
+	<entry>
+		<title>Ordering.js</title>
+		<link href="https://github.com/bbaliguet/ordering" />
+		<id>urn:uuid:3cd8a460-8d14-11e3-8000-a589fdaf37ab</id>
+		<updated>2014-02-03'T'20:45:56+00:00</updated>
+		<summary>Helper to build sorting functions for array.sort()</summary>
+	</entry>
+
 
 </feed>
