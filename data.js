@@ -3374,5 +3374,12 @@ module.exports = [
     description: "Preload images, one after another if needed and callback when every image is ready and/or all of them",
     url: "https://github.com/borisschapira/preloadr",
     source: "https://raw.github.com/borisschapira/preloadr/master/preloadr.js"
+  },
+  {
+    name: "psQuery",
+    tags: ["jQuery", "DOM", "ajax", "CSS"],
+    description: "A fast jQuery replacement library for DOM, ajax, and CSS. 2kb minified+gzipped. Supports IE8+.",
+    url: "https://github.com/pseudosavant/psQuery",
+    source: "https://raw.github.com/pseudosavant/psQuery/master/src/psQuery.js"
   }
 ];
