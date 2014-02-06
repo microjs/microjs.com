@@ -3616,5 +3616,13 @@
 		<summary>A fast jQuery replacement library for DOM, ajax, and CSS. 2kb minified+gzipped. Supports IE8+.</summary>
 	</entry>
 
+	<entry>
+		<title>tinyrequire</title>
+		<link href="https://github.com/dunxrion/tinyrequire" />
+		<id>urn:uuid:0d9db930-8efc-11e3-8598-9172cc8dc2cf</id>
+		<updated>2014-02-06'T'06:57:47+00:00</updated>
+		<summary>To the point dependency management.</summary>
+	</entry>
+
 
 </feed>
