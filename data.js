@@ -140,7 +140,7 @@ module.exports = [
     github: "jimhigson/oboe.js",
     tags: ["ajax", "streaming", "download", "json", "parser", "sax", "jsonpath", "http"],
     description: "Library for progressive parsing of ajax responses. Provides notification of objects found without waiting for the request to complete.",
-    url: "https://github.com/jimhigson/oboe.js",
+    url: "http://oboejs.com",
     source: "https://raw.github.com/jimhigson/oboe.js/master/dist/oboe-browser.js"
   },
     {
