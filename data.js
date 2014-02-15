@@ -2337,7 +2337,7 @@ module.exports = [
     description: "Helper to build sorting functions for array.sort()",
     url: "https://github.com/bbaliguet/ordering",
     source: "https://raw.github.com/bbaliguet/ordering/master/ordering.js"
-  }, 
+  },
   {
     name: "an.hour.ago",
     tags: ["dates", "times", "language", "sugar"],
@@ -3381,5 +3381,12 @@ module.exports = [
     description: "A fast jQuery replacement library for DOM, ajax, and CSS. 2kb minified+gzipped. Supports IE8+.",
     url: "https://github.com/pseudosavant/psQuery",
     source: "https://raw.github.com/pseudosavant/psQuery/master/src/psQuery.js"
+  },
+  {
+    name: "VUnit",
+    tags: ["vw", "vh", "viewport", "CSS", "javascript"],
+    description: "A fast alternative for viewport-based dimensions. RIP vh and vw CSS units.",
+    url: "https://github.com/joaocunha/v-unit",
+    source: "https://github.com/joaocunha/v-unit/blob/master/v-unit.js"
   }
 ];
