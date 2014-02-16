@@ -762,6 +762,13 @@ module.exports = [
     source: "https://raw.github.com/thanpolas/ready.js/master/lib/ready.js"
   },
   {
+    name: "VUnit",
+    tags: ["vw", "vh", "viewport", "CSS", "javascript"],
+    description: "A fast alternative for viewport-relative dimensions. RIP buggy vh and vw CSS units.",
+    url: "https://github.com/joaocunha/v-unit",
+    source: "https://raw.github.com/joaocunha/v-unit/master/v-unit.js"
+  },
+  {
     name: "MinPubSub",
     tags: ["events", "pubsub"],
     description: "A publish/subscribe messaging framework",
@@ -2337,7 +2344,7 @@ module.exports = [
     description: "Helper to build sorting functions for array.sort()",
     url: "https://github.com/bbaliguet/ordering",
     source: "https://raw.github.com/bbaliguet/ordering/master/ordering.js"
-  }, 
+  },
   {
     name: "an.hour.ago",
     tags: ["dates", "times", "language", "sugar"],
