@@ -3616,5 +3616,13 @@
 		<summary>A fast jQuery replacement library for DOM, ajax, and CSS. 2kb minified+gzipped. Supports IE8+.</summary>
 	</entry>
 
+	<entry>
+		<title>VUnit</title>
+		<link href="https://github.com/joaocunha/v-unit" />
+		<id>urn:uuid:9055d690-96d2-11e3-919f-75b72446a637</id>
+		<updated>2014-02-16'T'06:21:05+00:00</updated>
+		<summary>A fast alternative for viewport-relative dimensions. RIP buggy vh and vw CSS units.</summary>
+	</entry>
+
 
 </feed>

@@ -762,6 +762,13 @@ module.exports = [
     source: "https://raw.github.com/thanpolas/ready.js/master/lib/ready.js"
   },
   {
+    name: "VUnit",
+    tags: ["vw", "vh", "viewport", "CSS", "javascript"],
+    description: "A fast alternative for viewport-relative dimensions. RIP buggy vh and vw CSS units.",
+    url: "https://github.com/joaocunha/v-unit",
+    source: "https://raw.github.com/joaocunha/v-unit/master/v-unit.js"
+  },
+  {
     name: "MinPubSub",
     tags: ["events", "pubsub"],
     description: "A publish/subscribe messaging framework",
@@ -3381,12 +3388,5 @@ module.exports = [
     description: "A fast jQuery replacement library for DOM, ajax, and CSS. 2kb minified+gzipped. Supports IE8+.",
     url: "https://github.com/pseudosavant/psQuery",
     source: "https://raw.github.com/pseudosavant/psQuery/master/src/psQuery.js"
-  },
-  {
-    name: "VUnit",
-    tags: ["vw", "vh", "viewport", "CSS", "javascript"],
-    description: "A fast alternative for viewport-based dimensions. RIP vh and vw CSS units.",
-    url: "https://github.com/joaocunha/v-unit",
-    source: "https://github.com/joaocunha/v-unit/blob/master/v-unit.js"
   }
 ];
