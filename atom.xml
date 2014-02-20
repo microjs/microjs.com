@@ -3616,5 +3616,13 @@
 		<summary>A fast jQuery replacement library for DOM, ajax, and CSS. 2kb minified+gzipped. Supports IE8+.</summary>
 	</entry>
 
+	<entry>
+		<title>extnd</title>
+		<link href="https://github.com/DominicTobias/extnd" />
+		<id>urn:uuid:396b2170-9a45-11e3-b39a-4da0576b87dc</id>
+		<updated>2014-02-20'T'15:39:10+00:00</updated>
+		<summary>Class system with clean implementation and multiple inheritance</summary>
+	</entry>
+
 
 </feed>
