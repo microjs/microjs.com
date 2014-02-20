@@ -1685,6 +1685,13 @@ module.exports = [
     source: "https://raw.github.com/yckart/SpellChecker/master/index.js"
   },
   {
+    name: "extnd",
+    tags: ["class", "inheritance", "multiple", "super", "extend"],
+    description: "Class system with clean implementation and multiple inheritance",
+    url: "https://github.com/DominicTobias/extnd",
+    source: "https://raw2.github.com/DominicTobias/extnd/master/extnd.js"
+  },
+  {
     name: "BinaryHeap.js",
     tags: ["binary", "heap", "binaryheap", "data", "algorithm"],
     description: "Binary Heap implementation in Javascript",
