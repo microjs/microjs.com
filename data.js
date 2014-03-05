@@ -3216,13 +3216,6 @@ module.exports = [
     source: "https://raw.github.com/avoidwork/keysort/master/lib/keysort.js"
   },
   {
-    name: "Lie",
-    tags: ["promise", "deferred","async"],
-    description: "A very small library for promises",
-    url: "https://github.com/calvinmetcalf/lie",
-    source: "https://raw.github.com/calvinmetcalf/lie/master/dist/lie.js"
-  },
-  {
     name: "klud.js",
     tags: ["testing", "unit test", "assert", "spy", "mock"],
     description: "A minimal unit testing library.",
