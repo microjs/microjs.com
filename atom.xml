@@ -3616,5 +3616,13 @@
 		<summary>A fast jQuery replacement library for DOM, ajax, and CSS. 2kb minified+gzipped. Supports IE8+.</summary>
 	</entry>
 
+	<entry>
+		<title>AsyncIterator</title>
+		<link href="https://github.com/aravindbaskaran/simple-async" />
+		<id>urn:uuid:74bc1170-a5db-11e3-b8af-c197dfa52f87</id>
+		<updated>2014-03-07'T'09:32:31+00:00</updated>
+		<summary>A very lightweight javascript library for async iteration. Callback-chain-free. Zero dependency.</summary>
+	</entry>
+
 
 </feed>
