@@ -3381,5 +3381,12 @@ module.exports = [
     description: "A fast jQuery replacement library for DOM, ajax, and CSS. 2kb minified+gzipped. Supports IE8+.",
     url: "https://github.com/pseudosavant/psQuery",
     source: "https://raw.github.com/pseudosavant/psQuery/master/src/psQuery.js"
+  },
+  {
+    name: "psColor",
+    tags: ["color", "canvas"],
+    description: "psColor is a small (~550 bytes minified+gzipped) JavaScript library for calculating the average color of an  <img> element in the browser.",
+    url: "https://github.com/pseudosavant/psColor",
+    source: "https://raw.github.com/pseudosavant/psColor/master/psColor.js"
   }
 ];
