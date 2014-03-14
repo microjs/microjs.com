@@ -3381,5 +3381,12 @@ module.exports = [
     description: "A fast jQuery replacement library for DOM, ajax, and CSS. 2kb minified+gzipped. Supports IE8+.",
     url: "https://github.com/pseudosavant/psQuery",
     source: "https://raw.github.com/pseudosavant/psQuery/master/src/psQuery.js"
+  },
+  {
+    name: "Nerve",
+    tags: ["async", "asynchronous", "channel", "route", "observer", "mediator", "events", "callbacks", "queue"],
+    description: "An asynchronous javascript micro framework for event broadcasts along routes and channels.",
+    url: "https://github.com/jstandish/nerve",
+    source: "https://raw.github.com/jstandish/nerve/master/nerve.js"
   }
 ];
