@@ -390,6 +390,14 @@ module.exports = [
     source: "https://raw.github.com/kaimallea/isMobile/master/isMobile.js"
   },
   {
+    name: "fuzzy.js",
+    github: "Extaze/fuzzy.js",
+    tags: ["search", "fuzzy", "filter"],
+    description: "Fuzzy.js is a fuzzy search algorithm in javascript",
+    url: "https://github.com/Extaze/fuzzy.js",
+    source: "https://raw.github.com/Extaze/fuzzy.js/master/fuzzy.js"
+  },
+  {
     name: "spooks.js",
     github: "philbooth/spooks.js",
     tags: ["unit test", "spy", "spies", "mock", "fake", "dummy", "double", "stub"],
