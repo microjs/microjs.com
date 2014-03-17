@@ -3381,5 +3381,12 @@ module.exports = [
     description: "A fast jQuery replacement library for DOM, ajax, and CSS. 2kb minified+gzipped. Supports IE8+.",
     url: "https://github.com/pseudosavant/psQuery",
     source: "https://raw.github.com/pseudosavant/psQuery/master/src/psQuery.js"
+  },
+  {
+    name: "ES5 Classes",
+    tags: ["classes", "inheritance"],
+    description: "Extensible constructor pattern inspired by Backbone.js",
+    url: "https://gist.github.com/dalgard/9169923",
+    source: "https://gist.githubusercontent.com/dalgard/9169923/raw/f0c1fc4584fb1a9416009840aa0465bddd8c1db9/class.js"
   }
 ];
