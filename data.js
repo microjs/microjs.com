@@ -65,6 +65,14 @@ module.exports = [
     source: "https://raw2.github.com/EvandroLG/P/master/src/p.js"
  },
  {
+    name: "MoaJS",
+    github: "Pencroff/MoaJs",
+    tags: ["class", "classes", "extend", "inheritance", "oop", "mixins"],
+    description: "ExtJs syntax for declaration object inheritance, mixins, static methods / properties / mixins, singleton declaration out of the box and less then 2kB minified JavaScript code.",
+    url: "https://github.com/Pencroff/MoaJs",
+    source: "https://raw.github.com/Pencroff/MoaJs/master/moa.dev.js"
+ },
+ {
     name: "state_lite",
     github: "steelbreeze/state_lite.js",
     tags: ["finite", "state", "machine"],
