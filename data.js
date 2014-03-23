@@ -112,6 +112,14 @@ module.exports = [
     source: "https://raw.github.com/allouis/minivents/master/minivents.js"
   },
   {
+    name: "Tipograph",
+    github: "nevyk/tipograph",
+    tags: ["typography", "type", "converter", "curly", "quotes", "dash"],
+    description: "Library which transforms your text input into typographically correct sequence of characters.",
+    url: "https://github.com/nevyk/tipograph",
+    source: "https://raw.github.com/nevyk/tipograph/master/src/replace.js"
+  },
+  {
     name: "audioJS",
     github: "evandrolg/audiojs",
     tags: ["audio", "html5"],
