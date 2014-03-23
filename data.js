@@ -101,8 +101,8 @@ module.exports = [
     github: "ConduitInc/ArrowJS",
     tags: ["notification", "cross-browser", "namespace"],
     description: "Arrow is a small library for displaying a arrow pointing to the browser download location",
-    url: "https://github.com/ConduitInc/ArrowJS",
-    source: "https://raw.github.com/ConduitInc/ArrowJS/master/src/js/arrow.js"
+    url: "https://github.com/Perion/ArrowJS",
+    source: "https://raw.github.com/Perion/ArrowJS/master/src/js/arrow.js"
   },
   {
     name: "fpscounter",
@@ -442,8 +442,8 @@ module.exports = [
     github: "dunxrion/tinyrequire",
     tags: ["modules", "loader", "require", "define", "dependency", "manager"],
     description: "To the point dependency management.",
-    url: "https://github.com/dunxrion/tinyrequire",
-    source: "https://raw2.github.com/dunxrion/tinyrequire/master/src/tinyrequire.js"
+    url: "https://github.com/adriancooney/tinyrequire",
+    source: "https://raw.github.com/adriancooney/tinyrequire/master/src/tinyrequire.js"
   },
   {
     name: "fuzzy.js",
@@ -1014,7 +1014,7 @@ module.exports = [
     tags: ["templating"],
     description: "Bizarrely clean & simple syntax sugar for building HTML/XML strings",
     url: "http://jsfiddle.net/SubtleGradient/4W3RR/",
-    source: "https://gist.github.com/subtleGradient/278016/raw/BuildSugar.SubtleGradient.js"
+    source: "https://gist.githubusercontent.com/subtleGradient/278016/raw/BuildSugar.SubtleGradient.js"
   },
   {
     name: "Tweet-Templ",
@@ -1163,7 +1163,7 @@ module.exports = [
     tags: ["functional", "events"],
     description: "when/defer-style promises for JavaScript (CommonJS/Promises/A,B,D)",
     url: "https://github.com/kriskowal/q",
-    source: "https://raw.github.com/kriskowal/q/master/q.js"
+    source: "https://raw.github.com/kriskowal/q/v1/q.js"
   },
   {
     name: "domReady",
@@ -1199,8 +1199,8 @@ module.exports = [
     name: "ES5-Shim",
     tags: ["language", "polyfill"],
     description: "Compatibility shims so that legacy JavaScript engines behave as closely as possible to ES5.",
-    url: "https://github.com/kriskowal/es5-shim/",
-    source: "https://raw.github.com/kriskowal/es5-shim/master/es5-shim.js"
+    url: "https://github.com/es-shims/es5-shim/",
+    source: "https://raw.github.com/es-shims/es5-shim/master/es5-shim.js"
   },
   {
     name: "es6-shim",
@@ -3264,7 +3264,7 @@ module.exports = [
     tags: ["i18n"],
     description: "A JavaScript library for i18n text messages.",
     url: "https://bitbucket.org/vogdb/i18n-text",
-    source: "https://bitbucket.org/vogdb/i18n-text/raw/master/dist/i18nText.js"
+    source: "https://bitbucket.org/vogdb/i18n-text/raw/master/dist/i18n-text.js"
   },
   {
     name: "canvas-manipulation",
@@ -3473,6 +3473,6 @@ module.exports = [
     tags: ["machine learning", "decision tree", "classifier"],
     description: "Tiny library for building Decision Tree and Random Forest classifiers.",
     url: "https://github.com/lagodiuk/decision-tree-js",
-    source: "https://raw.github.com/lagodiuk/decision-tree-js/master/decision-tree-min.js"
+    source: "https://raw.github.com/lagodiuk/decision-tree-js/master/decision-tree.js"
   }
 ];
