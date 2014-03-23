@@ -3405,5 +3405,12 @@ module.exports = [
     description: "A fast jQuery replacement library for DOM, ajax, and CSS. 2kb minified+gzipped. Supports IE8+.",
     url: "https://github.com/pseudosavant/psQuery",
     source: "https://raw.github.com/pseudosavant/psQuery/master/src/psQuery.js"
+  },
+    {
+    name: "decision-tree.js",
+    tags: ["machine learning", "decision tree", "classifier"],
+    description: "Tiny library for building Decision Tree and Random Forest classifiers.",
+    url: "https://github.com/lagodiuk/decision-tree-js",
+    source: "https://raw.github.com/lagodiuk/decision-tree-js/master/decision-tree-min.js"
   }
 ];
