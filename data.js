@@ -33,6 +33,14 @@ module.exports = [
     source: "https://raw.github.com/RubaXa/Sortable/master/Sortable.js"
   },
   {
+    name: "AsyncIterator",
+    github: "aravindbaskaran/simple-async",
+    tags: ["async", "iterate", "callback"],
+    description: "A very lightweight javascript library for async iteration. Callback-chain-free. Zero dependency.",
+    url: "https://github.com/aravindbaskaran/simple-async",
+    source: "https://raw.github.com/aravindbaskaran/simple-async/master/asynciterator.js"
+  },
+  {
     name: "cryptofoo",
     github: "SimonWaldherr/cryptofoo",
     tags: ["hash", "hashing", "md5", "whirlpool"],
