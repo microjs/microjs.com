@@ -3624,5 +3624,101 @@
 		<summary>To the point dependency management.</summary>
 	</entry>
 
+	<entry>
+		<title>Feed</title>
+		<link href="https://github.com/evandrolg/Feed" />
+		<id>urn:uuid:0a354310-b299-11e3-9d17-6f6bc59185fb</id>
+		<updated>2014-03-23'T'14:40:11+00:00</updated>
+		<summary>A client-side library that work like a Feed Reader, returning all datas of a post - title, text, link, etc</summary>
+	</entry>
+
+	<entry>
+		<title>AsyncIterator</title>
+		<link href="https://github.com/aravindbaskaran/simple-async" />
+		<id>urn:uuid:0a356a20-b299-11e3-9d17-6f6bc59185fb</id>
+		<updated>2014-03-23'T'14:40:11+00:00</updated>
+		<summary>A very lightweight javascript library for async iteration. Callback-chain-free. Zero dependency.</summary>
+	</entry>
+
+	<entry>
+		<title>MoaJS</title>
+		<link href="https://github.com/Pencroff/MoaJs" />
+		<id>urn:uuid:0a46cf40-b299-11e3-9d17-6f6bc59185fb</id>
+		<updated>2014-03-23'T'14:40:11+00:00</updated>
+		<summary>ExtJs syntax for declaration object inheritance, mixins, static methods / properties / mixins, singleton declaration out of the box and less then 2kB minified JavaScript code.</summary>
+	</entry>
+
+	<entry>
+		<title>bLazyJS</title>
+		<link href="http://dinbror.dk/blazy/" />
+		<id>urn:uuid:0a85fb20-b299-11e3-9d17-6f6bc59185fb</id>
+		<updated>2014-03-23'T'14:40:11+00:00</updated>
+		<summary>A lightweight script for lazy loading and multi-serving (retina and responsive) images</summary>
+	</entry>
+
+	<entry>
+		<title>SimpleBinder</title>
+		<link href="https://github.com/james2doyle/simplebinder" />
+		<id>urn:uuid:0a86be70-b299-11e3-9d17-6f6bc59185fb</id>
+		<updated>2014-03-23'T'14:40:11+00:00</updated>
+		<summary>simplebinder is a zero dependency one-way databinder for javascript.</summary>
+	</entry>
+
+	<entry>
+		<title>Tipograph</title>
+		<link href="https://github.com/nevyk/tipograph" />
+		<id>urn:uuid:0ab373c0-b299-11e3-9d17-6f6bc59185fb</id>
+		<updated>2014-03-23'T'14:40:11+00:00</updated>
+		<summary>Library which transforms your text input into typographically correct sequence of characters.</summary>
+	</entry>
+
+	<entry>
+		<title>fuzzy.js</title>
+		<link href="https://github.com/Extaze/fuzzy.js" />
+		<id>urn:uuid:0cb55e40-b299-11e3-9d17-6f6bc59185fb</id>
+		<updated>2014-03-23'T'14:40:11+00:00</updated>
+		<summary>Fuzzy.js is a fuzzy search algorithm in javascript</summary>
+	</entry>
+
+	<entry>
+		<title>svg-path.js</title>
+		<link href="https://github.com/ZIJ/svg-path" />
+		<id>urn:uuid:0d9d9b60-b299-11e3-9d17-6f6bc59185fb</id>
+		<updated>2014-03-23'T'14:40:11+00:00</updated>
+		<summary>Chainable SVG path string generator with some sugar added</summary>
+	</entry>
+
+	<entry>
+		<title>VUnit</title>
+		<link href="https://github.com/joaocunha/v-unit" />
+		<id>urn:uuid:0f058fd0-b299-11e3-9d17-6f6bc59185fb</id>
+		<updated>2014-03-23'T'14:40:11+00:00</updated>
+		<summary>A fast alternative for viewport-relative dimensions. RIP buggy vh and vw CSS units.</summary>
+	</entry>
+
+	<entry>
+		<title>jQuery Evergreen</title>
+		<link href="http://webpro.github.io/jquery-evergreen/" />
+		<id>urn:uuid:1bae8750-b299-11e3-9d17-6f6bc59185fb</id>
+		<updated>2014-03-23'T'14:40:11+00:00</updated>
+		<summary>Small and fast DOM and event library for modern browsers. It has the same familiar API as jQuery, and is lean &amp; mean with small, optional modules.</summary>
+	</entry>
+
+	<entry>
+		<title>decision-tree.js</title>
+		<link href="https://github.com/lagodiuk/decision-tree-js" />
+		<id>urn:uuid:20b1a3e0-b299-11e3-9d17-6f6bc59185fb</id>
+		<updated>2014-03-23'T'14:40:11+00:00</updated>
+		<summary>Tiny library for building Decision Tree and Random Forest classifiers.</summary>
+	</entry>
+
+	<entry>
+		<title>psColor</title>
+		<link href="https://github.com/pseudosavant/psColor" />
+		<id>urn:uuid:20c94a90-b299-11e3-9d17-6f6bc59185fb</id>
+		<updated>2014-03-23'T'14:40:11+00:00</updated>
+		<summary>psColor is a small JavaScript library for calculating the average color of an  &amp;lt;img&amp;gt; element in the browser.</summary>
+	</entry>
+
 
 </feed>
