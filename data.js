@@ -89,6 +89,14 @@ module.exports = [
     source: "https://raw.github.com/dinbror/blazy/master/blazy.js"
   },
  {
+    name: "SimpleBinder",
+    github: "james2doyle/simplebinder",
+    tags: ["binding", "data", "input", "change", "event", "callback", "library", "functional"],
+    description: "simplebinder is a zero dependency one-way databinder for javascript.",
+    url: "https://github.com/james2doyle/simplebinder",
+    source: "https://raw.githubusercontent.com/james2doyle/simplebinder/master/simplebinder.js"
+  },
+  {
     name: "ArrowJS",
     github: "ConduitInc/ArrowJS",
     tags: ["notification", "cross-browser", "namespace"],
