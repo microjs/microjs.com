@@ -562,6 +562,13 @@ module.exports = [
     source: "https://raw.github.com/joewalnes/smoothie/master/smoothie.js"
   },
   {
+    name: "svg-path.js",
+    tags: ["SVG", "raphael", "graphics"],
+    description: "Chainable SVG path string generator with some sugar added",
+    url: "https://github.com/ZIJ/svg-path",
+    source: "https://raw.github.com/ZIJ/svg-path/master/svg-path.js"
+  },
+  {
     name: "DOMinate",
     github: "adius/DOMinate",
     tags: ["dom-builder", "dom", "templating"],
