@@ -446,6 +446,14 @@ module.exports = [
     source: "https://raw2.github.com/dunxrion/tinyrequire/master/src/tinyrequire.js"
   },
   {
+    name: "fuzzy.js",
+    github: "Extaze/fuzzy.js",
+    tags: ["search", "fuzzy", "filter"],
+    description: "Fuzzy.js is a fuzzy search algorithm in javascript",
+    url: "https://github.com/Extaze/fuzzy.js",
+    source: "https://raw.github.com/Extaze/fuzzy.js/master/fuzzy.js"
+  },
+  {
     name: "spooks.js",
     github: "philbooth/spooks.js",
     tags: ["unit test", "spy", "spies", "mock", "fake", "dummy", "double", "stub"],
@@ -2641,7 +2649,7 @@ module.exports = [
   {
     name: "string.js",
     tags: ["string", "language"],
-    description: "string.js is a lightweight (< 4 kb minified and gzipped) JavaScript library for the browser or for Node.js that provides extra String methods.",
+    description: "string.js is a lightweight (&lt; 4 kb minified and gzipped) JavaScript library for the browser or for Node.js that provides extra String methods.",
     url: "http://stringjs.com",
     source: "https://raw.github.com/jprichardson/string.js/master/lib/string.js"
   },
@@ -2716,7 +2724,7 @@ module.exports = [
   {
     name: "Lambda.js",
     tags: ["lambda", "function", "expression", "anonymous", "literal", "functional"],
-    description: "String based lambdas for Node.js and the browser, that allow strings such as 'x+1' and 'x -> x+1' to be used as functions.",
+    description: "String based lambdas for Node.js and the browser, that allow strings such as 'x+1' and 'x -&gt; x+1' to be used as functions.",
     url: "https://github.com/fschaefer/Lambda.js",
     source: "https://raw.github.com/fschaefer/Lambda.js/master/Lambda.js"
   },
@@ -2825,7 +2833,7 @@ module.exports = [
   {
     name: "Perms",
     tags: ["permissions", "perms", "ls", "chmod", "unix"],
-    description: "Convert Unix style permissions to strings like ls (0755 => 'rwxr-xr-x')",
+    description: "Convert Unix style permissions to strings like ls (0755 =&gt; 'rwxr-xr-x')",
     url: "https://github.com/bahamas10/node-perms",
     source: "https://raw.github.com/bahamas10/node-perms/master/index.js"
   },
@@ -3233,7 +3241,7 @@ module.exports = [
   {
     name: "DoubleMetaphone",
     tags: ["phonetic", "metaphone", "codec", "sounds", "like"],
-    description: "Phonetically encode w/ DoubleMetaphone algorithm ('Alexander' -> 'ALKS')",
+    description: "Phonetically encode w/ DoubleMetaphone algorithm ('Alexander' -&gt; 'ALKS')",
     url: "https://github.com/hgoebl/doublemetaphone",
     source: "https://raw.github.com/hgoebl/doublemetaphone/master/doublemetaphone.js"
   },
@@ -3453,7 +3461,14 @@ module.exports = [
     url: "https://github.com/pseudosavant/psQuery",
     source: "https://raw.github.com/pseudosavant/psQuery/master/src/psQuery.js"
   },
-    {
+  {
+    name: "psColor",
+    tags: ["color", "canvas"],
+    description: "psColor is a small JavaScript library for calculating the average color of an  &lt;img&gt; element in the browser.",
+    url: "https://github.com/pseudosavant/psColor",
+    source: "https://raw.github.com/pseudosavant/psColor/master/psColor.js"
+  },
+  {
     name: "decision-tree.js",
     tags: ["machine learning", "decision tree", "classifier"],
     description: "Tiny library for building Decision Tree and Random Forest classifiers.",
