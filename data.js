@@ -57,6 +57,14 @@ module.exports = [
     source: "https://raw2.github.com/steelbreeze/state_lite.js/master/src/state_lite.js"
   },
   {
+    name: "bLazyJS",
+    github: "dinbror/blazy",
+    tags: ["lazy", "lazyload", "image", "images", "retina", "responsive", "loader"],
+    description: "A lightweight script for lazy loading and multi-serving (retina and responsive) images",
+    url: "http://dinbror.dk/blazy/",
+    source: "https://raw.github.com/dinbror/blazy/master/blazy.js"
+  },
+ {
     name: "ArrowJS",
     github: "ConduitInc/ArrowJS",
     tags: ["notification", "cross-browser", "namespace"],
