@@ -9,6 +9,14 @@
 
 module.exports = [
   {
+    name: "Feed",
+    github: "evandrolg/Feed",
+    tags: ["feed", "rss", "feed reder", "client-side"],
+    description: "A client-side library that work like a Feed Reader, returning all datas of a post - title, text, link, etc",
+    url: "https://github.com/evandrolg/Feed",
+    source: "https://raw.github.com/EvandroLG/Feed/master/src/feed.js"
+  },
+  {
     name: "Infect.js",
     github: "amwmedia/Infect.js",
     tags: ["dependency injection", "DI", "dependency", "injection", "dependency-free"],
