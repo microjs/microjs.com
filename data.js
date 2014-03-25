@@ -9,6 +9,13 @@
 
 module.exports = [
   {
+    name:"devicedetector.js",
+    tags: ["device detector", "client-side", "ismobile", "check mobile"],
+    description: "Tiny script detecting if you are on a desktop, mobile or tablet device.",
+    url: "https://github.com/PoeHaH/devicedetector",
+    source: "https://raw.githubusercontent.com/PoeHaH/devicedetector/master/devicedetector-production.js"
+  } 
+  {
     name: "Feed",
     github: "evandrolg/Feed",
     tags: ["feed", "rss", "feed reder", "client-side"],
