@@ -11,7 +11,7 @@ module.exports = [
   {
     name: "Feed",
     github: "evandrolg/Feed",
-    tags: ["feed", "rss", "feed reder", "client-side"],
+    tags: ["feed", "rss", "feed reader", "client-side"],
     description: "A client-side library that work like a Feed Reader, returning all datas of a post - title, text, link, etc",
     url: "https://github.com/evandrolg/Feed",
     source: "https://raw.github.com/EvandroLG/Feed/master/src/feed.js"
@@ -1584,70 +1584,76 @@ module.exports = [
     source: "https://raw.github.com/madrobby/evidence/master/src/evidence.js"
   },
   {
+    name: "RIP",
+    tags: ["rest","request"],
+    description: "Make REST requests in FORM contexts, useful to avoid synchroneous ajax requests",
+    url: "https://github.com/pyrsmk/RIP",
+    source: "https://raw.github.com/pyrsmk/RIP/master/src/RIP.js",
+    github: "pyrsmk/RIP"
+  },
+  {
     name: "ClassIE",
     tags: ["feature"],
     description: "ClassIE is an unobstrusive library which detects Internet Explorer version for JS and CSS sides",
     url: "https://github.com/pyrsmk/ClassIE",
-    source: "https://raw.github.com/pyrsmk/ClassIE/master/src/ClassIE.js"
+    source: "https://raw.github.com/pyrsmk/ClassIE/master/src/ClassIE.js",
+    github: "pyrsmk/ClassIE"
   },
   {
     name: "Sheethub",
     tags: ["polyfill"],
     description: "A CSS backdoor API for providing awesome scripts in a centralized way",
     url: "https://github.com/pyrsmk/Sheethub",
-    source: "https://raw.github.com/pyrsmk/Sheethub/master/src/Sheethub.js"
+    source: "https://raw.github.com/pyrsmk/Sheethub/master/src/Sheethub.js",
+    github: "pyrsmk/Sheethub"
   },
   {
     name: "nut",
     tags: ["css"],
     description: "A concise CSS selector engine",
     url: "https://github.com/pyrsmk/nut",
-    source: "https://raw.github.com/pyrsmk/nut/master/src/nut.js"
+    source: "https://raw.github.com/pyrsmk/nut/master/src/nut.js",
+    github: "pyrsmk/nut"
   },
   {
     name: "molt",
     tags: ["responsive"],
     description: "Image updater for responsive designs",
     url: "https://github.com/pyrsmk/molt",
-    source: "https://raw.github.com/pyrsmk/molt/master/src/molt.js"
+    source: "https://raw.github.com/pyrsmk/molt/master/src/molt.js",
+    github: "pyrsmk/molt"
   },
   {
     name: "W",
     tags: ["responsive"],
     description: "Width management tool for responsive designers",
     url: "https://github.com/pyrsmk/W",
-    source: "https://raw.github.com/pyrsmk/W/master/src/W.js"
+    source: "https://raw.github.com/pyrsmk/W/master/src/W.js",
+    github: "pyrsmk/W"
   },
   {
     name: "toast",
     tags: ["loader"],
     description: "A simple CSS and JS resource loader",
     url: "https://github.com/pyrsmk/toast",
-    source: "https://raw.github.com/pyrsmk/toast/master/src/toast.js"
+    source: "https://raw.github.com/pyrsmk/toast/master/src/toast.js",
+    github: "pyrsmk/toast"
   },
   {
     name: "mediatizr",
     tags: ["polyfill", "responsive"],
     description: "A media queries polyfill",
     url: "https://github.com/pyrsmk/mediatizr",
-    source: "https://raw.github.com/pyrsmk/mediatizr/master/src/mediatizr.js"
+    source: "https://raw.github.com/pyrsmk/mediatizr/master/src/mediatizr.js",
+    github: "pyrsmk/medtiatizr"
   },
   {
     name: "qwest",
-    tags: ["ajax"],
+    tags: ["ajax","async","request"],
     description: "Ajax library with promises and XHR2 support",
     url: "https://github.com/pyrsmk/qwest",
-    source: "https://raw.github.com/pyrsmk/qwest/master/src/qwest.js"
-  },
-  {
-    name: "quark",
-    tags: ["base"],
-    description: "Build your own framework from scratch",
-    url: "https://github.com/pyrsmk/quark",
-    source: [
-       "https://raw.github.com/pyrsmk/quark/master/src/quark.js",
-       "https://raw.github.com/pyrsmk/quark/master/src/starter.js"
-    ]
+    source: "https://raw.github.com/pyrsmk/qwest/master/src/qwest.js",
+    github: "pyrsmk/qwest"
   },
   {
     name: "DragDrop",
