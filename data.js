@@ -3474,5 +3474,12 @@ module.exports = [
     description: "Tiny library for building Decision Tree and Random Forest classifiers.",
     url: "https://github.com/lagodiuk/decision-tree-js",
     source: "https://raw.github.com/lagodiuk/decision-tree-js/master/decision-tree.js"
-  }
+  },
+  {
+    name: "KolorWheel.js",
+    tags: ["jQuery", "color", "color manipulation", "gradient", "HSL"],
+    description: "KolorWheel.js generates color palette from a base color and chainable absolute/relative H-S-L transformation methods (incl. specified target color). Documentation contains live examples with editable parameters.",
+    url: "http://linkbroker.hu/stuff/kolorwheel.js",
+    source: "https://raw.githubusercontent.com/ern0/kolorwheel.js/master/KolorWheel.js"
+  }  
 ];
