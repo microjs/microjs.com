@@ -3334,7 +3334,7 @@ module.exports = [
   {
     name: "mixing",
     github: "gamtiq/mixing",
-    tags: ["mix", "merge", "mixin", "object"],
+    tags: ["mix", "merge", "mixin", "object", "filter"],
     description: "Functions to mix objects.",
     url: "https://github.com/gamtiq/mixing",
     source: "https://raw.github.com/gamtiq/mixing/master/dist/mixing.js"
@@ -3362,6 +3362,13 @@ module.exports = [
     description: "Utility to separate into parts and to format time duration in milliseconds.",
     url: "https://github.com/gamtiq/duratiform",
     source: "https://raw.github.com/gamtiq/duratiform/master/dist/duratiform.js"
+  },
+  {
+    name: "eva",
+    tags: ["create", "function", "dynamic", "eval", "evaluate", "expression", "execute", "delegate", "method"],
+    description: "Functions to create functions and evaluate expressions.",
+    url: "https://github.com/gamtiq/eva",
+    source: "https://raw.github.com/gamtiq/eva/master/dist/eva.js"
   },
   {
     name: "easter.js",
