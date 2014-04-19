@@ -2417,6 +2417,13 @@ module.exports = [
     source: "https://raw.github.com/bbaliguet/ordering/master/ordering.js"
   },
   {
+    name: "Byda.js",
+    tags: ["HTML5", "imports", "xhr", "ajax", "swapping"],
+    description: "HTML content swapping via HTML5 imports or XHR (Ajax).",
+    url: "http://www.ericmcd.com/byda/",
+    source: "https://raw.github.com/ericmcdaniel/byda/master/index.js"
+  },
+  {
     name: "an.hour.ago",
     tags: ["dates", "times", "language", "sugar"],
     description: "DSL for expressing and comparing dates and times",
