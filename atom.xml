@@ -3720,5 +3720,13 @@
 		<summary>psColor is a small JavaScript library for calculating the average color of an  &amp;lt;img&amp;gt; element in the browser.</summary>
 	</entry>
 
+	<entry>
+		<title>Byda.js</title>
+		<link href="http://www.ericmcd.com/byda/" />
+		<id>urn:uuid:ce555f60-c805-11e3-95af-6b8bfe93dd4e</id>
+		<updated>2014-04-19'T'21:01:04+00:00</updated>
+		<summary>HTML content swapping via HTML5 imports or XHR (Ajax).</summary>
+	</entry>
+
 
 </feed>
