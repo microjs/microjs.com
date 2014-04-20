@@ -829,8 +829,8 @@ module.exports = [
     name : "smoke-pure.js",
     github : "agamemnus/smoke-pure.js",
     tags : ["modal library", "simple modal library", "modal", "simple modal", "alert", "confirm", "prompt"],
-    description : "A simple modal library for JS."
-    url : "https://github.com/agamemnus/smoke-pure.js"
+    description : "A simple modal library for JS.",
+    url : "https://github.com/agamemnus/smoke-pure.js",
     source : ["https://raw.github.com/agamemnus/smoke-pure.js/gh-pages/smoke-pure.js",
                    "https://raw.github.com/agamemnus/smoke-pure.js/gh-pages/smoke-pure.css"]
   },
