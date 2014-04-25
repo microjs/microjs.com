@@ -3474,5 +3474,12 @@ module.exports = [
     description: "Tiny library for building Decision Tree and Random Forest classifiers.",
     url: "https://github.com/lagodiuk/decision-tree-js",
     source: "https://raw.github.com/lagodiuk/decision-tree-js/master/decision-tree.js"
+  },
+  {
+    name: "Grapnel.js",
+    tags: ["routing", "router", "event handling", "hash", "anchor", "tiny", "require"],
+    description: "A Tiny (1.1kb!) JavaScript Router With Lots of Features",
+    url: "https://github.com/EngineeringMode/Grapnel.js",
+    source: "https://raw.githubusercontent.com/EngineeringMode/Grapnel.js/master/src/grapnel.js"
   }
 ];
