@@ -3474,5 +3474,12 @@ module.exports = [
     description: "Tiny library for building Decision Tree and Random Forest classifiers.",
     url: "https://github.com/lagodiuk/decision-tree-js",
     source: "https://raw.github.com/lagodiuk/decision-tree-js/master/decision-tree.js"
+  },
+  {
+    name: "tiny-stack",
+    tags: ["stack", "data", "amd"],
+    description: "Tiny stack for browser or server",
+    url: "http://avoidwork.github.io/tiny-stack",
+    source: "https://raw.githubusercontent.com/avoidwork/tiny-stack/master/lib/tiny-stack.js"
   }
 ];
