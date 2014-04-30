@@ -2691,12 +2691,12 @@ module.exports = [
     source: "https://raw.github.com/fschaefer/Probability.js/master/Probability.js"
   },
   {
-    name: "jQuery Evergreen",
-    github: "webpro/jquery-evergreen",
-    tags: ["DOM", "events", "modern", "modular"],
+    name: "DOMtastic",
+    github: "webpro/DOMtastic",
+    tags: ["DOM", "events", "selector", "modern", "modular", "es6"],
     description: "Small and fast DOM and event library for modern browsers. It has the same familiar API as jQuery, and is lean & mean with small, optional modules.",
-    url: "http://webpro.github.io/jquery-evergreen/",
-    source: "https://raw2.github.com/webpro/jquery-evergreen/master/dist/jquery-evergreen.js"
+    url: "http://webpro.github.io/DOMtastic/",
+    source: "https://raw.githubusercontent.com/webpro/DOMtastic/master/dist/domtastic.js"
   },
   {
     name: "Timer.js",
