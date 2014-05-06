@@ -3334,8 +3334,8 @@ module.exports = [
   {
     name: "mixing",
     github: "gamtiq/mixing",
-    tags: ["mix", "merge", "mixin", "object", "filter"],
-    description: "Functions to mix objects.",
+    tags: ["mix", "merge", "mixin", "object", "filter", "change", "copy", "clone"],
+    description: "Functions to mix, filter, change and copy/clone objects.",
     url: "https://github.com/gamtiq/mixing",
     source: "https://raw.github.com/gamtiq/mixing/master/dist/mixing.js"
   },
