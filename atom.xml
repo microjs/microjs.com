@@ -3720,5 +3720,13 @@
 		<summary>psColor is a small JavaScript library for calculating the average color of an  &amp;lt;img&amp;gt; element in the browser.</summary>
 	</entry>
 
+	<entry>
+		<title>native-promise-only</title>
+		<link href="https://github.com/getify/native-promise-only" />
+		<id>urn:uuid:5f2405f0-d5da-11e3-aedd-d71e79a0fc82</id>
+		<updated>2014-05-07'T'11:25:56+00:00</updated>
+		<summary>A polyfill for native ES6 Promises as close as possible (no extensions) to the strict spec definitions.</summary>
+	</entry>
+
 
 </feed>

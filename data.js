@@ -280,6 +280,14 @@ module.exports = [
              "https://rawnpm.getify.io/asynquence-contrib/latest/contrib.src.js"]
   },
   {
+    name: "native-promise-only",
+    github: "getify/native-promise-only",
+    tags: ["async", "asynchronous", "promise", "promises"],
+    description: "A polyfill for native ES6 Promises as close as possible (no extensions) to the strict spec definitions.",
+    url: "https://github.com/getify/native-promise-only",
+    source: "https://rawnpm.getify.io/native-promise-only/latest/lib/npo.src.js"
+  },
+  {
     name: "Miniscroll.js",
     github: "rogerluiz/Miniscroll-JS",
     tags: ["scrollbar", "touch", "desktop", "scroll"],
