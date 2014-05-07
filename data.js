@@ -9,6 +9,14 @@
 
 module.exports = [
   {
+    name: "Mithril",
+    github: "lhorie/mithril",
+    tags: ["mvc framework", "mvc", "framework", "templating", "promise", "routing"],
+    description: "A javascript MVC framework for building brilliant applications",
+    url: "https://lhorie.github.io/mithril",
+    source: "https://raw.githubusercontent.com/lhorie/mithril.js/master/mithril.js"
+  },
+  {
     name: "Feed",
     github: "evandrolg/Feed",
     tags: ["feed", "rss", "feed reder", "client-side"],
