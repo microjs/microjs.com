@@ -956,6 +956,14 @@ module.exports = [
     source: "https://raw.github.com/digitarald/sly/master/Sly.js"
   },
   {
+    name: "normalize-selector",
+    github: "getify/normalize-selector",
+    tags: ["CSS", "selector"],
+    description: "Normalize CSS selectors",
+    url: "https://github.com/getify/normalize-selector",
+    source: "https://rawnpm.getify.io/normalize-selector/latest/lib/normalize-selector.js"
+  },
+  {
     name: "Jaguar",
     tags: ["css"],
     description: "A lightweight, extensible, and fast selector engine with excellent support for matchesSelector(), commonly used in event delegation. Jaguar supports all CSS1, CSS2, and most CSS3 selectors.",

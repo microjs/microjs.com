@@ -3720,5 +3720,13 @@
 		<summary>psColor is a small JavaScript library for calculating the average color of an  &amp;lt;img&amp;gt; element in the browser.</summary>
 	</entry>
 
+	<entry>
+		<title>normalize-selector</title>
+		<link href="https://github.com/getify/normalize-selector" />
+		<id>urn:uuid:bd58bbb0-d5db-11e3-a44a-9f12f4191527</id>
+		<updated>2014-05-07'T'11:35:24+00:00</updated>
+		<summary>Normalize CSS selectors</summary>
+	</entry>
+
 
 </feed>
