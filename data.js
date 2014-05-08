@@ -25,6 +25,13 @@ module.exports = [
     source: "https://raw2.github.com/amwmedia/infect.js/master/infect.js"
   },
   {
+    name: "PerfNow.js",
+    tags: ["performance", "benchmark", "polyfill", "high", "resolution", "timer", "now"],
+    description: "A high resolution performance benchmarking polyfill",
+    url: "https://github.com/daniellmb/perfnow.js",
+    source: "https://raw.github.com/daniellmb/perfnow.js/master/perfnow.src.js"
+  },
+  {
     name: "Sortable",
     github: "RubaXa/Sortable",
     tags: ["sortable", "dnd", "reorder", "drag", "touch"],
