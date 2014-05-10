@@ -2759,6 +2759,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/nwtjs/nwt/master/nwt.js"
   },
   {
+    name: "microphone",
+    github: "srubin/microphone",
+    tags: ["html5", "audio", "microphone", "signalprocessing", "dsp", "mic", "sound"],
+    description: "Process live audio input in the browser",
+    url: "https://github.com/srubin/microphone",
+    source: "https://raw.githubusercontent.com/srubin/microphone/master/microphone.js"
+  },
+  {
     name: "time.js",
     tags: ["time", "parse", "parsing", "format", "validate"],
     description: "Date-agnostic time parsing for node and the browser.",
