@@ -3720,13 +3720,5 @@
 		<summary>psColor is a small JavaScript library for calculating the average color of an  &amp;lt;img&amp;gt; element in the browser.</summary>
 	</entry>
 
-	<entry>
-		<title>microphone</title>
-		<link href="https://github.com/srubin/microphone" />
-		<id>urn:uuid:8f9bd870-d7d8-11e3-92ac-d1a0cbd729a3</id>
-		<updated>2014-05-10'T'00:17:19+00:00</updated>
-		<summary>Process live audio input in the browser</summary>
-	</entry>
-
 
 </feed>
