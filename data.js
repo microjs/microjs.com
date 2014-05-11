@@ -3488,5 +3488,12 @@ module.exports = [
     description: "The smallest (1100 bytes gzipped!) JavaScript Router with Named Parameters",
     url: "https://github.com/EngineeringMode/Grapnel.js",
     source: "https://raw.githubusercontent.com/EngineeringMode/Grapnel.js/master/dist/grapnel.min.js"
+  },
+  {
+    name: "Nerve",
+    tags: ["async", "asynchronous", "channel", "route", "observer", "mediator", "events", "callbacks", "queue"],
+    description: "An asynchronous javascript micro framework for event broadcasts along routes and channels.",
+    url: "https://github.com/jstandish/nerve",
+    source: "https://raw.githubusercontent.com/jstandish/nerve/master/nerve.js"
   }
 ];
