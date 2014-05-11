@@ -25,6 +25,14 @@ module.exports = [
     source: "https://raw2.github.com/amwmedia/infect.js/master/infect.js"
   },
   {
+    name: "style.js",
+    github: "dhilipsiva/style.js",
+    tags: ["style", "CSS GUI"],
+    description: "A layman's tool to style HTML Elements and share CSS values",
+    url: "https://github.com/dhilipsiva/style.js",
+    source: "https://raw.githubusercontent.com/dhilipsiva/style.js/master/src/js/style.js"
+  },
+  {
     name: "Sortable",
     github: "RubaXa/Sortable",
     tags: ["sortable", "dnd", "reorder", "drag", "touch"],
