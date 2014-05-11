@@ -1767,7 +1767,7 @@ module.exports = [
     tags: ["class", "inheritance", "multiple", "super", "extend"],
     description: "Class system with clean implementation and multiple inheritance",
     url: "https://github.com/DominicTobias/extnd",
-    source: "https://raw2.github.com/DominicTobias/extnd/master/extnd.js"
+    source: "https://raw.githubusercontent.com/DominicTobias/extnd/master/extnd.js"
   },
   {
     name: "BinaryHeap.js",
