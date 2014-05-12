@@ -9,6 +9,14 @@
 
 module.exports = [
   {
+    name: "Mithril",
+    github: "lhorie/mithril",
+    tags: ["mvc framework", "mvc", "framework", "templating", "promise", "routing"],
+    description: "A javascript MVC framework for building brilliant applications",
+    url: "https://lhorie.github.io/mithril",
+    source: "https://raw.githubusercontent.com/lhorie/mithril.js/master/mithril.js"
+  },
+  {
     name: "Feed",
     github: "evandrolg/Feed",
     tags: ["feed", "rss", "feed reder", "client-side"],
@@ -23,6 +31,13 @@ module.exports = [
     description: "Infectiously simple dependency injection for any JavaScript project",
     url: "https://github.com/amwmedia/infect.js",
     source: "https://raw2.github.com/amwmedia/infect.js/master/infect.js"
+  },
+  {
+    name: "PerfNow.js",
+    tags: ["performance", "benchmark", "polyfill", "high", "resolution", "timer", "now"],
+    description: "A high resolution performance benchmarking polyfill",
+    url: "https://github.com/daniellmb/perfnow.js",
+    source: "https://raw.github.com/daniellmb/perfnow.js/master/perfnow.src.js"
   },
   {
     name: "Sortable",
@@ -454,6 +469,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/Extaze/fuzzy.js/master/fuzzy.js"
   },
   {
+    name: "tinyrequire",
+    github: "dunxrion/tinyrequire",
+    tags: ["modules", "loader", "require", "define", "dependency", "manager"],
+    description: "To the point dependency management.",
+    url: "https://github.com/dunxrion/tinyrequire",
+    source: "https://raw2.github.com/dunxrion/tinyrequire/master/src/tinyrequire.js"
+  },
+  {
     name: "spooks.js",
     github: "philbooth/spooks.js",
     tags: ["unit test", "spy", "spies", "mock", "fake", "dummy", "double", "stub"],
@@ -574,6 +597,14 @@ module.exports = [
     description: "Micro javascript library that allows you to do conditions faster.",
     url: "https://github.com/Cedriking/is.js",
     source: "https://raw.githubusercontent.com/Cedriking/is.js/master/is.js"
+  },
+  {
+    name: "jBone",
+    github: "kupriyanenko/jbone",
+    tags: ["base", "events", "html", "performance", "backbone", "jquery", "attributes", "manipulations", "dom", "mobile"],
+    description: "JavaScript Library for Events and DOM manipulation. Replacement jQuery for Backbone in browsers.",
+    url: "https://github.com/kupriyanenko/jbone",
+    source: "https://raw.githubusercontent.com/kupriyanenko/jbone/master/dist/jbone.js"
   },
   {
     name: "bitarray.js",
@@ -1763,6 +1794,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/yckart/SpellChecker/master/index.js"
   },
   {
+    name: "extnd",
+    tags: ["class", "inheritance", "multiple", "super", "extend"],
+    description: "Class system with clean implementation and multiple inheritance",
+    url: "https://github.com/DominicTobias/extnd",
+    source: "https://raw.githubusercontent.com/DominicTobias/extnd/master/extnd.js"
+  },
+  {
     name: "BinaryHeap.js",
     tags: ["binary", "heap", "binaryheap", "data", "algorithm"],
     description: "Binary Heap implementation in Javascript",
@@ -2107,6 +2145,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/rvagg/traversty/master/traversty.js"
   },
   {
+    name: "html5tooltips.js",
+    tags: ["ui", "tooltips", "hints", "html5", "css3", "animation"],
+    description: "Light and clean tooltips with CSS3 animation",
+    url: "http://ytiurin.github.io/html5tooltipsjs/",
+    github: "https://github.com/ytiurin/html5tooltipsjs",
+    source: "https://raw.githubusercontent.com/ytiurin/html5tooltipsjs/master/versions/html5tooltips.1.2.2.js"
+  },
+  {
     name: "140medley",
     tags: ["dom", "selector", "events", "templating", "ajax", "storage"],
     description: "A micro-framework or a collection of small, helpful utilities for common javascript tasks.",
@@ -2415,6 +2461,13 @@ module.exports = [
     description: "Helper to build sorting functions for array.sort()",
     url: "https://github.com/bbaliguet/ordering",
     source: "https://raw.githubusercontent.com/bbaliguet/ordering/master/ordering.js"
+  },
+  {
+    name: "Byda.js",
+    tags: ["HTML5", "imports", "xhr", "ajax", "swapping"],
+    description: "HTML content swapping via HTML5 imports or XHR (Ajax).",
+    url: "http://www.ericmcd.com/byda/",
+    source: "https://raw.github.com/ericmcdaniel/byda/master/index.js"
   },
   {
     name: "an.hour.ago",
@@ -2757,6 +2810,14 @@ module.exports = [
     description: "Small JS framework that ships with ajax, anim, dom, and event methods. Several plugins available.",
     url: "http://nwtjs.org",
     source: "https://raw.githubusercontent.com/nwtjs/nwt/master/nwt.js"
+  },
+  {
+    name: "microphone",
+    github: "srubin/microphone",
+    tags: ["html5", "audio", "microphone", "signalprocessing", "dsp", "mic", "sound"],
+    description: "Process live audio input in the browser",
+    url: "https://github.com/srubin/microphone",
+    source: "https://raw.githubusercontent.com/srubin/microphone/master/microphone.js"
   },
   {
     name: "time.js",
@@ -3474,5 +3535,26 @@ module.exports = [
     description: "Tiny library for building Decision Tree and Random Forest classifiers.",
     url: "https://github.com/lagodiuk/decision-tree-js",
     source: "https://raw.githubusercontent.com/lagodiuk/decision-tree-js/master/decision-tree.js"
+  },
+  {
+    name: "Grapnel.js",
+    tags: ["grapnel", "route", "routing", "router", "hash", "anchor", "tiny", "require", "named", "parameters"],
+    description: "The smallest (1100 bytes gzipped!) JavaScript Router with Named Parameters",
+    url: "https://github.com/EngineeringMode/Grapnel.js",
+    source: "https://raw.githubusercontent.com/EngineeringMode/Grapnel.js/master/dist/grapnel.min.js"
+  },
+  {
+    name: "Nerve",
+    tags: ["async", "asynchronous", "channel", "route", "observer", "mediator", "events", "callbacks", "queue"],
+    description: "An asynchronous javascript micro framework for event broadcasts along routes and channels.",
+    url: "https://github.com/jstandish/nerve",
+    source: "https://raw.githubusercontent.com/jstandish/nerve/master/nerve.js"
+  },
+  {
+    name: "tiny-stack",
+    tags: ["stack", "data", "amd"],
+    description: "Tiny stack for browser or server",
+    url: "http://avoidwork.github.io/tiny-stack",
+    source: "https://raw.githubusercontent.com/avoidwork/tiny-stack/master/lib/tiny-stack.js"
   }
 ];

@@ -3720,5 +3720,69 @@
 		<summary>psColor is a small JavaScript library for calculating the average color of an  &amp;lt;img&amp;gt; element in the browser.</summary>
 	</entry>
 
+	<entry>
+		<title>Mithril</title>
+		<link href="https://lhorie.github.io/mithril" />
+		<id>urn:uuid:f5d5b0f0-d96a-11e3-966a-9df59ac39dd7</id>
+		<updated>2014-05-12'T'00:18:31+00:00</updated>
+		<summary>A javascript MVC framework for building brilliant applications</summary>
+	</entry>
+
+	<entry>
+		<title>jBone</title>
+		<link href="https://github.com/kupriyanenko/jbone" />
+		<id>urn:uuid:fafe2fd0-d96a-11e3-966a-9df59ac39dd7</id>
+		<updated>2014-05-12'T'00:18:31+00:00</updated>
+		<summary>JavaScript Library for Events and DOM manipulation. Replacement jQuery for Backbone in browsers.</summary>
+	</entry>
+
+	<entry>
+		<title>extnd</title>
+		<link href="https://github.com/DominicTobias/extnd" />
+		<id>urn:uuid:00d3dea0-d96b-11e3-966a-9df59ac39dd7</id>
+		<updated>2014-05-12'T'00:18:31+00:00</updated>
+		<summary>Class system with clean implementation and multiple inheritance</summary>
+	</entry>
+
+	<entry>
+		<title>html5tooltips.js</title>
+		<link href="http://ytiurin.github.io/html5tooltipsjs/" />
+		<id>urn:uuid:03147fd0-d96b-11e3-966a-9df59ac39dd7</id>
+		<updated>2014-05-12'T'00:18:31+00:00</updated>
+		<summary>Light and clean tooltips with CSS3 animation</summary>
+	</entry>
+
+	<entry>
+		<title>microphone</title>
+		<link href="https://github.com/srubin/microphone" />
+		<id>urn:uuid:07341a30-d96b-11e3-966a-9df59ac39dd7</id>
+		<updated>2014-05-12'T'00:18:31+00:00</updated>
+		<summary>Process live audio input in the browser</summary>
+	</entry>
+
+	<entry>
+		<title>Grapnel.js</title>
+		<link href="https://github.com/EngineeringMode/Grapnel.js" />
+		<id>urn:uuid:0bbd24c0-d96b-11e3-966a-9df59ac39dd7</id>
+		<updated>2014-05-12'T'00:18:31+00:00</updated>
+		<summary>The smallest (1100 bytes gzipped!) JavaScript Router with Named Parameters</summary>
+	</entry>
+
+	<entry>
+		<title>Nerve</title>
+		<link href="https://github.com/jstandish/nerve" />
+		<id>urn:uuid:0bc03200-d96b-11e3-966a-9df59ac39dd7</id>
+		<updated>2014-05-12'T'00:18:31+00:00</updated>
+		<summary>An asynchronous javascript micro framework for event broadcasts along routes and channels.</summary>
+	</entry>
+
+	<entry>
+		<title>tiny-stack</title>
+		<link href="http://avoidwork.github.io/tiny-stack" />
+		<id>urn:uuid:0bc11c60-d96b-11e3-966a-9df59ac39dd7</id>
+		<updated>2014-05-12'T'00:18:31+00:00</updated>
+		<summary>Tiny stack for browser or server</summary>
+	</entry>
+
 
 </feed>
