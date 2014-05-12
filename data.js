@@ -3518,5 +3518,12 @@ module.exports = [
     description: "An asynchronous javascript micro framework for event broadcasts along routes and channels.",
     url: "https://github.com/jstandish/nerve",
     source: "https://raw.githubusercontent.com/jstandish/nerve/master/nerve.js"
+  },
+  {
+    name: "tiny-stack",
+    tags: ["stack", "data", "amd"],
+    description: "Tiny stack for browser or server",
+    url: "http://avoidwork.github.io/tiny-stack",
+    source: "https://raw.githubusercontent.com/avoidwork/tiny-stack/master/lib/tiny-stack.js"
   }
 ];
