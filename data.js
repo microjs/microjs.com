@@ -469,6 +469,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/Extaze/fuzzy.js/master/fuzzy.js"
   },
   {
+    name: "tinyrequire",
+    github: "dunxrion/tinyrequire",
+    tags: ["modules", "loader", "require", "define", "dependency", "manager"],
+    description: "To the point dependency management.",
+    url: "https://github.com/dunxrion/tinyrequire",
+    source: "https://raw2.github.com/dunxrion/tinyrequire/master/src/tinyrequire.js"
+  },
+  {
     name: "spooks.js",
     github: "philbooth/spooks.js",
     tags: ["unit test", "spy", "spies", "mock", "fake", "dummy", "double", "stub"],
