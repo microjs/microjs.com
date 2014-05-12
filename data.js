@@ -599,6 +599,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/Cedriking/is.js/master/is.js"
   },
   {
+    name: "jBone",
+    github: "kupriyanenko/jbone",
+    tags: ["base", "events", "html", "performance", "backbone", "jquery", "attributes", "manipulations", "dom", "mobile"],
+    description: "JavaScript Library for Events and DOM manipulation. Replacement jQuery for Backbone in browsers.",
+    url: "https://github.com/kupriyanenko/jbone",
+    source: "https://raw.githubusercontent.com/kupriyanenko/jbone/master/dist/jbone.js"
+  },
+  {
     name: "bitarray.js",
     github: "madrobby/bitarray.js",
     tags: ["data"],
