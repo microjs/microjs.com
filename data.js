@@ -2129,6 +2129,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/rvagg/traversty/master/traversty.js"
   },
   {
+    name: "html5tooltips.js",
+    tags: ["ui", "tooltips", "hints", "html5", "css3", "animation"],
+    description: "Light and clean tooltips with CSS3 animation",
+    url: "http://ytiurin.github.io/html5tooltipsjs/",
+    github: "https://github.com/ytiurin/html5tooltipsjs",
+    source: "https://raw.githubusercontent.com/ytiurin/html5tooltipsjs/master/versions/html5tooltips.1.2.2.js"
+  },
+  {
     name: "140medley",
     tags: ["dom", "selector", "events", "templating", "ajax", "storage"],
     description: "A micro-framework or a collection of small, helpful utilities for common javascript tasks.",
