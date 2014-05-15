@@ -787,6 +787,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/bemson/genData/master/src/gendata.js"
   },
   {
+    name: "Pass-Meter.js",
+    tags: ["password", "strength", "meter"],
+    description: "Simple password strength testing.",
+    url: "https://github.com/syntaqx/pass-meter",
+    source: "https://github.com/syntaqx/pass-meter/blob/master/dist/pass-meter.min.js"
+  },
+  {
     name: "GSet",
     tags: ["data", "compose"],
     description: "Share and control public proxies of private objects, with same-name getter/setters.",
