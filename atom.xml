@@ -3784,5 +3784,13 @@
 		<summary>Tiny stack for browser or server</summary>
 	</entry>
 
+	<entry>
+		<title>Chop.js</title>
+		<link href="https://github.com/hufyhang/chop" />
+		<id>urn:uuid:5722c140-e122-11e3-b2e5-73ac80e109a2</id>
+		<updated>2014-05-21'T'19:58:54+00:00</updated>
+		<summary>A Super Light-Weight JavaScript Framework</summary>
+	</entry>
+
 
 </feed>
