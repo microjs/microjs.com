@@ -3559,7 +3559,7 @@ module.exports = [
   },
   {
     name: "datediff",
-    tags: ["date"],
+    tags: ["date", "time"],
     description: "Calculate difference between two dates",
     url: "https://github.com/dmfilipenko/datediff",
     source: "https://github.com/dmfilipenko/datediff/blob/master/datediff.min.jshttps://github.com/dmfilipenko/datediff/blob/master/datediff.min.js"
