@@ -3784,5 +3784,13 @@
 		<summary>Tiny stack for browser or server</summary>
 	</entry>
 
+	<entry>
+		<title>augment</title>
+		<link href="https://github.com/javascript/augment" />
+		<id>urn:uuid:9ca430e0-e574-11e3-ba61-9b764f1e1102</id>
+		<updated>2014-05-27'T'07:57:46+00:00</updated>
+		<summary>The world&apos;s smallest and fastest classical JavaScript inheritance pattern.</summary>
+	</entry>
+
 
 </feed>

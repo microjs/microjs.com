@@ -525,12 +525,20 @@ module.exports = [
     source: "https://raw.githubusercontent.com/philbooth/check-types.js/master/src/check-types.js"
   },
   {
+    name: "augment",
+    github: "javascript/augment",
+    tags: ["augment", "augments", "augmentation", "extend", "extends", "extension", "prototype", "prototypal", "class", "classical", "object", "inheritance", "uber", "super", "constructor", "oop"],
+    description: "The world's smallest and fastest classical JavaScript inheritance pattern.",
+    url: "https://github.com/javascript/augment",
+    source: "http://rawgit.com/javascript/augment/master/augment.js"
+  },
+  {
     name: "lexer",
     github: "aaditmshah/lexer",
-    tags: ["lexer"],
+    tags: ["lex", "lexer", "lexical", "analysis", "scan", "scanner", "scanning", "token", "tokenize", "tokenizer", "tokenization", "flex", "jison"],
     description: "An elegant armor-plated JavaScript lexer modelled after flex. Easily extensible to tailor to your need for perfection.",
     url: "https://github.com/aaditmshah/lexer",
-    source: "https://raw.githubusercontent.com/aaditmshah/lexer/master/lib/lexer.js"
+    source: "http://rawgit.com/aaditmshah/lexer/master/lexer.js"
   },
   {
     name: "kebab.js",
