@@ -3556,5 +3556,12 @@ module.exports = [
     description: "Tiny stack for browser or server",
     url: "http://avoidwork.github.io/tiny-stack",
     source: "https://raw.githubusercontent.com/avoidwork/tiny-stack/master/lib/tiny-stack.js"
+  },
+  {
+    name: "Plite",
+    tags: ["promise", "future", "callback", "library", "functional"],
+    description: "Tiny, fast, light-weight promises (370 bytes min+zipped)",
+    url: "https://github.com/chrisdavies/plite",
+    source: "https://raw.githubusercontent.com/chrisdavies/plite/master/plite.js"
   }
 ];
