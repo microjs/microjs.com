@@ -3784,5 +3784,85 @@
 		<summary>Tiny stack for browser or server</summary>
 	</entry>
 
+	<entry>
+		<title>devicedetector.js</title>
+		<link href="https://github.com/PoeHaH/devicedetector" />
+		<id>urn:uuid:b0892d20-e9d6-11e3-9215-eb6358dd5663</id>
+		<updated>2014-06-01'T'21:49:58+00:00</updated>
+		<summary>Tiny script detecting if you are on a desktop, mobile or tablet device.</summary>
+	</entry>
+
+	<entry>
+		<title>native-promise-only</title>
+		<link href="https://github.com/getify/native-promise-only" />
+		<id>urn:uuid:b2f1c8b0-e9d6-11e3-9215-eb6358dd5663</id>
+		<updated>2014-06-01'T'21:49:58+00:00</updated>
+		<summary>A polyfill for native ES6 Promises as close as possible (no extensions) to the strict spec definitions.</summary>
+	</entry>
+
+	<entry>
+		<title>Impetus.js</title>
+		<link href="http://chrisbateman.github.io/impetus" />
+		<id>urn:uuid:bedec330-e9d6-11e3-9215-eb6358dd5663</id>
+		<updated>2014-06-01'T'21:49:58+00:00</updated>
+		<summary>Add momentum to anything. It&apos;s like iScroll, except not for scrolling. Supports mouse and touch events.</summary>
+	</entry>
+
+	<entry>
+		<title>DOMtastic</title>
+		<link href="http://webpro.github.io/DOMtastic/" />
+		<id>urn:uuid:c444c040-e9d6-11e3-9215-eb6358dd5663</id>
+		<updated>2014-06-01'T'21:49:58+00:00</updated>
+		<summary>Small and fast DOM and event library for modern browsers. It has the same familiar API as jQuery, and is lean &amp; mean with small, optional modules.</summary>
+	</entry>
+
+	<entry>
+		<title>Dom.js</title>
+		<link href="https://github.com/dkraczkowski/dom.js" />
+		<id>urn:uuid:679df620-e9d8-11e3-90cd-b18be5a4293e</id>
+		<updated>2014-06-01'T'22:02:19+00:00</updated>
+		<summary>DOM.js is a lightweight, fast and cross browser library for DOM traversal, manipulation and event handling.</summary>
+	</entry>
+
+	<entry>
+		<title>PerfNow.js</title>
+		<link href="https://github.com/daniellmb/perfnow.js" />
+		<id>urn:uuid:67a71de0-e9d8-11e3-90cd-b18be5a4293e</id>
+		<updated>2014-06-01'T'22:02:19+00:00</updated>
+		<summary>A high resolution performance benchmarking polyfill</summary>
+	</entry>
+
+	<entry>
+		<title>RIP</title>
+		<link href="https://github.com/pyrsmk/RIP" />
+		<id>urn:uuid:73279af0-e9d8-11e3-90cd-b18be5a4293e</id>
+		<updated>2014-06-01'T'22:02:19+00:00</updated>
+		<summary>Make REST requests in FORM contexts, useful to avoid synchroneous ajax requests</summary>
+	</entry>
+
+	<entry>
+		<title>Byda.js</title>
+		<link href="http://www.ericmcd.com/byda/" />
+		<id>urn:uuid:792f5640-e9d8-11e3-90cd-b18be5a4293e</id>
+		<updated>2014-06-01'T'22:02:19+00:00</updated>
+		<summary>HTML content swapping via HTML5 imports or XHR (Ajax).</summary>
+	</entry>
+
+	<entry>
+		<title>eva</title>
+		<link href="https://github.com/gamtiq/eva" />
+		<id>urn:uuid:809ac040-e9d8-11e3-90cd-b18be5a4293e</id>
+		<updated>2014-06-01'T'22:02:19+00:00</updated>
+		<summary>Functions to create functions and evaluate expressions.</summary>
+	</entry>
+
+	<entry>
+		<title>smoke-pure.js</title>
+		<link href="https://github.com/agamemnus/smoke-pure.js" />
+		<id>urn:uuid:7d419840-e9da-11e3-b4f4-75ab4e73cd3c</id>
+		<updated>2014-06-01'T'22:17:05+00:00</updated>
+		<summary>A simple modal library for JS.</summary>
+	</entry>
+
 
 </feed>

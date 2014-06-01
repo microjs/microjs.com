@@ -36,7 +36,7 @@ module.exports = [
     tags: ["dom", "dom manipulation", "dom traversal", "dom events", "crossbrowser", "event", "traversal"," manipulation"],
     description: "DOM.js is a lightweight, fast and cross browser library for DOM traversal, manipulation and event handling.",
     url: "https://github.com/dkraczkowski/dom.js",
-    source: "https://github.com/dkraczkowski/dom.js/blob/master/src/dom.min.js"
+    source: "https://raw.githubusercontent.com/dkraczkowski/dom.js/master/src/dom.min.js"
   },
   {
     name: "Infect.js",
@@ -44,14 +44,14 @@ module.exports = [
     tags: ["dependency injection", "DI", "dependency", "injection", "dependency-free"],
     description: "Infectiously simple dependency injection for any JavaScript project",
     url: "https://github.com/amwmedia/infect.js",
-    source: "https://raw2.github.com/amwmedia/infect.js/master/infect.js"
+    source: "https://raw.githubusercontent.com/amwmedia/infect.js/master/infect.js"
   },
   {
     name: "PerfNow.js",
     tags: ["performance", "benchmark", "polyfill", "high", "resolution", "timer", "now"],
     description: "A high resolution performance benchmarking polyfill",
     url: "https://github.com/daniellmb/perfnow.js",
-    source: "https://raw.github.com/daniellmb/perfnow.js/master/perfnow.src.js"
+    source: "https://raw.githubusercontent.com/daniellmb/perfnow.js/master/perfnow.src.js"
   },
   {
     name: "Sortable",
@@ -83,7 +83,7 @@ module.exports = [
     tags: ["markdown", "md", "html", "converter"],
     description: "convert markdown to HTML in under 5kb",
     url: "https://github.com/SimonWaldherr/micromarkdown.js",
-    source: "https://raw2.github.com/SimonWaldherr/micromarkdown.js/master/micromarkdown.js"
+    source: "https://raw.githubusercontent.com/SimonWaldherr/micromarkdown.js/master/micromarkdown.js"
   },
   {
     name: "P",
@@ -91,7 +91,7 @@ module.exports = [
     tags: ["promise", "callback", "library", "functional"],
     description: "It's an agnostic, cross-browser and very lightweight library to help you to work with Promise in JavaScript.",
     url: "https://github.com/evandrolg/p",
-    source: "https://raw2.github.com/EvandroLG/P/master/src/p.js"
+    source: "https://raw.githubusercontent.com/EvandroLG/P/master/src/p.js"
  },
  {
     name: "MoaJS",
@@ -107,7 +107,7 @@ module.exports = [
     tags: ["finite", "state", "machine"],
     description: "Lightweight state machine library for JavaScript",
     url: "https://github.com/steelbreeze/state_lite.js",
-    source: "https://raw2.github.com/steelbreeze/state_lite.js/master/src/state_lite.js"
+    source: "https://raw.githubusercontent.com/steelbreeze/state_lite.js/master/src/state_lite.js"
   },
   {
     name: "bLazyJS",
@@ -127,7 +127,7 @@ module.exports = [
   },
   {
     name: "ArrowJS",
-    github: "ConduitInc/ArrowJS",
+    github: "Perion/ArrowJS",
     tags: ["notification", "cross-browser", "namespace"],
     description: "Arrow is a small library for displaying a arrow pointing to the browser download location",
     url: "https://github.com/Perion/ArrowJS",
@@ -178,7 +178,7 @@ module.exports = [
     tags: ["http", "ajax", "rest"],
     description: "http.js is an object oriented javascript library for making http requests and ajax calls.",
     url: "https://github.com/nauman1225/http.js",
-    source: "https://raw.githubusercontent.com/nauman1225/http.js/master/http.js"
+    source: "https://raw.githubusercontent.com/nauman1225/http.js/master/dist/http.js"
   },
   {
     name: "Automator.js",
@@ -297,7 +297,7 @@ module.exports = [
     tags: ["templating"],
     description: "Semantic templates. Binds data to HTML markup. Direto da roça for the browser and server, no DOM needed, just strings.",
     url: "https://github.com/fiatjaf/tempreites",
-    source: "https://raw2.github.com/fiatjaf/tempreites/master/src/tempreites.js"
+    source: "https://raw.githubusercontent.com/fiatjaf/tempreites/master/src/tempreites.js"
   },
   {
     name: "asynquence",
@@ -338,7 +338,7 @@ module.exports = [
     tags: ["tags", "input", "autocomplete"],
     description: "Form-ready delicious style tagging library.",
     url: "http://sean.is/poppin/tags",
-    source: "https://raw.githubusercontent.com/okcoker/taggle.js/master/assets/js/taggle.js"
+    source: "https://raw.githubusercontent.com/okcoker/taggle.js/master/src/taggle.js"
   },
   {
     name: "ImageFlip.js",
@@ -476,7 +476,7 @@ module.exports = [
   },
   {
     name: "tinyrequire",
-    github: "dunxrion/tinyrequire",
+    github: "adriancooney/tinyrequire",
     tags: ["modules", "loader", "require", "define", "dependency", "manager"],
     description: "To the point dependency management.",
     url: "https://github.com/adriancooney/tinyrequire",
@@ -489,14 +489,6 @@ module.exports = [
     description: "Fuzzy.js is a fuzzy search algorithm in javascript",
     url: "https://github.com/Extaze/fuzzy.js",
     source: "https://raw.githubusercontent.com/Extaze/fuzzy.js/master/fuzzy.js"
-  },
-  {
-    name: "tinyrequire",
-    github: "dunxrion/tinyrequire",
-    tags: ["modules", "loader", "require", "define", "dependency", "manager"],
-    description: "To the point dependency management.",
-    url: "https://github.com/dunxrion/tinyrequire",
-    source: "https://raw2.github.com/dunxrion/tinyrequire/master/src/tinyrequire.js"
   },
   {
     name: "spooks.js",
@@ -552,7 +544,7 @@ module.exports = [
     tags: ["lexer"],
     description: "An elegant armor-plated JavaScript lexer modelled after flex. Easily extensible to tailor to your need for perfection.",
     url: "https://github.com/aaditmshah/lexer",
-    source: "https://raw.githubusercontent.com/aaditmshah/lexer/master/lib/lexer.js"
+    source: "https://raw.githubusercontent.com/aaditmshah/lexer/master/lexer.js"
   },
   {
     name: "kebab.js",
@@ -884,8 +876,7 @@ module.exports = [
     tags : ["modal library", "simple modal library", "modal", "simple modal", "alert", "confirm", "prompt"],
     description : "A simple modal library for JS.",
     url : "https://github.com/agamemnus/smoke-pure.js",
-    source : ["https://raw.github.com/agamemnus/smoke-pure.js/gh-pages/smoke-pure.js",
-                   "https://raw.github.com/agamemnus/smoke-pure.js/gh-pages/smoke-pure.css"]
+    source : "https://raw.githubusercontent.com/agamemnus/smoke-pure.js/gh-pages/smoke-pure.js"
   },
   {
     name: "ready.js",
@@ -910,6 +901,7 @@ module.exports = [
   },
   {
     name: "Modernizr",
+    github: "Modernizr/Modernizr",
     tags: ["feature"],
     description: "Detects native CSS3 and HTML5 features available in the current browser.",
     url: "http://www.modernizr.com/",
@@ -1464,10 +1456,10 @@ module.exports = [
     name: "Artemia",
     tags: ["data", "storage"],
     description: "Artemia is a clientside document store, inspired by Lawnchair.",
-    url: "https://github.com/k33g/artemia/",
-    source: [ "https://raw.githubusercontent.com/k33g/artemia/master/js/artemia.js",
-              "https://raw.githubusercontent.com/k33g/artemia/master/js/adaptors.plugins/artemia.storage.js",
-              "https://raw.githubusercontent.com/k33g/artemia/master/js/adaptors.plugins/artemia.sqlite.storage.js" ]
+    url: "https://github.com/js-experiments/artemia",
+    source: [ "https://raw.githubusercontent.com/js-experiments/artemia/master/js/artemia.js",
+              "https://raw.githubusercontent.com/js-experiments/artemia/master/js/adaptors.plugins/artemia.storage.js",
+              "https://raw.githubusercontent.com/js-experiments/artemia/master/js/adaptors.plugins/artemia.sqlite.storage.js" ]
   },
   {
     name: "js.class",
@@ -1650,7 +1642,7 @@ module.exports = [
     tags: ["rest","request"],
     description: "Make REST requests in FORM contexts, useful to avoid synchroneous ajax requests",
     url: "https://github.com/pyrsmk/RIP",
-    source: "https://raw.github.com/pyrsmk/RIP/master/src/RIP.js",
+    source: "https://raw.githubusercontent.com/pyrsmk/RIP/master/src/RIP.js",
     github: "pyrsmk/RIP"
   },
   {
@@ -1658,7 +1650,7 @@ module.exports = [
     tags: ["feature"],
     description: "ClassIE is an unobstrusive library which detects Internet Explorer version for JS and CSS sides",
     url: "https://github.com/pyrsmk/ClassIE",
-    source: "https://raw.github.com/pyrsmk/ClassIE/master/src/ClassIE.js",
+    source: "https://raw.githubusercontent.com/pyrsmk/ClassIE/master/src/ClassIE.js",
     github: "pyrsmk/ClassIE"
   },
   {
@@ -1666,7 +1658,7 @@ module.exports = [
     tags: ["polyfill"],
     description: "A CSS backdoor API for providing awesome scripts in a centralized way",
     url: "https://github.com/pyrsmk/Sheethub",
-    source: "https://raw.github.com/pyrsmk/Sheethub/master/src/Sheethub.js",
+    source: "https://raw.githubusercontent.com/pyrsmk/Sheethub/master/src/Sheethub.js",
     github: "pyrsmk/Sheethub"
   },
   {
@@ -1674,7 +1666,7 @@ module.exports = [
     tags: ["css"],
     description: "A concise CSS selector engine",
     url: "https://github.com/pyrsmk/nut",
-    source: "https://raw.github.com/pyrsmk/nut/master/src/nut.js",
+    source: "https://raw.githubusercontent.com/pyrsmk/nut/master/src/nut.js",
     github: "pyrsmk/nut"
   },
   {
@@ -1682,7 +1674,7 @@ module.exports = [
     tags: ["responsive"],
     description: "Image updater for responsive designs",
     url: "https://github.com/pyrsmk/molt",
-    source: "https://raw.github.com/pyrsmk/molt/master/src/molt.js",
+    source: "https://raw.githubusercontent.com/pyrsmk/molt/master/src/molt.js",
     github: "pyrsmk/molt"
   },
   {
@@ -1690,7 +1682,7 @@ module.exports = [
     tags: ["responsive"],
     description: "Width management tool for responsive designers",
     url: "https://github.com/pyrsmk/W",
-    source: "https://raw.github.com/pyrsmk/W/master/src/W.js",
+    source: "https://raw.githubusercontent.com/pyrsmk/W/master/src/W.js",
     github: "pyrsmk/W"
   },
   {
@@ -1698,7 +1690,7 @@ module.exports = [
     tags: ["loader"],
     description: "A simple CSS and JS resource loader",
     url: "https://github.com/pyrsmk/toast",
-    source: "https://raw.github.com/pyrsmk/toast/master/src/toast.js",
+    source: "https://raw.githubusercontent.com/pyrsmk/toast/master/src/toast.js",
     github: "pyrsmk/toast"
   },
   {
@@ -1706,15 +1698,15 @@ module.exports = [
     tags: ["polyfill", "responsive"],
     description: "A media queries polyfill",
     url: "https://github.com/pyrsmk/mediatizr",
-    source: "https://raw.github.com/pyrsmk/mediatizr/master/src/mediatizr.js",
-    github: "pyrsmk/medtiatizr"
+    source: "https://raw.githubusercontent.com/pyrsmk/mediatizr/master/src/mediatizr.js",
+    github: "pyrsmk/mediatizr"
   },
   {
     name: "qwest",
     tags: ["ajax","async","request"],
     description: "Ajax library with promises and XHR2 support",
     url: "https://github.com/pyrsmk/qwest",
-    source: "https://raw.github.com/pyrsmk/qwest/master/src/qwest.js",
+    source: "https://raw.githubusercontent.com/pyrsmk/qwest/master/src/qwest.js",
     github: "pyrsmk/qwest"
   },
   {
@@ -1911,6 +1903,7 @@ module.exports = [
   */
   {
     name: "Platform.js",
+    github: "bestiejs/platform.js",
     tags: ["feature"],
     description: "A platform detection library that works on nearly all JavaScript platforms.",
     url: "https://github.com/bestiejs/platform.js",
@@ -2030,8 +2023,8 @@ module.exports = [
     name: "Species",
     tags: ["language", "class"],
     description: "Java style OOP, and AOP ability, watchable members, inheritance and ability to call super members.",
-    url: "https://github.com/k33g/species",
-    source: "https://raw.githubusercontent.com/k33g/species/master/js/species.js"
+    url: "https://github.com/js-experiments/species",
+    source: "https://raw.githubusercontent.com/js-experiments/species/master/js/species.js"
   },
   {
     name: "Maddy",
@@ -2073,8 +2066,8 @@ module.exports = [
     name: "swipe",
     tags: ["jsanimation", "mobile"],
     description: "A lightweight 1-to-1 mobile slider. Optimized for touch devices.",
-    url: "https://github.com/bradbirdsall/Swipe",
-    source: "https://raw.githubusercontent.com/bradbirdsall/Swipe/master/swipe.js"
+    url: "https://github.com/thebird/Swipe",
+    source: "https://raw.githubusercontent.com/thebird/Swipe/master/swipe.js"
   },
   {
     name: "Happen",
@@ -2196,8 +2189,8 @@ module.exports = [
     tags: ["ui", "tooltips", "hints", "html5", "css3", "animation"],
     description: "Light and clean tooltips with CSS3 animation",
     url: "http://ytiurin.github.io/html5tooltipsjs/",
-    github: "https://github.com/ytiurin/html5tooltipsjs",
-    source: "https://raw.githubusercontent.com/ytiurin/html5tooltipsjs/master/versions/html5tooltips.1.2.2.js"
+    github: "ytiurin/html5tooltipsjs",
+    source: "https://raw.githubusercontent.com/ytiurin/html5tooltipsjs/master/html5tooltips.js"
   },
   {
     name: "140medley",
@@ -2210,8 +2203,8 @@ module.exports = [
     name: "SpeculOOs",
     tags: ["language", "class"],
     description: "Simple JavaScript Class notation, fully CoffeeScript compliant",
-    url: "https://github.com/k33g/speculoos",
-    source: "https://raw.githubusercontent.com/k33g/speculoos/master/speculoos.js"
+    url: "https://github.com/js-experiments/speculoos",
+    source: "https://raw.githubusercontent.com/js-experiments/speculoos/master/speculoos.js"
   },
   {
     name: "aug",
@@ -2522,7 +2515,7 @@ module.exports = [
     tags: ["HTML5", "imports", "xhr", "ajax", "swapping"],
     description: "HTML content swapping via HTML5 imports or XHR (Ajax).",
     url: "http://www.ericmcd.com/byda/",
-    source: "https://raw.github.com/ericmcdaniel/byda/master/index.js"
+    source: "https://raw.githubusercontent.com/ericmcdaniel/byda/master/index.js"
   },
   {
     name: "an.hour.ago",
@@ -2634,11 +2627,11 @@ module.exports = [
   },
   {
     name: "Pjs",
-    github: "jayferd/pjs",
-    url: "https://github.com/jayferd/pjs",
+    github: "jneen/pjs",
+    url: "https://github.com/jneen/pjs",
     tags: ["class", "inheritance"],
     description: "A teensy class system. It's just prototypes, but without the nasty parts.",
-    source: "https://raw.githubusercontent.com/jayferd/pjs/master/src/p.js"
+    source: "https://raw.githubusercontent.com/jneen/pjs/master/src/p.js"
   },
   {
     name: "l.js",
@@ -2781,7 +2774,7 @@ module.exports = [
     tags: ["module", "ioc", "di", "injection", "dependency", "framework"],
     description: "A tiny synchronous module definition and dependency management framework.",
     url: "https://github.com/gmac/pods.js",
-    source: "https://raw2.github.com/gmac/pods.js/master/pods.js"
+    source: "https://raw.githubusercontent.com/gmac/pods.js/master/pods.js"
   },
   {
     name: "Hammer.js",
@@ -3484,7 +3477,7 @@ module.exports = [
     tags: ["create", "function", "dynamic", "eval", "evaluate", "expression", "execute", "delegate", "method"],
     description: "Functions to create functions and evaluate expressions.",
     url: "https://github.com/gamtiq/eva",
-    source: "https://raw.github.com/gamtiq/eva/master/dist/eva.js"
+    source: "https://raw.githubusercontent.com/gamtiq/eva/master/dist/eva.js"
   },
   {
     name: "easter.js",
@@ -3551,17 +3544,19 @@ module.exports = [
   },
   {
     name: "YoutubeDelayed.js",
+    github: "MAD-GooZe/YoutubeDelayed.js",
     tags: ["youtube", "video", "loader"],
     description: "A a small script which allows you to load youtube player on page only when the user wants to watch the video.",
     url: "https://github.com/MAD-GooZe/YoutubeDelayed.js",
-    source: "https://raw2.github.com/MAD-GooZe/YoutubeDelayed.js/master/YoutubeDelayed.js"
+    source: "https://raw.githubusercontent.com/MAD-GooZe/YoutubeDelayed.js/master/YoutubeDelayed.js"
   },
   {
     name: "Riot",
+    github: "muut/riotjs",
     tags: ["router", "event handling", "template engine", "mvp", "framework", "fast", "tiny"],
     description: "The 1kb client-side MVP library. An incredibly fast, powerful yet tiny tool for building large scale web applications.",
     url: "https://moot.it/riotjs/",
-    source: "https://raw2.github.com/moot/riotjs/master/riot.js"
+    source: "https://raw.githubusercontent.com/muut/riotjs/master/riot.js"
   },
   {
     name: "Contra",
