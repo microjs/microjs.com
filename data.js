@@ -857,6 +857,15 @@ module.exports = [
              "https://raw.githubusercontent.com/thanpolas/server2js/master/lib/server2js.node.js"]
   },
   {
+    name : "smoke-pure.js",
+    github : "agamemnus/smoke-pure.js",
+    tags : ["modal library", "simple modal library", "modal", "simple modal", "alert", "confirm", "prompt"],
+    description : "A simple modal library for JS.",
+    url : "https://github.com/agamemnus/smoke-pure.js",
+    source : ["https://raw.github.com/agamemnus/smoke-pure.js/gh-pages/smoke-pure.js",
+                   "https://raw.github.com/agamemnus/smoke-pure.js/gh-pages/smoke-pure.css"]
+  },
+  {
     name: "ready.js",
     tags: ["async", "node.js", "watch", "flow", "flow control"],
     description: "Monitor multiple async operations and triggers when all or some are complete.",
