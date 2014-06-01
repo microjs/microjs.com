@@ -2220,6 +2220,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/nsisodiya/choona.js/master/choona.js"
   },
   {
+    name: "Impetus.js",
+    github: "chrisbateman/impetus",
+    tags: ["momentum", "touch", "mouse", "mobile"],
+    description: "Add momentum to anything. It's like iScroll, except not for scrolling. Supports mouse and touch events.",
+    url: "http://chrisbateman.github.io/impetus",
+    source: "https://raw.githubusercontent.com/chrisbateman/impetus/master/impetus.js"
+  },
+  {
     name: "Humane JS",
     tags: ["notification", "alert"],
     description: "A simple, modern, browser notification system",
