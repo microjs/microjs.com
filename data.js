@@ -25,6 +25,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/EvandroLG/Feed/master/src/feed.js"
   },
   {
+    name: "Dom.js",
+    tags: ["dom", "dom manipulation", "dom traversal", "dom events", "crossbrowser", "event", "traversal"," manipulation"],
+    description: "DOM.js is a lightweight, fast and cross browser library for DOM traversal, manipulation and event handling.",
+    url: "https://github.com/dkraczkowski/dom.js",
+    source: "https://github.com/dkraczkowski/dom.js/blob/master/src/dom.min.js"
+  },
+  {
     name: "Infect.js",
     github: "amwmedia/Infect.js",
     tags: ["dependency injection", "DI", "dependency", "injection", "dependency-free"],
