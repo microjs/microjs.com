@@ -3613,5 +3613,13 @@ module.exports = [
     description: "Tiny stack for browser or server",
     url: "http://avoidwork.github.io/tiny-stack",
     source: "https://raw.githubusercontent.com/avoidwork/tiny-stack/master/lib/tiny-stack.js"
+  },
+  {
+    name: "lodash dom traverse",
+    github: "szarouski/lodash.dom-traverse",
+    tags: ["lodash", "dom", "traverse"],
+    description: "Dom traversing with lodash (1.28kb min, gzip)",
+    url: "http://szarouski.github.io/lodash.dom-traverse/",
+    source: "https://raw.githubusercontent.com/szarouski/lodash.dom-traverse/master/lodash.dom-traverse.min.js"
   }
 ];
