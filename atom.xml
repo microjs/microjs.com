@@ -3864,5 +3864,13 @@
 		<summary>A simple modal library for JS.</summary>
 	</entry>
 
+	<entry>
+		<title>MarmottAjax</title>
+		<link href="https://github.com/marmottes/marmottajax" />
+		<id>urn:uuid:2ad0e5c0-ebdd-11e3-8882-d137704ce784</id>
+		<updated>2014-06-04'T'11:39:54+00:00</updated>
+		<summary>A tiny Ajax librairy with promises and some Marmot</summary>
+	</entry>
+
 
 </feed>
