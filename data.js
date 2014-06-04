@@ -3613,5 +3613,12 @@ module.exports = [
     description: "Tiny stack for browser or server",
     url: "http://avoidwork.github.io/tiny-stack",
     source: "https://raw.githubusercontent.com/avoidwork/tiny-stack/master/lib/tiny-stack.js"
+  },
+  {
+    name: "MarmottAjax",
+    tags: ["ajax", "xhr", "json"],
+    description: "A tiny Ajax librairy with promises and some Marmot",
+    url: "https://github.com/marmottes/marmottajax",
+    source: "https://raw.githubusercontent.com/marmottes/marmottajax/master/marmottajax.js"
   }
 ];
