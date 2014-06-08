@@ -19,7 +19,7 @@ and makes it easy for you to pick one that’ll work for you.
 
 ## Submitting new libraries and frameworks
 
-Want to add your own? Fork this site on GitHub, add your framework to "data.js" and submit a pull request..
+Want to add your own? Fork this site on GitHub, add your framework to "data.js" and submit a pull request.
 
 ### Rules
 
