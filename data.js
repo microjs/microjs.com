@@ -3056,6 +3056,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/RubenVerborgh/promiscuous/master/promiscuous.js"
   },
   {
+    name: "Draggabilly",
+    tags: ["drag", "dragable", "draggable"],
+    description: "Make that shiz draggable",
+    url: "https://github.com/desandro/draggabilly",
+    source: "https://raw.githubusercontent.com/desandro/draggabilly/master/draggabilly.js"
+  },
+  {
     name: "BehaviorTree.js",
     tags: ["behavior trees", "ai", "behaviors", "games", "statemachine"],
     description: "A JavaScript implementation of Behavior Trees, useful when developing AI behaviors in games.",
