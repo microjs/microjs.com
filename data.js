@@ -3613,5 +3613,12 @@ module.exports = [
     description: "Tiny stack for browser or server",
     url: "http://avoidwork.github.io/tiny-stack",
     source: "https://raw.githubusercontent.com/avoidwork/tiny-stack/master/lib/tiny-stack.js"
+  },
+  {
+    name: "Parse Form",
+    tags: ["form", "forms", "parse"],
+    description: "A micro library used to parse and manipulate forms",
+    url: "https://github.com/AdamBrodzinski/parse-form",
+    source: "https://raw.githubusercontent.com/AdamBrodzinski/parse-form/master/parse-form-min.js"
   }
 ];
