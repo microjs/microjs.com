@@ -70,6 +70,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/RubaXa/Sortable/master/Sortable.js"
   },
   {
+    name: "CRC32",
+    tags: ["crc", "crc-32", "checksum", "check", "verify", "error", "hash" ],
+    description: "Blazing fast CRC-32 checksum algorithm for binary and Unicode data.",
+    url: "https://github.com/SheetJS/js-crc32",
+    source: "https://raw.githubusercontent.com/SheetJS/js-crc32/master/crc32.js"
+  },
+  {
     name: "AsyncIterator",
     github: "aravindbaskaran/simple-async",
     tags: ["async", "iterate", "callback"],
