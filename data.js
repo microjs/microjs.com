@@ -1798,6 +1798,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/yckart/Transe.js/master/transe.js"
   },
   {
+    name: "SeXHR",
+    tags: ["ajax", "xhr", "xmlhttprequest"],
+    description: "Simple, succulent and sexy XMLHttpRequest wrapper for the browser",
+    url: "https://github.com/skibz/SeXHR",
+    source: "https://raw.githubusercontent.com/skibz/SeXHR/master/SeXHR.js",
+  },
+  {
     name: "CSSDyer.js",
     tags: ["css", "color", "parse", "ui", "rgb", "rgba", "hex", "creative"],
     description: "Create your very own css-color",
