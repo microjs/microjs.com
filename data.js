@@ -24,6 +24,22 @@ module.exports = [
     source: "https://raw.githubusercontent.com/PoeHaH/devicedetector/master/devicedetector-production.js"
   },
   {
+    name: "translate.js",
+    github: "musterknabe/translate.js",
+    tags: ["translation", "translate", "i18n", "internationalization", "languages", "localization"],
+    description: "A simple function to translate strings. With support for multiple plural forms and replacements/placeholders",
+    url: "https://github.com/musterknabe/translate.js",
+    source: "https://raw.githubusercontent.com/musterknabe/translate.js/master/src/translate.js"
+  },
+  {
+    name: "translate.js",
+    github: "musterknabe/translate.js",
+    tags: ["translation", "translate", "i18n", "internationalization", "languages", "localization"],
+    description: "A simple function to translate strings. With support for multiple plural forms and replacements/placeholders",
+    url: "https://github.com/musterknabe/translate.js",
+    source: "https://raw.githubusercontent.com/musterknabe/translate.js/master/src/translate.js"
+  },
+  {
     name: "Feed",
     github: "evandrolg/Feed",
     tags: ["feed", "rss", "feed reader", "client-side"],
