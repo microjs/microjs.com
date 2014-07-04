@@ -3613,5 +3613,19 @@ module.exports = [
     description: "Tiny stack for browser or server",
     url: "http://avoidwork.github.io/tiny-stack",
     source: "https://raw.githubusercontent.com/avoidwork/tiny-stack/master/lib/tiny-stack.js"
+  },
+  {
+    name: "Deb.js",
+    tags: ["debugging", "console output", "stack trace", "time execution"],
+    description: "The tiniest debugger in the world",
+    url: "https://github.com/krasimir/deb.js",
+    source: "https://raw.githubusercontent.com/krasimir/deb.js/master/build/deb.min.js"
+  },
+  {
+    name: "Gifffer",
+    tags: ["gif", "play control", "stop", "first frame"],
+    description: "A tiny JavaScript library that prevents the autoplaying of the animated Gifs",
+    url: "https://github.com/krasimir/gifffer",
+    source: "https://raw.githubusercontent.com/krasimir/gifffer/master/build/gifffer.min.js"
   }
 ];
