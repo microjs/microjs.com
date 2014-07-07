@@ -3563,5 +3563,12 @@ module.exports = [
     description: "Tiny, fast, light-weight promises (370 bytes min+zipped)",
     url: "https://github.com/chrisdavies/plite",
     source: "https://raw.githubusercontent.com/chrisdavies/plite/master/plite.js"
+  },
+  {
+    name: "Rlite",
+    tags: ["rlite", "route", "routing", "router", "hash", "querystring", "named", "parameters"],
+    description: "Tiny, simple, light-weight routing (~500 bytes min+zipped)",
+    url: "https://github.com/chrisdavies/rlite",
+    source: "https://github.com/chrisdavies/rlite/blob/master/rlite.min.js"
   }
 ];
