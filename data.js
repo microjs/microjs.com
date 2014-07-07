@@ -3613,5 +3613,19 @@ module.exports = [
     description: "Tiny stack for browser or server",
     url: "http://avoidwork.github.io/tiny-stack",
     source: "https://raw.githubusercontent.com/avoidwork/tiny-stack/master/lib/tiny-stack.js"
+  },
+  {
+    name: "Plite",
+    tags: ["promise", "future", "callback", "library", "functional"],
+    description: "Tiny, fast, light-weight promises (370 bytes min+zipped)",
+    url: "https://github.com/chrisdavies/plite",
+    source: "https://raw.githubusercontent.com/chrisdavies/plite/master/plite.js"
+  },
+  {
+    name: "Rlite",
+    tags: ["rlite", "route", "routing", "router", "hash", "querystring", "named", "parameters"],
+    description: "Tiny, simple, light-weight routing (~500 bytes min+zipped)",
+    url: "https://github.com/chrisdavies/rlite",
+    source: "https://github.com/chrisdavies/rlite/blob/master/rlite.min.js"
   }
 ];
