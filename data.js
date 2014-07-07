@@ -17,6 +17,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/lhorie/mithril.js/master/mithril.js"
   },
   {
+    name:"once.js",
+    tags: ["called","once","function","one","single","coffeescript","javascript","amd","node","web",],
+    description: "Enforce that a CoffeeScript or JavaScript function can only be executed once.",
+    url: "https://github.com/daniellmb/once.js",
+    source: "https://raw.githubusercontent.com/daniellmb/once.js/master/once.js"
+  },  
+  {
     name:"devicedetector.js",
     tags: ["device detector", "client-side", "ismobile", "check mobile"],
     description: "Tiny script detecting if you are on a desktop, mobile or tablet device.",
