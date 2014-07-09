@@ -3628,5 +3628,12 @@ module.exports = [
     description: "Tiny stack for browser or server",
     url: "http://avoidwork.github.io/tiny-stack",
     source: "https://raw.githubusercontent.com/avoidwork/tiny-stack/master/lib/tiny-stack.js"
+  },
+  {
+    name: "datediff",
+    tags: ["date", "time"],
+    description: "Calculate difference between two dates",
+    url: "https://github.com/dmfilipenko/datediff",
+    source: "https://github.com/dmfilipenko/datediff/blob/master/datediff.min.js"
   }
 ];
