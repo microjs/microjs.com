@@ -3643,5 +3643,13 @@ module.exports = [
     description: "Calculate difference between two dates",
     url: "https://github.com/dmfilipenko/datediff",
     source: "https://github.com/dmfilipenko/datediff/blob/master/datediff.min.js"
+  },
+  {
+    name: "lodash dom traverse",
+    github: "szarouski/lodash.dom-traverse",
+    tags: ["lodash", "dom", "traverse"],
+    description: "Dom traversing with lodash (1.28kb min, gzip)",
+    url: "http://szarouski.github.io/lodash.dom-traverse/",
+    source: "https://raw.githubusercontent.com/szarouski/lodash.dom-traverse/master/lodash.dom-traverse.min.js"
   }
 ];
