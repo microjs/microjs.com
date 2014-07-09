@@ -3638,6 +3638,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/avoidwork/tiny-stack/master/lib/tiny-stack.js"
   },
   {
+    name: "MarmottAjax",
+    tags: ["ajax", "xhr", "json"],
+    description: "A tiny Ajax librairy with promises and some Marmot",
+    url: "https://github.com/marmottes/marmottajax",
+    source: "https://raw.githubusercontent.com/marmottes/marmottajax/master/marmottajax.js"
+  },
+  {
     name: "datediff",
     tags: ["date", "time"],
     description: "Calculate difference between two dates",
