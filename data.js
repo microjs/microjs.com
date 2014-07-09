@@ -3658,5 +3658,12 @@ module.exports = [
     description: "Dom traversing with lodash (1.28kb min, gzip)",
     url: "http://szarouski.github.io/lodash.dom-traverse/",
     source: "https://raw.githubusercontent.com/szarouski/lodash.dom-traverse/master/lodash.dom-traverse.min.js"
+  },
+  {
+    name: "Parse Form",
+    tags: ["form", "forms", "parse"],
+    description: "A micro library used to parse and manipulate forms",
+    url: "https://github.com/AdamBrodzinski/parse-form",
+    source: "https://raw.githubusercontent.com/AdamBrodzinski/parse-form/master/parse-form-min.js"
   }
 ];
