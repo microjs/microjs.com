@@ -3864,13 +3864,5 @@
 		<summary>A simple modal library for JS.</summary>
 	</entry>
 
-	<entry>
-		<title>functional.js</title>
-		<link href="http://functionaljs.com" />
-		<id>urn:uuid:092b9bb0-fdce-11e3-b322-eb0d82e5790f</id>
-		<updated>2014-06-27'T'07:38:14+00:00</updated>
-		<summary>A functional JavaScript library that facilitates currying and point-free programming.</summary>
-	</entry>
-
 
 </feed>
