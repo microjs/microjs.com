@@ -1668,6 +1668,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/madrobby/evidence/master/src/evidence.js"
   },
   {
+    name: "functional.js",
+    tags: ["functional", "curry", "arity", "compose", "iterator"],
+    description: "A functional JavaScript library that facilitates currying and point-free programming.",
+    url: "http://functionaljs.com",
+    source: "https://raw.githubusercontent.com/leecrossley/functional-js/master/functional.js",
+    github: "leecrossley/functional-js"
+  },
+  {
     name: "RIP",
     tags: ["rest","request"],
     description: "Make REST requests in FORM contexts, useful to avoid synchroneous ajax requests",
