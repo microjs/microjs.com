@@ -3680,5 +3680,12 @@ module.exports = [
     description: "A micro library used to parse and manipulate forms",
     url: "https://github.com/AdamBrodzinski/parse-form",
     source: "https://raw.githubusercontent.com/AdamBrodzinski/parse-form/master/parse-form-min.js"
+  },
+  {
+     name: "Rlite",
+     tags: ["rlite", "route", "routing", "router", "hash", "querystring", "named", "parameters"],
+     description: "Tiny, simple, light-weight routing (~500 bytes min+zipped)",
+     url: "https://github.com/chrisdavies/rlite",
+     source: "https://github.com/chrisdavies/rlite/blob/master/rlite.min.js"
   }
 ];
