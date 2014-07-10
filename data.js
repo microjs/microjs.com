@@ -3680,5 +3680,19 @@ module.exports = [
     description: "A micro library used to parse and manipulate forms",
     url: "https://github.com/AdamBrodzinski/parse-form",
     source: "https://raw.githubusercontent.com/AdamBrodzinski/parse-form/master/parse-form-min.js"
+  },
+  {
+    name: "Deb.js",
+    tags: ["debugging", "console output", "stack trace", "time execution"],
+    description: "The tiniest debugger in the world",
+    url: "https://github.com/krasimir/deb.js",
+    source: "https://raw.githubusercontent.com/krasimir/deb.js/master/build/deb.min.js"
+  },
+  {
+    name: "Gifffer",
+    tags: ["gif", "play control", "stop", "first frame"],
+    description: "A tiny JavaScript library that prevents the autoplaying of the animated Gifs",
+    url: "https://github.com/krasimir/gifffer",
+    source: "https://raw.githubusercontent.com/krasimir/gifffer/master/build/gifffer.min.js"
   }
 ];
