@@ -3709,5 +3709,11 @@ module.exports = [
     description: "A tiny JavaScript library that prevents the autoplaying of the animated Gifs",
     url: "https://github.com/krasimir/gifffer",
     source: "https://raw.githubusercontent.com/krasimir/gifffer/master/build/gifffer.min.js"
+  },{
+     name: "Rlite",
+     tags: ["rlite", "route", "routing", "router", "hash", "querystring", "named", "parameters"],
+     description: "Tiny, simple, light-weight routing (~500 bytes min+zipped)",
+     url: "https://github.com/chrisdavies/rlite",
+     source: "https://github.com/chrisdavies/rlite/blob/master/rlite.min.js"
   }
 ];
