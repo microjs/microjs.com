@@ -319,7 +319,7 @@ module.exports = [
     tags: ["indent", "indentation", "detect", "infer", "identify", "code", "string", "text", "source", "space", "tab"],
     description: "Detect the indentation of code.",
     url: "https://github.com/sindresorhus/detect-indent",
-    source: "https://raw.githubusercontent.com/sindresorhus/detect-indent/master/detect-indent.js"
+    source: "https://raw.githubusercontent.com/sindresorhus/detect-indent/master/cli.js"
   },
   {
     name: "Tempreites",
@@ -344,7 +344,7 @@ module.exports = [
     tags: ["async", "asynchronous", "promise", "promises"],
     description: "A polyfill for native ES6 Promises as close as possible (no extensions) to the strict spec definitions.",
     url: "https://github.com/getify/native-promise-only",
-    source: "https://rawnpm.getify.io/native-promise-only/latest/lib/npo.src.js"
+    source: "https://raw.githubusercontent.com/getify/native-promise-only/master/lib/npo.src.js"
   },
   {
     name: "Miniscroll.js",
@@ -843,7 +843,7 @@ module.exports = [
     tags: ["password", "strength", "meter"],
     description: "Simple password strength testing.",
     url: "https://github.com/syntaqx/pass-meter",
-    source: "https://github.com/syntaqx/pass-meter/blob/master/dist/pass-meter.min.js"
+    source: "https://raw.githubusercontent.com/syntaqx/pass-meter/master/dist/pass-meter.js"
   },
   {
     name: "GSet",
@@ -2294,7 +2294,7 @@ module.exports = [
     tags: ["pubsub", "modular", "scalable", "sandbox", "spa", "architecture"],
     description: "Choona.js is a tiny JavaScript framework for scalable , modular architecture for one-page-applications",
     url: "https://github.com/nsisodiya/choona.js",
-    source: "https://raw.githubusercontent.com/nsisodiya/choona.js/master/choona.js"
+    source: "https://raw.githubusercontent.com/nsisodiya/choona.js/master/dist/choona.js"
   },
   {
     name: "Impetus.js",
@@ -2653,7 +2653,7 @@ module.exports = [
     tags: ["events"],
     description: "Event Emitter Class for the browser based on NodeJS EventEmitter",
     url: "https://github.com/pazguille/jvent",
-    source: "https://raw.githubusercontent.com/pazguille/jvent/master/standalone/jvent.js"
+    source: "https://raw.githubusercontent.com/pazguille/jvent/master/dist/jvent.js"
   },
   {
     name: "fader.js",
@@ -2838,11 +2838,11 @@ module.exports = [
   },
   {
     name: "Hammer.js",
-    github: "EightMedia/hammer.js",
+    github: "hammerjs/hammer.js",
     tags: ["events", "mobile", "touch", "multitouch"],
     description: "A tiny javascript library that can be used to control gestures on touch devices.",
-    url: "http://eightmedia.github.io/hammer.js/",
-    source: "https://raw.githubusercontent.com/EightMedia/hammer.js/master/hammer.js"
+    url: "http://hammerjs.github.io/hammer.js/",
+    source: "https://raw.githubusercontent.com/hammerjs/hammer.js/master/hammer.js"
   },
   {
     name: "Probability.js",
@@ -3394,11 +3394,11 @@ module.exports = [
   },
   {
     name: "SVGEventListener",
-    github: "madsgraphics/SVGEventListener",
+    github: "m4dz/SVGEventListener",
     tags: ["svg", "events", "animation", "polyfill"],
     description: "A polyfill for animate events on SVG on non-supported browsers, like webkit engines",
-    url: "https://github.com/madsgraphics/SVGEventListener",
-    source: "https://raw.githubusercontent.com/madsgraphics/SVGEventListener/master/SVGEventListener.js"
+    url: "https://github.com/m4dz/SVGEventListener",
+    source: "https://raw.githubusercontent.com/m4dz/SVGEventListener/master/SVGEventListener.js"
   },
   {
     name: "chronology.js",
@@ -3550,8 +3550,8 @@ module.exports = [
     name: "henka",
     tags: ["responsive", "respond", "media", "query", "media-query", "queries"],
     description: "Light weight, portable, single purpose responsive javascript library.",
-    url: "https://github.com/toxigenicpoem/henka",
-    source: "https://raw.githubusercontent.com/toxigenicpoem/henka/master/src/js/henka-src.js"
+    url: "https://github.com/dmikey/henka",
+    source: "https://raw.githubusercontent.com/dmikey/henka/master/src/js/henka-src.js"
   },
   {
     name: "rssi",
@@ -3686,41 +3686,42 @@ module.exports = [
     tags: ["date", "time"],
     description: "Calculate difference between two dates",
     url: "https://github.com/dmfilipenko/datediff",
-    source: "https://github.com/dmfilipenko/datediff/blob/master/datediff.min.js"
+    source: "https://raw.githubusercontent.com/dmfilipenko/datediff/master/datediff.js"
   },
   {
     name: "lodash dom traverse",
     github: "szarouski/lodash.dom-traverse",
     tags: ["lodash", "dom", "traverse"],
-    description: "Dom traversing with lodash (1.28kb min, gzip)",
+    description: "Dom traversing with lodash",
     url: "http://szarouski.github.io/lodash.dom-traverse/",
-    source: "https://raw.githubusercontent.com/szarouski/lodash.dom-traverse/master/lodash.dom-traverse.min.js"
+    source: "https://raw.githubusercontent.com/szarouski/lodash.dom-traverse/master/lodash.dom-traverse.js"
   },
   {
     name: "Parse Form",
     tags: ["form", "forms", "parse"],
     description: "A micro library used to parse and manipulate forms",
     url: "https://github.com/AdamBrodzinski/parse-form",
-    source: "https://raw.githubusercontent.com/AdamBrodzinski/parse-form/master/parse-form-min.js"
+    source: "https://raw.githubusercontent.com/AdamBrodzinski/parse-form/master/parse-form.js"
   },
   {
     name: "Deb.js",
     tags: ["debugging", "console output", "stack trace", "time execution"],
     description: "The tiniest debugger in the world",
     url: "https://github.com/krasimir/deb.js",
-    source: "https://raw.githubusercontent.com/krasimir/deb.js/master/build/deb.min.js"
+    source: "https://raw.githubusercontent.com/krasimir/deb.js/master/lib/deb.js"
   },
   {
     name: "Gifffer",
     tags: ["gif", "play control", "stop", "first frame"],
     description: "A tiny JavaScript library that prevents the autoplaying of the animated Gifs",
     url: "https://github.com/krasimir/gifffer",
-    source: "https://raw.githubusercontent.com/krasimir/gifffer/master/build/gifffer.min.js"
-  },{
+    source: "https://raw.githubusercontent.com/krasimir/gifffer/master/lib/gifffer.js"
+  },
+  {
      name: "Rlite",
      tags: ["rlite", "route", "routing", "router", "hash", "querystring", "named", "parameters"],
-     description: "Tiny, simple, light-weight routing (~500 bytes min+zipped)",
+     description: "Tiny, simple, light-weight routing",
      url: "https://github.com/chrisdavies/rlite",
-     source: "https://github.com/chrisdavies/rlite/blob/master/rlite.min.js"
+     source: "https://raw.githubusercontent.com/chrisdavies/rlite/master/rlite.js"
   }
 ];

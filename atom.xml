@@ -3864,5 +3864,117 @@
 		<summary>A simple modal library for JS.</summary>
 	</entry>
 
+	<entry>
+		<title>style.js</title>
+		<link href="https://github.com/dhilipsiva/style.js" />
+		<id>urn:uuid:a44d2910-0963-11e4-95e6-ebe2bc089b3b</id>
+		<updated>2014-07-12'T'01:27:02+00:00</updated>
+		<summary>A layman&apos;s tool to style HTML Elements and share CSS values</summary>
+	</entry>
+
+	<entry>
+		<title>CRC32</title>
+		<link href="https://github.com/SheetJS/js-crc32" />
+		<id>urn:uuid:a4796930-0963-11e4-95e6-ebe2bc089b3b</id>
+		<updated>2014-07-12'T'01:27:02+00:00</updated>
+		<summary>Blazing fast CRC-32 checksum algorithm for binary and Unicode data.</summary>
+	</entry>
+
+	<entry>
+		<title>translate.js</title>
+		<link href="https://github.com/musterknabe/translate.js" />
+		<id>urn:uuid:a57443f0-0963-11e4-95e6-ebe2bc089b3b</id>
+		<updated>2014-07-12'T'01:27:02+00:00</updated>
+		<summary>A simple function to translate strings. With support for multiple plural forms and replacements/placeholders</summary>
+	</entry>
+
+	<entry>
+		<title>augment</title>
+		<link href="https://github.com/javascript/augment" />
+		<id>urn:uuid:a791ccc0-0963-11e4-95e6-ebe2bc089b3b</id>
+		<updated>2014-07-12'T'01:27:02+00:00</updated>
+		<summary>The world&apos;s smallest and fastest classical JavaScript inheritance pattern.</summary>
+	</entry>
+
+	<entry>
+		<title>functional.js</title>
+		<link href="http://functionaljs.com" />
+		<id>urn:uuid:aed25630-0963-11e4-95e6-ebe2bc089b3b</id>
+		<updated>2014-07-12'T'01:27:02+00:00</updated>
+		<summary>A functional JavaScript library that facilitates currying and point-free programming.</summary>
+	</entry>
+
+	<entry>
+		<title>SeXHR</title>
+		<link href="https://github.com/skibz/SeXHR" />
+		<id>urn:uuid:afc5b6e0-0963-11e4-95e6-ebe2bc089b3b</id>
+		<updated>2014-07-12'T'01:27:02+00:00</updated>
+		<summary>Simple, succulent and sexy XMLHttpRequest wrapper for the browser</summary>
+	</entry>
+
+	<entry>
+		<title>MarmottAjax</title>
+		<link href="https://github.com/marmottes/marmottajax" />
+		<id>urn:uuid:bbe46fc0-0963-11e4-95e6-ebe2bc089b3b</id>
+		<updated>2014-07-12'T'01:27:02+00:00</updated>
+		<summary>A tiny Ajax librairy with promises and some Marmot</summary>
+	</entry>
+
+	<entry>
+		<title>Parse Form</title>
+		<link href="https://github.com/AdamBrodzinski/parse-form" />
+		<id>urn:uuid:bbf1dd40-0963-11e4-95e6-ebe2bc089b3b</id>
+		<updated>2014-07-12'T'01:27:02+00:00</updated>
+		<summary>A micro library used to parse and manipulate forms</summary>
+	</entry>
+
+	<entry>
+		<title>Gifffer</title>
+		<link href="https://github.com/krasimir/gifffer" />
+		<id>urn:uuid:bc053e30-0963-11e4-95e6-ebe2bc089b3b</id>
+		<updated>2014-07-12'T'01:27:02+00:00</updated>
+		<summary>A tiny JavaScript library that prevents the autoplaying of the animated Gifs</summary>
+	</entry>
+
+	<entry>
+		<title>lodash dom traverse</title>
+		<link href="http://szarouski.github.io/lodash.dom-traverse/" />
+		<id>urn:uuid:9d803710-0965-11e4-ab72-45814b3bae34</id>
+		<updated>2014-07-12'T'01:40:35+00:00</updated>
+		<summary>Dom traversing with lodash</summary>
+	</entry>
+
+	<entry>
+		<title>datediff</title>
+		<link href="https://github.com/dmfilipenko/datediff" />
+		<id>urn:uuid:cd6c2b90-0966-11e4-abfd-c1b3bf375a6e</id>
+		<updated>2014-07-12'T'01:49:04+00:00</updated>
+		<summary>Calculate difference between two dates</summary>
+	</entry>
+
+	<entry>
+		<title>Deb.js</title>
+		<link href="https://github.com/krasimir/deb.js" />
+		<id>urn:uuid:cd7a8370-0966-11e4-abfd-c1b3bf375a6e</id>
+		<updated>2014-07-12'T'01:49:04+00:00</updated>
+		<summary>The tiniest debugger in the world</summary>
+	</entry>
+
+	<entry>
+		<title>Rlite</title>
+		<link href="https://github.com/chrisdavies/rlite" />
+		<id>urn:uuid:cda2f300-0966-11e4-abfd-c1b3bf375a6e</id>
+		<updated>2014-07-12'T'01:49:04+00:00</updated>
+		<summary>Tiny, simple, light-weight routing</summary>
+	</entry>
+
+	<entry>
+		<title>Pass-Meter.js</title>
+		<link href="https://github.com/syntaqx/pass-meter" />
+		<id>urn:uuid:1a7dfa70-0968-11e4-98ea-bf95faa1d115</id>
+		<updated>2014-07-12'T'01:58:54+00:00</updated>
+		<summary>Simple password strength testing.</summary>
+	</entry>
+
 
 </feed>
