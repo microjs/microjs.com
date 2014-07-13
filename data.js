@@ -17,6 +17,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/lhorie/mithril.js/master/mithril.js"
   },
   {
+    name:"once.js",
+    tags: ["called","once","function","one","single","coffeescript","javascript","amd","node","web"],
+    description: "Enforce that a CoffeeScript or JavaScript function can only be executed once.",
+    url: "https://github.com/daniellmb/once.js",
+    source: "https://raw.githubusercontent.com/daniellmb/once.js/master/once.js"
+  },  
+  {
     name:"devicedetector.js",
     tags: ["device detector", "client-side", "ismobile", "check mobile"],
     description: "Tiny script detecting if you are on a desktop, mobile or tablet device.",
@@ -54,12 +61,27 @@ module.exports = [
     source: "https://raw.githubusercontent.com/daniellmb/perfnow.js/master/perfnow.src.js"
   },
   {
+    name: "style.js",
+    github: "dhilipsiva/style.js",
+    tags: ["style", "CSS GUI"],
+    description: "A layman's tool to style HTML Elements and share CSS values",
+    url: "https://github.com/dhilipsiva/style.js",
+    source: "https://raw.githubusercontent.com/dhilipsiva/style.js/master/src/js/style.js"
+  },
+  {
     name: "Sortable",
     github: "RubaXa/Sortable",
     tags: ["sortable", "dnd", "reorder", "drag", "touch"],
     description: "Sortable is a minimalist JavaScript library for modern browsers and touch devices. No jQuery.",
     url: "http://rubaxa.github.com/Sortable/",
     source: "https://raw.githubusercontent.com/RubaXa/Sortable/master/Sortable.js"
+  },
+  {
+    name: "CRC32",
+    tags: ["crc", "crc-32", "checksum", "check", "verify", "error", "hash" ],
+    description: "Blazing fast CRC-32 checksum algorithm for binary and Unicode data.",
+    url: "https://github.com/SheetJS/js-crc32",
+    source: "https://raw.githubusercontent.com/SheetJS/js-crc32/master/crc32.js"
   },
   {
     name: "AsyncIterator",
@@ -197,6 +219,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/brophdawg11/JsChannels/master/channel.js"
   },
   {
+    name: "translate.js",
+    github: "musterknabe/translate.js",
+    tags: ["translation", "translate", "i18n", "internationalization", "languages", "localization"],
+    description: "A simple function to translate strings. With support for multiple plural forms and replacements/placeholders",
+    url: "https://github.com/musterknabe/translate.js",
+    source: "https://raw.githubusercontent.com/musterknabe/translate.js/master/src/translate.js"
+  },
+  {
     name: "swiftclick",
     github: "tmwagency/swiftclick",
     tags: ["mobile", "touch", "events", "swiftclick"],
@@ -289,7 +319,7 @@ module.exports = [
     tags: ["indent", "indentation", "detect", "infer", "identify", "code", "string", "text", "source", "space", "tab"],
     description: "Detect the indentation of code.",
     url: "https://github.com/sindresorhus/detect-indent",
-    source: "https://raw.githubusercontent.com/sindresorhus/detect-indent/master/detect-indent.js"
+    source: "https://raw.githubusercontent.com/sindresorhus/detect-indent/master/cli.js"
   },
   {
     name: "Tempreites",
@@ -314,7 +344,7 @@ module.exports = [
     tags: ["async", "asynchronous", "promise", "promises"],
     description: "A polyfill for native ES6 Promises as close as possible (no extensions) to the strict spec definitions.",
     url: "https://github.com/getify/native-promise-only",
-    source: "https://rawnpm.getify.io/native-promise-only/latest/lib/npo.src.js"
+    source: "https://raw.githubusercontent.com/getify/native-promise-only/master/lib/npo.src.js"
   },
   {
     name: "Miniscroll.js",
@@ -539,9 +569,17 @@ module.exports = [
     source: "https://raw.githubusercontent.com/philbooth/check-types.js/master/src/check-types.js"
   },
   {
+    name: "augment",
+    github: "javascript/augment",
+    tags: ["augment", "augments", "augmentation", "extend", "extends", "extension", "prototype", "prototypal", "class", "classical", "object", "inheritance", "uber", "super", "constructor", "oop"],
+    description: "The world's smallest and fastest classical JavaScript inheritance pattern.",
+    url: "https://github.com/javascript/augment",
+    source: "https://raw.githubusercontent.com/javascript/augment/master/augment.js"
+  },
+  {
     name: "lexer",
     github: "aaditmshah/lexer",
-    tags: ["lexer"],
+    tags: ["lex", "lexer", "lexical", "analysis", "scan", "scanner", "scanning", "token", "tokenize", "tokenizer", "tokenization", "flex", "jison"],
     description: "An elegant armor-plated JavaScript lexer modelled after flex. Easily extensible to tailor to your need for perfection.",
     url: "https://github.com/aaditmshah/lexer",
     source: "https://raw.githubusercontent.com/aaditmshah/lexer/master/lexer.js"
@@ -799,6 +837,13 @@ module.exports = [
     description: "A normalization pattern to build, query, and manipulate everything.",
     url: "https://github.com/bemson/genData/",
     source: "https://raw.githubusercontent.com/bemson/genData/master/src/gendata.js"
+  },
+  {
+    name: "Pass-Meter.js",
+    tags: ["password", "strength", "meter"],
+    description: "Simple password strength testing.",
+    url: "https://github.com/syntaqx/pass-meter",
+    source: "https://raw.githubusercontent.com/syntaqx/pass-meter/master/dist/pass-meter.js"
   },
   {
     name: "GSet",
@@ -1638,6 +1683,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/madrobby/evidence/master/src/evidence.js"
   },
   {
+    name: "functional.js",
+    tags: ["functional", "curry", "arity", "compose", "iterator"],
+    description: "A functional JavaScript library that facilitates currying and point-free programming.",
+    url: "http://functionaljs.com",
+    source: "https://raw.githubusercontent.com/leecrossley/functional-js/master/functional.js",
+    github: "leecrossley/functional-js"
+  },
+  {
     name: "RIP",
     tags: ["rest","request"],
     description: "Make REST requests in FORM contexts, useful to avoid synchroneous ajax requests",
@@ -1796,6 +1849,13 @@ module.exports = [
     description: "Transformable scroll elements (with mobile support)",
     url: "https://github.com/yckart/Transe.js",
     source: "https://raw.githubusercontent.com/yckart/Transe.js/master/transe.js"
+  },
+  {
+    name: "SeXHR",
+    tags: ["ajax", "xhr", "xmlhttprequest"],
+    description: "Simple, succulent and sexy XMLHttpRequest wrapper for the browser",
+    url: "https://github.com/skibz/SeXHR",
+    source: "https://raw.githubusercontent.com/skibz/SeXHR/master/SeXHR.js",
   },
   {
     name: "CSSDyer.js",
@@ -2234,7 +2294,7 @@ module.exports = [
     tags: ["pubsub", "modular", "scalable", "sandbox", "spa", "architecture"],
     description: "Choona.js is a tiny JavaScript framework for scalable , modular architecture for one-page-applications",
     url: "https://github.com/nsisodiya/choona.js",
-    source: "https://raw.githubusercontent.com/nsisodiya/choona.js/master/choona.js"
+    source: "https://raw.githubusercontent.com/nsisodiya/choona.js/master/dist/choona.js"
   },
   {
     name: "Impetus.js",
@@ -2593,7 +2653,7 @@ module.exports = [
     tags: ["events"],
     description: "Event Emitter Class for the browser based on NodeJS EventEmitter",
     url: "https://github.com/pazguille/jvent",
-    source: "https://raw.githubusercontent.com/pazguille/jvent/master/standalone/jvent.js"
+    source: "https://raw.githubusercontent.com/pazguille/jvent/master/dist/jvent.js"
   },
   {
     name: "fader.js",
@@ -2778,11 +2838,11 @@ module.exports = [
   },
   {
     name: "Hammer.js",
-    github: "EightMedia/hammer.js",
+    github: "hammerjs/hammer.js",
     tags: ["events", "mobile", "touch", "multitouch"],
     description: "A tiny javascript library that can be used to control gestures on touch devices.",
-    url: "http://eightmedia.github.io/hammer.js/",
-    source: "https://raw.githubusercontent.com/EightMedia/hammer.js/master/hammer.js"
+    url: "http://hammerjs.github.io/hammer.js/",
+    source: "https://raw.githubusercontent.com/hammerjs/hammer.js/master/hammer.js"
   },
   {
     name: "Probability.js",
@@ -3334,11 +3394,11 @@ module.exports = [
   },
   {
     name: "SVGEventListener",
-    github: "madsgraphics/SVGEventListener",
+    github: "m4dz/SVGEventListener",
     tags: ["svg", "events", "animation", "polyfill"],
     description: "A polyfill for animate events on SVG on non-supported browsers, like webkit engines",
-    url: "https://github.com/madsgraphics/SVGEventListener",
-    source: "https://raw.githubusercontent.com/madsgraphics/SVGEventListener/master/SVGEventListener.js"
+    url: "https://github.com/m4dz/SVGEventListener",
+    source: "https://raw.githubusercontent.com/m4dz/SVGEventListener/master/SVGEventListener.js"
   },
   {
     name: "chronology.js",
@@ -3490,8 +3550,8 @@ module.exports = [
     name: "henka",
     tags: ["responsive", "respond", "media", "query", "media-query", "queries"],
     description: "Light weight, portable, single purpose responsive javascript library.",
-    url: "https://github.com/toxigenicpoem/henka",
-    source: "https://raw.githubusercontent.com/toxigenicpoem/henka/master/src/js/henka-src.js"
+    url: "https://github.com/dmikey/henka",
+    source: "https://raw.githubusercontent.com/dmikey/henka/master/src/js/henka-src.js"
   },
   {
     name: "rssi",
@@ -3613,5 +3673,55 @@ module.exports = [
     description: "Tiny stack for browser or server",
     url: "http://avoidwork.github.io/tiny-stack",
     source: "https://raw.githubusercontent.com/avoidwork/tiny-stack/master/lib/tiny-stack.js"
+  },
+  {
+    name: "MarmottAjax",
+    tags: ["ajax", "xhr", "json"],
+    description: "A tiny Ajax librairy with promises and some Marmot",
+    url: "https://github.com/marmottes/marmottajax",
+    source: "https://raw.githubusercontent.com/marmottes/marmottajax/master/marmottajax.js"
+  },
+  {
+    name: "datediff",
+    tags: ["date", "time"],
+    description: "Calculate difference between two dates",
+    url: "https://github.com/dmfilipenko/datediff",
+    source: "https://raw.githubusercontent.com/dmfilipenko/datediff/master/datediff.js"
+  },
+  {
+    name: "lodash dom traverse",
+    github: "szarouski/lodash.dom-traverse",
+    tags: ["lodash", "dom", "traverse"],
+    description: "Dom traversing with lodash",
+    url: "http://szarouski.github.io/lodash.dom-traverse/",
+    source: "https://raw.githubusercontent.com/szarouski/lodash.dom-traverse/master/lodash.dom-traverse.js"
+  },
+  {
+    name: "Parse Form",
+    tags: ["form", "forms", "parse"],
+    description: "A micro library used to parse and manipulate forms",
+    url: "https://github.com/AdamBrodzinski/parse-form",
+    source: "https://raw.githubusercontent.com/AdamBrodzinski/parse-form/master/parse-form.js"
+  },
+  {
+    name: "Deb.js",
+    tags: ["debugging", "console output", "stack trace", "time execution"],
+    description: "The tiniest debugger in the world",
+    url: "https://github.com/krasimir/deb.js",
+    source: "https://raw.githubusercontent.com/krasimir/deb.js/master/lib/deb.js"
+  },
+  {
+    name: "Gifffer",
+    tags: ["gif", "play control", "stop", "first frame"],
+    description: "A tiny JavaScript library that prevents the autoplaying of the animated Gifs",
+    url: "https://github.com/krasimir/gifffer",
+    source: "https://raw.githubusercontent.com/krasimir/gifffer/master/lib/gifffer.js"
+  },
+  {
+     name: "Rlite",
+     tags: ["rlite", "route", "routing", "router", "hash", "querystring", "named", "parameters"],
+     description: "Tiny, simple, light-weight routing",
+     url: "https://github.com/chrisdavies/rlite",
+     source: "https://raw.githubusercontent.com/chrisdavies/rlite/master/rlite.js"
   }
 ];
