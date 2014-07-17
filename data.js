@@ -3723,5 +3723,12 @@ module.exports = [
      description: "Tiny, simple, light-weight routing",
      url: "https://github.com/chrisdavies/rlite",
      source: "https://raw.githubusercontent.com/chrisdavies/rlite/master/rlite.js"
+  },
+  {
+     name: "clone",
+     tags: ["clone", "copy", "duplicate"],
+     description: "Clones/copies arbitrary objects recursively",
+     url: "https://github.com/pvorb/node-clone",
+     source: "https://raw.githubusercontent.com/pvorb/node-clone/master/clone.js"
   }
 ];
