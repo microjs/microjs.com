@@ -2716,6 +2716,7 @@ module.exports = [
   },
   {
     name: "Mousetrap",
+    github: "ccampbell/mousetrap",
     tags: ["events"],
     description: "A simple library for handling keyboard shortcuts in Javascript.",
     url: "http://craig.is/killing/mice",
@@ -2944,6 +2945,7 @@ module.exports = [
   },
   {
     name: "Rainbow",
+    github: "ccampbell/rainbow",
     tags: ["dom", "syntax", "code", "highlighter"],
     description: "Simple, extendable code syntax highlighting library.",
     url: "http://craig.is/making/rainbows",
@@ -2972,6 +2974,7 @@ module.exports = [
   },
   {
     name: "Gator",
+    github: "ccampbell/gator",
     tags: ["dom", "events", "delegation"],
     description: "Simple event delegation library",
     url: "http://craig.is/riding/gators",
