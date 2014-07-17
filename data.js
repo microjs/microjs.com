@@ -9,6 +9,14 @@
 
 module.exports = [
   {
+    name: "httpinvoke",
+    github: "jakutis/httpinvoke",
+    tags: ["ajax", "http", "xhr", "binary", "promise", "async", "request", "xmlhttprequest"],
+    description: "A no-dependencies HTTP client library for browsers and Node.js with a promise-based or Node.js-style callback-based API to progress events, text and binary file upload and download, partial response body, request and response headers, status code.",
+    url: "https://github.com/jakutis/httpinvoke",
+    source: "https://raw.githubusercontent.com/jakutis/httpinvoke/master/httpinvoke-browser.js"
+  },
+  {
     name: "Mithril",
     github: "lhorie/mithril",
     tags: ["mvc framework", "mvc", "framework", "templating", "promise", "routing"],
