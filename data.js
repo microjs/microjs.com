@@ -3723,5 +3723,12 @@ module.exports = [
      description: "Tiny, simple, light-weight routing",
      url: "https://github.com/chrisdavies/rlite",
      source: "https://raw.githubusercontent.com/chrisdavies/rlite/master/rlite.js"
+  },
+  {
+     name: "SimplyJS",
+     tags: ["simplyjs", "simply", "simple", "easy", "DOM", "events", "async", "asynchronous", "native", "prototype", "CSS"],
+     description: "Provides support for manipulating with DOM and events handling. Easy for use, optimized for performance, native browser's support first.",
+     url: "https://github.com/janelznic/simplyjs",
+     source: "https://raw.githubusercontent.com/janelznic/simplyjs/master/lib/simply.js"
   }
 ];
