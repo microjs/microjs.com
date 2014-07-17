@@ -3723,5 +3723,19 @@ module.exports = [
      description: "Tiny, simple, light-weight routing",
      url: "https://github.com/chrisdavies/rlite",
      source: "https://raw.githubusercontent.com/chrisdavies/rlite/master/rlite.js"
+  },
+  {
+     name: "Kwargs",
+     tags: ["python", "arguments", "kwargs", "defaults", "function", "syntactic sugar"],
+     description: "Smart python like argument management for javascript",
+     url: "https://github.com/serkanyersen/kwargsjs",
+     source: "https://raw.githubusercontent.com/serkanyersen/kwargsjs/master/kwargs.js"
+  },
+  {
+     name: "ifvisible.js",
+     tags: ["visibility", "idle", "coffee", "script", "interval", "requestAnimationFrame"],
+     description: "Crossbrowser & lightweight way to check if user is looking at the page or interacting with it.",
+     url: "https://github.com/serkanyersen/ifvisible.js",
+     source: "https://raw.githubusercontent.com/serkanyersen/ifvisible.js/master/src/ifvisible.js"
   }
 ];
