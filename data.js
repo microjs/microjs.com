@@ -1040,6 +1040,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/jtenner/expando-js/master/expando.js"
   },
   {
+    name: "preach",
+    github: "zeusdeux/preach",
+    tags: ["publish", "subscribe", "pubsub", "browser", "node"],
+    description: "A lightweight pubsub utility for node and the browser.",
+    url: "https://github.com/zeusdeux/preach",
+    source: "https://raw.githubusercontent.com/zeusdeux/preach/master/browser/preach.js"
+  }
+  {
     name: "Composer.js",
     github: "jtenner/Composer.js",
     tags: ["oo", "prototype","object", "composition", "mixin"],
