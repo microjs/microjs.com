@@ -3723,5 +3723,12 @@ module.exports = [
      description: "Tiny, simple, light-weight routing",
      url: "https://github.com/chrisdavies/rlite",
      source: "https://raw.githubusercontent.com/chrisdavies/rlite/master/rlite.js"
+  },
+  {
+     name: "tag",
+     tags: ["dom", "dom-elements"],
+     description: "Small utility for creating DOM elements",
+     url: "https://github.com/a-tarasyuk/tag",
+     source: "https://raw.githubusercontent.com/a-tarasyuk/tag/master/lib/tag.js"
   }
 ];
