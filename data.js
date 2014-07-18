@@ -2087,6 +2087,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/ekalinin/typogr.js/master/typogr.js"
   },
   {
+    name: "jundo",
+    tags: ["undo", "redo", "history"],
+    description: "Undo library for browser and Node",
+    url: "https://github.com/buunguyen/jundo",
+    source: "https://github.com/buunguyen/jundo/blob/master/index.js"
+  },
+  {
     name: "Species",
     tags: ["language", "class"],
     description: "Java style OOP, and AOP ability, watchable members, inheritance and ability to call super members.",
