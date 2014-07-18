@@ -513,6 +513,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/adriancooney/tinyrequire/master/src/tinyrequire.js"
   },
   {
+    name: "token-boy",
+    github: "zeusdeux/token-boy",
+    tags: ["token", "api", "digest", "base64", "api-token"],
+    description: "Serves 'n' bit tokens, either digested or not.",
+    url: "https://github.com/zeusdeux/token-boy",
+    source: "https://raw.githubusercontent.com/zeusdeux/token-boy/master/index.js"
+  },
+  {
     name: "fuzzy.js",
     github: "Extaze/fuzzy.js",
     tags: ["search", "fuzzy", "filter"],
