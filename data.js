@@ -435,6 +435,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/philbooth/css-time.js/master/src/css-time.js"
   },
   {
+    name: "bottleneck",
+    github: "SGrondin/bottleneck",
+    tags: ["async rate limiter", "async", "rate limiter", "timing", "load", "limiter", "ddos"],
+    description: "The best async rate limiter for Node and the browser",
+    url: "https://github.com/SGrondin/bottleneck",
+    source: "https://raw.githubusercontent.com/SGrondin/bottleneck/master/bottleneck.js"
+  },
+  {
     name: "accounting.js",
     github: "josscrowcroft/accounting.js",
     tags: ["math", "number", "money", "currency parsing", "currency formatting"],
