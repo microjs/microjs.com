@@ -1872,6 +1872,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/yckart/DragValue.js/master/dragvalue.js"
   },
   {
+    name: "topbar",
+    tags: ["ui", "progress", "bar", "loading", "side-wide"],
+    description: "Tiny and beautiful site-wide progress indicator",
+    url: "http://buunguyen.github.io/topbar/",
+    source: "https://github.com/buunguyen/topbar/blob/master/topbar.js"
+  },
+  {
     name: "Curtain.js",
     tags: ["curtain", "scroll", "transform", "position", "css", "responsive", "creative"],
     description: "Scrolls up your curtain!",
