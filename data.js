@@ -1054,7 +1054,7 @@ module.exports = [
     description: "A lightweight pubsub utility for node and the browser.",
     url: "https://github.com/zeusdeux/preach",
     source: "https://raw.githubusercontent.com/zeusdeux/preach/master/browser/preach.js"
-  }
+  },
   {
     name: "Composer.js",
     github: "jtenner/Composer.js",
