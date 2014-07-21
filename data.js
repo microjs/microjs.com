@@ -22,7 +22,7 @@ module.exports = [
     description: "Enforce that a CoffeeScript or JavaScript function can only be executed once.",
     url: "https://github.com/daniellmb/once.js",
     source: "https://raw.githubusercontent.com/daniellmb/once.js/master/once.js"
-  },  
+  },
   {
     name:"devicedetector.js",
     tags: ["device detector", "client-side", "ismobile", "check mobile"],
@@ -3723,5 +3723,12 @@ module.exports = [
      description: "Tiny, simple, light-weight routing",
      url: "https://github.com/chrisdavies/rlite",
      source: "https://raw.githubusercontent.com/chrisdavies/rlite/master/rlite.js"
+  },
+  {
+    name: "mutant.js",
+    tags: ["mutantobserver", "dom", "changes", "scroll", "observer", "change", "mutate"],
+    description: "DOM Modification observer",
+    url: "https://github.com/gitterHQ/mutant.js",
+    source: "https://raw.githubusercontent.com/gitterHQ/mutant.js/master/public/assets/mutant.js"
   }
 ];

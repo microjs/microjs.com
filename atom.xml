@@ -3976,5 +3976,13 @@
 		<summary>Simple password strength testing.</summary>
 	</entry>
 
+	<entry>
+		<title>mutant.js</title>
+		<link href="https://github.com/gitterHQ/mutant.js" />
+		<id>urn:uuid:813b2520-10cb-11e4-9f14-e145a3fa8607</id>
+		<updated>2014-07-21'T'11:37:54+00:00</updated>
+		<summary>DOM Modification observer</summary>
+	</entry>
+
 
 </feed>
