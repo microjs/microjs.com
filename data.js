@@ -22,7 +22,7 @@ module.exports = [
     description: "Enforce that a CoffeeScript or JavaScript function can only be executed once.",
     url: "https://github.com/daniellmb/once.js",
     source: "https://raw.githubusercontent.com/daniellmb/once.js/master/once.js"
-  },  
+  },
   {
     name:"devicedetector.js",
     tags: ["device detector", "client-side", "ismobile", "check mobile"],
@@ -2941,6 +2941,14 @@ module.exports = [
     description: "Pattern matching (like in Haskell or Scala) for JavaScript.",
     url: "https://github.com/pb82/MissMatch",
     source: "https://raw.githubusercontent.com/pb82/MissMatch/master/lib/MissMatch.js"
+  },
+  {
+    name: "Sleeper Agent",
+    github: "kapilkaisare/sleeper-agent",
+    tags: ["logging", "logs"],
+    description: "Collect logs selectively from client instances on demand.",
+    url: "https://github.com/kapilkaisare/sleeper-agent",
+    source: "https://raw.githubusercontent.com/kapilkaisare/sleeper-agent/raw/master/sleeper.js"
   },
   {
     name: "Rainbow",
