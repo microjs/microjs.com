@@ -3976,5 +3976,13 @@
 		<summary>Simple password strength testing.</summary>
 	</entry>
 
+	<entry>
+		<title>bullet</title>
+		<link href="https://github.com/munkychop/bullet" />
+		<id>urn:uuid:48cbe0e0-1a34-11e4-bbe2-1bef65a5d4f4</id>
+		<updated>2014-08-02'T'10:59:53+00:00</updated>
+		<summary>Bullet is an ultra lightweight and simple to use pub-sub library, with AMD/module support and an intuitive API.</summary>
+	</entry>
+
 
 </feed>
