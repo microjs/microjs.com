@@ -2951,6 +2951,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/kapilkaisare/sleeper-agent/raw/master/sleeper.js"
   },
   {
+    name: "Daemonize",
+    github: "kapilkaisare/daemonizejs",
+    tags: ["unix", "daemon"],
+    description: "Give a function a daemon like interface (start, stop, restart)",
+    url: "https://github.com/kapilkaisare/daemonizejs",
+    source: "https://raw.githubusercontent.com/kapilkaisare/sleeper-agent/raw/master/daemonize.js"
+  },
+  {
     name: "Rainbow",
     tags: ["dom", "syntax", "code", "highlighter"],
     description: "Simple, extendable code syntax highlighting library.",
