@@ -3723,5 +3723,13 @@ module.exports = [
      description: "Tiny, simple, light-weight routing",
      url: "https://github.com/chrisdavies/rlite",
      source: "https://raw.githubusercontent.com/chrisdavies/rlite/master/rlite.js"
+  },
+  {
+    name: "NanoModal",
+    github: "kylepaulsen/NanoModal",
+    tags: ["modal", "dialog", "popup", "message"],
+    description: "A small, self-contained JavaScript modal library with some extra features.",
+    url: "https://github.com/kylepaulsen/NanoModal",
+    source: "https://raw.githubusercontent.com/kylepaulsen/NanoModal/master/nanomodal.js"
   }
 ];
