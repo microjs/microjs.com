@@ -1123,6 +1123,14 @@ module.exports = [
     source: "function t(s,d){ for(var p in d) s=s.replace(new RegExp('{'+p+'}','g'), d[p]); return s; }"
   },
   {
+    name: "RegexGen.js",
+    github: "amobiz/regexgen.js",
+    tags: ["regex", "regular expression", "generator"],
+    description: "RegexGen.js is a JavaScript regular expression generator that helps to construct complex regular expressions.",
+    url: "http://amobiz.github.io/regexgen.js/",
+    source: "https://raw.githubusercontent.com/amobiz/regexgen.js/master/dist/regexgen.js"
+  },
+  {
     name: "Firmin",
     github: "beastaugh/firmin",
     tags: ["animation", "webkit"],
