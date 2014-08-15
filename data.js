@@ -1062,6 +1062,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/alpha123/Jaguar/master/src/jaguar.js"
   },
   {
+    "name": "mixit",
+    "tags": ["mixin", "merge", "json"],
+    "description": "a smart mixin/merging object helper",
+    "url": "https://github.com/stephanebachelier/mixit",
+    "source": "https://raw.githubusercontent.com/stephanebachelier/mixit/master/lib/mixit.js"
+  },
+  {
     name: "Émile",
     tags: ["animation", "jsanimation"],
     description: "Émile is a no-frills stand-alone CSS animation JavaScript framework",
