@@ -219,6 +219,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/brophdawg11/JsChannels/master/channel.js"
   },
   {
+    name: "svgfallback",
+    github: "/nbouvrette/svgfallback",
+    tags: ["svg", "fallback"],
+    description: "A tiny Javascript SVG Fallback for non supporting browsers",
+    url: "https://github.com/nbouvrette/svgfallback",
+    source: "https://github.com/nbouvrette/svgfallback/blob/master/svgfallback.js"
+  },
+  {
     name: "translate.js",
     github: "musterknabe/translate.js",
     tags: ["translation", "translate", "i18n", "internationalization", "languages", "localization"],
