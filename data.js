@@ -1498,6 +1498,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/millermedeiros/Hasher/master/dist/js/hasher.js"
   },
   {
+    name: "Be",
+    tags: ["asynchronous","control","flow","functional","high-order"],
+    description: "Control flows and methods to deal with asynchronous programs.",
+    url: "https://github.com/aynik/be",
+    source: "https://raw.githubusercontent.com/aynik/be/master/index.js"
+  },
+  {
     name: "Artemia",
     tags: ["data", "storage"],
     description: "Artemia is a clientside document store, inspired by Lawnchair.",
