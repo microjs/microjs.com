@@ -3976,5 +3976,13 @@
 		<summary>Simple password strength testing.</summary>
 	</entry>
 
+	<entry>
+		<title>Optiscroll</title>
+		<link href="https://github.com/wilsonfletcher/Optiscroll" />
+		<id>urn:uuid:27edc150-2799-11e4-8b66-6bd8ee18587d</id>
+		<updated>2014-08-19'T'12:04:50+00:00</updated>
+		<summary>Custom scrollbars for modern webapps. Supercharge the native scroll</summary>
+	</entry>
+
 
 </feed>
