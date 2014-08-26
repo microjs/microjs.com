@@ -39,7 +39,7 @@ module.exports = [
   },
   {
     name:"aop.js",
-    tags: ["aspect","oriented","programming","aop"],
+    tags: ["aspect","oriented","programming","aop", "functional"],
     description: "Aspect Oriented Programming Micro Library.",
     url: "https://github.com/daniellmb/aop.js",
     source: "https://github.com/daniellmb/aop.js/blob/master/aop.js"
@@ -53,7 +53,7 @@ module.exports = [
   },
   {
     name:"ab.js",
-    tags: ["ab test","a/b test","split test"],
+    tags: ["ab test","a/b test","split test", "testing"],
     description: "A/B/n Testing Micro Library.",
     url: "https://github.com/daniellmb/ab.js",
     source: "https://github.com/daniellmb/ab.js/blob/master/ab.src.js"
