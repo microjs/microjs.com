@@ -34,8 +34,8 @@ module.exports = [
     name:"VidBG",
     tags: ["video","background","embed"],
     description: "micro-library for embedding video backgrounds into web pages",
-    url: "https://github.com/daniellmb/Euclids-algorithm",
-    source: "https://github.com/daniellmb/Euclids-algorithm/blob/master/gcd.src.js"
+    url: "https://github.com/daniellmb/VidBG",
+    source: "https://github.com/daniellmb/VidBG/blob/master/vidbg.js"
   },
   {
     name:"aop.js",
