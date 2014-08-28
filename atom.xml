@@ -3976,5 +3976,13 @@
 		<summary>Simple password strength testing.</summary>
 	</entry>
 
+	<entry>
+		<title>unblock.js</title>
+		<link href="https://github.com/machellerogden/unblock" />
+		<id>urn:uuid:6e26d800-2ee7-11e4-9407-131fd9fecf30</id>
+		<updated>2014-08-28'T'19:13:04+00:00</updated>
+		<summary>A single function for dead simple asynchronous control flow.</summary>
+	</entry>
+
 
 </feed>

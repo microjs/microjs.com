@@ -1244,6 +1244,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/douglascrockford/JSON-js/master/json2.js"
   },
   {
+    name: "unblock.js",
+    tags: ["async", "control", "flow", "functional"],
+    description: "A single function for dead simple asynchronous control flow.",
+    url: "https://github.com/machellerogden/unblock",
+    source: "https://raw.githubusercontent.com/machellerogden/unblock/master/unblock.js"
+  },
+  {
     name: "yepnope",
     tags: ["polyfill", "loader"],
     description: "yepnope is an asynchronous conditional resource loader that allows you to load only the scripts that your users need.",
