@@ -3723,5 +3723,12 @@ module.exports = [
      description: "Tiny, simple, light-weight routing",
      url: "https://github.com/chrisdavies/rlite",
      source: "https://raw.githubusercontent.com/chrisdavies/rlite/master/rlite.js"
+  },
+  {
+     name: "lightrouter",
+     tags: ["lightrouter", "route", "routing", "router", "hash", "querystring", "named", "parameters"],
+     description: "Ultra lightweight javascript routing for traditional and single page apps.",
+     url: "https://github.com/garygreen/lightrouter",
+     source: "https://github.com/garygreen/lightrouter/blob/master/src/lightrouter.js"
   }
 ];
