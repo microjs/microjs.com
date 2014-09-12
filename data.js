@@ -3711,6 +3711,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/krasimir/deb.js/master/lib/deb.js"
   },
   {
+    name: "Balalaika",
+    tags: ["dom", "selectors", "jquery", "library"],
+    description: "Tiny but impossible powerful jQuery-like Javascript DOM library",
+    url: "https://github.com/finom/balalaika",
+    source: "https://raw.githubusercontent.com/finom/balalaika/master/balalaika.min.js"
+  },
+  {
     name: "Gifffer",
     tags: ["gif", "play control", "stop", "first frame"],
     description: "A tiny JavaScript library that prevents the autoplaying of the animated Gifs",
@@ -3723,12 +3730,5 @@ module.exports = [
      description: "Tiny, simple, light-weight routing",
      url: "https://github.com/chrisdavies/rlite",
      source: "https://raw.githubusercontent.com/chrisdavies/rlite/master/rlite.js"
-  },
-  {
-    name: "Balalaika",
-    tags: ["dom", "selectors", "jquery", "library"],
-    description: "Tiny but impossible powerful jQuery-like Javascript DOM library",
-    url: "https://github.com/finom/balalaika",
-    source: "https://raw.githubusercontent.com/finom/balalaika/master/balalaika.min.js"
   }
 ];
