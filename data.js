@@ -3723,5 +3723,12 @@ module.exports = [
      description: "Tiny, simple, light-weight routing",
      url: "https://github.com/chrisdavies/rlite",
      source: "https://raw.githubusercontent.com/chrisdavies/rlite/master/rlite.js"
+  },
+  {
+    name: "Balalaika",
+    tags: ["dom", "selectors", "jquery", "library"],
+    description: "Tiny but impossible powerful jQuery-like Javascript DOM library",
+    url: "https://github.com/finom/balalaika",
+    source: "https://raw.githubusercontent.com/finom/balalaika/master/balalaika.min.js"
   }
 ];
