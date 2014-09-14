@@ -3976,5 +3976,133 @@
 		<summary>Simple password strength testing.</summary>
 	</entry>
 
+	<entry>
+		<title>strg.js</title>
+		<link href="https://github.com/fend25/strg.js" />
+		<id>urn:uuid:64e29b30-3c20-11e4-b480-0db5da863b2f</id>
+		<updated>2014-09-14'T'15:04:12+00:00</updated>
+		<summary>Simple and clear localStorage, sessionStorage and cookie operating library with the single API</summary>
+	</entry>
+
+	<entry>
+		<title>hu.js</title>
+		<link href="https://github.com/Canop/hu.js" />
+		<id>urn:uuid:6630c610-3c20-11e4-b480-0db5da863b2f</id>
+		<updated>2014-09-14'T'15:04:12+00:00</updated>
+		<summary>A really light library for creation, manipulation and animation of SVG.</summary>
+	</entry>
+
+	<entry>
+		<title>bullet</title>
+		<link href="https://github.com/munkychop/bullet" />
+		<id>urn:uuid:666606e0-3c20-11e4-b480-0db5da863b2f</id>
+		<updated>2014-09-14'T'15:04:12+00:00</updated>
+		<summary>Bullet is an ultra lightweight and simple to use pub-sub library, with AMD/module support and an intuitive API.</summary>
+	</entry>
+
+	<entry>
+		<title>bottleneck</title>
+		<link href="https://github.com/SGrondin/bottleneck" />
+		<id>urn:uuid:68fe6500-3c20-11e4-b480-0db5da863b2f</id>
+		<updated>2014-09-14'T'15:04:12+00:00</updated>
+		<summary>The best async rate limiter for Node and the browser</summary>
+	</entry>
+
+	<entry>
+		<title>RegexGen.js</title>
+		<link href="http://amobiz.github.io/regexgen.js/" />
+		<id>urn:uuid:6df1ca20-3c20-11e4-b480-0db5da863b2f</id>
+		<updated>2014-09-14'T'15:04:12+00:00</updated>
+		<summary>RegexGen.js is a JavaScript regular expression generator that helps to construct complex regular expressions.</summary>
+	</entry>
+
+	<entry>
+		<title>pathparser.js</title>
+		<link href="https://github.com/dstillman/pathparser.js" />
+		<id>urn:uuid:728d7250-3c20-11e4-b480-0db5da863b2f</id>
+		<updated>2014-09-14'T'15:04:12+00:00</updated>
+		<summary>Tiny, simple-to-use URL parser/router</summary>
+	</entry>
+
+	<entry>
+		<title>youarei.js</title>
+		<link href="https://github.com/purge/youarei.js" />
+		<id>urn:uuid:7694f0d0-3c20-11e4-b480-0db5da863b2f</id>
+		<updated>2014-09-14'T'15:04:12+00:00</updated>
+		<summary>URL parsing library with sane parameter handling</summary>
+	</entry>
+
+	<entry>
+		<title>page.js</title>
+		<link href="https://github.com/visionmedia/page.js" />
+		<id>urn:uuid:7e9e4880-3c20-11e4-b480-0db5da863b2f</id>
+		<updated>2014-09-14'T'15:04:12+00:00</updated>
+		<summary>Tiny ~1200 byte Express-inspired client-side router.</summary>
+	</entry>
+
+	<entry>
+		<title>page.js-body-parser.js</title>
+		<link href="https://github.com/kethinov/page.js-body-parser.js" />
+		<id>urn:uuid:7eb049e0-3c20-11e4-b480-0db5da863b2f</id>
+		<updated>2014-09-14'T'15:04:12+00:00</updated>
+		<summary>Plugin for page.js which implements support for forms akin to body-parser.</summary>
+	</entry>
+
+	<entry>
+		<title>Draggabilly</title>
+		<link href="https://github.com/desandro/draggabilly" />
+		<id>urn:uuid:806091f0-3c20-11e4-b480-0db5da863b2f</id>
+		<updated>2014-09-14'T'15:04:12+00:00</updated>
+		<summary>Make that shiz draggable</summary>
+	</entry>
+
+	<entry>
+		<title>Kwargs</title>
+		<link href="https://github.com/serkanyersen/kwargsjs" />
+		<id>urn:uuid:85616490-3c20-11e4-b480-0db5da863b2f</id>
+		<updated>2014-09-14'T'15:04:12+00:00</updated>
+		<summary>Smart python like argument management for javascript</summary>
+	</entry>
+
+	<entry>
+		<title>ifvisible.js</title>
+		<link href="https://github.com/serkanyersen/ifvisible.js" />
+		<id>urn:uuid:858c4520-3c20-11e4-b480-0db5da863b2f</id>
+		<updated>2014-09-14'T'15:04:12+00:00</updated>
+		<summary>Crossbrowser &amp; lightweight way to check if user is looking at the page or interacting with it.</summary>
+	</entry>
+
+	<entry>
+		<title>Balalaika</title>
+		<link href="https://github.com/finom/balalaika" />
+		<id>urn:uuid:43d3aa50-3c21-11e4-bc99-b927af1371ed</id>
+		<updated>2014-09-14'T'15:09:27+00:00</updated>
+		<summary>Tiny but impossible powerful jQuery-like Javascript DOM library</summary>
+	</entry>
+
+	<entry>
+		<title>state.js</title>
+		<link href="https://github.com/steelbreeze/state.js" />
+		<id>urn:uuid:6ef98b40-3c22-11e4-b524-736d7099543a</id>
+		<updated>2014-09-14'T'15:18:47+00:00</updated>
+		<summary>Lightweight state machine library for JavaScript</summary>
+	</entry>
+
+	<entry>
+		<title>Sleeper Agent</title>
+		<link href="https://github.com/kapilkaisare/sleeper-agent" />
+		<id>urn:uuid:64ef6510-3c23-11e4-a701-73d84218a0f0</id>
+		<updated>2014-09-14'T'15:25:00+00:00</updated>
+		<summary>Collect logs selectively from client instances on demand.</summary>
+	</entry>
+
+	<entry>
+		<title>Daemonize</title>
+		<link href="https://github.com/kapilkaisare/daemonizejs" />
+		<id>urn:uuid:65220dd0-3c23-11e4-a701-73d84218a0f0</id>
+		<updated>2014-09-14'T'15:25:00+00:00</updated>
+		<summary>Give a function a daemon like interface (start, stop, restart)</summary>
+	</entry>
+
 
 </feed>

@@ -132,12 +132,12 @@ module.exports = [
     source: "https://raw.githubusercontent.com/Pencroff/MoaJs/master/moa.dev.js"
  },
  {
-    name: "state_lite",
-    github: "steelbreeze/state_lite.js",
+    name: "state.js",
+    github: "steelbreeze/state.js",
     tags: ["finite", "state", "machine"],
     description: "Lightweight state machine library for JavaScript",
-    url: "https://github.com/steelbreeze/state_lite.js",
-    source: "https://raw.githubusercontent.com/steelbreeze/state_lite.js/master/src/state_lite.js"
+    url: "https://github.com/steelbreeze/state.js",
+    source: "https://raw.githubusercontent.com/steelbreeze/state.js/master/src/state.js"
   },
   {
     name: "bLazyJS",
@@ -359,8 +359,7 @@ module.exports = [
     tags: ["async", "asynchronous", "control flow", "flow control"],
     description: "asynchronous flow-control using sequences and gates",
     url: "https://github.com/getify/asynquence",
-    source: ["https://rawnpm.getify.io/asynquence/latest/asq.src.js",
-             "https://rawnpm.getify.io/asynquence-contrib/latest/contrib.src.js"]
+    source: ["https://raw.githubusercontent.com/getify/asynquence/master/asq.src.js"]
   },
   {
     name: "native-promise-only",
@@ -2106,8 +2105,8 @@ module.exports = [
     name: "Date-Utils",
     tags: ["date", "polyfill"],
     description: "Lightweight Date Polyfill with a lot of flexibility.",
-    url: "https://github.com/JerrySievert/node-date-utils",
-    source: "https://raw.githubusercontent.com/JerrySievert/node-date-utils/master/lib/date-utils.js"
+    url: "https://github.com/JerrySievert/date-utils",
+    source: "https://raw.githubusercontent.com/JerrySievert/date-utils/master/lib/date-utils.js"
   },
   {
     name: "Morf",
@@ -2317,8 +2316,8 @@ module.exports = [
     name: "SpeculOOs",
     tags: ["language", "class"],
     description: "Simple JavaScript Class notation, fully CoffeeScript compliant",
-    url: "https://github.com/js-experiments/speculoos",
-    source: "https://raw.githubusercontent.com/js-experiments/speculoos/master/speculoos.js"
+    url: "https://github.com/k33g/speculoos",
+    source: "https://raw.githubusercontent.com/k33g/speculoos/master/speculoos.js"
   },
   {
     name: "aug",
@@ -3003,7 +3002,7 @@ module.exports = [
     tags: ["logging", "logs"],
     description: "Collect logs selectively from client instances on demand.",
     url: "https://github.com/kapilkaisare/sleeper-agent",
-    source: "https://raw.githubusercontent.com/kapilkaisare/sleeper-agent/raw/master/sleeper.js"
+    source: "https://raw.githubusercontent.com/kapilkaisare/sleeper-agent/master/sleeper.js"
   },
   {
     name: "Daemonize",
@@ -3011,7 +3010,7 @@ module.exports = [
     tags: ["unix", "daemon"],
     description: "Give a function a daemon like interface (start, stop, restart)",
     url: "https://github.com/kapilkaisare/daemonizejs",
-    source: "https://raw.githubusercontent.com/kapilkaisare/sleeper-agent/raw/master/daemonize.js"
+    source: "https://raw.githubusercontent.com/kapilkaisare/daemonizejs/master/daemonize.js"
   },
   {
     name: "Rainbow",
@@ -3041,13 +3040,6 @@ module.exports = [
     description: "Tiny ~1200 byte Express-inspired client-side router.",
     url: "https://github.com/visionmedia/page.js",
     source: "https://raw.githubusercontent.com/visionmedia/page.js/master/page.js"
-  },
-  {
-    name: "page.js-body-parser.js",
-    tags: ["page", "page.js", "router", "routing", "express", "spa", "form", "forms", "body-parser"],
-    description: "Plugin for page.js which implements support for forms akin to body-parser.",
-    url: "https://github.com/kethinov/page.js-body-parser.js",
-    source: "https://raw.githubusercontent.com/kethinov/page.js-body-parser.js/master/page.js-body-parser.js"
   },
   {
     name: "parsy",
@@ -3091,7 +3083,7 @@ module.exports = [
     tags: ["permissions", "perms", "ls", "chmod", "unix"],
     description: "Convert Unix style permissions to strings like ls (0755 =&gt; 'rwxr-xr-x')",
     url: "https://github.com/bahamas10/node-perms",
-    source: "https://raw.githubusercontent.com/bahamas10/node-perms/master/index.js"
+    source: "https://raw.githubusercontent.com/bahamas10/node-perms/master/perms.js"
   },
   {
     name: "autocast",
@@ -3345,13 +3337,6 @@ module.exports = [
     description: "User Timing polyfill",
     url: "https://github.com/nicjansma/usertiming.js",
     source: "https://raw.githubusercontent.com/nicjansma/usertiming.js/master/src/usertiming.js"
-  },
-  {
-    name: "DOMaker",
-    tags: ["dom", "template", "serialize", "dom-builder", "jsonml"],
-    description: "Document Object Maker - Create your DOM from data, not strings.",
-    url: "https://github.com/BlueJeansAndRain/scaffold",
-    source: "https://raw.githubusercontent.com/BlueJeansAndRain/scaffold/master/scaffold.js"
   },
   {
     name: "animx",
@@ -3809,7 +3794,7 @@ module.exports = [
     tags: ["dom", "selectors", "jquery", "library"],
     description: "Tiny but impossible powerful jQuery-like Javascript DOM library",
     url: "https://github.com/finom/balalaika",
-    source: "https://raw.githubusercontent.com/finom/balalaika/master/balalaika.min.js"
+    source: "https://raw.githubusercontent.com/finom/balalaika/master/balalaika.js"
   },
   {
     name: "Gifffer",
