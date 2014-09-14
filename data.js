@@ -243,6 +243,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/tmwagency/swiftclick/master/js/libs/swiftclick.js"
   },
   {
+    name: "bullet",
+    github: "munkychop/bullet",
+    tags: ["bullet", "pubsub", "pub-sub", "events", "communication", "oop"],
+    description: "Bullet is an ultra lightweight and simple to use pub-sub library, with AMD/module support and an intuitive API.",
+    url: "https://github.com/munkychop/bullet",
+    source: "https://raw.githubusercontent.com/munkychop/bullet/master/dist/bullet.js"
+  },
+  {
     name: "store",
     github: "nbubna/store",
     tags: ["localStorage", "sessionStorage", "JSON", "namespace", "API", "extensible"],
