@@ -2989,6 +2989,20 @@ module.exports = [
     source: "https://raw.githubusercontent.com/ForbesLindesay/ajax/master/index.js"
   },
   {
+    name: "page.js",
+    tags: ["page", "page.js", "router", "routing", "express", "spa"],
+    description: "Tiny ~1200 byte Express-inspired client-side router.",
+    url: "https://github.com/visionmedia/page.js",
+    source: "https://raw.githubusercontent.com/visionmedia/page.js/master/page.js"
+  },
+  {
+    name: "page.js-body-parser.js",
+    tags: ["page", "page.js", "router", "routing", "express", "spa", "form", "forms", "body-parser"],
+    description: "Plugin for page.js which implements support for forms akin to body-parser.",
+    url: "https://github.com/kethinov/page.js-body-parser.js",
+    source: "https://raw.githubusercontent.com/kethinov/page.js-body-parser.js/master/page.js-body-parser.js"
+  },
+  {
     name: "parsy",
     tags: ["nodejs", "options", "parser"],
     description: "Tiny command line options parser for node.js in CoffeeScript",
