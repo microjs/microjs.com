@@ -139,7 +139,15 @@ module.exports = [
     url: "http://dinbror.dk/blazy/",
     source: "https://raw.githubusercontent.com/dinbror/blazy/master/blazy.js"
   },
- {
+  {
+    name: "hu.js",
+    github: "Canop/hu.js",
+    tags: ["svg", "vector", "graphics", "games"],
+    description: "A really light library for creation, manipulation and animation of SVG.",
+    url: "https://github.com/Canop/hu.js",
+    source: "https://raw.githubusercontent.com/Canop/hu.js/master/hu.js"
+  },
+  {
     name: "SimpleBinder",
     github: "james2doyle/simplebinder",
     tags: ["binding", "data", "input", "change", "event", "callback", "library", "functional"],
