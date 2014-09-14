@@ -22,7 +22,15 @@ module.exports = [
     description: "Enforce that a CoffeeScript or JavaScript function can only be executed once.",
     url: "https://github.com/daniellmb/once.js",
     source: "https://raw.githubusercontent.com/daniellmb/once.js/master/once.js"
-  },  
+  },
+  {
+    name: "strg.js",
+    github: "fend25/strg.js",
+    tags: ["localStorage", "sessionStorage", "cookie", "cookies"],
+    description: "Simple and clear localStorage, sessionStorage and cookie operating library with the single API",
+    url: "https://github.com/fend25/strg.js",
+    source: "https://raw.githubusercontent.com/fend25/strg.js/master/strg.js"
+  },
   {
     name:"devicedetector.js",
     tags: ["device detector", "client-side", "ismobile", "check mobile"],
@@ -124,12 +132,12 @@ module.exports = [
     source: "https://raw.githubusercontent.com/Pencroff/MoaJs/master/moa.dev.js"
  },
  {
-    name: "state_lite",
-    github: "steelbreeze/state_lite.js",
+    name: "state.js",
+    github: "steelbreeze/state.js",
     tags: ["finite", "state", "machine"],
     description: "Lightweight state machine library for JavaScript",
-    url: "https://github.com/steelbreeze/state_lite.js",
-    source: "https://raw.githubusercontent.com/steelbreeze/state_lite.js/master/src/state_lite.js"
+    url: "https://github.com/steelbreeze/state.js",
+    source: "https://raw.githubusercontent.com/steelbreeze/state.js/master/src/state.js"
   },
   {
     name: "bLazyJS",
@@ -139,7 +147,15 @@ module.exports = [
     url: "http://dinbror.dk/blazy/",
     source: "https://raw.githubusercontent.com/dinbror/blazy/master/blazy.js"
   },
- {
+  {
+    name: "hu.js",
+    github: "Canop/hu.js",
+    tags: ["svg", "vector", "graphics", "games"],
+    description: "A really light library for creation, manipulation and animation of SVG.",
+    url: "https://github.com/Canop/hu.js",
+    source: "https://raw.githubusercontent.com/Canop/hu.js/master/hu.js"
+  },
+  {
     name: "SimpleBinder",
     github: "james2doyle/simplebinder",
     tags: ["binding", "data", "input", "change", "event", "callback", "library", "functional"],
@@ -233,6 +249,14 @@ module.exports = [
     description: "SwiftClick is a library created to eliminate the 300ms click event delay on touch devices that support orientation change.",
     url: "https://github.com/tmwagency/swiftclick",
     source: "https://raw.githubusercontent.com/tmwagency/swiftclick/master/js/libs/swiftclick.js"
+  },
+  {
+    name: "bullet",
+    github: "munkychop/bullet",
+    tags: ["bullet", "pubsub", "pub-sub", "events", "communication", "oop"],
+    description: "Bullet is an ultra lightweight and simple to use pub-sub library, with AMD/module support and an intuitive API.",
+    url: "https://github.com/munkychop/bullet",
+    source: "https://raw.githubusercontent.com/munkychop/bullet/master/dist/bullet.js"
   },
   {
     name: "store",
@@ -335,8 +359,7 @@ module.exports = [
     tags: ["async", "asynchronous", "control flow", "flow control"],
     description: "asynchronous flow-control using sequences and gates",
     url: "https://github.com/getify/asynquence",
-    source: ["https://rawnpm.getify.io/asynquence/latest/asq.src.js",
-             "https://rawnpm.getify.io/asynquence-contrib/latest/contrib.src.js"]
+    source: ["https://raw.githubusercontent.com/getify/asynquence/master/asq.src.js"]
   },
   {
     name: "native-promise-only",
@@ -433,6 +456,14 @@ module.exports = [
     description: "A tiny library that converts milliseconds to and from CSS time strings.",
     url: "https://github.com/philbooth/css-time.js",
     source: "https://raw.githubusercontent.com/philbooth/css-time.js/master/src/css-time.js"
+  },
+  {
+    name: "bottleneck",
+    github: "SGrondin/bottleneck",
+    tags: ["async rate limiter", "async", "rate limiter", "timing", "load", "limiter", "ddos"],
+    description: "The best async rate limiter for Node and the browser",
+    url: "https://github.com/SGrondin/bottleneck",
+    source: "https://raw.githubusercontent.com/SGrondin/bottleneck/master/bottleneck.js"
   },
   {
     name: "accounting.js",
@@ -1123,6 +1154,14 @@ module.exports = [
     source: "function t(s,d){ for(var p in d) s=s.replace(new RegExp('{'+p+'}','g'), d[p]); return s; }"
   },
   {
+    name: "RegexGen.js",
+    github: "amobiz/regexgen.js",
+    tags: ["regex", "regular expression", "generator"],
+    description: "RegexGen.js is a JavaScript regular expression generator that helps to construct complex regular expressions.",
+    url: "http://amobiz.github.io/regexgen.js/",
+    source: "https://raw.githubusercontent.com/amobiz/regexgen.js/master/dist/regexgen.js"
+  },
+  {
     name: "Firmin",
     github: "beastaugh/firmin",
     tags: ["animation", "webkit"],
@@ -1599,6 +1638,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/mwbrooks/thumbs.js/master/lib/thumbs.js"
   },
   {
+    name: "pathparser.js",
+    tags: ["route", "routing", "query", "parameters"],
+    description: "Tiny, simple-to-use URL parser/router",
+    url: "https://github.com/dstillman/pathparser.js",
+    source: "https://raw.githubusercontent.com/dstillman/pathparser.js/master/pathparser.js"
+  },
+  {
     name: "DOMBuilder",
     tags: ["dom", "html"],
     description: "Declarative builder with (mostly) interchangeable DOM or HTML output",
@@ -2059,8 +2105,8 @@ module.exports = [
     name: "Date-Utils",
     tags: ["date", "polyfill"],
     description: "Lightweight Date Polyfill with a lot of flexibility.",
-    url: "https://github.com/JerrySievert/node-date-utils",
-    source: "https://raw.githubusercontent.com/JerrySievert/node-date-utils/master/lib/date-utils.js"
+    url: "https://github.com/JerrySievert/date-utils",
+    source: "https://raw.githubusercontent.com/JerrySievert/date-utils/master/lib/date-utils.js"
   },
   {
     name: "Morf",
@@ -2071,6 +2117,13 @@ module.exports = [
              "https://raw.githubusercontent.com/joelambert/morf/master/js/src/morf.utils.js",
              "https://raw.githubusercontent.com/joelambert/morf/master/js/src/WebkitCSSMatrix.ext.js",
              "https://raw.githubusercontent.com/joelambert/morf/master/js/src/shifty.fn.scripty2.js"]
+  },
+  {
+    name: "youarei.js",
+    tags: ["client", "server", "util", "parser", "uri", "url", "query", "parameters","queryparams"],
+    description: "URL parsing library with sane parameter handling",
+    url: "https://github.com/purge/youarei.js",
+    source: "https://raw.githubusercontent.com/purge/youarei.js/master/src/youarei.js"
   },
   {
     name: "typogr.js",
@@ -2263,8 +2316,8 @@ module.exports = [
     name: "SpeculOOs",
     tags: ["language", "class"],
     description: "Simple JavaScript Class notation, fully CoffeeScript compliant",
-    url: "https://github.com/js-experiments/speculoos",
-    source: "https://raw.githubusercontent.com/js-experiments/speculoos/master/speculoos.js"
+    url: "https://github.com/k33g/speculoos",
+    source: "https://raw.githubusercontent.com/k33g/speculoos/master/speculoos.js"
   },
   {
     name: "aug",
@@ -2716,6 +2769,7 @@ module.exports = [
   },
   {
     name: "Mousetrap",
+    github: "ccampbell/mousetrap",
     tags: ["events"],
     description: "A simple library for handling keyboard shortcuts in Javascript.",
     url: "http://craig.is/killing/mice",
@@ -2943,7 +2997,24 @@ module.exports = [
     source: "https://raw.githubusercontent.com/pb82/MissMatch/master/lib/MissMatch.js"
   },
   {
+    name: "Sleeper Agent",
+    github: "kapilkaisare/sleeper-agent",
+    tags: ["logging", "logs"],
+    description: "Collect logs selectively from client instances on demand.",
+    url: "https://github.com/kapilkaisare/sleeper-agent",
+    source: "https://raw.githubusercontent.com/kapilkaisare/sleeper-agent/master/sleeper.js"
+  },
+  {
+    name: "Daemonize",
+    github: "kapilkaisare/daemonizejs",
+    tags: ["unix", "daemon"],
+    description: "Give a function a daemon like interface (start, stop, restart)",
+    url: "https://github.com/kapilkaisare/daemonizejs",
+    source: "https://raw.githubusercontent.com/kapilkaisare/daemonizejs/master/daemonize.js"
+  },
+  {
     name: "Rainbow",
+    github: "ccampbell/rainbow",
     tags: ["dom", "syntax", "code", "highlighter"],
     description: "Simple, extendable code syntax highlighting library.",
     url: "http://craig.is/making/rainbows",
@@ -2964,6 +3035,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/ForbesLindesay/ajax/master/index.js"
   },
   {
+    name: "page.js",
+    tags: ["page", "page.js", "router", "routing", "express", "spa"],
+    description: "Tiny ~1200 byte Express-inspired client-side router.",
+    url: "https://github.com/visionmedia/page.js",
+    source: "https://raw.githubusercontent.com/visionmedia/page.js/master/page.js"
+  },
+  {
     name: "parsy",
     tags: ["nodejs", "options", "parser"],
     description: "Tiny command line options parser for node.js in CoffeeScript",
@@ -2972,6 +3050,7 @@ module.exports = [
   },
   {
     name: "Gator",
+    github: "ccampbell/gator",
     tags: ["dom", "events", "delegation"],
     description: "Simple event delegation library",
     url: "http://craig.is/riding/gators",
@@ -3004,7 +3083,7 @@ module.exports = [
     tags: ["permissions", "perms", "ls", "chmod", "unix"],
     description: "Convert Unix style permissions to strings like ls (0755 =&gt; 'rwxr-xr-x')",
     url: "https://github.com/bahamas10/node-perms",
-    source: "https://raw.githubusercontent.com/bahamas10/node-perms/master/index.js"
+    source: "https://raw.githubusercontent.com/bahamas10/node-perms/master/perms.js"
   },
   {
     name: "autocast",
@@ -3114,6 +3193,13 @@ module.exports = [
     description: "A minimal and fast promise/deferred implementation, compatible with Promises/A+",
     url: "https://github.com/RubenVerborgh/promiscuous",
     source: "https://raw.githubusercontent.com/RubenVerborgh/promiscuous/master/promiscuous.js"
+  },
+  {
+    name: "Draggabilly",
+    tags: ["drag", "dragable", "draggable"],
+    description: "Make that shiz draggable",
+    url: "https://github.com/desandro/draggabilly",
+    source: "https://raw.githubusercontent.com/desandro/draggabilly/master/draggabilly.js"
   },
   {
     name: "BehaviorTree.js",
@@ -3251,13 +3337,6 @@ module.exports = [
     description: "User Timing polyfill",
     url: "https://github.com/nicjansma/usertiming.js",
     source: "https://raw.githubusercontent.com/nicjansma/usertiming.js/master/src/usertiming.js"
-  },
-  {
-    name: "DOMaker",
-    tags: ["dom", "template", "serialize", "dom-builder", "jsonml"],
-    description: "Document Object Maker - Create your DOM from data, not strings.",
-    url: "https://github.com/BlueJeansAndRain/scaffold",
-    source: "https://raw.githubusercontent.com/BlueJeansAndRain/scaffold/master/scaffold.js"
   },
   {
     name: "animx",
@@ -3711,6 +3790,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/krasimir/deb.js/master/lib/deb.js"
   },
   {
+    name: "Balalaika",
+    tags: ["dom", "selectors", "jquery", "library"],
+    description: "Tiny but impossible powerful jQuery-like Javascript DOM library",
+    url: "https://github.com/finom/balalaika",
+    source: "https://raw.githubusercontent.com/finom/balalaika/master/balalaika.js"
+  },
+  {
     name: "Gifffer",
     tags: ["gif", "play control", "stop", "first frame"],
     description: "A tiny JavaScript library that prevents the autoplaying of the animated Gifs",
@@ -3723,5 +3809,19 @@ module.exports = [
      description: "Tiny, simple, light-weight routing",
      url: "https://github.com/chrisdavies/rlite",
      source: "https://raw.githubusercontent.com/chrisdavies/rlite/master/rlite.js"
+  },
+  {
+     name: "Kwargs",
+     tags: ["python", "arguments", "kwargs", "defaults", "function", "syntactic sugar"],
+     description: "Smart python like argument management for javascript",
+     url: "https://github.com/serkanyersen/kwargsjs",
+     source: "https://raw.githubusercontent.com/serkanyersen/kwargsjs/master/kwargs.js"
+  },
+  {
+     name: "ifvisible.js",
+     tags: ["visibility", "idle", "coffee", "script", "interval", "requestAnimationFrame"],
+     description: "Crossbrowser & lightweight way to check if user is looking at the page or interacting with it.",
+     url: "https://github.com/serkanyersen/ifvisible.js",
+     source: "https://raw.githubusercontent.com/serkanyersen/ifvisible.js/master/src/ifvisible.js"
   }
 ];
