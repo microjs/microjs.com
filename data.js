@@ -1615,6 +1615,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/mwbrooks/thumbs.js/master/lib/thumbs.js"
   },
   {
+    name: "pathparser.js",
+    tags: ["route", "routing", "query", "parameters"],
+    description: "Tiny, simple-to-use URL parser/router",
+    url: "https://github.com/dstillman/pathparser.js",
+    source: "https://raw.githubusercontent.com/dstillman/pathparser.js/master/pathparser.js"
+  },
+  {
     name: "DOMBuilder",
     tags: ["dom", "html"],
     description: "Declarative builder with (mostly) interchangeable DOM or HTML output",
