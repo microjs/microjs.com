@@ -24,6 +24,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/daniellmb/once.js/master/once.js"
   },  
   {
+    name: "strg.js",
+    github: "fend25/strg.js",
+    tags: ["localStorage", "sessionStorage", "cookie", "cookies"],
+    description: "Simple and clear localStorage, sessionStorage and cookie operating library with the single API",
+    url: "https://github.com/fend25/strg.js",
+    source: "https://raw.githubusercontent.com/fend25/strg.js/master/strg.js"
+  },
+  {
     name:"devicedetector.js",
     tags: ["device detector", "client-side", "ismobile", "check mobile"],
     description: "Tiny script detecting if you are on a desktop, mobile or tablet device.",
