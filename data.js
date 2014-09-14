@@ -2073,6 +2073,13 @@ module.exports = [
              "https://raw.githubusercontent.com/joelambert/morf/master/js/src/shifty.fn.scripty2.js"]
   },
   {
+    name: "youarei.js",
+    tags: ["client", "server", "util", "parser", "uri", "url", "query", "parameters","queryparams"],
+    description: "URL parsing library with sane parameter handling",
+    url: "https://github.com/purge/youarei.js",
+    source: "https://raw.githubusercontent.com/purge/youarei.js/master/src/youarei.js"
+  },
+  {
     name: "typogr.js",
     tags: ["dom", "data", "css", "text", "ui", "typography", "hyphenation"],
     description: "Provides ransformations to plain text for typographically-improved HTML.",
