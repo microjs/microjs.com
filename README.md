@@ -43,7 +43,7 @@ To check the minified and compressed size of your library from the command line,
   * The `'source'` attribute must point to a single-file, or an array of files that can be concatenated to form your complete library in a ready-to-use form. The `'source'` **must not be minified** (see below)
   * Running `make` should work and not return an error. To run make, you'll need node installed
 
-*If your source very small, you can simply included the whole thing in the source attribute as a string. If your source is split across multiple files, you can use an array of URLs (it's preferrable to just have a single source). If your source is released in a ZIP file you can point to the ZIP's URL and append a `!/zip/entry.js` to the end so the compiler knows where to look (it's still preferrable to just have a single source URL!)*
+*If your source very small, you can simply include the whole thing in the source attribute as a string. If your source is split across multiple files, you can use an array of URLs (it's preferrable to just have a single source). If your source is released in a ZIP file you can point to the ZIP's URL and append a `!/zip/entry.js` to the end so the compiler knows where to look (it's still preferrable to just have a single source URL!)*
 
 ### Using make / build ###
 
