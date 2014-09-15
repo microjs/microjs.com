@@ -22,7 +22,14 @@ module.exports = [
     description: "Enforce that a CoffeeScript or JavaScript function can only be executed once.",
     url: "https://github.com/daniellmb/once.js",
     source: "https://raw.githubusercontent.com/daniellmb/once.js/master/once.js"
-  },  
+  },
+  {
+    name:"vanillatree",
+    tags: ["jstree","jquery","interactive trees","vanilla", "pure", "native"],
+    description: "Tiny replacement of jQuery jstree (\"interactive trees\") with no dependencies.",
+    url: "https://github.com/finom/vanillatree",
+    source: "https://raw.githubusercontent.com/finom/vanillatree/master/vanillatree.min.js"
+  },
   {
     name:"devicedetector.js",
     tags: ["device detector", "client-side", "ismobile", "check mobile"],
