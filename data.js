@@ -17,6 +17,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/lhorie/mithril.js/master/mithril.js"
   },
   {
+    name: "VanillaMasker",
+    github: "BankFacil/vanilla-masker",
+    tags: ["mask input", "mask", "vanilla"],
+    description: "VanillaMasker is a pure javascript mask input",
+    url: "http://bankfacil.github.io/vanilla-masker/",
+    source: "https://raw.githubusercontent.com/BankFacil/vanilla-masker/master/src/vanilla-masker.js"
+  },
+  {
     name:"once.js",
     tags: ["called","once","function","one","single","coffeescript","javascript","amd","node","web"],
     description: "Enforce that a CoffeeScript or JavaScript function can only be executed once.",
