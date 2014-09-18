@@ -62,6 +62,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/amwmedia/infect.js/master/infect.js"
   },
   {
+    name: "Pegasus",
+    tags: ["AJAX", "JSON", "GET", "xhr", "request", "promise", "parallel", "performance", "load", "preload"],
+    description: "Load JSON data while still loading other scripts (xhr + promise).",
+    url: "https://github.com/typicode/pegasus",
+    source: "https://raw.githubusercontent.com/typicode/pegasus/master/pegasus.js"
+  },
+  {
     name: "PerfNow.js",
     tags: ["performance", "benchmark", "polyfill", "high", "resolution", "timer", "now"],
     description: "A high resolution performance benchmarking polyfill",
