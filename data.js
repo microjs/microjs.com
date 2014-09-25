@@ -1394,7 +1394,7 @@ module.exports = [
     tags: ["dependency injection", "dependency", "injection", "ioc", "di", "provider"],
     description: "A powerful, extensible dependency injection micro container.",
     url: "https://github.com/young-steveo/bottlejs",
-    source: "https://raw.githubusercontent.com/young-steveo/bottlejs/master/dist/bottle.js"
+    source: "https://raw.githubusercontent.com/young-steveo/bottlejs/master/dist/bottle.min.js"
   },
   {
     name: "Bootstrap",
