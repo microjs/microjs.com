@@ -17,6 +17,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/lhorie/mithril.js/master/mithril.js"
   },
   {
+    name: "FrenchPress",
+    github: "DylanPiercey/FrenchPress",
+    tags: ["mvc framework", "mvc", "framework", "templating", "reactive", "litcoffeescript", "coffeescript", "render"],
+    description: "An efficient reactive client/server-side templating solution.",
+    url: "https://github.com/DylanPiercey/FrenchPress",
+    source: ["https://github.com/DylanPiercey/FrenchPress/blob/master/browser.litcoffee"]
+  },
+  {
     name:"once.js",
     tags: ["called","once","function","one","single","coffeescript","javascript","amd","node","web"],
     description: "Enforce that a CoffeeScript or JavaScript function can only be executed once.",
