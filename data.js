@@ -666,6 +666,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/SimonWaldherr/disTime.js/master/disTime.js"
   },
   {
+    name: "debug-websql",
+    tags: ["websql", "debug", "sql"],
+    description: "console.log every call made to Web SQL, for debugging purposes"
+    url: "https://github.com/nolanlawson/debug-websql",
+    source: "https://raw.githubusercontent.com/nolanlawson/debug-websql/master/dist/debug-websql.js"
+  },
+  {
     name: "parseTime.js",
     github: "SimonWaldherr/parseTime.js",
     tags: ["time", "date", "dates", "times", "language", "parse", "strings"],
