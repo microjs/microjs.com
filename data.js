@@ -668,7 +668,7 @@ module.exports = [
   {
     name: "debug-websql",
     tags: ["websql", "debug", "sql"],
-    description: "console.log every call made to Web SQL, for debugging purposes"
+    description: "console.log every call made to Web SQL, for debugging purposes",
     url: "https://github.com/nolanlawson/debug-websql",
     source: "https://raw.githubusercontent.com/nolanlawson/debug-websql/master/dist/debug-websql.js"
   },
@@ -3553,8 +3553,8 @@ module.exports = [
     name: "RaptorJS",
     tags: ["class", "inheritance", "extend", "amd", "prototype", "prototypal", "lazy"],
     description: "The core module of RaptorJS provides a lightweight module system that supports namespacing, AMD, class inheritance, mixins, enums and lazy initialization. Works in the browser and Node.js",
-    url: "https://github.com/raptorjs/raptorjs",
-    source: "http://raptorjs.org/dist/raptor.js"
+    url: "https://github.com/raptorjs-legacy/raptorjs",
+    source: "https://raw.githubusercontent.com/raptorjs-legacy/raptorjs/master/dist/raptor.min.js"
   },
   {
     name: "Lie",
@@ -3658,7 +3658,7 @@ module.exports = [
     tags: ["responsive", "respond", "media", "query", "media-query", "queries"],
     description: "Light weight, portable, single purpose responsive javascript library.",
     url: "https://github.com/dmikey/henka",
-    source: "https://raw.githubusercontent.com/dmikey/henka/master/src/js/henka-src.js"
+    source: "https://raw.githubusercontent.com/dmikey/henka/master/src/henka.js"
   },
   {
     name: "rssi",
