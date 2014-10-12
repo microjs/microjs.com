@@ -3508,6 +3508,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/calvinmetcalf/catiline/master/dist/catiline.js"
   },
   {
+    name: "Vuvuzela",
+    tags: ['non-recursive', 'json', 'stringify', 'parse'],
+    description: 'Non-recursive JSON.stringify and JSON.parse',
+    url: 'https://github.com/nolanlawson/vuvuzela',
+    source: 'https://raw.githubusercontent.com/nolanlawson/vuvuzela/master/dist/vuvuzela.js'
+  },
+  {
     name: "civem.js",
     tags: ["html5", "input", "validation"],
     description: "Custom error messages for HTML5 form validation.",
