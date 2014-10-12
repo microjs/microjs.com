@@ -51,7 +51,7 @@ module.exports = [
     tags: ["dom", "dom manipulation", "dom traversal", "dom events", "crossbrowser", "event", "traversal"," manipulation"],
     description: "DOM.js is a lightweight, fast and cross browser library for DOM traversal, manipulation and event handling.",
     url: "https://github.com/dkraczkowski/dom.js",
-    source: "https://raw.githubusercontent.com/dkraczkowski/dom.js/master/src/dom.min.js"
+    source: "https://raw.githubusercontent.com/dkraczkowski/dom.js/master/src/dom.js"
   },
   {
     name: "Infect.js",
@@ -664,6 +664,13 @@ module.exports = [
     description: "converts and updates UNIX-Timestamps to strings like \"5 days ago\" in six languages (en, de, it, es, fr, pt)",
     url: "https://github.com/SimonWaldherr/disTime.js",
     source: "https://raw.githubusercontent.com/SimonWaldherr/disTime.js/master/disTime.js"
+  },
+  {
+    name: "debug-websql",
+    tags: ["websql", "debug", "sql"],
+    description: "console.log every call made to Web SQL, for debugging purposes",
+    url: "https://github.com/nolanlawson/debug-websql",
+    source: "https://raw.githubusercontent.com/nolanlawson/debug-websql/master/dist/debug-websql.js"
   },
   {
     name: "parseTime.js",
@@ -1283,6 +1290,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/douglascrockford/JSON-js/master/json2.js"
   },
   {
+    name: "unblock.js",
+    tags: ["async", "control", "flow", "functional"],
+    description: "A single function for dead simple asynchronous control flow.",
+    url: "https://github.com/machellerogden/unblock",
+    source: "https://raw.githubusercontent.com/machellerogden/unblock/master/unblock.js"
+  },
+  {
     name: "yepnope",
     tags: ["polyfill", "loader"],
     description: "yepnope is an asynchronous conditional resource loader that allows you to load only the scripts that your users need.",
@@ -1388,6 +1402,13 @@ module.exports = [
     description: "Predicate-based JS execution engine, for in-page and external scripts. Loads itself asynchronously.",
     url: "https://github.com/wessman/defer.js",
     source: "https://raw.githubusercontent.com/wessman/defer.js/master/src/defer.js"
+  },
+  {
+    name: "BottleJS",
+    tags: ["dependency injection", "dependency", "injection", "ioc", "di", "provider"],
+    description: "A powerful, extensible dependency injection micro container.",
+    url: "https://github.com/young-steveo/bottlejs",
+    source: "https://raw.githubusercontent.com/young-steveo/bottlejs/master/dist/bottle.js"
   },
   {
     name: "Bootstrap",
@@ -3365,7 +3386,7 @@ module.exports = [
     tags: ["games"],
     description: "A JavaScript key state handler for web apps",
     url: "https://github.com/jeremyckahn/keydrown",
-    source: "https://raw.githubusercontent.com/jeremyckahn/keydrown/master/dist/keydrown.min.js"
+    source: "https://raw.githubusercontent.com/jeremyckahn/keydrown/master/dist/keydrown.js"
   },
   {
     name: "vivi.js",
@@ -3501,6 +3522,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/calvinmetcalf/catiline/master/dist/catiline.js"
   },
   {
+    name: "Vuvuzela",
+    tags: ['non-recursive', 'json', 'stringify', 'parse'],
+    description: 'Non-recursive JSON.stringify and JSON.parse',
+    url: 'https://github.com/nolanlawson/vuvuzela',
+    source: 'https://raw.githubusercontent.com/nolanlawson/vuvuzela/master/dist/vuvuzela.js'
+  },
+  {
     name: "civem.js",
     tags: ["html5", "input", "validation"],
     description: "Custom error messages for HTML5 form validation.",
@@ -3525,8 +3553,8 @@ module.exports = [
     name: "RaptorJS",
     tags: ["class", "inheritance", "extend", "amd", "prototype", "prototypal", "lazy"],
     description: "The core module of RaptorJS provides a lightweight module system that supports namespacing, AMD, class inheritance, mixins, enums and lazy initialization. Works in the browser and Node.js",
-    url: "https://github.com/raptorjs/raptorjs",
-    source: "http://raptorjs.org/dist/raptor.js"
+    url: "https://github.com/raptorjs-legacy/raptorjs",
+    source: "https://raw.githubusercontent.com/raptorjs-legacy/raptorjs/master/dist/raptor.min.js"
   },
   {
     name: "Lie",
@@ -3630,7 +3658,7 @@ module.exports = [
     tags: ["responsive", "respond", "media", "query", "media-query", "queries"],
     description: "Light weight, portable, single purpose responsive javascript library.",
     url: "https://github.com/dmikey/henka",
-    source: "https://raw.githubusercontent.com/dmikey/henka/master/src/js/henka-src.js"
+    source: "https://raw.githubusercontent.com/dmikey/henka/master/src/henka.js"
   },
   {
     name: "rssi",
@@ -3737,7 +3765,7 @@ module.exports = [
     tags: ["grapnel", "route", "routing", "router", "hash", "anchor", "tiny", "require", "named", "parameters"],
     description: "The smallest (1100 bytes gzipped!) JavaScript Router with Named Parameters",
     url: "https://github.com/EngineeringMode/Grapnel.js",
-    source: "https://raw.githubusercontent.com/EngineeringMode/Grapnel.js/master/dist/grapnel.min.js"
+    source: "https://raw.githubusercontent.com/EngineeringMode/Grapnel.js/master/src/grapnel.js"
   },
   {
     name: "Nerve",

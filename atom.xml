@@ -4104,5 +4104,37 @@
 		<summary>Give a function a daemon like interface (start, stop, restart)</summary>
 	</entry>
 
+	<entry>
+		<title>debug-websql</title>
+		<link href="https://github.com/nolanlawson/debug-websql" />
+		<id>urn:uuid:c8bc64f0-523d-11e4-95d3-df8937fca3c0</id>
+		<updated>2014-10-12'T'18:29:54+00:00</updated>
+		<summary>console.log every call made to Web SQL, for debugging purposes</summary>
+	</entry>
+
+	<entry>
+		<title>unblock.js</title>
+		<link href="https://github.com/machellerogden/unblock" />
+		<id>urn:uuid:ccb38fc0-523d-11e4-95d3-df8937fca3c0</id>
+		<updated>2014-10-12'T'18:29:54+00:00</updated>
+		<summary>A single function for dead simple asynchronous control flow.</summary>
+	</entry>
+
+	<entry>
+		<title>BottleJS</title>
+		<link href="https://github.com/young-steveo/bottlejs" />
+		<id>urn:uuid:cd761c70-523d-11e4-95d3-df8937fca3c0</id>
+		<updated>2014-10-12'T'18:29:54+00:00</updated>
+		<summary>A powerful, extensible dependency injection micro container.</summary>
+	</entry>
+
+	<entry>
+		<title>Vuvuzela</title>
+		<link href="https://github.com/nolanlawson/vuvuzela" />
+		<id>urn:uuid:da94e030-523d-11e4-95d3-df8937fca3c0</id>
+		<updated>2014-10-12'T'18:29:54+00:00</updated>
+		<summary>Non-recursive JSON.stringify and JSON.parse</summary>
+	</entry>
+
 
 </feed>
