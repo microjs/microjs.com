@@ -1397,6 +1397,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/wessman/defer.js/master/src/defer.js"
   },
   {
+    name: "BottleJS",
+    tags: ["dependency injection", "dependency", "injection", "ioc", "di", "provider"],
+    description: "A powerful, extensible dependency injection micro container.",
+    url: "https://github.com/young-steveo/bottlejs",
+    source: "https://raw.githubusercontent.com/young-steveo/bottlejs/master/dist/bottle.min.js"
+  },
+  {
     name: "Bootstrap",
     tags: ["loader"],
     description: "A small, simple bootloader. No frills. Black and white label.",
