@@ -51,7 +51,7 @@ module.exports = [
     tags: ["dom", "dom manipulation", "dom traversal", "dom events", "crossbrowser", "event", "traversal"," manipulation"],
     description: "DOM.js is a lightweight, fast and cross browser library for DOM traversal, manipulation and event handling.",
     url: "https://github.com/dkraczkowski/dom.js",
-    source: "https://raw.githubusercontent.com/dkraczkowski/dom.js/master/src/dom.min.js"
+    source: "https://raw.githubusercontent.com/dkraczkowski/dom.js/master/src/dom.js"
   },
   {
     name: "Infect.js",
@@ -1408,7 +1408,7 @@ module.exports = [
     tags: ["dependency injection", "dependency", "injection", "ioc", "di", "provider"],
     description: "A powerful, extensible dependency injection micro container.",
     url: "https://github.com/young-steveo/bottlejs",
-    source: "https://raw.githubusercontent.com/young-steveo/bottlejs/master/dist/bottle.min.js"
+    source: "https://raw.githubusercontent.com/young-steveo/bottlejs/master/dist/bottle.js"
   },
   {
     name: "Bootstrap",
@@ -3386,7 +3386,7 @@ module.exports = [
     tags: ["games"],
     description: "A JavaScript key state handler for web apps",
     url: "https://github.com/jeremyckahn/keydrown",
-    source: "https://raw.githubusercontent.com/jeremyckahn/keydrown/master/dist/keydrown.min.js"
+    source: "https://raw.githubusercontent.com/jeremyckahn/keydrown/master/dist/keydrown.js"
   },
   {
     name: "vivi.js",
@@ -3765,7 +3765,7 @@ module.exports = [
     tags: ["grapnel", "route", "routing", "router", "hash", "anchor", "tiny", "require", "named", "parameters"],
     description: "The smallest (1100 bytes gzipped!) JavaScript Router with Named Parameters",
     url: "https://github.com/EngineeringMode/Grapnel.js",
-    source: "https://raw.githubusercontent.com/EngineeringMode/Grapnel.js/master/dist/grapnel.min.js"
+    source: "https://raw.githubusercontent.com/EngineeringMode/Grapnel.js/master/src/grapnel.js"
   },
   {
     name: "Nerve",
