@@ -2457,7 +2457,6 @@ module.exports = [
     url: "https://github.com/Galavantier/crate.js",
     source: "https://raw.githubusercontent.com/Galavantier/crate.js/master/crate.js"
   },
-  }
   {
     name: "Router.js",
     tags: ["routing", "rails"],
