@@ -3851,5 +3851,12 @@ module.exports = [
      description: "Crossbrowser & lightweight way to check if user is looking at the page or interacting with it.",
      url: "https://github.com/serkanyersen/ifvisible.js",
      source: "https://raw.githubusercontent.com/serkanyersen/ifvisible.js/master/src/ifvisible.js"
+  },
+  {
+     name: "ListOf",
+     tags: ["list", "collection", "array", "library", "c#"],
+     description: "A JavaScript implementation of the C# List<T> object.",
+     url: "https://github.com/joelalejandro/stuff",
+     source: "https://github.com/joelalejandro/stuff/raw/master/ListOf.js"
   }
 ];
