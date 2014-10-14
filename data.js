@@ -2450,6 +2450,15 @@ module.exports = [
     source: "https://raw.githubusercontent.com/tildeio/route-recognizer/master/dist/route-recognizer.js"
   },
   {
+    name: "crate.js",
+    github: "Galavantier/crate.js",
+    tags: ["modal", "popover"],
+    description: "A modal creation library with a multitude of configuration options. Customizable html, colors, closable actions, on open and/or on closing functions, or just give it a body!",
+    url: "https://github.com/Galavantier/crate.js",
+    source: "https://raw.githubusercontent.com/Galavantier/crate.js/master/crate.js"
+  },
+  }
+  {
     name: "Router.js",
     tags: ["routing", "rails"],
     url: "https://github.com/dperrymorrow/router.js",
