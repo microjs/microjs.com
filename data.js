@@ -3851,5 +3851,26 @@ module.exports = [
      description: "Crossbrowser & lightweight way to check if user is looking at the page or interacting with it.",
      url: "https://github.com/serkanyersen/ifvisible.js",
      source: "https://raw.githubusercontent.com/serkanyersen/ifvisible.js/master/src/ifvisible.js"
+  },
+  {
+     name: "stupid-lib",
+     tags: ["light-weight", "helpers", "jquery-like", "simple"],
+     description: "browser-javascript, jquery-like lib",
+     url: "https://github.com/nighca/lib",
+     source: "https://raw.githubusercontent.com/nighca/lib/master/dist/lib.js"
+  },
+  {
+     name: "i-canvas",
+     tags: ["canvas", "dom-like", "html5"],
+     description: "Lib for generating & operating objects on canvas.",
+     url: "https://github.com/nighca/i-canvas",
+     source: "https://raw.githubusercontent.com/nighca/i-canvas/master/dist/i-canvas/1.2.0/index.js"
+  },
+  {
+     name: "universal-diff",
+     tags: ["diff", "compare", "string", "array", "queue"],
+     description: "diff & merge algorithm realized with Javascript.",
+     url: "https://github.com/nighca/universal-diff",
+     source: "https://raw.githubusercontent.com/nighca/universal-diff/master/dist/diff.js"
   }
 ];
