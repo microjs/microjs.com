@@ -9,6 +9,14 @@
 
 module.exports = [
   {
+    name: "ZeptoAutocomplete",
+    github: "Stayzilla/zepto-autocomplete",
+    tags: ["zepto autocomplete", "autocomplete", "microjs"],
+    description: "A tiny autocomplete plugin for ZeptoJS",
+    url: "https://github.com/Stayzilla/zepto-autocomplete",
+    source: "https://raw.githubusercontent.com/Stayzilla/zepto-autocomplete/master/zepto.autocomplete.js"
+  },
+  {
     name: "Mithril",
     github: "lhorie/mithril",
     tags: ["mvc framework", "mvc", "framework", "templating", "promise", "routing"],
