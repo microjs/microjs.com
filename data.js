@@ -9,6 +9,14 @@
 
 module.exports = [
   {
+    name: "Muject",
+    github: "srijs/muject",
+    tags: ["dependency", "injection", "inversion", "control", "ioc", "di", "require"],
+    description: "10-SLOC no-bullshit dependency injection micro-library",
+    url: "https://github.com/srijs/muject",
+    source: "https://raw.githubusercontent.com/srijs/muject/master/index.min.js"
+  },
+  {
     name: "Mithril",
     github: "lhorie/mithril",
     tags: ["mvc framework", "mvc", "framework", "templating", "promise", "routing"],
