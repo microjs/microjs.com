@@ -77,6 +77,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/daniellmb/perfnow.js/master/perfnow.src.js"
   },
   {
+    name: "SaVaGe.js",
+    tags: ["svg"],
+    description: "A small SVG library with a chaining API",
+    url: "https://github.com/strathausen/savage",
+    source: "https://raw.githubusercontent.com/strathausen/savage/a165cd5be19ce3272034ba2fdbdd8445dae6b97e/savage.js"
+  },
+  {
     name: "style.js",
     github: "dhilipsiva/style.js",
     tags: ["style", "CSS GUI"],
