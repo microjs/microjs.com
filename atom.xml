@@ -4136,5 +4136,53 @@
 		<summary>Non-recursive JSON.stringify and JSON.parse</summary>
 	</entry>
 
+	<entry>
+		<title>Pegasus</title>
+		<link href="https://github.com/typicode/pegasus" />
+		<id>urn:uuid:5341b450-5643-11e4-8d24-6fcc01ad2303</id>
+		<updated>2014-10-17'T'21:19:43+00:00</updated>
+		<summary>Load JSON data while still loading other scripts (xhr + promise).</summary>
+	</entry>
+
+	<entry>
+		<title>SaVaGe.js</title>
+		<link href="https://github.com/strathausen/savage" />
+		<id>urn:uuid:53481cf0-5643-11e4-8d24-6fcc01ad2303</id>
+		<updated>2014-10-17'T'21:19:43+00:00</updated>
+		<summary>A small SVG library with a chaining API</summary>
+	</entry>
+
+	<entry>
+		<title>token-boy</title>
+		<link href="https://github.com/zeusdeux/token-boy" />
+		<id>urn:uuid:569aca60-5643-11e4-8d24-6fcc01ad2303</id>
+		<updated>2014-10-17'T'21:19:43+00:00</updated>
+		<summary>Serves &apos;n&apos; bit tokens, either digested or not.</summary>
+	</entry>
+
+	<entry>
+		<title>preach</title>
+		<link href="https://github.com/zeusdeux/preach" />
+		<id>urn:uuid:5a9131e0-5643-11e4-8d24-6fcc01ad2303</id>
+		<updated>2014-10-17'T'21:19:43+00:00</updated>
+		<summary>A lightweight pubsub utility for node and the browser.</summary>
+	</entry>
+
+	<entry>
+		<title>mixit</title>
+		<link href="https://github.com/stephanebachelier/mixit" />
+		<id>urn:uuid:5ad9ac90-5643-11e4-8d24-6fcc01ad2303</id>
+		<updated>2014-10-17'T'21:19:43+00:00</updated>
+		<summary>a smart mixin/merging object helper</summary>
+	</entry>
+
+	<entry>
+		<title>crate.js</title>
+		<link href="https://github.com/Galavantier/crate.js" />
+		<id>urn:uuid:648b5d10-5643-11e4-8d24-6fcc01ad2303</id>
+		<updated>2014-10-17'T'21:19:43+00:00</updated>
+		<summary>A modal creation library with a multitude of configuration options. Customizable html, colors, closable actions, on open and/or on closing functions, or just give it a body!</summary>
+	</entry>
+
 
 </feed>

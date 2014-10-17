@@ -9,12 +9,28 @@
 
 module.exports = [
   {
+    name: "Muject",
+    github: "srijs/muject",
+    tags: ["dependency", "injection", "inversion", "control", "ioc", "di", "require"],
+    description: "10-SLOC no-bullshit dependency injection micro-library",
+    url: "https://github.com/srijs/muject",
+    source: "https://raw.githubusercontent.com/srijs/muject/master/index.min.js"
+  },
+  {
     name: "Mithril",
     github: "lhorie/mithril",
     tags: ["mvc framework", "mvc", "framework", "templating", "promise", "routing"],
     description: "A javascript MVC framework for building brilliant applications",
     url: "https://lhorie.github.io/mithril",
     source: "https://raw.githubusercontent.com/lhorie/mithril.js/master/mithril.js"
+  },
+  {
+    name: "VanillaMasker",
+    github: "BankFacil/vanilla-masker",
+    tags: ["mask input", "mask", "vanilla"],
+    description: "VanillaMasker is a pure javascript mask input",
+    url: "http://bankfacil.github.io/vanilla-masker/",
+    source: "https://raw.githubusercontent.com/BankFacil/vanilla-masker/master/src/vanilla-masker.js"
   },
   {
     name:"once.js",
@@ -62,11 +78,25 @@ module.exports = [
     source: "https://raw.githubusercontent.com/amwmedia/infect.js/master/infect.js"
   },
   {
+    name: "Pegasus",
+    tags: ["AJAX", "JSON", "GET", "xhr", "request", "promise", "parallel", "performance", "load", "preload"],
+    description: "Load JSON data while still loading other scripts (xhr + promise).",
+    url: "https://github.com/typicode/pegasus",
+    source: "https://raw.githubusercontent.com/typicode/pegasus/master/pegasus.js"
+  },
+  {
     name: "PerfNow.js",
     tags: ["performance", "benchmark", "polyfill", "high", "resolution", "timer", "now"],
     description: "A high resolution performance benchmarking polyfill",
     url: "https://github.com/daniellmb/perfnow.js",
     source: "https://raw.githubusercontent.com/daniellmb/perfnow.js/master/perfnow.src.js"
+  },
+  {
+    name: "SaVaGe.js",
+    tags: ["svg"],
+    description: "A small SVG library with a chaining API",
+    url: "https://github.com/strathausen/savage",
+    source: "https://raw.githubusercontent.com/strathausen/savage/a165cd5be19ce3272034ba2fdbdd8445dae6b97e/savage.js"
   },
   {
     name: "style.js",
@@ -233,6 +263,14 @@ module.exports = [
     description: "A minimal JavaScript Channels library, inspired by Clojure's core.async.",
     url: "https://github.com/brophdawg11/JsChannels",
     source: "https://raw.githubusercontent.com/brophdawg11/JsChannels/master/channel.js"
+  },
+  {
+    name: "svgfallback",
+    github: "/nbouvrette/svgfallback",
+    tags: ["svg", "fallback"],
+    description: "A tiny Javascript SVG Fallback for non supporting browsers",
+    url: "https://github.com/nbouvrette/svgfallback",
+    source: "https://github.com/nbouvrette/svgfallback/blob/master/svgfallback.js"
   },
   {
     name: "translate.js",
@@ -542,6 +580,14 @@ module.exports = [
     description: "To the point dependency management.",
     url: "https://github.com/adriancooney/tinyrequire",
     source: "https://raw.githubusercontent.com/adriancooney/tinyrequire/master/src/tinyrequire.js"
+  },
+  {
+    name: "token-boy",
+    github: "zeusdeux/token-boy",
+    tags: ["token", "api", "digest", "base64", "api-token"],
+    description: "Serves 'n' bit tokens, either digested or not.",
+    url: "https://github.com/zeusdeux/token-boy",
+    source: "https://raw.githubusercontent.com/zeusdeux/token-boy/master/index.js"
   },
   {
     name: "fuzzy.js",
@@ -1078,6 +1124,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/jtenner/expando-js/master/expando.js"
   },
   {
+    name: "preach",
+    github: "zeusdeux/preach",
+    tags: ["publish", "subscribe", "pubsub", "browser", "node"],
+    description: "A lightweight pubsub utility for node and the browser.",
+    url: "https://github.com/zeusdeux/preach",
+    source: "https://raw.githubusercontent.com/zeusdeux/preach/master/browser/preach.js"
+  },
+  {
     name: "Composer.js",
     github: "jtenner/Composer.js",
     tags: ["oo", "prototype","object", "composition", "mixin"],
@@ -1098,6 +1152,13 @@ module.exports = [
     description: "A lightweight, extensible, and fast selector engine with excellent support for matchesSelector(), commonly used in event delegation. Jaguar supports all CSS1, CSS2, and most CSS3 selectors.",
     url: "https://github.com/alpha123/Jaguar",
     source: "https://raw.githubusercontent.com/alpha123/Jaguar/master/src/jaguar.js"
+  },
+  {
+    "name": "mixit",
+    "tags": ["mixin", "merge", "json"],
+    "description": "a smart mixin/merging object helper",
+    "url": "https://github.com/stephanebachelier/mixit",
+    "source": "https://raw.githubusercontent.com/stephanebachelier/mixit/master/lib/mixit.js"
   },
   {
     name: "Émile",
@@ -2448,6 +2509,14 @@ module.exports = [
     description: "It's a lightweight JavaScript library that matches paths against registered routes. It includes support for dynamic and star segments and nested handlers.",
     url: "https://github.com/tildeio/route-recognizer",
     source: "https://raw.githubusercontent.com/tildeio/route-recognizer/master/dist/route-recognizer.js"
+  },
+  {
+    name: "crate.js",
+    github: "Galavantier/crate.js",
+    tags: ["modal", "popover"],
+    description: "A modal creation library with a multitude of configuration options. Customizable html, colors, closable actions, on open and/or on closing functions, or just give it a body!",
+    url: "https://github.com/Galavantier/crate.js",
+    source: "https://raw.githubusercontent.com/Galavantier/crate.js/master/crate.js"
   },
   {
     name: "Router.js",
@@ -3851,5 +3920,12 @@ module.exports = [
      description: "Crossbrowser & lightweight way to check if user is looking at the page or interacting with it.",
      url: "https://github.com/serkanyersen/ifvisible.js",
      source: "https://raw.githubusercontent.com/serkanyersen/ifvisible.js/master/src/ifvisible.js"
+  },
+  {
+     name: "ListOf",
+     tags: ["list", "collection", "array", "library", "c#"],
+     description: "A JavaScript implementation of the C# List<T> object.",
+     url: "https://github.com/joelalejandro/stuff",
+     source: "https://github.com/joelalejandro/stuff/raw/master/ListOf.js"
   }
 ];
