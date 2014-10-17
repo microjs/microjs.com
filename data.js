@@ -582,6 +582,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/adriancooney/tinyrequire/master/src/tinyrequire.js"
   },
   {
+    name: "token-boy",
+    github: "zeusdeux/token-boy",
+    tags: ["token", "api", "digest", "base64", "api-token"],
+    description: "Serves 'n' bit tokens, either digested or not.",
+    url: "https://github.com/zeusdeux/token-boy",
+    source: "https://raw.githubusercontent.com/zeusdeux/token-boy/master/index.js"
+  },
+  {
     name: "fuzzy.js",
     github: "Extaze/fuzzy.js",
     tags: ["search", "fuzzy", "filter"],
@@ -1114,6 +1122,14 @@ module.exports = [
     description: "A blazing fast HTML generation tool that expands shorthand into (X)HTML",
     url: "https://github.com/jtenner/expando-js",
     source: "https://raw.githubusercontent.com/jtenner/expando-js/master/expando.js"
+  },
+  {
+    name: "preach",
+    github: "zeusdeux/preach",
+    tags: ["publish", "subscribe", "pubsub", "browser", "node"],
+    description: "A lightweight pubsub utility for node and the browser.",
+    url: "https://github.com/zeusdeux/preach",
+    source: "https://raw.githubusercontent.com/zeusdeux/preach/master/browser/preach.js"
   },
   {
     name: "Composer.js",
