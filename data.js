@@ -3927,5 +3927,24 @@ module.exports = [
      description: "A JavaScript implementation of the C# List<T> object.",
      url: "https://github.com/joelalejandro/stuff",
      source: "https://github.com/joelalejandro/stuff/raw/master/ListOf.js"
+  },
+  {
+     name: "fast-localstorage",
+     tags: ["localstorage", "mobile", "array", "html5", "javascript"],
+     description: "localStorage wrapper for fast localStorage access.",
+     url: "https://github.com/svapreddy/fast-localStorage",
+     source: "https://github.com/svapreddy/fast-localStorage/blob/master/fast-localStorage.js"
+  },{
+     name: "jquery-touch-events",
+     tags: ["jQuery", "mobile", "touch"],
+     description: "Zepto touch port for jQuery.",
+     url: "https://github.com/svapreddy/jQuery-Touch-Events",
+     source: "https://github.com/svapreddy/jQuery-Touch-Events/blob/master/jquery-touch-events.js"
+  },{
+     name: "emoji",
+     tags: ["emoticons", "emoji", "javascript"],
+     description: "All the methods required to embed Github emoji in web application.",
+     url: "https://github.com/svapreddy/emojiLib.js",
+     source: "https://github.com/svapreddy/emojiLib.js/blob/master/js/emoji.js"
   }
 ];
