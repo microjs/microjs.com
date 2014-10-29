@@ -3927,5 +3927,12 @@ module.exports = [
      description: "A JavaScript implementation of the C# List<T> object.",
      url: "https://github.com/joelalejandro/stuff",
      source: "https://github.com/joelalejandro/stuff/raw/master/ListOf.js"
+  },
+  {
+     name: "EventoJS",
+     tags: ["dom events", "event", "evento"],
+     description: "An easy way to manipulate events on DOM.",
+     url: "https://github.com/gustavohenrique/eventojs",
+     source: "https://raw.githubusercontent.com/gustavohenrique/eventojs/master/src/evento.js"
   }
 ];

@@ -4184,5 +4184,13 @@
 		<summary>A modal creation library with a multitude of configuration options. Customizable html, colors, closable actions, on open and/or on closing functions, or just give it a body!</summary>
 	</entry>
 
+	<entry>
+		<title>EventoJS</title>
+		<link href="https://github.com/gustavohenrique/eventojs" />
+		<id>urn:uuid:7dd35b40-5faa-11e4-bdc1-4fddccc5898a</id>
+		<updated>2014-10-29'T'20:30:13+00:00</updated>
+		<summary>An easy way to manipulate events on DOM.</summary>
+	</entry>
+
 
 </feed>
