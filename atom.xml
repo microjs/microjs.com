@@ -4184,5 +4184,13 @@
 		<summary>A modal creation library with a multitude of configuration options. Customizable html, colors, closable actions, on open and/or on closing functions, or just give it a body!</summary>
 	</entry>
 
+	<entry>
+		<title>guard</title>
+		<link href="https://github.com/iofjuupasli/guard" />
+		<id>urn:uuid:6a9968a0-6336-11e4-8506-e72ea7bb6db8</id>
+		<updated>2014-11-03'T'08:49:54+00:00</updated>
+		<summary>Utility to split opportunities by the account level (free\pro\enterprise\etc.) for frontend and node</summary>
+	</entry>
+
 
 </feed>
