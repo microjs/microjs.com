@@ -3927,5 +3927,12 @@ module.exports = [
      description: "A JavaScript implementation of the C# List<T> object.",
      url: "https://github.com/joelalejandro/stuff",
      source: "https://github.com/joelalejandro/stuff/raw/master/ListOf.js"
+  },
+  {
+     name: "keycharm",
+     tags: ["keyboard"],
+     description: "Simple, lightweight key-binding libw. MIT or Apache 2.0.",
+     url: "https://github.com/AlexDM0/keycharm",
+     source: "https://raw.githubusercontent.com/AlexDM0/keycharm/master/keycharm.js"
   }
 ];
