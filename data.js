@@ -3927,5 +3927,12 @@ module.exports = [
      description: "A JavaScript implementation of the C# List<T> object.",
      url: "https://github.com/joelalejandro/stuff",
      source: "https://github.com/joelalejandro/stuff/raw/master/ListOf.js"
+  },
+  {
+     name: "JsDic",
+     tags: ["dependency", "injection", "container", "di", "dic"],
+     description: "Dependecy injection container inspired by Angular.js.",
+     url: "https://github.com/janmarek/JsDic",
+     source: "https://github.com/janmarek/JsDic/blob/master/jsdic.js"
   }
 ];
