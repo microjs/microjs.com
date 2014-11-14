@@ -3929,10 +3929,10 @@ module.exports = [
      source: "https://github.com/joelalejandro/stuff/raw/master/ListOf.js"
   },
   {
-    name: "GreinerHormann,
+    name: "GreinerHormann",
     tags: ["math", "geometry", "polygon", "clipping", "polyline"],
     description: "Greiner-Hormann polygon clipping algorithm. Does AND, OR, XOR.",
     url: "http://w8r.github.io/GreinerHormann/",
-    source: "https://raw.githubusercontent.com/GreinerHormann/master/dist/greiner-hormann.min.js"
+    source: "https://raw.githubusercontent.com/w8r/GreinerHormann/master/dist/greiner-hormann.js"
   }
 ];

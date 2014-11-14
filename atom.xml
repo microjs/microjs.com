@@ -4184,5 +4184,13 @@
 		<summary>A modal creation library with a multitude of configuration options. Customizable html, colors, closable actions, on open and/or on closing functions, or just give it a body!</summary>
 	</entry>
 
+	<entry>
+		<title>GreinerHormann</title>
+		<link href="http://w8r.github.io/GreinerHormann/" />
+		<id>urn:uuid:cb23a440-6b94-11e4-bb2f-c7ce42f3545c</id>
+		<updated>2014-11-14'T'00:21:51+00:00</updated>
+		<summary>Greiner-Hormann polygon clipping algorithm. Does AND, OR, XOR.</summary>
+	</entry>
+
 
 </feed>
