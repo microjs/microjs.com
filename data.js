@@ -3927,5 +3927,12 @@ module.exports = [
      description: "A JavaScript implementation of the C# List<T> object.",
      url: "https://github.com/joelalejandro/stuff",
      source: "https://github.com/joelalejandro/stuff/raw/master/ListOf.js"
+  },
+  {
+    name: "GreinerHormann,
+    tags: ["math", "geometry", "polygon", "clipping", "polyline"],
+    description: "Greiner-Hormann polygon clipping algorithm. Does AND, OR, XOR.",
+    url: "http://w8r.github.io/GreinerHormann/",
+    source: "https://raw.githubusercontent.com/GreinerHormann/master/dist/greiner-hormann.min.js"
   }
 ];
