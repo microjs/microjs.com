@@ -70,6 +70,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/dkraczkowski/dom.js/master/src/dom.js"
   },
   {
+    name: "Collection.js",
+    tags: ["localStorage", "database", "db", "simple", "crossbrowser", "query", "collection","entity"],
+    description: "Collection.js is small but yet powerfull local database build on top of the localstorage.",
+    url: "https://github.com/dkraczkowski/collection.js",
+    source: "https://raw.githubusercontent.com/dkraczkowski/collection.js/master/src/collection.js"
+  },
+  {
     name: "Infect.js",
     github: "amwmedia/Infect.js",
     tags: ["dependency injection", "DI", "dependency", "injection", "dependency-free"],
