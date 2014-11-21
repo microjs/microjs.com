@@ -3927,5 +3927,13 @@ module.exports = [
      description: "A JavaScript implementation of the C# List<T> object.",
      url: "https://github.com/joelalejandro/stuff",
      source: "https://github.com/joelalejandro/stuff/raw/master/ListOf.js"
+  },
+  {
+     name: "Storage.js",
+     github: "lcavadas/Storage.js",
+     tags: ["IndexedDB", "WebSQL", "localStorage", "sessionStorage", "localStorage", "storage", "database", "object", "store"],
+     description: "JavaScript Library for Cross Browser Persistence using WebStorage (LocalStorage, SessionStorage, WebSQL and IndexedDB) for all browsers.",
+     url: "https://github.com/lcavadas/Storage.js",
+     source: "https://raw.githubusercontent.com/lcavadas/Storage.js/0.1.1/storage.min.js"
   }
 ];
