@@ -3927,5 +3927,12 @@ module.exports = [
      description: "A JavaScript implementation of the C# List<T> object.",
      url: "https://github.com/joelalejandro/stuff",
      source: "https://github.com/joelalejandro/stuff/raw/master/ListOf.js"
+  },
+  {
+     name: "wjs",
+     tags: ["ajax", "lazy", "loading", "remote", "package"],
+     description: "A JavaScript / PHP to manage lazy loading from server to client.",
+     url: "https://github.com/weeger/wjs",
+     source: "https://github.com/weeger/wjs/raw/master/wjs.min.js"
   }
 ];
