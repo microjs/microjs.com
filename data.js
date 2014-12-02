@@ -3927,5 +3927,19 @@ module.exports = [
      description: "A JavaScript implementation of the C# List<T> object.",
      url: "https://github.com/joelalejandro/stuff",
      source: "https://github.com/joelalejandro/stuff/raw/master/ListOf.js"
+  },
+  {
+    name: "handlebars-autorenderer",
+    tags: ["handlebars", "rendering", "templating"],
+    description: "Tiny plugin for rendering and updating client-side handlebar templates. ",
+    url: "https://gist.github.com/ambrosechua/9e4455100c43a8a2cb1c",
+    source: "https://gist.githubusercontent.com/ambrosechua/9e4455100c43a8a2cb1c/raw/46c75a14cb3940e66bc5e6d7cbbfd959dd208ccd/handlebars-autorenderer.js"
+  },
+  {
+    name: "O.o.tree",
+    tags: ["rendering", "templating", "MutationObserver", "observer", "object"],
+    description: "Tiny O.o() wrapper to O.o() the whole object tree. ",
+    url: "https://gist.github.com/ambrosechua/5b6f804cef53118db28b",
+    source: "https://gist.githubusercontent.com/ambrosechua/5b6f804cef53118db28b/raw/7ec6141f642908a0392e0f9a6fb3dfb1975a6e82/O.o.tree.js"
   }
 ];
