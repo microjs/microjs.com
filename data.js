@@ -40,6 +40,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/daniellmb/once.js/master/once.js"
   },
   {
+    name: "micro-events",
+    tags: ["event","performance","event emitter","listener","handler","eventing","amd","node","web"],
+    description: "A minimal event emitter implementation",
+    url: "https://github.com/alexanderGugel/micro-events",
+    source: "https://raw.githubusercontent.com/alexanderGugel/micro-events/master/index.js"
+  },
+  {
     name: "strg.js",
     github: "fend25/strg.js",
     tags: ["localStorage", "sessionStorage", "cookie", "cookies"],
