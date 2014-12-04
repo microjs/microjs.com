@@ -9,6 +9,14 @@
 
 module.exports = [
   {
+    name: "Timesheet.js",
+    github: "sbstjn/timesheet.js",
+    tags: ["timesheet", "graph", "charts", "flow", "gantt", "draw"],
+    description: "Visualize your data with Timesheet.js",
+    url: "https://github.com/sbstjn/timesheet.js",
+    source: "https://raw.githubusercontent.com/sbstjn/timesheet.js/master/dist/timesheet.js"
+  },
+  {
     name: "Muject",
     github: "srijs/muject",
     tags: ["dependency", "injection", "inversion", "control", "ioc", "di", "require"],
