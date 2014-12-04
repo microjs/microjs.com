@@ -2214,6 +2214,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/madrobby/keymaster/master/keymaster.js"
   },
   {
+    name: "blob-util",
+    tags: ["blob", "blobs", "binary", "util", "utils", "buffer"],
+    description: "Utilities for working with Blob objects in the browser",
+    url: "https://github.com/nolanlawson/blob-util",
+    source: "https://raw.githubusercontent.com/nolanlawson/blob-util/master/dist/blob-util.js"
+  },
+  {
     name: "Date-Utils",
     tags: ["date", "polyfill"],
     description: "Lightweight Date Polyfill with a lot of flexibility.",
