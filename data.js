@@ -22,7 +22,7 @@ module.exports = [
     tags: ["dependency", "injection", "inversion", "control", "ioc", "di", "require"],
     description: "10-SLOC no-bullshit dependency injection micro-library",
     url: "https://github.com/srijs/muject",
-    source: "https://raw.githubusercontent.com/srijs/muject/master/index.min.js"
+    source: "https://raw.githubusercontent.com/srijs/muject/master/index.js"
   },
   {
     name: "Mithril",
@@ -38,7 +38,7 @@ module.exports = [
     tags: ["mask input", "mask", "vanilla"],
     description: "VanillaMasker is a pure javascript mask input",
     url: "http://bankfacil.github.io/vanilla-masker/",
-    source: "https://raw.githubusercontent.com/BankFacil/vanilla-masker/master/src/vanilla-masker.js"
+    source: "https://raw.githubusercontent.com/BankFacil/vanilla-masker/master/lib/vanilla-masker.js"
   },
   {
     name:"once.js",
@@ -217,11 +217,11 @@ module.exports = [
   },
   {
     name: "ArrowJS",
-    github: "Perion/ArrowJS",
+    github: "pbojinov/arrow-js",
     tags: ["notification", "cross-browser", "namespace"],
     description: "Arrow is a small library for displaying a arrow pointing to the browser download location",
-    url: "https://github.com/Perion/ArrowJS",
-    source: "https://raw.githubusercontent.com/Perion/ArrowJS/master/src/js/arrow.js"
+    url: "https://github.com/pbojinov/arrow-js",
+    source: "https://raw.githubusercontent.com/pbojinov/arrow-js/master/src/js/arrow.js"
   },
   {
     name: "fpscounter",
@@ -264,11 +264,11 @@ module.exports = [
   },
   {
     name: "http.js",
-    github: "nauman1225/http.js",
+    github: "organic-scholar/http.js",
     tags: ["http", "ajax", "rest"],
     description: "http.js is an object oriented javascript library for making http requests and ajax calls.",
-    url: "https://github.com/nauman1225/http.js",
-    source: "https://raw.githubusercontent.com/nauman1225/http.js/master/dist/http.js"
+    url: "https://github.com/organic-scholar/http.js",
+    source: "https://raw.githubusercontent.com/organic-scholar/http.js/master/dist/http.js"
   },
   {
     name: "Automator.js",
@@ -288,11 +288,11 @@ module.exports = [
   },
   {
     name: "svgfallback",
-    github: "/nbouvrette/svgfallback",
+    github: "nbouvrette/svgfallback",
     tags: ["svg", "fallback"],
     description: "A tiny Javascript SVG Fallback for non supporting browsers",
     url: "https://github.com/nbouvrette/svgfallback",
-    source: "https://github.com/nbouvrette/svgfallback/blob/master/svgfallback.js"
+    source: "https://raw.githubusercontent.com/nbouvrette/svgfallback/master/svgfallback.js"
   },
   {
     name: "translate.js",
@@ -403,7 +403,8 @@ module.exports = [
     tags: ["indent", "indentation", "detect", "infer", "identify", "code", "string", "text", "source", "space", "tab"],
     description: "Detect the indentation of code.",
     url: "https://github.com/sindresorhus/detect-indent",
-    source: "https://raw.githubusercontent.com/sindresorhus/detect-indent/master/cli.js"
+    source: ["https://raw.githubusercontent.com/sindresorhus/detect-indent/master/index.js",
+    "https://raw.githubusercontent.com/sindresorhus/detect-indent/master/cli.js"]
   },
   {
     name: "Tempreites",
@@ -527,11 +528,11 @@ module.exports = [
   },
   {
     name: "accounting.js",
-    github: "josscrowcroft/accounting.js",
+    github: "openexchangerates/accounting.js",
     tags: ["math", "number", "money", "currency parsing", "currency formatting"],
     description: "A lightweight JavaScript library for number, money and currency formatting - fully localisable, zero dependencies.",
     url: "http://josscrowcroft.github.io/accounting.js/",
-    source: "https://raw.githubusercontent.com/josscrowcroft/accounting.js/master/accounting.js"
+    source: "https://raw.githubusercontent.com/openexchangerates/accounting.js/master/accounting.js"
   },
   {
     name: "sloth.js",
@@ -986,7 +987,7 @@ module.exports = [
     tags: ["mvc", "data", "functional"],
     description: "Lightweight MVC—models with custom events, collections with rich enumerables, views and RESTful JSON.",
     url: "http://backbonejs.org/",
-    source: "http://backbonejs.org/backbone.js"
+    source: "https://raw.githubusercontent.com/jashkenas/backbone/master/backbone.js"
   },
   {
     name: "$dom",
@@ -2530,7 +2531,7 @@ module.exports = [
     tags: ["string", "language", "sugar"],
     description: "Adds a `format` method to `String.prototype`. Inspired by Python's `str.format()`.",
     url: "https://github.com/davidchambers/string-format",
-    source: "https://raw.githubusercontent.com/davidchambers/string-format/master/lib/string-format.js"
+    source: "https://raw.githubusercontent.com/davidchambers/string-format/master/src/string-format.coffee"
   },
   {
     name: "Callbacks.js",
@@ -3038,7 +3039,7 @@ module.exports = [
     tags: ["DOM", "events", "selector", "modern", "modular", "es6"],
     description: "Small and fast DOM and event library for modern browsers. It has the same familiar API as jQuery, and is lean & mean with small, optional modules.",
     url: "http://webpro.github.io/DOMtastic/",
-    source: "https://raw.githubusercontent.com/webpro/DOMtastic/master/dist/domtastic.js"
+    source: "https://raw.githubusercontent.com/webpro/DOMtastic/gh-pages/dist/domtastic.js"
   },
   {
     name: "Timer.js",
@@ -3112,8 +3113,8 @@ module.exports = [
     name: "time.js",
     tags: ["time", "parse", "parsing", "format", "validate"],
     description: "Date-agnostic time parsing for node and the browser.",
-    url: "http://github.com/zever/time/",
-    source: "https://raw.githubusercontent.com/zever/time/master/time.js"
+    url: "https://github.com/zackdever/time",
+    source: "https://raw.githubusercontent.com/zackdever/time/master/time.js"
   },
   {
     name: "MissMatch",
@@ -3484,8 +3485,8 @@ module.exports = [
     github: "BlueJeansAndRain/stdclassjs",
     tags: ["oop", "class", "extend", "mixin"],
     description: "A dead simple JavaScript inheritance implementation.",
-    url: "https://github.com/BlueJeansAndRain/stdclassjs",
-    source: "https://raw.githubusercontent.com/BlueJeansAndRain/stdclassjs/master/stdclass.js"
+    url: "https://github.com/ChrisAckerman/stdclassjs",
+    source: "https://raw.githubusercontent.com/ChrisAckerman/stdclassjs/master/stdclass.js"
   },
   {
     name: "keydrown",
@@ -3977,7 +3978,7 @@ module.exports = [
      tags: ["list", "collection", "array", "library", "c#"],
      description: "A JavaScript implementation of the C# List<T> object.",
      url: "https://github.com/joelalejandro/stuff",
-     source: "https://github.com/joelalejandro/stuff/raw/master/ListOf.js"
+     source: "https://raw.githubusercontent.com/joelalejandro/stuff/master/ListOf.js"
   },
   {
     name: "handlebars-autorenderer",

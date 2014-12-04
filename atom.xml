@@ -4184,13 +4184,5 @@
 		<summary>A modal creation library with a multitude of configuration options. Customizable html, colors, closable actions, on open and/or on closing functions, or just give it a body!</summary>
 	</entry>
 
-	<entry>
-		<title>micro-events</title>
-		<link href="https://github.com/alexanderGugel/micro-events" />
-		<id>urn:uuid:9189aa90-79fe-11e4-8023-436fbec5b6a8</id>
-		<updated>2014-12-02'T'08:38:09+00:00</updated>
-		<summary>A minimal event emitter implementation</summary>
-	</entry>
-
 
 </feed>
