@@ -1833,9 +1833,17 @@ module.exports = [
     github: "leecrossley/functional-js"
   },
   {
+    name: "imagine",
+    tags: ["loader","async"],
+    description: "An image (pre)loader with promises",
+    url: "https://github.com/pyrsmk/imagine",
+    source: "https://raw.githubusercontent.com/pyrsmk/imagine/master/src/imagine.js",
+    github: "pyrsmk/imagine"
+  },
+  {
     name: "RIP",
-    tags: ["rest","request"],
-    description: "Make REST requests in FORM contexts, useful to avoid synchroneous ajax requests",
+    tags: ["loader","ajax"],
+    description: "Make REST requests without using synchroneous ajax requests",
     url: "https://github.com/pyrsmk/RIP",
     source: "https://raw.githubusercontent.com/pyrsmk/RIP/master/src/RIP.js",
     github: "pyrsmk/RIP"
@@ -1898,7 +1906,7 @@ module.exports = [
   },
   {
     name: "qwest",
-    tags: ["ajax","async","request"],
+    tags: ["ajax","async"],
     description: "Ajax library with promises and XHR2 support",
     url: "https://github.com/pyrsmk/qwest",
     source: "https://raw.githubusercontent.com/pyrsmk/qwest/master/src/qwest.js",
@@ -1906,7 +1914,7 @@ module.exports = [
   },
   {
     name: "quark",
-    tags: ["base"],
+    tags: ["base","compose"],
     description: "Build your own framework from scratch",
     url: "https://github.com/pyrsmk/quark",
     source: [
