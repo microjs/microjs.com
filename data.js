@@ -3746,6 +3746,20 @@ module.exports = [
     source: "https://raw.githubusercontent.com/gamtiq/eva/master/dist/eva.js"
   },
   {
+    name: "adam",
+    tags: ["object", "process", "create", "check", "field", "value", "type", "kind", "size", "split", "filter", "copy", "change", "map", "remove", "reverse", "empty", "transform"],
+    description: "Functions to create, process and test objects.",
+    url: "https://github.com/gamtiq/adam",
+    source: "https://raw.githubusercontent.com/gamtiq/adam/master/dist/adam.js"
+  },
+  {
+    name: "teo",
+    tags: ["test", "check", "object", "utility", "filter", "validate", "data"],
+    description: "Functions to test/check objects.",
+    url: "https://github.com/gamtiq/teo",
+    source: "https://raw.githubusercontent.com/gamtiq/teo/master/dist/teo.js"
+  },
+  {
     name: "easter.js",
     tags: ["easter-egg", "keys", "sequence"],
     description: "Easter eggs made easy.",
