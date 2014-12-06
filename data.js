@@ -3961,32 +3961,39 @@ module.exports = [
     source: "https://raw.githubusercontent.com/krasimir/gifffer/master/lib/gifffer.js"
   },
   {
-     name: "Rlite",
-     tags: ["rlite", "route", "routing", "router", "hash", "querystring", "named", "parameters"],
-     description: "Tiny, simple, light-weight routing",
-     url: "https://github.com/chrisdavies/rlite",
-     source: "https://raw.githubusercontent.com/chrisdavies/rlite/master/rlite.js"
+    name: "Plite",
+    tags: ["promise", "future", "callback", "library", "functional"],
+    description: "Tiny, fast, light-weight promises (370 bytes min+zipped)",
+    url: "https://github.com/chrisdavies/plite",
+    source: "https://raw.githubusercontent.com/chrisdavies/plite/master/plite.js"
   },
   {
-     name: "Kwargs",
-     tags: ["python", "arguments", "kwargs", "defaults", "function", "syntactic sugar"],
-     description: "Smart python like argument management for javascript",
-     url: "https://github.com/serkanyersen/kwargsjs",
-     source: "https://raw.githubusercontent.com/serkanyersen/kwargsjs/master/kwargs.js"
+    name: "Rlite",
+    tags: ["rlite", "route", "routing", "router", "hash", "querystring", "named", "parameters"],
+    description: "Tiny, simple, light-weight routing (~500 bytes min+zipped)",
+    url: "https://github.com/chrisdavies/rlite",
+    source: "https://raw.githubusercontent.com/chrisdavies/rlite/master/rlite.js"
   },
   {
-     name: "ifvisible.js",
-     tags: ["visibility", "idle", "coffee", "script", "interval", "requestAnimationFrame"],
-     description: "Crossbrowser & lightweight way to check if user is looking at the page or interacting with it.",
-     url: "https://github.com/serkanyersen/ifvisible.js",
-     source: "https://raw.githubusercontent.com/serkanyersen/ifvisible.js/master/src/ifvisible.js"
+    name: "Kwargs",
+    tags: ["python", "arguments", "kwargs", "defaults", "function", "syntactic sugar"],
+    description: "Smart python like argument management for javascript",
+    url: "https://github.com/serkanyersen/kwargsjs",
+    source: "https://raw.githubusercontent.com/serkanyersen/kwargsjs/master/kwargs.js"
   },
   {
-     name: "ListOf",
-     tags: ["list", "collection", "array", "library", "c#"],
-     description: "A JavaScript implementation of the C# List<T> object.",
-     url: "https://github.com/joelalejandro/stuff",
-     source: "https://raw.githubusercontent.com/joelalejandro/stuff/master/ListOf.js"
+    name: "ifvisible.js",
+    tags: ["visibility", "idle", "coffee", "script", "interval", "requestAnimationFrame"],
+    description: "Crossbrowser & lightweight way to check if user is looking at the page or interacting with it.",
+    url: "https://github.com/serkanyersen/ifvisible.js",
+    source: "https://raw.githubusercontent.com/serkanyersen/ifvisible.js/master/src/ifvisible.js"
+  },
+  {
+    name: "ListOf",
+    tags: ["list", "collection", "array", "library", "c#"],
+    description: "A JavaScript implementation of the C# List<T> object.",
+    url: "https://github.com/joelalejandro/stuff",
+    source: "https://raw.githubusercontent.com/joelalejandro/stuff/master/ListOf.js"
   },
   {
     name: "handlebars-autorenderer",
