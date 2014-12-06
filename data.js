@@ -25,6 +25,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/srijs/muject/master/index.js"
   },
   {
+    name: "Chop.js",
+    github: "hufyhang/chop",
+    tags: ["mvc framework", "mvc", "framework", "templating", "DOM", "routing"],
+    description: "A Super Light-Weight JavaScript Framework",
+    url: "https://github.com/hufyhang/chop",
+    source: "https://raw.githubusercontent.com/hufyhang/chop/master/chop.js"
+  },
+  {
     name: "Mithril",
     github: "lhorie/mithril",
     tags: ["mvc framework", "mvc", "framework", "templating", "promise", "routing"],
