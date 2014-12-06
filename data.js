@@ -2039,6 +2039,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/yckart/DragValue.js/master/dragvalue.js"
   },
   {
+    name: "topbar",
+    tags: ["ui", "progress", "bar", "loading", "side-wide"],
+    description: "Tiny and beautiful site-wide progress indicator",
+    url: "http://buunguyen.github.io/topbar/",
+    source: "https://github.com/buunguyen/topbar/blob/master/topbar.js"
+  },
+  {
     name: "Curtain.js",
     tags: ["curtain", "scroll", "transform", "position", "css", "responsive", "creative"],
     description: "Scrolls up your curtain!",
@@ -2259,6 +2266,13 @@ module.exports = [
     description: "Provides ransformations to plain text for typographically-improved HTML.",
     url: "https://github.com/ekalinin/typogr.js",
     source: "https://raw.githubusercontent.com/ekalinin/typogr.js/master/typogr.js"
+  },
+  {
+    name: "jundo",
+    tags: ["undo", "redo", "history"],
+    description: "Undo library for browser and Node",
+    url: "https://github.com/buunguyen/jundo",
+    source: "https://github.com/buunguyen/jundo/blob/master/index.js"
   },
   {
     name: "Species",
