@@ -4057,5 +4057,13 @@ module.exports = [
     description: "DOM Modification observer",
     url: "https://github.com/gitterHQ/mutant.js",
     source: "https://raw.githubusercontent.com/gitterHQ/mutant.js/master/public/assets/mutant.js"
+  },
+  {
+    name: "NanoModal",
+    github: "kylepaulsen/NanoModal",
+    tags: ["modal", "dialog", "popup", "message"],
+    description: "A small, self-contained JavaScript modal library with some extra features.",
+    url: "https://github.com/kylepaulsen/NanoModal",
+    source: "https://raw.githubusercontent.com/kylepaulsen/NanoModal/master/nanomodal.js"
   }
 ];
