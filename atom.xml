@@ -4184,5 +4184,165 @@
 		<summary>A modal creation library with a multitude of configuration options. Customizable html, colors, closable actions, on open and/or on closing functions, or just give it a body!</summary>
 	</entry>
 
+	<entry>
+		<title>Muject</title>
+		<link href="https://github.com/srijs/muject" />
+		<id>urn:uuid:b475a500-7c0f-11e4-b1d6-8bb4fe009cd4</id>
+		<updated>2014-12-04'T'23:46:01+00:00</updated>
+		<summary>10-SLOC no-bullshit dependency injection micro-library</summary>
+	</entry>
+
+	<entry>
+		<title>VanillaMasker</title>
+		<link href="http://bankfacil.github.io/vanilla-masker/" />
+		<id>urn:uuid:b4908000-7c0f-11e4-b1d6-8bb4fe009cd4</id>
+		<updated>2014-12-04'T'23:46:01+00:00</updated>
+		<summary>VanillaMasker is a pure javascript mask input</summary>
+	</entry>
+
+	<entry>
+		<title>Timesheet.js</title>
+		<link href="https://github.com/sbstjn/timesheet.js" />
+		<id>urn:uuid:b4914350-7c0f-11e4-b1d6-8bb4fe009cd4</id>
+		<updated>2014-12-04'T'23:46:01+00:00</updated>
+		<summary>Visualize your data with Timesheet.js</summary>
+	</entry>
+
+	<entry>
+		<title>micro-events</title>
+		<link href="https://github.com/alexanderGugel/micro-events" />
+		<id>urn:uuid:b491b880-7c0f-11e4-b1d6-8bb4fe009cd4</id>
+		<updated>2014-12-04'T'23:46:01+00:00</updated>
+		<summary>A minimal event emitter implementation</summary>
+	</entry>
+
+	<entry>
+		<title>Collection.js</title>
+		<link href="https://github.com/dkraczkowski/collection.js" />
+		<id>urn:uuid:b4bfcd60-7c0f-11e4-b1d6-8bb4fe009cd4</id>
+		<updated>2014-12-04'T'23:46:01+00:00</updated>
+		<summary>Collection.js is small but yet powerfull local database build on top of the localstorage.</summary>
+	</entry>
+
+	<entry>
+		<title>svgfallback</title>
+		<link href="https://github.com/nbouvrette/svgfallback" />
+		<id>urn:uuid:b5fdcba0-7c0f-11e4-b1d6-8bb4fe009cd4</id>
+		<updated>2014-12-04'T'23:46:01+00:00</updated>
+		<summary>A tiny Javascript SVG Fallback for non supporting browsers</summary>
+	</entry>
+
+	<entry>
+		<title>imagine</title>
+		<link href="https://github.com/pyrsmk/imagine" />
+		<id>urn:uuid:bf73d2b0-7c0f-11e4-b1d6-8bb4fe009cd4</id>
+		<updated>2014-12-04'T'23:46:01+00:00</updated>
+		<summary>An image (pre)loader with promises</summary>
+	</entry>
+
+	<entry>
+		<title>blob-util</title>
+		<link href="https://github.com/nolanlawson/blob-util" />
+		<id>urn:uuid:c20b1f60-7c0f-11e4-b1d6-8bb4fe009cd4</id>
+		<updated>2014-12-04'T'23:46:01+00:00</updated>
+		<summary>Utilities for working with Blob objects in the browser</summary>
+	</entry>
+
+	<entry>
+		<title>adam</title>
+		<link href="https://github.com/gamtiq/adam" />
+		<id>urn:uuid:cb91c840-7c0f-11e4-b1d6-8bb4fe009cd4</id>
+		<updated>2014-12-04'T'23:46:01+00:00</updated>
+		<summary>Functions to create, process and test objects.</summary>
+	</entry>
+
+	<entry>
+		<title>teo</title>
+		<link href="https://github.com/gamtiq/teo" />
+		<id>urn:uuid:cb9e7270-7c0f-11e4-b1d6-8bb4fe009cd4</id>
+		<updated>2014-12-04'T'23:46:01+00:00</updated>
+		<summary>Functions to test/check objects.</summary>
+	</entry>
+
+	<entry>
+		<title>handlebars-autorenderer</title>
+		<link href="https://gist.github.com/ambrosechua/9e4455100c43a8a2cb1c" />
+		<id>urn:uuid:ccd9ffb0-7c0f-11e4-b1d6-8bb4fe009cd4</id>
+		<updated>2014-12-04'T'23:46:01+00:00</updated>
+		<summary>Tiny plugin for rendering and updating client-side handlebar templates. </summary>
+	</entry>
+
+	<entry>
+		<title>O.o.tree</title>
+		<link href="https://gist.github.com/ambrosechua/5b6f804cef53118db28b" />
+		<id>urn:uuid:cce57160-7c0f-11e4-b1d6-8bb4fe009cd4</id>
+		<updated>2014-12-04'T'23:46:01+00:00</updated>
+		<summary>Tiny O.o() wrapper to O.o() the whole object tree. </summary>
+	</entry>
+
+	<entry>
+		<title>ListOf</title>
+		<link href="https://github.com/joelalejandro/stuff" />
+		<id>urn:uuid:ccfaa710-7c0f-11e4-b1d6-8bb4fe009cd4</id>
+		<updated>2014-12-04'T'23:46:01+00:00</updated>
+		<summary>A JavaScript implementation of the C# List&lt;T&gt; object.</summary>
+	</entry>
+
+	<entry>
+		<title>Plite</title>
+		<link href="https://github.com/chrisdavies/plite" />
+		<id>urn:uuid:169e7700-7d7f-11e4-ba17-3978bda20431</id>
+		<updated>2014-12-06'T'19:35:08+00:00</updated>
+		<summary>Tiny, fast, light-weight promises (370 bytes min+zipped)</summary>
+	</entry>
+
+	<entry>
+		<title>KolorWheel.js</title>
+		<link href="http://linkbroker.hu/stuff/kolorwheel.js" />
+		<id>urn:uuid:16c9ccc0-7d7f-11e4-ba17-3978bda20431</id>
+		<updated>2014-12-06'T'19:35:08+00:00</updated>
+		<summary>KolorWheel.js generates color palette from a base color and chainable absolute/relative H-S-L transformation methods (incl. specified target color). Documentation contains live examples with editable parameters.</summary>
+	</entry>
+
+	<entry>
+		<title>SimplyJS</title>
+		<link href="https://github.com/janelznic/simplyjs" />
+		<id>urn:uuid:16eb5e80-7d7f-11e4-ba17-3978bda20431</id>
+		<updated>2014-12-06'T'19:35:08+00:00</updated>
+		<summary>Provides support for manipulating with DOM and events handling. Easy for use, optimized for performance, native browser&apos;s support first.</summary>
+	</entry>
+
+	<entry>
+		<title>clone</title>
+		<link href="https://github.com/pvorb/node-clone" />
+		<id>urn:uuid:16ec48e0-7d7f-11e4-ba17-3978bda20431</id>
+		<updated>2014-12-06'T'19:35:08+00:00</updated>
+		<summary>Clones/copies arbitrary objects recursively</summary>
+	</entry>
+
+	<entry>
+		<title>tag</title>
+		<link href="https://github.com/a-tarasyuk/tag" />
+		<id>urn:uuid:16ed0c30-7d7f-11e4-ba17-3978bda20431</id>
+		<updated>2014-12-06'T'19:35:08+00:00</updated>
+		<summary>Small utility for creating DOM elements</summary>
+	</entry>
+
+	<entry>
+		<title>mutant.js</title>
+		<link href="https://github.com/gitterHQ/mutant.js" />
+		<id>urn:uuid:16f98f50-7d7f-11e4-ba17-3978bda20431</id>
+		<updated>2014-12-06'T'19:35:08+00:00</updated>
+		<summary>DOM Modification observer</summary>
+	</entry>
+
+	<entry>
+		<title>NanoModal</title>
+		<link href="https://github.com/kylepaulsen/NanoModal" />
+		<id>urn:uuid:1702b710-7d7f-11e4-ba17-3978bda20431</id>
+		<updated>2014-12-06'T'19:35:08+00:00</updated>
+		<summary>A small, self-contained JavaScript modal library with some extra features.</summary>
+	</entry>
+
 
 </feed>
