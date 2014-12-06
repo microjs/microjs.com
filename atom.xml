@@ -4288,5 +4288,61 @@
 		<summary>A JavaScript implementation of the C# List&lt;T&gt; object.</summary>
 	</entry>
 
+	<entry>
+		<title>Plite</title>
+		<link href="https://github.com/chrisdavies/plite" />
+		<id>urn:uuid:169e7700-7d7f-11e4-ba17-3978bda20431</id>
+		<updated>2014-12-06'T'19:35:08+00:00</updated>
+		<summary>Tiny, fast, light-weight promises (370 bytes min+zipped)</summary>
+	</entry>
+
+	<entry>
+		<title>KolorWheel.js</title>
+		<link href="http://linkbroker.hu/stuff/kolorwheel.js" />
+		<id>urn:uuid:16c9ccc0-7d7f-11e4-ba17-3978bda20431</id>
+		<updated>2014-12-06'T'19:35:08+00:00</updated>
+		<summary>KolorWheel.js generates color palette from a base color and chainable absolute/relative H-S-L transformation methods (incl. specified target color). Documentation contains live examples with editable parameters.</summary>
+	</entry>
+
+	<entry>
+		<title>SimplyJS</title>
+		<link href="https://github.com/janelznic/simplyjs" />
+		<id>urn:uuid:16eb5e80-7d7f-11e4-ba17-3978bda20431</id>
+		<updated>2014-12-06'T'19:35:08+00:00</updated>
+		<summary>Provides support for manipulating with DOM and events handling. Easy for use, optimized for performance, native browser&apos;s support first.</summary>
+	</entry>
+
+	<entry>
+		<title>clone</title>
+		<link href="https://github.com/pvorb/node-clone" />
+		<id>urn:uuid:16ec48e0-7d7f-11e4-ba17-3978bda20431</id>
+		<updated>2014-12-06'T'19:35:08+00:00</updated>
+		<summary>Clones/copies arbitrary objects recursively</summary>
+	</entry>
+
+	<entry>
+		<title>tag</title>
+		<link href="https://github.com/a-tarasyuk/tag" />
+		<id>urn:uuid:16ed0c30-7d7f-11e4-ba17-3978bda20431</id>
+		<updated>2014-12-06'T'19:35:08+00:00</updated>
+		<summary>Small utility for creating DOM elements</summary>
+	</entry>
+
+	<entry>
+		<title>mutant.js</title>
+		<link href="https://github.com/gitterHQ/mutant.js" />
+		<id>urn:uuid:16f98f50-7d7f-11e4-ba17-3978bda20431</id>
+		<updated>2014-12-06'T'19:35:08+00:00</updated>
+		<summary>DOM Modification observer</summary>
+	</entry>
+
+	<entry>
+		<title>NanoModal</title>
+		<link href="https://github.com/kylepaulsen/NanoModal" />
+		<id>urn:uuid:1702b710-7d7f-11e4-ba17-3978bda20431</id>
+		<updated>2014-12-06'T'19:35:08+00:00</updated>
+		<summary>A small, self-contained JavaScript modal library with some extra features.</summary>
+	</entry>
+
 
 </feed>

@@ -2946,6 +2946,7 @@ module.exports = [
     url: "https://github.com/mdix/progress.js",
     source: "https://raw.githubusercontent.com/mdix/progress.js/master/progress.js"
   },
+  /* Not Found
   {
     name: "jph.js",
     tags: ["jsonp", "network", "json", "manager", "loader"],
@@ -2953,6 +2954,7 @@ module.exports = [
     url: "https://github.com/mixradio/JSONPHandler",
     source: "https://raw.githubusercontent.com/mixradio/JSONPHandler/master/jph.js"
   },
+  */
   {
     name: "shotgun.js",
     tags: ["shotgun", "events", "error", "observer", "pubsub", "publish", "subscribe", "node", "unsubscribe"],
@@ -3504,7 +3506,7 @@ module.exports = [
   },
   {
     name: "StdClassJS",
-    github: "BlueJeansAndRain/stdclassjs",
+    github: "ChrisAckerman/stdclassjs",
     tags: ["oop", "class", "extend", "mixin"],
     description: "A dead simple JavaScript inheritance implementation.",
     url: "https://github.com/ChrisAckerman/stdclassjs",
