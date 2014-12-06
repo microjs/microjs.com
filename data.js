@@ -4015,5 +4015,12 @@ module.exports = [
     description: "KolorWheel.js generates color palette from a base color and chainable absolute/relative H-S-L transformation methods (incl. specified target color). Documentation contains live examples with editable parameters.",
     url: "http://linkbroker.hu/stuff/kolorwheel.js",
     source: "https://raw.githubusercontent.com/ern0/kolorwheel.js/master/KolorWheel.js"
+  },
+  {
+     name: "SimplyJS",
+     tags: ["simplyjs", "simply", "simple", "easy", "DOM", "events", "async", "asynchronous", "native", "prototype", "CSS"],
+     description: "Provides support for manipulating with DOM and events handling. Easy for use, optimized for performance, native browser's support first.",
+     url: "https://github.com/janelznic/simplyjs",
+     source: "https://raw.githubusercontent.com/janelznic/simplyjs/master/lib/simply.js"
   }
 ];
