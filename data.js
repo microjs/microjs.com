@@ -4029,5 +4029,12 @@ module.exports = [
      description: "Clones/copies arbitrary objects recursively",
      url: "https://github.com/pvorb/node-clone",
      source: "https://raw.githubusercontent.com/pvorb/node-clone/master/clone.js"
+  },
+  {
+     name: "tag",
+     tags: ["dom", "dom-elements"],
+     description: "Small utility for creating DOM elements",
+     url: "https://github.com/a-tarasyuk/tag",
+     source: "https://raw.githubusercontent.com/a-tarasyuk/tag/master/lib/tag.js"
   }
 ];
