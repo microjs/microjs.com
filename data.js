@@ -3993,5 +3993,12 @@ module.exports = [
     description: "Tiny O.o() wrapper to O.o() the whole object tree. ",
     url: "https://gist.github.com/ambrosechua/5b6f804cef53118db28b",
     source: "https://gist.githubusercontent.com/ambrosechua/5b6f804cef53118db28b/raw/7ec6141f642908a0392e0f9a6fb3dfb1975a6e82/O.o.tree.js"
+  },
+  {
+    name: "KolorWheel.js",
+    tags: ["jQuery", "color", "color manipulation", "gradient", "HSL"],
+    description: "KolorWheel.js generates color palette from a base color and chainable absolute/relative H-S-L transformation methods (incl. specified target color). Documentation contains live examples with editable parameters.",
+    url: "http://linkbroker.hu/stuff/kolorwheel.js",
+    source: "https://raw.githubusercontent.com/ern0/kolorwheel.js/master/KolorWheel.js"
   }
 ];
