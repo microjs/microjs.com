@@ -4022,5 +4022,12 @@ module.exports = [
      description: "Provides support for manipulating with DOM and events handling. Easy for use, optimized for performance, native browser's support first.",
      url: "https://github.com/janelznic/simplyjs",
      source: "https://raw.githubusercontent.com/janelznic/simplyjs/master/lib/simply.js"
+  },
+  {
+     name: "clone",
+     tags: ["clone", "copy", "duplicate"],
+     description: "Clones/copies arbitrary objects recursively",
+     url: "https://github.com/pvorb/node-clone",
+     source: "https://raw.githubusercontent.com/pvorb/node-clone/master/clone.js"
   }
 ];
