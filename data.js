@@ -4050,5 +4050,12 @@ module.exports = [
      description: "Small utility for creating DOM elements",
      url: "https://github.com/a-tarasyuk/tag",
      source: "https://raw.githubusercontent.com/a-tarasyuk/tag/master/lib/tag.js"
+  },
+  {
+    name: "mutant.js",
+    tags: ["mutantobserver", "dom", "changes", "scroll", "observer", "change", "mutate"],
+    description: "DOM Modification observer",
+    url: "https://github.com/gitterHQ/mutant.js",
+    source: "https://raw.githubusercontent.com/gitterHQ/mutant.js/master/public/assets/mutant.js"
   }
 ];
