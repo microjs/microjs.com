@@ -4067,5 +4067,13 @@ module.exports = [
     description: "A small, self-contained JavaScript modal library with some extra features.",
     url: "https://github.com/kylepaulsen/NanoModal",
     source: "https://raw.githubusercontent.com/kylepaulsen/NanoModal/master/nanomodal.js"
+  },
+  {
+    name: "Carpet.js",
+    github: "mateuszgachowski/Carpet.js",
+    tags: ["module", "simple", "autoload", "context", "settings", "module pattern", "advice"],
+    description: "Small, easy-to-learn and modular JavaScript framework for big",
+    url: "https://github.com/mateuszgachowski/Carpet.js",
+    source: "https://raw.githubusercontent.com/mateuszgachowski/Carpet.js/master/src/carpet.js"
   }
 ];
