@@ -9,6 +9,14 @@
 
 module.exports = [
   {
+    name: "Trak.js",
+    github: "tmwagency/trak.js",
+    tags: ["trak", "track", "events", "analytics", "google", "tag"],
+    description: "Universal analytics event tracking API wrapper",
+    url: "https://github.com/tmwagency/trak.js",
+    source: "https://raw.githubusercontent.com/tmwagency/trak.js/master/dist/trak.js"
+  },
+  {
     name: "Timesheet.js",
     github: "sbstjn/timesheet.js",
     tags: ["timesheet", "graph", "charts", "flow", "gantt", "draw"],
