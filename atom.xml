@@ -4344,5 +4344,13 @@
 		<summary>A small, self-contained JavaScript modal library with some extra features.</summary>
 	</entry>
 
+	<entry>
+		<title>dual-emitter</title>
+		<link href="https://github.com/tunnckoCore/dual-emitter" />
+		<id>urn:uuid:34d86c10-8fec-11e4-a43f-1faae40756c6</id>
+		<updated>2014-12-30'T'06:22:16+00:00</updated>
+		<summary>Cross-browser (and IE8) + node.js event emitter in 35 lines. Invoke custom or DOM event. Useful for two-way data-binding!!</summary>
+	</entry>
+
 
 </feed>
