@@ -9,6 +9,19 @@
 
 module.exports = [
   {
+    name: "Prove",
+    tags: ["prove", "prove-it", "validator", "validation", "validate", "schema", "assert"],
+    description: "A validation library designed with re-usability in mind.",
+    url: "https://github.com/DylanPiercey/Prove-It",
+    source: [
+      "https://raw.githubusercontent.com/DylanPiercey/Prove-It/master/lib/index.js",
+      "https://raw.githubusercontent.com/DylanPiercey/Prove-It/master/lib/errorHandler.js",
+      "https://raw.githubusercontent.com/DylanPiercey/Prove-It/master/lib/default/types.js",
+      "https://raw.githubusercontent.com/DylanPiercey/Prove-It/master/lib/default/common.js",
+      "https://raw.githubusercontent.com/DylanPiercey/Prove-It/master/lib/default/regex.js"
+    ]
+  },
+  {
     name: "Timesheet.js",
     github: "sbstjn/timesheet.js",
     tags: ["timesheet", "graph", "charts", "flow", "gantt", "draw"],
