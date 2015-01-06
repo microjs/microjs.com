@@ -3927,6 +3927,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/avoidwork/tiny-stack/master/lib/tiny-stack.js"
   },
   {
+    name: "VisSense.js",
+    tags: ["visibility", "viewtime", "viewport", "visible", "dom"],
+    description: "A utility library for observing visibility changes of DOM elements. Immediately know when an element becomes hidden, partly visible or fully visible.",
+    url: "https://github.com/vissense/vissense",
+    source: "https://raw.githubusercontent.com/vissense/vissense/master/dist/vissense.js"
+  },
+  {
     name: "MarmottAjax",
     tags: ["ajax", "xhr", "json"],
     description: "A tiny Ajax librairy with promises and some Marmot",
