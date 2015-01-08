@@ -4067,5 +4067,13 @@ module.exports = [
     description: "A small, self-contained JavaScript modal library with some extra features.",
     url: "https://github.com/kylepaulsen/NanoModal",
     source: "https://raw.githubusercontent.com/kylepaulsen/NanoModal/master/nanomodal.js"
+  },
+  {
+    name: "Core.js",
+    github: "mauriciosoares/microjs.com",
+    tags: ["framework", "lightweight", "scalable", "modular", "sandbox"],
+    description: "It helps you create scalable applications written in Javascript, giving you some structure and patterns to keep everything separated.",
+    url: "https://github.com/mauriciosoares/core.js",
+    source: "https://raw.githubusercontent.com/mauriciosoares/core.js/master/dist/core.js"
   }
 ];
