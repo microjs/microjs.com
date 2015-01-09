@@ -4067,5 +4067,13 @@ module.exports = [
     description: "A small, self-contained JavaScript modal library with some extra features.",
     url: "https://github.com/kylepaulsen/NanoModal",
     source: "https://raw.githubusercontent.com/kylepaulsen/NanoModal/master/nanomodal.js"
+  },
+  {
+    name: "js-mediator",
+    github: "markmarijnissen/js-mediator",
+    tags: ["mediator","module","design pattern","MVC"],
+    description: "Design pattern to write clean, reusable, decoupled, standalone Modules that are coupled with Mediators.",
+    url: "https://github.com/markmarijnissen/js-mediator",
+    source: "https://raw.githubusercontent.com/markmarijnissen/js-mediator/master/mediator.js"
   }
 ];
