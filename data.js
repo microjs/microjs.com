@@ -9,6 +9,14 @@
 
 module.exports = [
   {
+    name: "N2O.js",
+    github: "5HT/n2o",
+    tags: ["Web Framework", "BERT", "WebSocket", "templating", "UTF-8", "validation", "Erlang"],
+    description: "N2O Web Frameowork JavaScript companion library",
+    url: "https://github.com/5HT/n2o",
+    source: "https://github.com/5HT/n2o/tree/master/priv"
+  },
+  {
     name: "Timesheet.js",
     github: "sbstjn/timesheet.js",
     tags: ["timesheet", "graph", "charts", "flow", "gantt", "draw"],
