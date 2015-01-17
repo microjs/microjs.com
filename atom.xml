@@ -4344,5 +4344,13 @@
 		<summary>A small, self-contained JavaScript modal library with some extra features.</summary>
 	</entry>
 
+	<entry>
+		<title>Hoverboard</title>
+		<link href="https://github.com/jesseskinner/hoverboard" />
+		<id>urn:uuid:0b562a40-9de7-11e4-bf57-a5d2593c69c7</id>
+		<updated>2015-01-17'T'01:20:34+00:00</updated>
+		<summary>A very lightweight (anti-gravity?) data model and Flux store with actions and a state change listener.</summary>
+	</entry>
+
 
 </feed>
