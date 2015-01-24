@@ -3491,6 +3491,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/nicjansma/usertiming.js/master/src/usertiming.js"
   },
   {
+    name: "resourcetiming-compression.js",
+    tags: ["resourcetiming", "compress"],
+    description: "ResourceTiming compression and decompression",
+    url: "https://github.com/nicjansma/resourcetiming-compression.js",
+    source: "https://raw.githubusercontent.com/nicjansma/resourcetiming-compression.js/master/src/resourcetiming-compression.js"
+  },
+  {
     name: "animx",
     tags: ["animation", "css3"],
     description: "Easily define CSS keyframes and animations during runtime",
