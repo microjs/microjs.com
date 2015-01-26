@@ -4344,5 +4344,13 @@
 		<summary>A small, self-contained JavaScript modal library with some extra features.</summary>
 	</entry>
 
+	<entry>
+		<title>stateman.js</title>
+		<link href="https://github.com/leeluolee/stateman" />
+		<id>urn:uuid:58ca12b0-a5b1-11e4-a96f-eb24d17a2148</id>
+		<updated>2015-01-26'T'23:16:11+00:00</updated>
+		<summary>A tiny foundation that providing nested state-based routing for complex web application.decodeURI</summary>
+	</entry>
+
 
 </feed>
