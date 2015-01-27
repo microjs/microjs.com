@@ -4151,5 +4151,12 @@ module.exports = [
      description: "diff & merge algorithm realized with Javascript.",
      url: "https://github.com/nighca/universal-diff",
      source: "https://raw.githubusercontent.com/nighca/universal-diff/master/dist/diff.js"
+  },
+  {
+     name: "lightrouter",
+     tags: ["lightrouter", "route", "routing", "router", "hash", "querystring", "named", "parameters"],
+     description: "Ultra lightweight javascript routing for traditional and single page apps.",
+     url: "https://github.com/garygreen/lightrouter",
+     source: "https://github.com/garygreen/lightrouter/blob/master/src/lightrouter.js"
   }
 ];
