@@ -4081,5 +4081,12 @@ module.exports = [
      description: "Very basic cross-browser AJAX",
      url: "https://github.com/yanatan16/nanoajax",
      source: "https://raw.githubusercontent.com/yanatan16/nanoajax/master/index.js"
+  },
+  {
+     name: "lightrouter",
+     tags: ["lightrouter", "route", "routing", "router", "hash", "querystring", "named", "parameters"],
+     description: "Ultra lightweight javascript routing for traditional and single page apps.",
+     url: "https://github.com/garygreen/lightrouter",
+     source: "https://github.com/garygreen/lightrouter/blob/master/src/lightrouter.js"
   }
 ];
