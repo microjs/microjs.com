@@ -4067,5 +4067,19 @@ module.exports = [
     description: "A small, self-contained JavaScript modal library with some extra features.",
     url: "https://github.com/kylepaulsen/NanoModal",
     source: "https://raw.githubusercontent.com/kylepaulsen/NanoModal/master/nanomodal.js"
+  },
+  {
+     name: "Rlite",
+     tags: ["rlite", "route", "routing", "router", "hash", "querystring", "named", "parameters"],
+     description: "Tiny, simple, light-weight routing",
+     url: "https://github.com/chrisdavies/rlite",
+     source: "https://raw.githubusercontent.com/chrisdavies/rlite/master/rlite.js"
+  },
+  {
+     name: "nanoajax",
+     tags: ["ajax","http"],
+     description: "Very basic cross-browser AJAX",
+     url: "https://github.com/yanatan16/nanoajax",
+     source: "https://raw.githubusercontent.com/yanatan16/nanoajax/master/index.js"
   }
 ];
