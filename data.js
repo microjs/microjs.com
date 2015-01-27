@@ -4172,5 +4172,13 @@ module.exports = [
      description: "An easy way to manipulate events on DOM.",
      url: "https://github.com/gustavohenrique/eventojs",
      source: "https://raw.githubusercontent.com/gustavohenrique/eventojs/master/src/evento.js"
+  },
+  {
+    name: "Carpet.js",
+    github: "mateuszgachowski/Carpet.js",
+    tags: ["module", "simple", "autoload", "context", "settings", "module pattern", "advice"],
+    description: "Small, easy-to-learn and modular JavaScript framework for big",
+    url: "https://github.com/mateuszgachowski/Carpet.js",
+    source: "https://raw.githubusercontent.com/mateuszgachowski/Carpet.js/master/src/carpet.js"
   }
 ];
