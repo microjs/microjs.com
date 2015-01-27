@@ -71,6 +71,41 @@ module.exports = [
     source: "https://raw.githubusercontent.com/fend25/strg.js/master/strg.js"
   },
   {
+    name:"Euclid",
+    tags: ["euclid","algorithm","greatest","common","divisor","gcd"],
+    description: "Recursive Euclidean algorithm for finding the greatest common divisor of two numbers.",
+    url: "https://github.com/daniellmb/Euclids-algorithm",
+    source: "https://github.com/daniellmb/Euclids-algorithm/blob/master/gcd.src.js"
+  },
+  {
+    name:"VidBG",
+    tags: ["video","background","embed"],
+    description: "micro-library for embedding video backgrounds into web pages",
+    url: "https://github.com/daniellmb/VidBG",
+    source: "https://github.com/daniellmb/VidBG/blob/master/vidbg.js"
+  },
+  {
+    name:"aop.js",
+    tags: ["aspect","oriented","programming","aop", "functional"],
+    description: "Aspect Oriented Programming Micro Library.",
+    url: "https://github.com/daniellmb/aop.js",
+    source: "https://github.com/daniellmb/aop.js/blob/master/aop.js"
+  },
+  {
+    name:"di.js",
+    tags: ["dependency","injection","di"],
+    description: "Dependency Injection Micro Library.",
+    url: "https://github.com/daniellmb/di.js",
+    source: "https://github.com/daniellmb/di.js/blob/master/di.js"
+  },
+  {
+    name:"ab.js",
+    tags: ["ab test","a/b test","split test", "testing"],
+    description: "A/B/n Testing Micro Library.",
+    url: "https://github.com/daniellmb/ab.js",
+    source: "https://github.com/daniellmb/ab.js/blob/master/ab.src.js"
+  },
+  {
     name:"devicedetector.js",
     tags: ["device detector", "client-side", "ismobile", "check mobile"],
     description: "Tiny script detecting if you are on a desktop, mobile or tablet device.",
