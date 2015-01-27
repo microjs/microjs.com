@@ -106,6 +106,13 @@ module.exports = [
     source: "https://github.com/daniellmb/ab.js/blob/master/ab.src.js"
   },
   {
+    name:"vanillatree",
+    tags: ["jstree","jquery","interactive trees","vanilla", "pure", "native"],
+    description: "Tiny replacement of jQuery jstree (\"interactive trees\") with no dependencies.",
+    url: "https://github.com/finom/vanillatree",
+    source: "https://raw.githubusercontent.com/finom/vanillatree/master/vanillatree.min.js"
+  },
+  {
     name:"devicedetector.js",
     tags: ["device detector", "client-side", "ismobile", "check mobile"],
     description: "Tiny script detecting if you are on a desktop, mobile or tablet device.",
