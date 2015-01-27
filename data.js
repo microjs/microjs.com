@@ -2011,6 +2011,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/deepsweet/microjungle/master/src/microjungle.js"
   },
   {
+    name: "Optiscroll",
+    tags: ["scroll", "ui", "event", "touch", "scrollbar"],
+    description: "Custom scrollbars for modern webapps. Supercharge the native scroll",
+    url: "https://github.com/wilsonfletcher/Optiscroll",
+    source: "https://raw.githubusercontent.com/wilsonfletcher/Optiscroll/master/dist/optiscroll.js"
+  },
+  {
     name: "Transe.js",
     tags: ["scroll", "transform", "css", "ui", "creative", "color", "json", "responsive"],
     description: "Transformable scroll elements (with mobile support)",
