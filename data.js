@@ -4158,5 +4158,19 @@ module.exports = [
      description: "Ultra lightweight javascript routing for traditional and single page apps.",
      url: "https://github.com/garygreen/lightrouter",
      source: "https://github.com/garygreen/lightrouter/blob/master/src/lightrouter.js"
+  },
+  {
+     name: "ListOf",
+     tags: ["list", "collection", "array", "library", "c#"],
+     description: "A JavaScript implementation of the C# List<T> object.",
+     url: "https://github.com/joelalejandro/stuff",
+     source: "https://github.com/joelalejandro/stuff/raw/master/ListOf.js"
+  },
+  {
+     name: "EventoJS",
+     tags: ["dom events", "event", "evento"],
+     description: "An easy way to manipulate events on DOM.",
+     url: "https://github.com/gustavohenrique/eventojs",
+     source: "https://raw.githubusercontent.com/gustavohenrique/eventojs/master/src/evento.js"
   }
 ];
