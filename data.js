@@ -49,7 +49,7 @@ module.exports = [
     source: "https://raw.githubusercontent.com/BankFacil/vanilla-masker/master/lib/vanilla-masker.js"
   },
   {
-    name:"once.js",
+    name: "once.js",
     tags: ["called","once","function","one","single","coffeescript","javascript","amd","node","web"],
     description: "Enforce that a CoffeeScript or JavaScript function can only be executed once.",
     url: "https://github.com/daniellmb/once.js",
@@ -71,7 +71,49 @@ module.exports = [
     source: "https://raw.githubusercontent.com/fend25/strg.js/master/strg.js"
   },
   {
-    name:"devicedetector.js",
+    name: "Euclid",
+    tags: ["euclid","algorithm","greatest","common","divisor","gcd"],
+    description: "Recursive Euclidean algorithm for finding the greatest common divisor of two numbers.",
+    url: "https://github.com/daniellmb/Euclids-algorithm",
+    source: "https://raw.githubusercontent.com/daniellmb/Euclids-algorithm/master/gcd.src.js"
+  },
+  {
+    name: "VidBG",
+    tags: ["video","background","embed"],
+    description: "micro-library for embedding video backgrounds into web pages",
+    url: "https://github.com/daniellmb/VidBG",
+    source: "https://raw.githubusercontent.com/daniellmb/VidBG/master/vidbg.js"
+  },
+  {
+    name: "aop.js",
+    tags: ["aspect","oriented","programming","aop", "functional"],
+    description: "Aspect Oriented Programming Micro Library.",
+    url: "https://github.com/daniellmb/aop.js",
+    source: "https://raw.githubusercontent.com/daniellmb/aop.js/master/aop.js"
+  },
+  {
+    name: "di.js",
+    tags: ["dependency","injection","di"],
+    description: "Dependency Injection Micro Library.",
+    url: "https://github.com/daniellmb/di.js",
+    source: "https://raw.githubusercontent.com/daniellmb/di.js/master/di.js"
+  },
+  {
+    name: "ab.js",
+    tags: ["ab test","a/b test","split test", "testing"],
+    description: "A/B/n Testing Micro Library.",
+    url: "https://github.com/daniellmb/ab.js",
+    source: "https://raw.githubusercontent.com/daniellmb/ab.js/master/ab.src.js"
+  },
+  {
+    name: "vanillatree",
+    tags: ["jstree","jquery","interactive trees","vanilla", "pure", "native"],
+    description: "Tiny replacement of jQuery jstree (\"interactive trees\") with no dependencies.",
+    url: "https://github.com/finom/vanillatree",
+    source: "https://raw.githubusercontent.com/finom/vanillatree/master/vanillatree.js"
+  },
+  {
+    name: "devicedetector.js",
     tags: ["device detector", "client-side", "ismobile", "check mobile"],
     description: "Tiny script detecting if you are on a desktop, mobile or tablet device.",
     url: "https://github.com/PoeHaH/devicedetector",
@@ -112,14 +154,14 @@ module.exports = [
     tags: ["AJAX", "JSON", "GET", "xhr", "request", "promise", "parallel", "performance", "load", "preload"],
     description: "Load JSON data while still loading other scripts (xhr + promise).",
     url: "https://github.com/typicode/pegasus",
-    source: "https://raw.githubusercontent.com/typicode/pegasus/master/pegasus.js"
+    source: "https://raw.githubusercontent.com/typicode/pegasus/master/dist/pegasus.js"
   },
   {
     name: "PerfNow.js",
     tags: ["performance", "benchmark", "polyfill", "high", "resolution", "timer", "now"],
     description: "A high resolution performance benchmarking polyfill",
     url: "https://github.com/daniellmb/perfnow.js",
-    source: "https://raw.githubusercontent.com/daniellmb/perfnow.js/master/perfnow.src.js"
+    source: "https://raw.githubusercontent.com/daniellmb/perfnow.js/master/perfnow.js"
   },
   {
     name: "SaVaGe.js",
@@ -483,8 +525,8 @@ module.exports = [
     github: "voidplus/onedollar-coffeescript",
     tags: ["gesture", "recognition", "recognizer", "multitouch", "interactive", "input", "jquery"],
     description: "A JavaScript implementation of the &dollar;1 Gesture Recognizer, a two-dimensional template based gesture recognition",
-    url: "https://github.com/voidplus/onedollar-coffeescript",
-    source: "https://raw.githubusercontent.com/voidplus/onedollar-coffeescript/master/lib/onedollar.js"
+    url: "https://github.com/nok/onedollar-coffeescript",
+    source: "https://raw.githubusercontent.com/nok/onedollar-coffeescript/master/lib/onedollar.js"
   },
   {
     name: "LocalDB.js",
@@ -1065,7 +1107,7 @@ module.exports = [
     tags: ["feature"],
     description: "Detects native CSS3 and HTML5 features available in the current browser.",
     url: "http://www.modernizr.com/",
-    source: "http://modernizr.com/downloads/modernizr-latest.js"
+    source: "https://raw.githubusercontent.com/Modernizr/Modernizr/gh-pages/dist/modernizr-build.js"
   },
   {
     name: "Namespacer",
@@ -1393,7 +1435,7 @@ module.exports = [
     tags: ["polyfill", "loader"],
     description: "yepnope is an asynchronous conditional resource loader that allows you to load only the scripts that your users need.",
     url: "http://yepnopejs.com/",
-    source: "https://raw.githubusercontent.com/SlexAxton/yepnope.js/master/yepnope.js"
+    source: "https://raw.githubusercontent.com/SlexAxton/yepnope.js/master/src/yepnope.js"
   },
   {
     name: "ICanHaz",
@@ -2008,7 +2050,14 @@ module.exports = [
     tags: ["templating"],
     description: "very simple and powerful client-side HTML via JSON templating engine.",
     url: "https://github.com/deepsweet/microjungle",
-    source: "https://raw.githubusercontent.com/deepsweet/microjungle/master/src/microjungle.js"
+    source: "https://raw.githubusercontent.com/deepsweet/microjungle/master/dist/dom.js"
+  },
+  {
+    name: "Optiscroll",
+    tags: ["scroll", "ui", "event", "touch", "scrollbar"],
+    description: "Custom scrollbars for modern webapps. Supercharge the native scroll",
+    url: "https://github.com/wilsonfletcher/Optiscroll",
+    source: "https://raw.githubusercontent.com/wilsonfletcher/Optiscroll/master/dist/optiscroll.js"
   },
   {
     name: "Transe.js",
@@ -2043,7 +2092,7 @@ module.exports = [
     tags: ["ui", "progress", "bar", "loading", "side-wide"],
     description: "Tiny and beautiful site-wide progress indicator",
     url: "http://buunguyen.github.io/topbar/",
-    source: "https://github.com/buunguyen/topbar/blob/master/topbar.js"
+    source: "https://raw.githubusercontent.com/buunguyen/topbar/master/topbar.js"
   },
   {
     name: "Curtain.js",
@@ -2272,7 +2321,7 @@ module.exports = [
     tags: ["undo", "redo", "history"],
     description: "Undo library for browser and Node",
     url: "https://github.com/buunguyen/jundo",
-    source: "https://github.com/buunguyen/jundo/blob/master/index.js"
+    source: "https://raw.githubusercontent.com/buunguyen/jundo/master/index.js"
   },
   {
     name: "Species",
@@ -3838,7 +3887,7 @@ module.exports = [
     tags: ["jsonp", "asynchronous", "async"],
     description: "A slim JSONP request library for Javascript",
     url: "https://github.com/larryosborn/JSONP",
-    source: "https://raw.githubusercontent.com/larryosborn/JSONP/master/dist/jsonp.js"
+    source: "https://raw.githubusercontent.com/larryosborn/JSONP/master/lib/jsonp.js"
   },
   {
     name: "ResponsiveComments",
@@ -4016,7 +4065,7 @@ module.exports = [
     tags: ["handlebars", "rendering", "templating"],
     description: "Tiny plugin for rendering and updating client-side handlebar templates. ",
     url: "https://gist.github.com/ambrosechua/9e4455100c43a8a2cb1c",
-    source: "https://gist.githubusercontent.com/ambrosechua/9e4455100c43a8a2cb1c/raw/46c75a14cb3940e66bc5e6d7cbbfd959dd208ccd/handlebars-autorenderer.js"
+    source: "https://gist.githubusercontent.com/ambrosechua/9e4455100c43a8a2cb1c/raw/754c759e02a3980c265440b18b82c1f5529b6115/handlebars-autorenderer.js"
   },
   {
     name: "O.o.tree",
@@ -4067,5 +4116,69 @@ module.exports = [
     description: "A small, self-contained JavaScript modal library with some extra features.",
     url: "https://github.com/kylepaulsen/NanoModal",
     source: "https://raw.githubusercontent.com/kylepaulsen/NanoModal/master/nanomodal.js"
+  },
+  {
+     name: "Rlite",
+     tags: ["rlite", "route", "routing", "router", "hash", "querystring", "named", "parameters"],
+     description: "Tiny, simple, light-weight routing",
+     url: "https://github.com/chrisdavies/rlite",
+     source: "https://raw.githubusercontent.com/chrisdavies/rlite/master/rlite.js"
+  },
+  {
+     name: "nanoajax",
+     tags: ["ajax","http"],
+     description: "Very basic cross-browser AJAX",
+     url: "https://github.com/yanatan16/nanoajax",
+     source: "https://raw.githubusercontent.com/yanatan16/nanoajax/master/index.js"
+  },
+  {
+     name: "stupid-lib",
+     tags: ["light-weight", "helpers", "jquery-like", "simple"],
+     description: "browser-javascript, jquery-like lib",
+     url: "https://github.com/nighca/lib",
+     source: "https://raw.githubusercontent.com/nighca/lib/master/dist/lib.js"
+  },
+  {
+     name: "i-canvas",
+     tags: ["canvas", "dom-like", "html5"],
+     description: "Lib for generating & operating objects on canvas.",
+     url: "https://github.com/nighca/i-canvas",
+     source: "https://raw.githubusercontent.com/nighca/i-canvas/master/dist/i-canvas/1.2.0/index.js"
+  },
+  {
+     name: "universal-diff",
+     tags: ["diff", "compare", "string", "array", "queue"],
+     description: "diff & merge algorithm realized with Javascript.",
+     url: "https://github.com/nighca/universal-diff",
+     source: "https://raw.githubusercontent.com/nighca/universal-diff/master/dist/diff.js"
+  },
+  {
+     name: "lightrouter",
+     tags: ["lightrouter", "route", "routing", "router", "hash", "querystring", "named", "parameters"],
+     description: "Ultra lightweight javascript routing for traditional and single page apps.",
+     url: "https://github.com/garygreen/lightrouter",
+     source: "https://github.com/garygreen/lightrouter/blob/master/src/lightrouter.js"
+  },
+  {
+     name: "ListOf",
+     tags: ["list", "collection", "array", "library", "c#"],
+     description: "A JavaScript implementation of the C# List<T> object.",
+     url: "https://github.com/joelalejandro/stuff",
+     source: "https://github.com/joelalejandro/stuff/raw/master/ListOf.js"
+  },
+  {
+     name: "EventoJS",
+     tags: ["dom events", "event", "evento"],
+     description: "An easy way to manipulate events on DOM.",
+     url: "https://github.com/gustavohenrique/eventojs",
+     source: "https://raw.githubusercontent.com/gustavohenrique/eventojs/master/src/evento.js"
+  },
+  {
+    name: "Carpet.js",
+    github: "mateuszgachowski/Carpet.js",
+    tags: ["module", "simple", "autoload", "context", "settings", "module pattern", "advice"],
+    description: "Small, easy-to-learn and modular JavaScript framework for big",
+    url: "https://github.com/mateuszgachowski/Carpet.js",
+    source: "https://raw.githubusercontent.com/mateuszgachowski/Carpet.js/master/src/carpet.js"
   }
 ];
