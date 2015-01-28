@@ -4344,5 +4344,109 @@
 		<summary>A small, self-contained JavaScript modal library with some extra features.</summary>
 	</entry>
 
+	<entry>
+		<title>aop.js</title>
+		<link href="https://github.com/daniellmb/aop.js" />
+		<id>urn:uuid:226aaae0-a683-11e4-8bca-dd9dbbf6907e</id>
+		<updated>2015-01-28'T'00:18:05+00:00</updated>
+		<summary>Aspect Oriented Programming Micro Library.</summary>
+	</entry>
+
+	<entry>
+		<title>VidBG</title>
+		<link href="https://github.com/daniellmb/VidBG" />
+		<id>urn:uuid:226af900-a683-11e4-8bca-dd9dbbf6907e</id>
+		<updated>2015-01-28'T'00:18:05+00:00</updated>
+		<summary>micro-library for embedding video backgrounds into web pages</summary>
+	</entry>
+
+	<entry>
+		<title>di.js</title>
+		<link href="https://github.com/daniellmb/di.js" />
+		<id>urn:uuid:226b2010-a683-11e4-8bca-dd9dbbf6907e</id>
+		<updated>2015-01-28'T'00:18:05+00:00</updated>
+		<summary>Dependency Injection Micro Library.</summary>
+	</entry>
+
+	<entry>
+		<title>ab.js</title>
+		<link href="https://github.com/daniellmb/ab.js" />
+		<id>urn:uuid:22a67b60-a683-11e4-8bca-dd9dbbf6907e</id>
+		<updated>2015-01-28'T'00:18:05+00:00</updated>
+		<summary>A/B/n Testing Micro Library.</summary>
+	</entry>
+
+	<entry>
+		<title>vanillatree</title>
+		<link href="https://github.com/finom/vanillatree" />
+		<id>urn:uuid:22dd69e0-a683-11e4-8bca-dd9dbbf6907e</id>
+		<updated>2015-01-28'T'00:18:05+00:00</updated>
+		<summary>Tiny replacement of jQuery jstree (&quot;interactive trees&quot;) with no dependencies.</summary>
+	</entry>
+
+	<entry>
+		<title>Optiscroll</title>
+		<link href="https://github.com/wilsonfletcher/Optiscroll" />
+		<id>urn:uuid:2f01c810-a683-11e4-8bca-dd9dbbf6907e</id>
+		<updated>2015-01-28'T'00:18:05+00:00</updated>
+		<summary>Custom scrollbars for modern webapps. Supercharge the native scroll</summary>
+	</entry>
+
+	<entry>
+		<title>topbar</title>
+		<link href="http://buunguyen.github.io/topbar/" />
+		<id>urn:uuid:2f023d40-a683-11e4-8bca-dd9dbbf6907e</id>
+		<updated>2015-01-28'T'00:18:05+00:00</updated>
+		<summary>Tiny and beautiful site-wide progress indicator</summary>
+	</entry>
+
+	<entry>
+		<title>jundo</title>
+		<link href="https://github.com/buunguyen/jundo" />
+		<id>urn:uuid:308274a0-a683-11e4-8bca-dd9dbbf6907e</id>
+		<updated>2015-01-28'T'00:18:05+00:00</updated>
+		<summary>Undo library for browser and Node</summary>
+	</entry>
+
+	<entry>
+		<title>nanoajax</title>
+		<link href="https://github.com/yanatan16/nanoajax" />
+		<id>urn:uuid:3ca0df60-a683-11e4-8bca-dd9dbbf6907e</id>
+		<updated>2015-01-28'T'00:18:05+00:00</updated>
+		<summary>Very basic cross-browser AJAX</summary>
+	</entry>
+
+	<entry>
+		<title>stupid-lib</title>
+		<link href="https://github.com/nighca/lib" />
+		<id>urn:uuid:3ca54c30-a683-11e4-8bca-dd9dbbf6907e</id>
+		<updated>2015-01-28'T'00:18:05+00:00</updated>
+		<summary>browser-javascript, jquery-like lib</summary>
+	</entry>
+
+	<entry>
+		<title>universal-diff</title>
+		<link href="https://github.com/nighca/universal-diff" />
+		<id>urn:uuid:3cb99780-a683-11e4-8bca-dd9dbbf6907e</id>
+		<updated>2015-01-28'T'00:18:05+00:00</updated>
+		<summary>diff &amp; merge algorithm realized with Javascript.</summary>
+	</entry>
+
+	<entry>
+		<title>EventoJS</title>
+		<link href="https://github.com/gustavohenrique/eventojs" />
+		<id>urn:uuid:3ccb23b0-a683-11e4-8bca-dd9dbbf6907e</id>
+		<updated>2015-01-28'T'00:18:05+00:00</updated>
+		<summary>An easy way to manipulate events on DOM.</summary>
+	</entry>
+
+	<entry>
+		<title>Carpet.js</title>
+		<link href="https://github.com/mateuszgachowski/Carpet.js" />
+		<id>urn:uuid:3cd13e30-a683-11e4-8bca-dd9dbbf6907e</id>
+		<updated>2015-01-28'T'00:18:05+00:00</updated>
+		<summary>Small, easy-to-learn and modular JavaScript framework for big</summary>
+	</entry>
+
 
 </feed>
