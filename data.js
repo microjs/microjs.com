@@ -522,7 +522,7 @@ module.exports = [
   },
   {
     name: "OneDollar.js",
-    github: "voidplus/onedollar-coffeescript",
+    github: "nok/onedollar-coffeescript",
     tags: ["gesture", "recognition", "recognizer", "multitouch", "interactive", "input", "jquery"],
     description: "A JavaScript implementation of the &dollar;1 Gesture Recognizer, a two-dimensional template based gesture recognition",
     url: "https://github.com/nok/onedollar-coffeescript",
