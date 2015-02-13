@@ -9,6 +9,14 @@
 
 module.exports = [
   {
+    name: "ease.js",
+    github: "lloyd/ease",
+    tags: ["ease", "animation"],
+    description: "ease component for animation, include 30 ease functions.",
+    url: "https://github.com/lloydzhou/ease",
+    source: "https://raw.githubusercontent.com/lloydzhou/ease/master/ease.min.js"
+  },
+  {
     name: "Timesheet.js",
     github: "sbstjn/timesheet.js",
     tags: ["timesheet", "graph", "charts", "flow", "gantt", "draw"],
