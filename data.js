@@ -220,7 +220,7 @@ module.exports = [
   {
     name: "mailcheck",
     github: "mailcheck/mailcheck",
-    tags: ["library", "email", "spelling", "autosuggest", "autocorrect"],
+    tags: ["library", "email", "spelling", "autosuggest", "autocorrect", "typo"],
     description: "Reduce user-misspelled email addresses in your forms.",
     url: "https://github.com/mailcheck/mailcheck",
     source: "https://raw.githubusercontent.com/mailcheck/mailcheck/master/src/mailcheck.min.js"
