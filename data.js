@@ -218,6 +218,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/SimonWaldherr/micromarkdown.js/master/micromarkdown.js"
   },
   {
+    name: "mailcheck",
+    github: "mailcheck/mailcheck",
+    tags: ["library", "email", "spelling", "autosuggest", "autocorrect"],
+    description: "Reduce user-misspelled email addresses in your forms.",
+    url: "https://github.com/mailcheck/mailcheck",
+    source: "https://raw.githubusercontent.com/mailcheck/mailcheck/master/src/mailcheck.min.js"
+ },
+  {
     name: "P",
     github: "evandrolg/p",
     tags: ["promise", "callback", "library", "functional"],
