@@ -3070,6 +3070,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/jprichardson/string.js/master/lib/string.js"
   },
   {
+    name: "emitonoff",
+    github: "konsumer/emitonoff",
+    tags: ["pubsub", "event"],
+    description: "Extremely simple event emitter for javascript",
+    url: "https://github.com/konsumer/emitonoff",
+    source: "https://raw.githubusercontent.com/konsumer/emitonoff/master/index.js"
+  },
+  {
     name: "Airwaves",
     tags: ["pubsub", "publish", "subscribe", "broadcast", "message"],
     description: "Lightweight pub/sub for any JavaScript environment",
