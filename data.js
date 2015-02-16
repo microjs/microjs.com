@@ -417,6 +417,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/johnrobinsn/goo.js/master/src/goo.js"
   },
   {
+    name: "xhr.js",
+    github: "bohwaz/goo.js",
+    tags: ["XHR", "XmlHttpRequest", "AJAX"],
+    description: "This is the smallest XmlHttpRequest Javascript micro-library ever. EVER!",
+    url: "https://github.com/bohwaz/xhr.js",
+    source: "https://raw.githubusercontent.com/bohwaz/xhr.js/master/xhr.js"
+  },
+  {
     name: "Satnav",
     github: "f5io/satnav-js",
     tags: ["routing", "micro", "hashchange", "pushState"],
