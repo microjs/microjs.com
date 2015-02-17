@@ -4180,5 +4180,13 @@ module.exports = [
     description: "Small, easy-to-learn and modular JavaScript framework for big",
     url: "https://github.com/mateuszgachowski/Carpet.js",
     source: "https://raw.githubusercontent.com/mateuszgachowski/Carpet.js/master/src/carpet.js"
+  },
+  {
+    name: "Flippy",
+    github: "yemM/flippy",
+    tags: ["animation", "effect", "flip"],
+    description: "Flip any DOM element you want.",
+    url: "https://github.com/yemM/flippy",
+    source: "https://raw.githubusercontent.com/yemM/flippy/master/jquery.flippy.min.js"
   }
 ];
