@@ -4180,5 +4180,13 @@ module.exports = [
     description: "Small, easy-to-learn and modular JavaScript framework for big",
     url: "https://github.com/mateuszgachowski/Carpet.js",
     source: "https://raw.githubusercontent.com/mateuszgachowski/Carpet.js/master/src/carpet.js"
+  },
+  {
+    name: "aja.js",
+    github: "krampstudio/aja.js",
+    tags: ["rest", "ajax", "xhr", "jsonp"],
+    description: "Ajax without XML : Asynchronous JavaScript and JavaScript/JSON(P)",
+    url: "http://krampstudio.com/aja.js/",
+    source: "https://raw.githubusercontent.com/krampstudio/aja.js/master/src/aja.js"
   }
 ];

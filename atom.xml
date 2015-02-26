@@ -4448,5 +4448,13 @@
 		<summary>Small, easy-to-learn and modular JavaScript framework for big</summary>
 	</entry>
 
+	<entry>
+		<title>aja.js</title>
+		<link href="http://krampstudio.com/aja.js/" />
+		<id>urn:uuid:43051610-bd8e-11e4-8934-f1b37a13f804</id>
+		<updated>2015-02-26'T'08:05:10+00:00</updated>
+		<summary>Ajax without XML : Asynchronous JavaScript and JavaScript/JSON(P)</summary>
+	</entry>
+
 
 </feed>
