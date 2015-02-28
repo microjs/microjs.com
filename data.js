@@ -9,6 +9,14 @@
 
 module.exports = [
   {
+    name: "ClassManager",
+    github: "kogarashisan/ClassManager",
+    tags: ["language", "class", "inheritance", "multiple", "extend"],
+    description: "One of the fastest and most convenient class systems in the world",
+    url: "https://github.com/kogarashisan/ClassManager",
+    source: "https://raw.githubusercontent.com/kogarashisan/ClassManager/master/lib/class_manager.js"
+  },
+  {
     name: "Timesheet.js",
     github: "sbstjn/timesheet.js",
     tags: ["timesheet", "graph", "charts", "flow", "gantt", "draw"],
