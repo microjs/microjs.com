@@ -4180,5 +4180,13 @@ module.exports = [
     description: "Small, easy-to-learn and modular JavaScript framework for big",
     url: "https://github.com/mateuszgachowski/Carpet.js",
     source: "https://raw.githubusercontent.com/mateuszgachowski/Carpet.js/master/src/carpet.js"
+  },
+  {
+    name: "xr",
+    github: "radiosilence/xr",
+    tags: ["ajax", "xhr", "xmlhttprequest", "promise", "json", "request"],
+    description: "Ultra-simple promise based wrapper around XMLHttpRequest",
+    url: "https://github.com/radiosilence/xr",
+    source: "https://raw.githubusercontent.com/radiosilence/xr/master/src/xr.js"
   }
 ];
