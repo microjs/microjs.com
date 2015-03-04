@@ -4174,6 +4174,13 @@ module.exports = [
      source: "https://raw.githubusercontent.com/gustavohenrique/eventojs/master/src/evento.js"
   },
   {
+    name: "micro-query",
+    tags: ["uri", "url", "query", "queryparams", "parameters", "parsing", "querystring" ],
+    description: "A minimal URL parameter parsing library.",
+    url: "https://github.com/aaron-harvey/micro-query",
+    source: "https://raw.githubusercontent.com/aaron-harvey/micro-query/master/micro-query.js"
+  },
+  {
     name: "Carpet.js",
     github: "mateuszgachowski/Carpet.js",
     tags: ["module", "simple", "autoload", "context", "settings", "module pattern", "advice"],
