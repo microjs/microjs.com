@@ -4180,5 +4180,12 @@ module.exports = [
     description: "Small, easy-to-learn and modular JavaScript framework for big",
     url: "https://github.com/mateuszgachowski/Carpet.js",
     source: "https://raw.githubusercontent.com/mateuszgachowski/Carpet.js/master/src/carpet.js"
+  },
+  {
+    name: "SPApp",
+    tags: ["module","simple","spa","route", "view", "controller"],
+    description: "Routes, views and controllers in 60 lines of code",
+    url: "https://github.com/c-smile/spapp",
+    source: "https://raw.githubusercontent.com/c-smile/spapp/master/spapp.js"
   }
 ];
