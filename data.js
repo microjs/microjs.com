@@ -9,6 +9,15 @@
 
 module.exports = [
   {
++    name: "selecting",
++    github: "EvandroLG/selecting",
++    tags: ["selecting", "selection", "string", "text", "api"],
++    description: "A library that allows you to access the text selected by the user",
++    url: "https://github.com/EvandroLG/selecting",
++    source: "https://github.com/EvandroLG/selecting/blob/master/src/selecting.js"
++  },
+
+  {
     name: "Timesheet.js",
     github: "sbstjn/timesheet.js",
     tags: ["timesheet", "graph", "charts", "flow", "gantt", "draw"],
