@@ -4448,5 +4448,13 @@
 		<summary>Small, easy-to-learn and modular JavaScript framework for big</summary>
 	</entry>
 
+	<entry>
+		<title>justlazy.js</title>
+		<link href="http://fhopeman.github.io/justlazy/" />
+		<id>urn:uuid:a5a7efd0-c75d-11e4-8d4a-e92ad97d8daa</id>
+		<updated>2015-03-10'T'19:42:31+00:00</updated>
+		<summary>Micro javascript library to lazy load responsive images (also with srcset attribute).</summary>
+	</entry>
+
 
 </feed>

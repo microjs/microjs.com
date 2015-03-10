@@ -2023,6 +2023,16 @@ module.exports = [
     url: "http://jsonselect.org",
     source: "http://jsonselect.org/js/jsonselect.js"
   },
+
+  {
+    name: "justlazy.js",
+    github: "fhopeman/justlazy",
+    tags: ["lazy", "load", "lazyload", "responsive", "image", "images", "loader", "srcset", "picture"],
+    description: "Micro javascript library to lazy load responsive images (also with srcset attribute).",
+    url: "http://fhopeman.github.io/justlazy/",
+    source: "https://raw.githubusercontent.com/fhopeman/justlazy/master/src/justlazy.js"
+  },
+
   {
     name: "Metamorph.js",
     gitub: "tomhuda/metamorph.js",
