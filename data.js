@@ -4180,5 +4180,12 @@ module.exports = [
     description: "Small, easy-to-learn and modular JavaScript framework for big",
     url: "https://github.com/mateuszgachowski/Carpet.js",
     source: "https://raw.githubusercontent.com/mateuszgachowski/Carpet.js/master/src/carpet.js"
+  },
+  {
+    name: "Request JS",
+    tags: ["request", "ajax", "xhr", "xmlhttprequest"],
+    description: "Wrapper around XMLHttpRequest which simplifies its usage and makes it more readable",
+    url: "https://github.com/philipgiuliani/request-js",
+    source: "https://raw.githubusercontent.com/philipgiuliani/request-js/master/build/request_with_queue.js",
   }
 ];
