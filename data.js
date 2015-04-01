@@ -71,6 +71,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/fend25/strg.js/master/strg.js"
   },
   {
+    name: "imago.js",
+    github: "evandroeisinger/imago.js",
+    tags: ["image", "image manipulation", "image resizing", "image trimming"],
+    description: "It's a wonderful image library! With the purpose to facilitate the manipulation of images, imago.js enables you to perform trimming and resizing",
+    url: "https://github.com/evandroeisinger/imago.js",
+    source: "https://raw.githubusercontent.com/evandroeisinger/imago.js/master/src/imago.js"
+  },
+  {
     name: "Euclid",
     tags: ["euclid","algorithm","greatest","common","divisor","gcd"],
     description: "Recursive Euclidean algorithm for finding the greatest common divisor of two numbers.",
