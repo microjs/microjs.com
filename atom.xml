@@ -4448,5 +4448,13 @@
 		<summary>Small, easy-to-learn and modular JavaScript framework for big</summary>
 	</entry>
 
+	<entry>
+		<title>geojson2svg</title>
+		<link href="https://github.com/gagan-bansal/geojson2svg" />
+		<id>urn:uuid:62dd2f20-dc4e-11e4-8bcc-61ae62aff6e1</id>
+		<updated>2015-04-06'T'11:16:32+00:00</updated>
+		<summary>Converts geojson to svg string given svg viewport size and maps extent. Used for data visulizaton on maps.</summary>
+	</entry>
+
 
 </feed>
