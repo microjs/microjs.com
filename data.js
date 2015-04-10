@@ -9,6 +9,14 @@
 
 module.exports = [
   {
+    name: "map-tools",
+    github: "yagoferrer/map-tools",
+    tags: ["google maps", "gmaps", "google", "topojson", "geojson", "markers", "maps", "gmaps", "map-tools"],
+    description: " Google Maps Feature-rich Javascript wrapper that makes things like: Marker filtering, asynchronous loading, working with TopoJSON or GeoJSON, animation and more. Much simpler with an easy-to-use API.",
+    url: "http://map-tools.io/",
+    source: "https://raw.githubusercontent.com/yagoferrer/map-tools/latest/dist/map-tools.min.js"
+  },
+  {
     name: "Timesheet.js",
     github: "sbstjn/timesheet.js",
     tags: ["timesheet", "graph", "charts", "flow", "gantt", "draw"],
