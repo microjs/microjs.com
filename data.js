@@ -4118,6 +4118,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/kylepaulsen/NanoModal/master/nanomodal.js"
   },
   {
+    name: "dom-i18n",
+    github: "ruyadorno/dom-i18n",
+    tags: ["i18n", "dom", "translation", "multilingual", "html", "language", "internationalization"],
+    description: "Provides a very basic HTML multilingual support using JavaScript",
+    url: "https://github.com/ruyadorno/dom-i18n",
+    source: "https://raw.githubusercontent.com/ruyadorno/dom-i18n/master/src/dom-i18n.js"
+  },
+  {
      name: "Rlite",
      tags: ["rlite", "route", "routing", "router", "hash", "querystring", "named", "parameters"],
      description: "Tiny, simple, light-weight routing",
