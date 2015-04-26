@@ -210,6 +210,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/SimonWaldherr/cryptofoo/master/cryptofoo.js"
   },
   {
+    name: "guard",
+    github: "iofjuupasli/guard",
+    tags: ["access", "control", "acl", "guard", "auth", "authorized", "unauthorized"],
+    description: "Utility to split opportunities by the account level (free\\pro\\enterprise\\etc.) for frontend and node",
+    url: "https://github.com/iofjuupasli/guard",
+    source: "https://raw.githubusercontent.com/iofjuupasli/guard/master/index.js"
+  },
+  {
     name: "micromarkdown.js",
     github: "SimonWaldherr/micromarkdown.js",
     tags: ["markdown", "md", "html", "converter"],
