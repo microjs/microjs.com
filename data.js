@@ -4203,5 +4203,12 @@ module.exports = [
      description: "Simple, lightweight key-binding libw. MIT or Apache 2.0.",
      url: "https://github.com/AlexDM0/keycharm",
      source: "https://raw.githubusercontent.com/AlexDM0/keycharm/master/keycharm.js"
-  }
+  },
+  {
+     name: "hash-router",
+     tags: ["hash", "path", "route", "router"],
+     description: "Tiny and lightweight browser router library, developed with SPA in mind :)",
+     url: "https://github.com/michaelsogos/Hash-Router",
+     source: "https://github.com/michaelsogos/Hash-Router/blob/master/src/hash-router.js"
+  }  
 ];
