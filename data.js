@@ -3040,6 +3040,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/joshwnj/statelet/master/statelet.js"
   },
   {
+    name: "Eev",
+    github: "chrisdavies/eev",
+    tags: ["emitter", "events", "event", "listener", "pubsub", "trigger", "observe"],
+    description: "A tiny, fast, zero-dependency event emitter (~500 bytes min + gzip)",
+    url: "https://github.com/chrisdavies/eev",
+    source: "https://raw.githubusercontent.com/chrisdavies/eev/master/eev.js"
+  },
+  {
     name: "delayed",
     tags: ["async", "timer", "defer", "events"],
     description: "A collection of helper functions for your functions, using `setTimeout()` to delay and defer.",
