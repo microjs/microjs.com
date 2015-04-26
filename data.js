@@ -4210,5 +4210,12 @@ module.exports = [
      description: "Tiny and lightweight browser router library, developed with SPA in mind :)",
      url: "https://github.com/michaelsogos/Hash-Router",
      source: "https://github.com/michaelsogos/Hash-Router/blob/master/src/hash-router.js"
-  }  
+  },
+  {
+     name: "JsDic",
+     tags: ["dependency", "injection", "container", "di", "dic"],
+     description: "Dependecy injection container inspired by Angular.js.",
+     url: "https://github.com/janmarek/JsDic",
+     source: "https://github.com/janmarek/JsDic/blob/master/jsdic.js"
+  }
 ];
