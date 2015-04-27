@@ -9,6 +9,14 @@
 
 module.exports = [
   {
+    name: "Tinyscrollbar",
+    github: "wieringen/tinyscrollbar",
+    tags: ["scrollbar", "ui", "interface", "scroll"],
+    description: "Create pretty scrollbars",
+    url: "https://github.com/wieringen/tinyscrollbar",
+    source: "https://raw.githubusercontent.com/wieringen/tinyscrollbar/master/lib/tinyscrollbar.js"
+  },
+  {
     name: "Timesheet.js",
     github: "sbstjn/timesheet.js",
     tags: ["timesheet", "graph", "charts", "flow", "gantt", "draw"],
