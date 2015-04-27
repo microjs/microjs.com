@@ -4248,5 +4248,13 @@ module.exports = [
      description: "Greiner-Hormann polygon clipping algorithm. Does AND, OR, XOR.",
      url: "http://w8r.github.io/GreinerHormann/",
      source: "https://raw.githubusercontent.com/w8r/GreinerHormann/master/dist/greiner-hormann.js"
+  },
+  {
+     name: "Core.js",
+     github: "mauriciosoares/microjs.com",
+     tags: ["framework", "lightweight", "scalable", "modular", "sandbox"],
+     description: "It helps you create scalable applications written in Javascript, giving you some structure and patterns to keep everything separated.",
+     url: "https://github.com/mauriciosoares/core.js",
+     source: "https://raw.githubusercontent.com/mauriciosoares/core.js/master/dist/core.js"
   }
 ];
