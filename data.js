@@ -1968,6 +1968,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/madrobby/evidence/master/src/evidence.js"
   },
   {
+    name: "VanillaModal",
+    tags: ["modal", "es6"],
+    description: "A flexible, dependency-free CSS-powered modal built using ECMAScript 6.",
+    url: "https://github.com/thephuse/vanilla-modal",
+    source: "https://raw.githubusercontent.com/thephuse/vanilla-modal/master/dist/vanilla-modal.js"
+  },
+  {
     name: "functional.js",
     tags: ["functional", "curry", "arity", "compose", "iterator"],
     description: "A functional JavaScript library that facilitates currying and point-free programming.",
