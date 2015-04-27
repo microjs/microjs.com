@@ -85,6 +85,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/hufyhang/chop/master/chop.js"
   },
   {
+    name: "Cquence.js",
+    github: "RamonGebben/Cquence",
+    tags: ["animation", "banner", "CSS animations"],
+    description: "A Super Tiny JavaScript Animation Library",
+    url: "https://github.com/RamonGebben/Cquence",
+    source: "https://raw.githubusercontent.com/RamonGebben/Cquence/master/Cquence.js"
+  },
+  {
     name: "Mithril",
     github: "lhorie/mithril",
     tags: ["mvc framework", "mvc", "framework", "templating", "promise", "routing"],
