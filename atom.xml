@@ -4448,5 +4448,13 @@
 		<summary>Small, easy-to-learn and modular JavaScript framework for big</summary>
 	</entry>
 
+	<entry>
+		<title>emitonoff</title>
+		<link href="https://github.com/konsumer/emitonoff" />
+		<id>urn:uuid:0ce8dfd0-b33e-11e4-ab5c-57f1a4cb8b69</id>
+		<updated>2015-02-13'T'05:04:32+00:00</updated>
+		<summary>Extremely simple event emitter for javascript</summary>
+	</entry>
+
 
 </feed>
