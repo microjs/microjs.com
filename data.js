@@ -393,6 +393,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/munkychop/bullet/master/dist/bullet.js"
   },
   {
+    name: "selecting",
+    github: "EvandroLG/selecting",
+    tags: ["selecting", "selection", "string", "text", "api"],
+    description: "A library that allows you to access the text selected by the user",
+    url: "https://github.com/EvandroLG/selecting",
+    source: "https://github.com/EvandroLG/selecting/blob/master/src/selecting.js"
+  },
+  {
     name: "store",
     github: "nbubna/store",
     tags: ["localStorage", "sessionStorage", "JSON", "namespace", "API", "extensible"],
