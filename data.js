@@ -4217,5 +4217,12 @@ module.exports = [
      description: "Dependecy injection container inspired by Angular.js.",
      url: "https://github.com/janmarek/JsDic",
      source: "https://github.com/janmarek/JsDic/blob/master/jsdic.js"
+  },
+  {
+     name: "GreinerHormann",
+     tags: ["math", "geometry", "polygon", "clipping", "polyline"],
+     description: "Greiner-Hormann polygon clipping algorithm. Does AND, OR, XOR.",
+     url: "http://w8r.github.io/GreinerHormann/",
+     source: "https://raw.githubusercontent.com/w8r/GreinerHormann/master/dist/greiner-hormann.js"
   }
 ];
