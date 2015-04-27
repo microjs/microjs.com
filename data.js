@@ -4299,5 +4299,13 @@ module.exports = [
      description: "It helps you create scalable applications written in Javascript, giving you some structure and patterns to keep everything separated.",
      url: "https://github.com/mauriciosoares/core.js",
      source: "https://raw.githubusercontent.com/mauriciosoares/core.js/master/dist/core.js"
+  },
+  {
+     name: "js-mediator",
+     github: "markmarijnissen/js-mediator",
+     tags: ["mediator","module","design pattern","MVC"],
+     description: "Design pattern to write clean, reusable, decoupled, standalone Modules that are coupled with Mediators.",
+     url: "https://github.com/markmarijnissen/js-mediator",
+     source: "https://raw.githubusercontent.com/markmarijnissen/js-mediator/master/mediator.js"
   }
 ];
