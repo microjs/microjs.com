@@ -4449,11 +4449,163 @@
 	</entry>
 
 	<entry>
+		<title>Trak.js</title>
+		<link href="https://github.com/tmwagency/trak.js" />
+		<id>urn:uuid:d08cec30-ec76-11e4-96f7-b952c497add4</id>
+		<updated>2015-04-27'T'00:46:13+00:00</updated>
+		<summary>Universal analytics event tracking API wrapper</summary>
+	</entry>
+
+	<entry>
+		<title>ease.js</title>
+		<link href="https://github.com/lloydzhou/ease" />
+		<id>urn:uuid:d08d8870-ec76-11e4-96f7-b952c497add4</id>
+		<updated>2015-04-27'T'00:46:13+00:00</updated>
+		<summary>ease component for animation, include 30 ease functions.</summary>
+	</entry>
+
+	<entry>
+		<title>dual-emitter</title>
+		<link href="https://github.com/tunnckoCore/dual-emitter" />
+		<id>urn:uuid:d0a221e0-ec76-11e4-96f7-b952c497add4</id>
+		<updated>2015-04-27'T'00:46:13+00:00</updated>
+		<summary>Cross-browser (and IE8) + node.js event emitter in 35 lines. Invoke custom or DOM event. Useful for two-way data-binding!!</summary>
+	</entry>
+
+	<entry>
+		<title>Tinyscrollbar</title>
+		<link href="https://github.com/wieringen/tinyscrollbar" />
+		<id>urn:uuid:d0a4b9f0-ec76-11e4-96f7-b952c497add4</id>
+		<updated>2015-04-27'T'00:46:13+00:00</updated>
+		<summary>Create pretty scrollbars</summary>
+	</entry>
+
+	<entry>
+		<title>Cquence.js</title>
+		<link href="https://github.com/RamonGebben/Cquence" />
+		<id>urn:uuid:d0cadf90-ec76-11e4-96f7-b952c497add4</id>
+		<updated>2015-04-27'T'00:46:13+00:00</updated>
+		<summary>A Super Tiny JavaScript Animation Library</summary>
+	</entry>
+
+	<entry>
+		<title>imago.js</title>
+		<link href="https://github.com/evandroeisinger/imago.js" />
+		<id>urn:uuid:d13d9e90-ec76-11e4-96f7-b952c497add4</id>
+		<updated>2015-04-27'T'00:46:13+00:00</updated>
+		<summary>It&apos;s a wonderful image library! With the purpose to facilitate the manipulation of images, imago.js enables you to perform trimming and resizing</summary>
+	</entry>
+
+	<entry>
+		<title>Hoverboard</title>
+		<link href="https://github.com/jesseskinner/hoverboard" />
+		<id>urn:uuid:d439c790-ec76-11e4-96f7-b952c497add4</id>
+		<updated>2015-04-27'T'00:46:13+00:00</updated>
+		<summary>A very lightweight (anti-gravity?) data model and Flux store with actions and a state change listener.</summary>
+	</entry>
+
+	<entry>
+		<title>xhr.js</title>
+		<link href="https://github.com/bohwaz/xhr.js" />
+		<id>urn:uuid:d5351780-ec76-11e4-96f7-b952c497add4</id>
+		<updated>2015-04-27'T'00:46:13+00:00</updated>
+		<summary>This is the smallest XmlHttpRequest Javascript micro-library ever. EVER!</summary>
+	</entry>
+
+	<entry>
+		<title>VanillaModal</title>
+		<link href="https://github.com/thephuse/vanilla-modal" />
+		<id>urn:uuid:e55dbfe0-ec76-11e4-96f7-b952c497add4</id>
+		<updated>2015-04-27'T'00:46:13+00:00</updated>
+		<summary>A flexible, dependency-free CSS-powered modal built using ECMAScript 6.</summary>
+	</entry>
+
+	<entry>
+		<title>seedrandom.js</title>
+		<link href="https://github.com/davidbau/seedrandom" />
+		<id>urn:uuid:ed503430-ec76-11e4-96f7-b952c497add4</id>
+		<updated>2015-04-27'T'00:46:13+00:00</updated>
+		<summary>A seeded random number generator. Can override Math.random or return a generator function.</summary>
+	</entry>
+
+	<entry>
+		<title>Eev</title>
+		<link href="https://github.com/chrisdavies/eev" />
+		<id>urn:uuid:f1a7f590-ec76-11e4-96f7-b952c497add4</id>
+		<updated>2015-04-27'T'00:46:13+00:00</updated>
+		<summary>A tiny, fast, zero-dependency event emitter (~500 bytes min + gzip)</summary>
+	</entry>
+
+	<entry>
 		<title>emitonoff</title>
 		<link href="https://github.com/konsumer/emitonoff" />
-		<id>urn:uuid:0ce8dfd0-b33e-11e4-ab5c-57f1a4cb8b69</id>
-		<updated>2015-02-13'T'05:04:32+00:00</updated>
+		<id>urn:uuid:f24769e0-ec76-11e4-96f7-b952c497add4</id>
+		<updated>2015-04-27'T'00:46:13+00:00</updated>
 		<summary>Extremely simple event emitter for javascript</summary>
+	</entry>
+
+	<entry>
+		<title>resourcetiming-compression.js</title>
+		<link href="https://github.com/nicjansma/resourcetiming-compression.js" />
+		<id>urn:uuid:f726f8e0-ec76-11e4-96f7-b952c497add4</id>
+		<updated>2015-04-27'T'00:46:13+00:00</updated>
+		<summary>ResourceTiming compression and decompression</summary>
+	</entry>
+
+	<entry>
+		<title>VisSense.js</title>
+		<link href="https://github.com/vissense/vissense" />
+		<id>urn:uuid:fba1d2a0-ec76-11e4-96f7-b952c497add4</id>
+		<updated>2015-04-27'T'00:46:13+00:00</updated>
+		<summary>A utility library for observing visibility changes of DOM elements. Immediately know when an element becomes hidden, partly visible or fully visible.</summary>
+	</entry>
+
+	<entry>
+		<title>keycharm</title>
+		<link href="https://github.com/AlexDM0/keycharm" />
+		<id>urn:uuid:fd4c4e50-ec76-11e4-96f7-b952c497add4</id>
+		<updated>2015-04-27'T'00:46:13+00:00</updated>
+		<summary>Simple, lightweight key-binding libw. MIT or Apache 2.0.</summary>
+	</entry>
+
+	<entry>
+		<title>GreinerHormann</title>
+		<link href="http://w8r.github.io/GreinerHormann/" />
+		<id>urn:uuid:fd67eca0-ec76-11e4-96f7-b952c497add4</id>
+		<updated>2015-04-27'T'00:46:13+00:00</updated>
+		<summary>Greiner-Hormann polygon clipping algorithm. Does AND, OR, XOR.</summary>
+	</entry>
+
+	<entry>
+		<title>Core.js</title>
+		<link href="https://github.com/mauriciosoares/core.js" />
+		<id>urn:uuid:fd7a6330-ec76-11e4-96f7-b952c497add4</id>
+		<updated>2015-04-27'T'00:46:13+00:00</updated>
+		<summary>It helps you create scalable applications written in Javascript, giving you some structure and patterns to keep everything separated.</summary>
+	</entry>
+
+	<entry>
+		<title>js-mediator</title>
+		<link href="https://github.com/markmarijnissen/js-mediator" />
+		<id>urn:uuid:fd7dbe90-ec76-11e4-96f7-b952c497add4</id>
+		<updated>2015-04-27'T'00:46:13+00:00</updated>
+		<summary>Design pattern to write clean, reusable, decoupled, standalone Modules that are coupled with Mediators.</summary>
+	</entry>
+
+	<entry>
+		<title>Chop.js</title>
+		<link href="https://github.com/hufyhang/chop" />
+		<id>urn:uuid:a7c534a0-ec77-11e4-8326-efca2ecc2eb7</id>
+		<updated>2015-04-27'T'00:52:15+00:00</updated>
+		<summary>A Super Light-Weight JavaScript Framework</summary>
+	</entry>
+
+	<entry>
+		<title>mailcheck</title>
+		<link href="https://github.com/mailcheck/mailcheck" />
+		<id>urn:uuid:a9768e20-ec77-11e4-8326-efca2ecc2eb7</id>
+		<updated>2015-04-27'T'00:52:15+00:00</updated>
+		<summary>Reduce user-misspelled email addresses in your forms.</summary>
 	</entry>
 
 

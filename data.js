@@ -26,11 +26,11 @@ module.exports = [
   },
   {
     name: "ease.js",
-    github: "lloyd/ease",
+    github: "lloydzhou/ease",
     tags: ["ease", "animation"],
     description: "ease component for animation, include 30 ease functions.",
     url: "https://github.com/lloydzhou/ease",
-    source: "https://raw.githubusercontent.com/lloydzhou/ease/master/ease.min.js"
+    source: "https://raw.githubusercontent.com/lloydzhou/ease/master/ease.js"
   },
   {
     name: "Timesheet.js",
@@ -307,7 +307,7 @@ module.exports = [
     tags: ["library", "email", "spelling", "autosuggest", "autocorrect", "typo"],
     description: "Reduce user-misspelled email addresses in your forms.",
     url: "https://github.com/mailcheck/mailcheck",
-    source: "https://raw.githubusercontent.com/mailcheck/mailcheck/master/src/mailcheck.min.js"
+    source: "https://raw.githubusercontent.com/mailcheck/mailcheck/master/src/mailcheck.js"
  },
   {
     name: "P",
@@ -3887,7 +3887,7 @@ module.exports = [
     tags: ["class", "inheritance", "extend", "amd", "prototype", "prototypal", "lazy"],
     description: "The core module of RaptorJS provides a lightweight module system that supports namespacing, AMD, class inheritance, mixins, enums and lazy initialization. Works in the browser and Node.js",
     url: "https://github.com/raptorjs-legacy/raptorjs",
-    source: "https://raw.githubusercontent.com/raptorjs-legacy/raptorjs/master/dist/raptor.min.js"
+    source: "https://raw.githubusercontent.com/raptorjs-legacy/raptorjs/master/dist/raptor.js"
   },
   {
     name: "Lie",
@@ -4139,8 +4139,8 @@ module.exports = [
     name: "MarmottAjax",
     tags: ["ajax", "xhr", "json"],
     description: "A tiny Ajax librairy with promises and some Marmot",
-    url: "https://github.com/marmottes/marmottajax",
-    source: "https://raw.githubusercontent.com/marmottes/marmottajax/master/marmottajax.js"
+    url: "https://github.com/dimitrinicolas/marmottajax",
+    source: "https://raw.githubusercontent.com/dimitrinicolas/marmottajax/master/bin/marmottajax.js"
   },
   {
     name: "datediff",
