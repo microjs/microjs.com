@@ -2640,6 +2640,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/chrisbateman/impetus/master/impetus.js"
   },
   {
+    name: "seedrandom.js",
+    tags: ["random", "RNG", "PRNG"],
+    description: "A seeded random number generator. Can override Math.random or return a generator function.",
+    url: "https://github.com/davidbau/seedrandom",
+    source: "https://raw.githubusercontent.com/davidbau/seedrandom/master/seedrandom.js"
+  },
+  {
     name: "Humane JS",
     tags: ["notification", "alert"],
     description: "A simple, modern, browser notification system",
