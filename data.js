@@ -397,6 +397,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/brophdawg11/Automator.js/master/automator.js"
   },
   {
+    name: "Hoverboard",
+    github: "jesseskinner/hoverboard",
+    tags: ["Hoverboard", "Flux", "React", "store", "model", "data", "listener"],
+    description: "A very lightweight (anti-gravity?) data model and Flux store with actions and a state change listener.",
+    url: "https://github.com/jesseskinner/hoverboard",
+    source: "https://raw.githubusercontent.com/jesseskinner/hoverboard/master/dist/hoverboard.js"
+  },
+  {
     name: "JsChannels",
     github: "brophdawg11/JsChannels",
     tags: ["Channels", "core.async", "async", "Promise", "Deferred", "Deferreds", "Promises"],
