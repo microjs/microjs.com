@@ -2786,6 +2786,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/mdix/ytIframe/master/iframe.js"
   },
   {
+    name: "Telegraph",
+    tags: ["events" ],
+    description: "A very minimal event emitter for browsers, forked from Benjamin Thomas' smokesignals.js, that allows for cancelable events",
+    url: "https://github.com/dubrowgn/telegraph",
+    source: "https://raw.githubusercontent.com/dubrowgn/telegraph/master/telegraph.js"
+  },
+  {
     name: "List.js",
     tags: ["list", "extend", "templating", "utils", "sort", "search", "filter"],
     description: "Add search, sort and flexibility to plain HTML lists (div, ul, table, everything!).",
