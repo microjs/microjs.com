@@ -9,6 +9,22 @@
 
 module.exports = [
   {
+    name: "InversifyJS",
+    github: "inversify/InversifyJS",
+    tags: ["dependency", "inversion", "inversion", "control"],
+    description: "A lightweight IoC container written in TypeScript.",
+    url: "http://inversify.io",
+    source: "https://github.com/inversify/InversifyJS/tree/master/source"
+  },
+  {
+    name: "AtSpy",
+    github: "AtSpy/typescript-spy-decorator",
+    tags: ["decorator", "test", "spy", "angular", "typescript" ],
+    description: "A test spy powered by es7 decorators and TypeScript ",
+    url: "AtSpy.github.io",
+    source: "https://github.com/AtSpy/typescript-spy-decorator/tree/master/source"
+  },
+  {
     name: "Tinyscrollbar",
     github: "wieringen/tinyscrollbar",
     tags: ["scrollbar", "ui", "interface", "scroll"],
