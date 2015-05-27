@@ -4384,5 +4384,13 @@ module.exports = [
      description: "Design pattern to write clean, reusable, decoupled, standalone Modules that are coupled with Mediators.",
      url: "https://github.com/markmarijnissen/js-mediator",
      source: "https://raw.githubusercontent.com/markmarijnissen/js-mediator/master/mediator.js"
+  },
+  {
+     name: "ba.js",
+     github: "Arood/bajs",
+     tags: ["animation","animations","css","css3"],
+     description: "Create and manage CSS3 animations from JavaScript.",
+     url: "http://bajs.io",
+     source: "https://raw.githubusercontent.com/Arood/bajs/master/ba.min.js"
   }
 ];
