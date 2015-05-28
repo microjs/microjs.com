@@ -9,6 +9,14 @@
 
 module.exports = [
   {
+    name: "Freezer.js",
+    github: "arqex/freezer",
+    tags: ["immutable", "react", "tree", "cursors", "store", "events"],
+    description: "An immutable tree data structure that is always updated from the root, making easier to think in a reactive way.",
+    url: "https://github.com/arqex/freezer",
+    source: "https://raw.githubusercontent.com/arqex/freezer/master/build/freezer.js"
+  },
+  {
     name: "Tinyscrollbar",
     github: "wieringen/tinyscrollbar",
     tags: ["scrollbar", "ui", "interface", "scroll"],
