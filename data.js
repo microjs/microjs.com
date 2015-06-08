@@ -4384,5 +4384,13 @@ module.exports = [
      description: "Design pattern to write clean, reusable, decoupled, standalone Modules that are coupled with Mediators.",
      url: "https://github.com/markmarijnissen/js-mediator",
      source: "https://raw.githubusercontent.com/markmarijnissen/js-mediator/master/mediator.js"
+  },
+  {
+    name: "type-ahead.js",
+    github: "marcojetson/type-ahead.js",
+    tags: ["typeahead", "autocomplete", "autosuggest", "complete", "suggest"],
+    description: "A lightweight and extensible type ahead library",
+    url: "https://github.com/marcojetson/type-ahead.js",
+    source: "https://raw.githubusercontent.com/marcojetson/type-ahead.js/master/type-ahead.js"
   }
 ];
