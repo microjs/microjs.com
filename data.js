@@ -517,6 +517,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/pimterry/loglevel/master/dist/loglevel.js"
   },
   {
+    name: "form-to-obj",
+    github: "chrisdavies/form-to-obj",
+    tags: ["form", "serialization"],
+    description: "A small, zero-dependency form-to-object serialization utility",
+    url: "https://github.com/chrisdavies/form-to-obj",
+    source: "https://raw.githubusercontent.com/chrisdavies/form-to-obj/master/form-to-obj.js"
+  },
+  {
     name: "goo.js",
     github: "johnrobinsn/goo.js",
     tags: ["HTML5", "canvas"],

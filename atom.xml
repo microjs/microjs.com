@@ -4608,5 +4608,13 @@
 		<summary>Reduce user-misspelled email addresses in your forms.</summary>
 	</entry>
 
+	<entry>
+		<title>form-to-obj</title>
+		<link href="https://github.com/chrisdavies/form-to-obj" />
+		<id>urn:uuid:754e50d0-1218-11e5-8879-2daba47803d9</id>
+		<updated>2015-06-13'T'22:06:29+00:00</updated>
+		<summary>A small, zero-dependency form-to-object serialization utility</summary>
+	</entry>
+
 
 </feed>
