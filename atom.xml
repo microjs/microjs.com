@@ -4608,5 +4608,45 @@
 		<summary>Reduce user-misspelled email addresses in your forms.</summary>
 	</entry>
 
+	<entry>
+		<title>guard</title>
+		<link href="https://github.com/iofjuupasli/guard" />
+		<id>urn:uuid:85ddd7a0-12e4-11e5-b61f-c580d5569985</id>
+		<updated>2015-06-14'T'22:27:15+00:00</updated>
+		<summary>Utility to split opportunities by the account level (free\pro\enterprise\etc.) for frontend and node</summary>
+	</entry>
+
+	<entry>
+		<title>stateman.js</title>
+		<link href="https://github.com/leeluolee/stateman" />
+		<id>urn:uuid:865837c0-12e4-11e5-b61f-c580d5569985</id>
+		<updated>2015-06-14'T'22:27:15+00:00</updated>
+		<summary>A tiny foundation that providing nested state-based routing for complex web application.decodeURI</summary>
+	</entry>
+
+	<entry>
+		<title>selecting</title>
+		<link href="https://github.com/EvandroLG/selecting" />
+		<id>urn:uuid:87e05e60-12e4-11e5-b61f-c580d5569985</id>
+		<updated>2015-06-14'T'22:27:15+00:00</updated>
+		<summary>A library that allows you to access the text selected by the user</summary>
+	</entry>
+
+	<entry>
+		<title>wjs</title>
+		<link href="https://github.com/weeger/wjs" />
+		<id>urn:uuid:afbd7260-12e4-11e5-b61f-c580d5569985</id>
+		<updated>2015-06-14'T'22:27:15+00:00</updated>
+		<summary>A JavaScript / PHP to manage lazy loading from server to client.</summary>
+	</entry>
+
+	<entry>
+		<title>aja.js</title>
+		<link href="http://krampstudio.com/aja.js/" />
+		<id>urn:uuid:afdd0850-12e4-11e5-b61f-c580d5569985</id>
+		<updated>2015-06-14'T'22:27:15+00:00</updated>
+		<summary>Ajax without XML : Asynchronous JavaScript and JavaScript/JSON(P)</summary>
+	</entry>
+
 
 </feed>
