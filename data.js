@@ -4390,6 +4390,6 @@ module.exports = [
      tags: ["ajax", "lazy", "loading", "remote", "package"],
      description: "A JavaScript / PHP to manage lazy loading from server to client.",
      url: "https://github.com/weeger/wjs",
-     source: "https://github.com/weeger/wjs/raw/master/wjs.min.js"
+     source: "https://raw.githubusercontent.com/weeger/wjs/master/src/wjs.js"
   }
 ];
