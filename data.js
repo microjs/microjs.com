@@ -4384,5 +4384,21 @@ module.exports = [
      description: "Design pattern to write clean, reusable, decoupled, standalone Modules that are coupled with Mediators.",
      url: "https://github.com/markmarijnissen/js-mediator",
      source: "https://raw.githubusercontent.com/markmarijnissen/js-mediator/master/mediator.js"
+  },
+  {
+    name: "Carpet.js",
+    github: "mateuszgachowski/Carpet.js",
+    tags: ["module", "simple", "autoload", "context", "settings", "module pattern", "advice"],
+    description: "Small, easy-to-learn and modular JavaScript framework for big",
+    url: "https://github.com/mateuszgachowski/Carpet.js",
+    source: "https://raw.githubusercontent.com/mateuszgachowski/Carpet.js/master/src/carpet.js"
+  },
+  {
+    name: "aja.js",
+    github: "krampstudio/aja.js",
+    tags: ["rest", "ajax", "xhr", "jsonp"],
+    description: "Ajax without XML : Asynchronous JavaScript and JavaScript/JSON(P)",
+    url: "http://krampstudio.com/aja.js/",
+    source: "https://raw.githubusercontent.com/krampstudio/aja.js/master/src/aja.js"
   }
 ];
