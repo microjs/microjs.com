@@ -4384,5 +4384,12 @@ module.exports = [
      description: "Design pattern to write clean, reusable, decoupled, standalone Modules that are coupled with Mediators.",
      url: "https://github.com/markmarijnissen/js-mediator",
      source: "https://raw.githubusercontent.com/markmarijnissen/js-mediator/master/mediator.js"
+  },
+  {
+     name: "wjs",
+     tags: ["ajax", "lazy", "loading", "remote", "package"],
+     description: "A JavaScript / PHP to manage lazy loading from server to client.",
+     url: "https://github.com/weeger/wjs",
+     source: "https://raw.githubusercontent.com/weeger/wjs/master/src/wjs.js"
   }
 ];
