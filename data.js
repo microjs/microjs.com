@@ -291,7 +291,7 @@ module.exports = [
     tags: ["access", "control", "acl", "guard", "auth", "authorized", "unauthorized"],
     description: "Utility to split opportunities by the account level (free\\pro\\enterprise\\etc.) for frontend and node",
     url: "https://github.com/iofjuupasli/guard",
-    source: "https://raw.githubusercontent.com/iofjuupasli/guard/master/index.js"
+    source: "https://raw.githubusercontent.com/iofjuupasli/guard/master/guard.js"
   },
   {
     name: "micromarkdown.js",
@@ -331,7 +331,7 @@ module.exports = [
     tags: ["finite", "state", "machine"],
     description: "Lightweight state machine library for JavaScript",
     url: "https://github.com/steelbreeze/state.js",
-    source: "https://raw.githubusercontent.com/steelbreeze/state.js/master/src/state.js"
+    source: "https://raw.githubusercontent.com/steelbreeze/state.js/master/lib/state.js"
   },
   {
     name: "stateman.js",
@@ -483,7 +483,7 @@ module.exports = [
     tags: ["selecting", "selection", "string", "text", "api"],
     description: "A library that allows you to access the text selected by the user",
     url: "https://github.com/EvandroLG/selecting",
-    source: "https://github.com/EvandroLG/selecting/blob/master/src/selecting.js"
+    source: "https://raw.githubusercontent.com/EvandroLG/selecting/master/src/selecting.js"
   },
   {
     name: "store",
@@ -793,7 +793,7 @@ module.exports = [
     tags: ["search", "fuzzy", "filter"],
     description: "Fuzzy.js is a fuzzy search algorithm in javascript",
     url: "https://github.com/Extaze/fuzzy.js",
-    source: "https://raw.githubusercontent.com/Extaze/fuzzy.js/master/fuzzy.js"
+    source: "https://raw.githubusercontent.com/gjuchault/fuzzy.js/master/src/fuzzy.js"
   },
   {
     name: "spooks.js",
@@ -1216,8 +1216,8 @@ module.exports = [
     name: "VUnit",
     tags: ["vw", "vh", "viewport", "CSS", "javascript"],
     description: "A fast alternative for viewport-relative dimensions. RIP buggy vh and vw CSS units.",
-    url: "https://github.com/joaocunha/v-unit",
-    source: "https://raw.githubusercontent.com/joaocunha/v-unit/master/v-unit.js"
+    url: "https://github.com/joaocunha/vunit",
+    source: "https://raw.githubusercontent.com/joaocunha/vunit/master/vunit.js"
   },
   {
     name: "MinPubSub",
