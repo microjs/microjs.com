@@ -3187,6 +3187,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/chrisdavies/eev/master/eev.js"
   },
   {
+    name: "guardian.js",
+    github: "guardianjs/guardianjs",
+    tags: ["testing", "tdd", "unit", "bdd"],
+    description: "Unopinionated JavaScript (unit/integration/whatever) testing library",
+    url: "https://github.com/guardianjs/guardianjs",
+    source: "https://raw.githubusercontent.com/guardianjs/guardianjs/master/bundle.js"
+  },
+  {
     name: "delayed",
     tags: ["async", "timer", "defer", "events"],
     description: "A collection of helper functions for your functions, using `setTimeout()` to delay and defer.",
