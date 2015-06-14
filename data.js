@@ -334,6 +334,15 @@ module.exports = [
     source: "https://raw.githubusercontent.com/steelbreeze/state.js/master/src/state.js"
   },
   {
+    name: "stateman.js",
+    github: "leeluolee/stateman",
+    tags: ["router", "state", "spa"],
+    description: "A tiny foundation that providing nested state-based routing for complex web application.decodeURI",
+    url: "https://github.com/leeluolee/stateman",
+    source: "https://raw.githubusercontent.com/leeluolee/stateman/master/stateman.js"
+  },
+
+  {
     name: "bLazyJS",
     github: "dinbror/blazy",
     tags: ["lazy", "lazyload", "image", "images", "retina", "responsive", "loader"],
