@@ -438,6 +438,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/jesseskinner/hoverboard/master/dist/hoverboard.js"
   },
   {
+    name: "j2c",
+    github: "pygy/j2c",
+    tags: ["CSS", "compiler", "preprocessor", "SASS", "LESS", "Stylus", "JSON"],
+    description: "CSS preprocessor working from JavaScript objects.",
+    url: "http://j2c.py.gy",
+    source: "https://raw.githubusercontent.com/pygy/j2c/master/dist/j2c.global.js"
+  },
+  {
     name: "JsChannels",
     github: "brophdawg11/JsChannels",
     tags: ["Channels", "core.async", "async", "Promise", "Deferred", "Deferreds", "Promises"],
