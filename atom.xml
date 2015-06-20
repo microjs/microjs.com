@@ -4648,5 +4648,61 @@
 		<summary>Ajax without XML : Asynchronous JavaScript and JavaScript/JSON(P)</summary>
 	</entry>
 
+	<entry>
+		<title>ba.js</title>
+		<link href="http://bajs.io" />
+		<id>urn:uuid:8d1c6c10-1754-11e5-9430-51295632daa1</id>
+		<updated>2015-06-20'T'13:59:18+00:00</updated>
+		<summary>Create and manage CSS3 animations from JavaScript.</summary>
+	</entry>
+
+	<entry>
+		<title>fetchival</title>
+		<link href="https://github.com/typicode/fetchival" />
+		<id>urn:uuid:8d1ce140-1754-11e5-9430-51295632daa1</id>
+		<updated>2015-06-20'T'13:59:18+00:00</updated>
+		<summary>Easy fetch requests</summary>
+	</entry>
+
+	<entry>
+		<title>j2c</title>
+		<link href="http://j2c.py.gy" />
+		<id>urn:uuid:9107fe20-1754-11e5-9430-51295632daa1</id>
+		<updated>2015-06-20'T'13:59:18+00:00</updated>
+		<summary>CSS preprocessor working from JavaScript objects.</summary>
+	</entry>
+
+	<entry>
+		<title>form-to-obj</title>
+		<link href="https://github.com/chrisdavies/form-to-obj" />
+		<id>urn:uuid:91d6e6e0-1754-11e5-9430-51295632daa1</id>
+		<updated>2015-06-20'T'13:59:18+00:00</updated>
+		<summary>A small, zero-dependency form-to-object serialization utility</summary>
+	</entry>
+
+	<entry>
+		<title>HTMLparser</title>
+		<link href="https://github.com/seun40/HTMLparser" />
+		<id>urn:uuid:a7983510-1754-11e5-9430-51295632daa1</id>
+		<updated>2015-06-20'T'13:59:18+00:00</updated>
+		<summary>It parses HTML ¯_(ツ)_/¯</summary>
+	</entry>
+
+	<entry>
+		<title>Telegraph</title>
+		<link href="https://github.com/dubrowgn/telegraph" />
+		<id>urn:uuid:b1bca490-1754-11e5-9430-51295632daa1</id>
+		<updated>2015-06-20'T'13:59:18+00:00</updated>
+		<summary>A very minimal event emitter for browsers, forked from Benjamin Thomas&apos; smokesignals.js, that allows for cancelable events</summary>
+	</entry>
+
+	<entry>
+		<title>StringFormatter</title>
+		<link href="https://github.com/anywhichway/stringformatter" />
+		<id>urn:uuid:b2fc7790-1754-11e5-9430-51295632daa1</id>
+		<updated>2015-06-20'T'13:59:18+00:00</updated>
+		<summary>An extensible, garbage collecting Javascript string formatter that supports objects, currency, date/time, decimals, and more ... goes far beyond sprintf approach.</summary>
+	</entry>
+
 
 </feed>
