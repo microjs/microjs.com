@@ -557,6 +557,7 @@ module.exports = [
     url: "http://www.storminthecastle.com/projects/goo.js/",
     source: "https://raw.githubusercontent.com/johnrobinsn/goo.js/master/src/goo.js"
   },
+  /* dead repo link
   {
     name: "xhr.js",
     github: "bohwaz/goo.js",
@@ -565,6 +566,7 @@ module.exports = [
     url: "https://github.com/bohwaz/xhr.js",
     source: "https://raw.githubusercontent.com/bohwaz/xhr.js/master/xhr.js"
   },
+  */
   {
     name: "Satnav",
     github: "f5io/satnav-js",
@@ -811,6 +813,7 @@ module.exports = [
     url: "https://github.com/zeusdeux/token-boy",
     source: "https://raw.githubusercontent.com/zeusdeux/token-boy/master/index.js"
   },
+  /* dead repo link
   {
     name: "fuzzy.js",
     github: "Extaze/fuzzy.js",
@@ -819,6 +822,7 @@ module.exports = [
     url: "https://github.com/Extaze/fuzzy.js",
     source: "https://raw.githubusercontent.com/gjuchault/fuzzy.js/master/src/fuzzy.js"
   },
+  */
   {
     name: "spooks.js",
     github: "philbooth/spooks.js",
@@ -1798,6 +1802,7 @@ module.exports = [
     url: "http://caolan.github.io/nimble/",
     source: "https://raw.githubusercontent.com/caolan/nimble/master/nimble.js"
   },
+  /* dead repo link
   {
     name: "loom",
     tags: ["functional"],
@@ -1805,6 +1810,7 @@ module.exports = [
     url: "https://github.com/rpflorence/loom",
     source: "https://raw.githubusercontent.com/rpflorence/loom/master/loom.js"
   },
+  */
   {
     name: "jWorkflow",
     tags: ["functional", "workflow", "async"],
@@ -2222,6 +2228,7 @@ module.exports = [
     url: "https://github.com/yckart/Transe.js",
     source: "https://raw.githubusercontent.com/yckart/Transe.js/master/transe.js"
   },
+  /* dead repository link
   {
     name: "SeXHR",
     tags: ["ajax", "xhr", "xmlhttprequest"],
@@ -2229,6 +2236,7 @@ module.exports = [
     url: "https://github.com/skibz/SeXHR",
     source: "https://raw.githubusercontent.com/skibz/SeXHR/master/SeXHR.js",
   },
+  */
   {
     name: "CSSDyer.js",
     tags: ["css", "color", "parse", "ui", "rgb", "rgba", "hex", "creative"],
@@ -3530,6 +3538,7 @@ module.exports = [
     url: "https://github.com/bahamas10/preloadimages.js",
     source: "https://raw.githubusercontent.com/bahamas10/preloadimages.js/master/preloadimages.js"
   },
+  /* dead link to git hub repository
   {
     name: "cm.js",
     tags: ["cookies"],
@@ -3537,6 +3546,7 @@ module.exports = [
     url: "https://github.com/timseverien/cm.js",
     source: "https://raw.githubusercontent.com/timseverien/cm.js/master/cm.js"
   },
+  */
   {
     name: "Slow.js",
     github: "jakiestfu/Slow.js",
@@ -4120,6 +4130,7 @@ module.exports = [
     url: "https://github.com/MAD-GooZe/YoutubeDelayed.js",
     source: "https://raw.githubusercontent.com/MAD-GooZe/YoutubeDelayed.js/master/YoutubeDelayed.js"
   },
+  /* dead repo link
   {
     name: "Riot",
     github: "muut/riotjs",
@@ -4128,6 +4139,7 @@ module.exports = [
     url: "https://moot.it/riotjs/",
     source: "https://raw.githubusercontent.com/muut/riotjs/master/riot.js"
   },
+  */
   {
     name: "Contra",
     tags: ["async", "asynchronous", "flow", "events", "callbacks", "queue"],
@@ -4276,6 +4288,7 @@ module.exports = [
     url: "https://github.com/joelalejandro/stuff",
     source: "https://raw.githubusercontent.com/joelalejandro/stuff/master/ListOf.js"
   },
+  /* dead repo link
   {
     name: "handlebars-autorenderer",
     tags: ["handlebars", "rendering", "templating"],
@@ -4283,6 +4296,8 @@ module.exports = [
     url: "https://gist.github.com/ambrosechua/9e4455100c43a8a2cb1c",
     source: "https://gist.githubusercontent.com/ambrosechua/9e4455100c43a8a2cb1c/raw/754c759e02a3980c265440b18b82c1f5529b6115/handlebars-autorenderer.js"
   },
+  */
+  /* dead repo link
   {
     name: "O.o.tree",
     tags: ["rendering", "templating", "MutationObserver", "observer", "object"],
@@ -4290,6 +4305,7 @@ module.exports = [
     url: "https://gist.github.com/ambrosechua/5b6f804cef53118db28b",
     source: "https://gist.githubusercontent.com/ambrosechua/5b6f804cef53118db28b/raw/7ec6141f642908a0392e0f9a6fb3dfb1975a6e82/O.o.tree.js"
   },
+  */
   {
     name: "KolorWheel.js",
     tags: ["jQuery", "color", "color manipulation", "gradient", "HSL"],
