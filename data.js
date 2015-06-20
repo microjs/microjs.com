@@ -26,11 +26,11 @@ module.exports = [
   },
   {
     name: "Trak.js",
-    github: "tmwagency/trak.js",
-    tags: ["trak", "track", "events", "analytics", "google", "tag"],
+    github: "mrmartineau/trak.js",
+    tags: ["trak", "track", "events", "analytics", "google", "tag", "tagging"],
     description: "Universal analytics event tracking API wrapper",
-    url: "https://github.com/tmwagency/trak.js",
-    source: "https://raw.githubusercontent.com/tmwagency/trak.js/master/dist/trak.js"
+    url: "https://github.com/mrmartineau/trak.js",
+    source: "https://raw.githubusercontent.com/mrmartineau/trak.js/master/dist/trak.js"
   },
   {
     name: "ease.js",
