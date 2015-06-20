@@ -454,6 +454,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/jesseskinner/hoverboard/master/dist/hoverboard.js"
   },
   {
+    name: "j2c",
+    github: "pygy/j2c",
+    tags: ["CSS", "compiler", "preprocessor", "SASS", "LESS", "Stylus", "JSON"],
+    description: "CSS preprocessor working from JavaScript objects.",
+    url: "http://j2c.py.gy",
+    source: "https://raw.githubusercontent.com/pygy/j2c/master/dist/j2c.global.js"
+  },
+  {
     name: "JsChannels",
     github: "brophdawg11/JsChannels",
     tags: ["Channels", "core.async", "async", "Promise", "Deferred", "Deferreds", "Promises"],
@@ -2264,6 +2272,13 @@ module.exports = [
     description: "Scrolls up your curtain!",
     url: "https://github.com/yckart/Curtain.js",
     source: "https://raw.githubusercontent.com/yckart/Curtain.js/master/curtain.js"
+  },
+  {
+    name: "HTMLparser",
+    tags: ["html", "dom","manipulation","json","parser","htmlparser"],
+    description: "It parses HTML ¯\_(ツ)_/¯",
+    url: "https://github.com/seun40/HTMLparser",
+    source: "https://raw.githubusercontent.com/seun40/HTMLparser/master/HTMLparser.js"
   },
   {
     name: "imageMaps.js",

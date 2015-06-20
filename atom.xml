@@ -4649,38 +4649,58 @@
 	</entry>
 
 	<entry>
-		<title>form-to-obj</title>
-		<link href="https://github.com/chrisdavies/form-to-obj" />
-		<id>urn:uuid:754e50d0-1218-11e5-8879-2daba47803d9</id>
-		<updated>2015-06-13'T'22:06:29+00:00</updated>
-		<summary>A small, zero-dependency form-to-object serialization utility</summary>
-	</entry>	<entry>
+		<title>ba.js</title>
+		<link href="http://bajs.io" />
+		<id>urn:uuid:8d1c6c10-1754-11e5-9430-51295632daa1</id>
+		<updated>2015-06-20'T'13:59:18+00:00</updated>
+		<summary>Create and manage CSS3 animations from JavaScript.</summary>
+	</entry>
+
+	<entry>
 		<title>fetchival</title>
 		<link href="https://github.com/typicode/fetchival" />
-		<id>urn:uuid:6d4bcc90-171e-11e5-9d88-db28201deec0</id>
-		<updated>2015-06-20'T'07:31:54+00:00</updated>
+		<id>urn:uuid:8d1ce140-1754-11e5-9430-51295632daa1</id>
+		<updated>2015-06-20'T'13:59:18+00:00</updated>
 		<summary>Easy fetch requests</summary>
 	</entry>
 
 	<entry>
-		<title>ba.js</title>
-		<link href="http://bajs.io" />
-		<id>urn:uuid:bf9b7710-171f-11e5-8af6-8933f1e3dfcb</id>
-		<updated>2015-06-20'T'07:41:21+00:00</updated>
-		<summary>Create and manage CSS3 animations from JavaScript.</summary>
+		<title>j2c</title>
+		<link href="http://j2c.py.gy" />
+		<id>urn:uuid:9107fe20-1754-11e5-9430-51295632daa1</id>
+		<updated>2015-06-20'T'13:59:18+00:00</updated>
+		<summary>CSS preprocessor working from JavaScript objects.</summary>
 	</entry>
-	<entry>
+
+	<entry>
+		<title>form-to-obj</title>
+		<link href="https://github.com/chrisdavies/form-to-obj" />
+		<id>urn:uuid:91d6e6e0-1754-11e5-9430-51295632daa1</id>
+		<updated>2015-06-20'T'13:59:18+00:00</updated>
+		<summary>A small, zero-dependency form-to-object serialization utility</summary>
+	</entry>
+
+	<entry>
+		<title>HTMLparser</title>
+		<link href="https://github.com/seun40/HTMLparser" />
+		<id>urn:uuid:a7983510-1754-11e5-9430-51295632daa1</id>
+		<updated>2015-06-20'T'13:59:18+00:00</updated>
+		<summary>It parses HTML ¯_(ツ)_/¯</summary>
+	</entry>
+
+	<entry>
 		<title>Telegraph</title>
 		<link href="https://github.com/dubrowgn/telegraph" />
-		<id>urn:uuid:a22bf400-f5b6-11e4-bde7-cf5434eaf49c</id>
-		<updated>2015-05-08'T'19:14:03+00:00</updated>
+		<id>urn:uuid:b1bca490-1754-11e5-9430-51295632daa1</id>
+		<updated>2015-06-20'T'13:59:18+00:00</updated>
 		<summary>A very minimal event emitter for browsers, forked from Benjamin Thomas&apos; smokesignals.js, that allows for cancelable events</summary>
 	</entry>
+
 	<entry>
 		<title>StringFormatter</title>
 		<link href="https://github.com/anywhichway/stringformatter" />
-		<id>urn:uuid:e0358940-1722-11e5-93d6-bd95f7d8c838</id>
-		<updated>2015-06-20'T'08:03:02+00:00</updated>
+		<id>urn:uuid:b2fc7790-1754-11e5-9430-51295632daa1</id>
+		<updated>2015-06-20'T'13:59:18+00:00</updated>
 		<summary>An extensible, garbage collecting Javascript string formatter that supports objects, currency, date/time, decimals, and more ... goes far beyond sprintf approach.</summary>
 	</entry>
 
