@@ -4662,5 +4662,13 @@
 		<summary>Easy fetch requests</summary>
 	</entry>
 
+	<entry>
+		<title>ba.js</title>
+		<link href="http://bajs.io" />
+		<id>urn:uuid:bf9b7710-171f-11e5-8af6-8933f1e3dfcb</id>
+		<updated>2015-06-20'T'07:41:21+00:00</updated>
+		<summary>Create and manage CSS3 animations from JavaScript.</summary>
+	</entry>
+
 
 </feed>

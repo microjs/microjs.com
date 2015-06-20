@@ -17,6 +17,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/wieringen/tinyscrollbar/master/lib/tinyscrollbar.js"
   },
   {
+    name: "ba.js",
+    github: "Arood/bajs",
+    tags: ["animation","animations","css","css3"],
+    description: "Create and manage CSS3 animations from JavaScript.",
+    url: "http://bajs.io",
+    source: "https://raw.githubusercontent.com/Arood/bajs/master/ba.js"
+  },
+  {
     name: "Trak.js",
     github: "tmwagency/trak.js",
     tags: ["trak", "track", "events", "analytics", "google", "tag"],
