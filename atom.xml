@@ -4654,5 +4654,13 @@
 		<id>urn:uuid:754e50d0-1218-11e5-8879-2daba47803d9</id>
 		<updated>2015-06-13'T'22:06:29+00:00</updated>
 		<summary>A small, zero-dependency form-to-object serialization utility</summary>
+	</entry>	<entry>
+		<title>fetchival</title>
+		<link href="https://github.com/typicode/fetchival" />
+		<id>urn:uuid:6d4bcc90-171e-11e5-9d88-db28201deec0</id>
+		<updated>2015-06-20'T'07:31:54+00:00</updated>
+		<summary>Easy fetch requests</summary>
 	</entry>
+
+
 </feed>
