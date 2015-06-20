@@ -4391,6 +4391,6 @@ module.exports = [
      tags: ["animation","animations","css","css3"],
      description: "Create and manage CSS3 animations from JavaScript.",
      url: "http://bajs.io",
-     source: "https://raw.githubusercontent.com/Arood/bajs/master/ba.min.js"
+     source: "https://raw.githubusercontent.com/Arood/bajs/master/ba.js"
   }
 ];
