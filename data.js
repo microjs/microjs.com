@@ -109,6 +109,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/lhorie/mithril.js/master/mithril.js"
   },
   {
+    name: "fetchival",
+    github: "typicode/fetchival",
+    tags: ["fetch", "promise", "json", "xhr", "ajax", "rest"],
+    description: "Easy fetch requests",
+    url: "https://github.com/typicode/fetchival",
+    source: "https://raw.githubusercontent.com/typicode/fetchival/master/index.js"
+  },
+  {
     name: "VanillaMasker",
     github: "BankFacil/vanilla-masker",
     tags: ["mask input", "mask", "vanilla"],
