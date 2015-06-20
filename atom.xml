@@ -4676,5 +4676,13 @@
 		<updated>2015-05-08'T'19:14:03+00:00</updated>
 		<summary>A very minimal event emitter for browsers, forked from Benjamin Thomas&apos; smokesignals.js, that allows for cancelable events</summary>
 	</entry>
+	<entry>
+		<title>StringFormatter</title>
+		<link href="https://github.com/anywhichway/stringformatter" />
+		<id>urn:uuid:e0358940-1722-11e5-93d6-bd95f7d8c838</id>
+		<updated>2015-06-20'T'08:03:02+00:00</updated>
+		<summary>An extensible, garbage collecting Javascript string formatter that supports objects, currency, date/time, decimals, and more ... goes far beyond sprintf approach.</summary>
+	</entry>
+
 
 </feed>

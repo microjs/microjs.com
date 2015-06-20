@@ -2937,6 +2937,14 @@ module.exports = [
     source: "http://bestiejs.github.io/json3/lib/json3.js"
   },
   {
+    name: "StringFormatter",
+    github: "anywhichway/stringformatter",
+    tags: ["formatting","ui","text","string"],
+    description: "An extensible, garbage collecting Javascript string formatter that supports objects, currency, date/time, decimals, and more ... goes far beyond sprintf approach.",
+    url: "https://github.com/anywhichway/stringformatter",
+    source: "https://raw.githubusercontent.com/anywhichway/stringformatter/master/StringFormatter.js"
+  },
+  {
     name: "promise.js",
     tags: ["async", "promise", "future", "deffered", "ajax"],
     description: "Lightweight promises (or futures, or deffered). Includes AJAX REST functions.",
