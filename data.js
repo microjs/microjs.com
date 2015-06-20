@@ -2234,6 +2234,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/yckart/Curtain.js/master/curtain.js"
   },
   {
+    name: "HTMLparser",
+    tags: ["html", "dom","manipulation","json","parser","htmlparser"],
+    description: "It parses HTML ¯\_(ツ)_/¯",
+    url: "https://github.com/seun40/HTMLparser",
+    source: "https://raw.githubusercontent.com/seun40/HTMLparser/master/HTMLparser.js"
+  },
+  {
     name: "imageMaps.js",
     tags: ["responsive", "image", "usemap", "imagemap", "map", "area"],
     description: "Responsive image maps to all browsers",
