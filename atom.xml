@@ -4669,6 +4669,12 @@
 		<updated>2015-06-20'T'07:41:21+00:00</updated>
 		<summary>Create and manage CSS3 animations from JavaScript.</summary>
 	</entry>
-
+	<entry>
+		<title>Telegraph</title>
+		<link href="https://github.com/dubrowgn/telegraph" />
+		<id>urn:uuid:a22bf400-f5b6-11e4-bde7-cf5434eaf49c</id>
+		<updated>2015-05-08'T'19:14:03+00:00</updated>
+		<summary>A very minimal event emitter for browsers, forked from Benjamin Thomas&apos; smokesignals.js, that allows for cancelable events</summary>
+	</entry>
 
 </feed>
