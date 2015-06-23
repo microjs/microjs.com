@@ -37,7 +37,7 @@ module.exports = [
     github: "fhopeman/justlazy",
     tags: ["lazy", "load", "lazyload", "responsive", "image", "images", "loader", "srcset", "picture"],
     description: "Micro javascript library to lazy load responsive images (also with srcset attribute).",
-    url: "http://fhopeman.github.io/justlazy/",
+    url: "https://github.com/fhopeman/justlazy",
     source: "https://raw.githubusercontent.com/fhopeman/justlazy/master/src/justlazy.js"
   },
   {
