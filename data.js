@@ -279,6 +279,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/dhilipsiva/style.js/master/src/js/style.js"
   },
   {
+    name: "hyphen.js",
+    tags: ["text", "hyphenation", "hyphen", "liang"],
+    description: "Frank Liang's hyphenation beautifier.",
+    url: "https://github.com/ytiurin/hyphenjs",
+    source: "https://raw.githubusercontent.com/ytiurin/hyphenjs/master/versions/hyphen.0.1.js"
+  },
+  {
     name: "Sortable",
     github: "RubaXa/Sortable",
     tags: ["sortable", "dnd", "reorder", "drag", "touch"],
