@@ -8,6 +8,14 @@
 // See examples below.
 
 module.exports = [
+   {
+    name: "xflagable",
+    github: "javimosch/xflagable/",
+    tags: ["flag", "event", "promise"],
+    description: "Create flag promises",
+    url: "https://github.com/javimosch/xflagable/",
+    source: "https://raw.githubusercontent.com/javimosch/xflagable/master/xflagable.js"
+  },
   {
     name: "Tinyscrollbar",
     github: "wieringen/tinyscrollbar",
