@@ -4522,5 +4522,21 @@ module.exports = [
     description: "Ajax without XML : Asynchronous JavaScript and JavaScript/JSON(P)",
     url: "http://krampstudio.com/aja.js/",
     source: "https://raw.githubusercontent.com/krampstudio/aja.js/master/src/aja.js"
+  },
+  {
+     name: "proto",
+     github: "fresheneesz/proto",
+     tags: ["class", "inheritance", "prototype", "javascript", "superclass", "parent", "child", "inherit"],
+     description: "A prototype-based inheritance library that makes it easy to create objects and inheritance hierarchies without losing the power of javascript's prototype system.",
+     url: "https://github.com/fresheneesz/proto",
+     source: "https://raw.githubusercontent.com/fresheneesz/proto/master/proto.js"
+  },
+  {
+     name: "mongo-parse",
+     github: "fresheneesz/mongo-parse",
+     tags: ["mongo", "mongodb", "mongo db", "parse", "parser"],
+     description: "A parser for mongo db queries.",
+     url: "https://github.com/fresheneesz/mongo-parse",
+     source: "https://raw.githubusercontent.com/fresheneesz/mongo-parse/master/mongoParse.js"
   }
 ];
