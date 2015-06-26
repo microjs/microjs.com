@@ -4160,16 +4160,14 @@ module.exports = [
     url: "https://github.com/MAD-GooZe/YoutubeDelayed.js",
     source: "https://raw.githubusercontent.com/MAD-GooZe/YoutubeDelayed.js/master/YoutubeDelayed.js"
   },
-  /* dead repo link
   {
     name: "Riot",
-    github: "muut/riotjs",
+    github: "riot/riot",
     tags: ["router", "event handling", "template engine", "mvp", "framework", "fast", "tiny"],
-    description: "The 1kb client-side MVP library. An incredibly fast, powerful yet tiny tool for building large scale web applications.",
-    url: "https://moot.it/riotjs/",
-    source: "https://raw.githubusercontent.com/muut/riotjs/master/riot.js"
+    description: "A React-like, 3.5KB user interface library",
+    url: "https://muut.com/riotjs",
+    source: "https://raw.githubusercontent.com/riot/riot/master/riot.min.js"
   },
-  */
   {
     name: "Contra",
     tags: ["async", "asynchronous", "flow", "events", "callbacks", "queue"],
