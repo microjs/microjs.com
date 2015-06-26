@@ -4704,5 +4704,37 @@
 		<summary>An extensible, garbage collecting Javascript string formatter that supports objects, currency, date/time, decimals, and more ... goes far beyond sprintf approach.</summary>
 	</entry>
 
+	<entry>
+		<title>justlazy.js</title>
+		<link href="https://github.com/fhopeman/justlazy" />
+		<id>urn:uuid:7e91bb40-1c41-11e5-9d7d-ab96022c5d01</id>
+		<updated>2015-06-26'T'20:25:30+00:00</updated>
+		<summary>Micro javascript library to lazy load responsive images (also with srcset attribute).</summary>
+	</entry>
+
+	<entry>
+		<title>hyphen.js</title>
+		<link href="https://github.com/ytiurin/hyphenjs" />
+		<id>urn:uuid:812b03c0-1c41-11e5-9d7d-ab96022c5d01</id>
+		<updated>2015-06-26'T'20:25:30+00:00</updated>
+		<summary>Frank Liang&apos;s hyphenation beautifier.</summary>
+	</entry>
+
+	<entry>
+		<title>dom-i18n</title>
+		<link href="https://github.com/ruyadorno/dom-i18n" />
+		<id>urn:uuid:acc34b00-1c41-11e5-9d7d-ab96022c5d01</id>
+		<updated>2015-06-26'T'20:25:30+00:00</updated>
+		<summary>Provides a very basic HTML multilingual support using JavaScript</summary>
+	</entry>
+
+	<entry>
+		<title>micro-query</title>
+		<link href="https://github.com/aaron-harvey/micro-query" />
+		<id>urn:uuid:ae524f70-1c41-11e5-9d7d-ab96022c5d01</id>
+		<updated>2015-06-26'T'20:25:30+00:00</updated>
+		<summary>A minimal URL parameter parsing library.</summary>
+	</entry>
+
 
 </feed>
