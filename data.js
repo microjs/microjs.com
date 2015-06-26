@@ -33,6 +33,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/mrmartineau/trak.js/master/dist/trak.js"
   },
   {
+    name: "justlazy.js",
+    github: "fhopeman/justlazy",
+    tags: ["lazy", "load", "lazyload", "responsive", "image", "images", "loader", "srcset", "picture", "spinner"],
+    description: "Micro javascript library to lazy load responsive images (also with srcset attribute).",
+    url: "https://github.com/fhopeman/justlazy",
+    source: "https://raw.githubusercontent.com/fhopeman/justlazy/master/src/justlazy.js"
+  },
+  {
     name: "ease.js",
     github: "lloydzhou/ease",
     tags: ["ease", "animation"],
@@ -269,6 +277,13 @@ module.exports = [
     description: "A layman's tool to style HTML Elements and share CSS values",
     url: "https://github.com/dhilipsiva/style.js",
     source: "https://raw.githubusercontent.com/dhilipsiva/style.js/master/src/js/style.js"
+  },
+  {
+    name: "hyphen.js",
+    tags: ["text", "hyphenation", "hyphen", "liang"],
+    description: "Frank Liang's hyphenation beautifier.",
+    url: "https://github.com/ytiurin/hyphenjs",
+    source: "https://raw.githubusercontent.com/ytiurin/hyphenjs/master/versions/hyphen.0.1.js"
   },
   {
     name: "Sortable",
@@ -4365,6 +4380,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/kylepaulsen/NanoModal/master/nanomodal.js"
   },
   {
+    name: "dom-i18n",
+    github: "ruyadorno/dom-i18n",
+    tags: ["i18n", "dom", "translation", "multilingual", "html", "language", "internationalization"],
+    description: "Provides a very basic HTML multilingual support using JavaScript",
+    url: "https://github.com/ruyadorno/dom-i18n",
+    source: "https://raw.githubusercontent.com/ruyadorno/dom-i18n/master/src/dom-i18n.js"
+  },
+  {
      name: "Rlite",
      tags: ["rlite", "route", "routing", "router", "hash", "querystring", "named", "parameters"],
      description: "Tiny, simple, light-weight routing",
@@ -4478,6 +4501,13 @@ module.exports = [
      description: "A JavaScript / PHP to manage lazy loading from server to client.",
      url: "https://github.com/weeger/wjs",
      source: "https://raw.githubusercontent.com/weeger/wjs/master/src/wjs.js"
+  },
+  {
+    name: "micro-query",
+    tags: ["uri", "url", "query", "queryparams", "parameters", "parsing", "querystring" ],
+    description: "A minimal URL parameter parsing library.",
+    url: "https://github.com/aaron-harvey/micro-query",
+    source: "https://raw.githubusercontent.com/aaron-harvey/micro-query/master/micro-query.js"
   },
   {
     name: "Carpet.js",
