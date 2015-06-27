@@ -9,6 +9,14 @@
 
 module.exports = [
   {
+    name: "Location Init",
+    github: "tbleckert/location-init",
+    tags: ["router", "callback", "init"],
+    description: "Simple route callbacks",
+    url: "https://github.com/tbleckert/location-init",
+    source: "https://raw.githubusercontent.com/tbleckert/location-init/master/index.js"
+  },
+  {
     name: "Tinyscrollbar",
     github: "wieringen/tinyscrollbar",
     tags: ["scrollbar", "ui", "interface", "scroll"],
