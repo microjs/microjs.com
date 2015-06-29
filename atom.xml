@@ -4736,5 +4736,53 @@
 		<summary>A minimal URL parameter parsing library.</summary>
 	</entry>
 
+	<entry>
+		<title>xflagable</title>
+		<link href="https://github.com/javimosch/xflagable/" />
+		<id>urn:uuid:b9a39ca0-1ea6-11e5-aabd-4d8b9d71a338</id>
+		<updated>2015-06-29'T'21:35:07+00:00</updated>
+		<summary>Create flag promises</summary>
+	</entry>
+
+	<entry>
+		<title>Location Init</title>
+		<link href="https://github.com/tbleckert/location-init" />
+		<id>urn:uuid:b9a411d0-1ea6-11e5-aabd-4d8b9d71a338</id>
+		<updated>2015-06-29'T'21:35:07+00:00</updated>
+		<summary>Simple route callbacks</summary>
+	</entry>
+
+	<entry>
+		<title>geojson2svg</title>
+		<link href="https://github.com/gagan-bansal/geojson2svg" />
+		<id>urn:uuid:b9cc3340-1ea6-11e5-aabd-4d8b9d71a338</id>
+		<updated>2015-06-29'T'21:35:07+00:00</updated>
+		<summary>Converts geojson to svg string given svg viewport size and maps extent. Used for data visulizaton on maps.</summary>
+	</entry>
+
+	<entry>
+		<title>ClassManager</title>
+		<link href="https://github.com/kogarashisan/ClassManager" />
+		<id>urn:uuid:ba0089b0-1ea6-11e5-aabd-4d8b9d71a338</id>
+		<updated>2015-06-29'T'21:35:07+00:00</updated>
+		<summary>One of the fastest and most convenient class systems in the world</summary>
+	</entry>
+
+	<entry>
+		<title>proto</title>
+		<link href="https://github.com/fresheneesz/proto" />
+		<id>urn:uuid:eb4cee00-1ea6-11e5-aabd-4d8b9d71a338</id>
+		<updated>2015-06-29'T'21:35:07+00:00</updated>
+		<summary>A prototype-based inheritance library that makes it easy to create objects and inheritance hierarchies without losing the power of javascript&apos;s prototype system.</summary>
+	</entry>
+
+	<entry>
+		<title>mongo-parse</title>
+		<link href="https://github.com/fresheneesz/mongo-parse" />
+		<id>urn:uuid:eb655800-1ea6-11e5-aabd-4d8b9d71a338</id>
+		<updated>2015-06-29'T'21:35:07+00:00</updated>
+		<summary>A parser for mongo db queries.</summary>
+	</entry>
+
 
 </feed>

@@ -10,7 +10,7 @@
 module.exports = [
    {
     name: "xflagable",
-    github: "javimosch/xflagable/",
+    github: "javimosch/xflagable",
     tags: ["flag", "event", "promise"],
     description: "Create flag promises",
     url: "https://github.com/javimosch/xflagable/",
@@ -454,11 +454,11 @@ module.exports = [
   },
   {
     name: "Tipograph",
-    github: "nevyk/tipograph",
+    github: "pnevyk/tipograph",
     tags: ["typography", "type", "converter", "curly", "quotes", "dash"],
     description: "Library which transforms your text input into typographically correct sequence of characters.",
-    url: "https://github.com/nevyk/tipograph",
-    source: "https://raw.githubusercontent.com/nevyk/tipograph/master/src/replace.js"
+    url: "https://github.com/pnevyk/tipograph",
+    source: "https://raw.githubusercontent.com/pnevyk/tipograph/master/src/replace.js"
   },
   {
     name: "audioJS",
@@ -2948,10 +2948,11 @@ module.exports = [
   */
   {
     name: "impress.js",
+    github: "impress/impress.js",
     tags: ["animation", "jsanimation", "css", "css3" ],
     description: "A presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.",
-    url: "https://github.com/bartaz/impress.js",
-    source: "https://raw.githubusercontent.com/bartaz/impress.js/master/js/impress.js"
+    url: "https://github.com/impress/impress.js",
+    source: "https://raw.githubusercontent.com/impress/impress.js/master/js/impress.js"
   },
   {
     name: "Jwerty",
