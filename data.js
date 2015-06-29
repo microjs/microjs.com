@@ -73,6 +73,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/kogarashisan/ClassManager/master/lib/class_manager.js"
   },
   {
+    name: "geojson2svg",
+    github: "gagan-bansal/geojson2svg",
+    tags: ["maps", "geojson", "svg"],
+    description: "Converts geojson to svg string given svg viewport size and maps extent. Used for data visulizaton on maps.",
+    url: "https://github.com/gagan-bansal/geojson2svg",
+    source: "https://raw.githubusercontent.com/gagan-bansal/geojson2svg/master/dist/geojson2svg.js"
+  },
+  {
     name: "Timesheet.js",
     github: "sbstjn/timesheet.js",
     tags: ["timesheet", "graph", "charts", "flow", "gantt", "draw"],
