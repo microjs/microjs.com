@@ -4578,6 +4578,6 @@ module.exports = [
     tags: ["html5", "router", "routes", "tree", "framework-agnostic", "functional", "reactive", "spa"],
     description: "Simple, framework-agnostic, powerful and functional HTML5 routing solution.",
     url: "http://router5.github.io",
-    source: "https://github.com/router5/router5/blob/master/dist/browser/router5.min.js"
+    source: "https://github.com/router5/router5/blob/master/dist/browser/router5.js"
   }
 ];
