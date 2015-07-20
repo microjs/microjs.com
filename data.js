@@ -4571,5 +4571,13 @@ module.exports = [
      description: "A parser for mongo db queries.",
      url: "https://github.com/fresheneesz/mongo-parse",
      source: "https://raw.githubusercontent.com/fresheneesz/mongo-parse/master/mongoParse.js"
+  },
+  {
+    name: "router5",
+    github: "router5/router5",
+    tags: ["html5", "router", "routes", "tree", "framework-agnostic", "functional", "reactive", "spa"],
+    description: "Simple, framework-agnostic, powerful and functional HTML5 routing solution.",
+    url: "http://router5.github.io",
+    source: "https://github.com/router5/router5/blob/master/dist/browser/router5.js"
   }
 ];
