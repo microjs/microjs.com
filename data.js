@@ -2782,6 +2782,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/chrisbateman/impetus/master/impetus.js"
   },
   {
+    name: "direction.js",
+    tags: ["mobile", "canvas","carousel","touch"],
+    description: "MicroLib Canvas Carousel built for comix-ngn",
+    url: "https://github.com/seun40/direction.js",
+    source: "https://raw.githubusercontent.com/seun40/direction.js/master/direction.js"
+  },
+  {
     name: "seedrandom.js",
     tags: ["random", "RNG", "PRNG"],
     description: "A seeded random number generator. Can override Math.random or return a generator function.",
