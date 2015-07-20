@@ -38,15 +38,15 @@ module.exports = [
     tags: ["dependency", "inversion", "inversion", "control"],
     description: "A lightweight IoC container written in TypeScript.",
     url: "http://inversify.io",
-    source: "https://github.com/inversify/InversifyJS/tree/master/source"
+    source: "https://raw.githubusercontent.com/inversify/InversifyJS/master/dist/inversify.js"
   },
   {
     name: "AtSpy",
-    github: "AtSpy/typescript-spy-decorator",
+    github: "AtSpy/AtSpy",
     tags: ["decorator", "test", "spy", "angular", "typescript" ],
     description: "A test spy powered by es7 decorators and TypeScript ",
-    url: "AtSpy.github.io",
-    source: "https://github.com/AtSpy/typescript-spy-decorator/tree/master/source"
+    url: "http://AtSpy.github.io",
+    source: "https://raw.githubusercontent.com/AtSpy/AtSpy/master/dist/atspy.js"
   },
   {
     name: "Tinyscrollbar",
@@ -110,7 +110,7 @@ module.exports = [
     tags: ["timesheet", "graph", "charts", "flow", "gantt", "draw"],
     description: "Visualize your data with Timesheet.js",
     url: "https://github.com/sbstjn/timesheet.js",
-    source: "https://raw.githubusercontent.com/sbstjn/timesheet.js/master/dist/timesheet.js"
+    source: "https://raw.githubusercontent.com/sbstjn/timesheet.js/master/source/javascripts/timesheet.js"
   },
   {
     name: "dual-emitter",
@@ -156,6 +156,7 @@ module.exports = [
     url: "https://github.com/srijs/muject",
     source: "https://raw.githubusercontent.com/srijs/muject/master/index.js"
   },
+  /* gzipped file too big, 7 kB is not "micro", ignoring
   {
     name: "Chop.js",
     github: "hufyhang/chop",
@@ -164,6 +165,7 @@ module.exports = [
     url: "https://github.com/hufyhang/chop",
     source: "https://raw.githubusercontent.com/hufyhang/chop/master/chop.js"
   },
+  */
   {
     name: "Cquence.js",
     github: "RamonGebben/Cquence",
@@ -172,6 +174,7 @@ module.exports = [
     url: "https://github.com/RamonGebben/Cquence",
     source: "https://raw.githubusercontent.com/RamonGebben/Cquence/master/Cquence.js"
   },
+  /* gzipped file too big, 7 kB is not "micro", ignoring
   {
     name: "Mithril",
     github: "lhorie/mithril",
@@ -180,6 +183,7 @@ module.exports = [
     url: "https://lhorie.github.io/mithril",
     source: "https://raw.githubusercontent.com/lhorie/mithril.js/master/mithril.js"
   },
+  */
   {
     name: "fetchival",
     github: "typicode/fetchival",
@@ -1333,6 +1337,7 @@ module.exports = [
     url: "https://github.com/daniellmb/MinPubSub",
     source: "https://raw.githubusercontent.com/daniellmb/MinPubSub/master/minpubsub.src.js"
   },
+  /* gzipped file too big, 24.2 kB is not "micro", ignoring
   {
     name: "Modernizr",
     github: "Modernizr/Modernizr",
@@ -1341,6 +1346,7 @@ module.exports = [
     url: "http://www.modernizr.com/",
     source: "https://raw.githubusercontent.com/Modernizr/Modernizr/gh-pages/dist/modernizr-build.js"
   },
+  */
   {
     name: "Namespacer",
     tags: ["namespace", "modules"],
@@ -1465,6 +1471,7 @@ module.exports = [
     "url": "https://github.com/stephanebachelier/mixit",
     "source": "https://raw.githubusercontent.com/stephanebachelier/mixit/master/lib/mixit.js"
   },
+  /* Too old! Last pushed to GitHub @ 12/May/10, ignoring [2010-05-12T13:36:10Z] vs [undefined]
   {
     name: "Émile",
     tags: ["animation", "jsanimation"],
@@ -1472,6 +1479,7 @@ module.exports = [
     url: "https://github.com/madrobby/emile",
     source: "https://raw.githubusercontent.com/madrobby/emile/master/emile.js"
   },
+  */
   {
     name: "Lawnchair",
     github: "brianleroux/lawnchair",
@@ -1720,6 +1728,7 @@ module.exports = [
     url: "https://github.com/es-shims/es5-shim/",
     source: "https://raw.githubusercontent.com/es-shims/es5-shim/master/es5-shim.js"
   },
+  /* gzipped file too big, 12.4 kB is not "micro", ignoring
   {
     name: "es6-shim",
     tags: ["language", "polyfill", "shim", "harmony"],
@@ -1727,6 +1736,7 @@ module.exports = [
     url: "https://github.com/paulmillr/es6-shim/",
     source: "https://raw.githubusercontent.com/paulmillr/es6-shim/master/es6-shim.js"
   },
+  */
   {
     name: "ES6-Map-Shim",
     tags: ["language", "polyfill"],
@@ -1836,15 +1846,15 @@ module.exports = [
     name: "EventEmitter",
     tags: ["events"],
     description: "Evented JavaScript for the browser",
-    url: "https://github.com/Wolfy87/EventEmitter",
-    source: "https://raw.githubusercontent.com/Wolfy87/EventEmitter/master/EventEmitter.js"
+    url: "https://github.com/Olical/EventEmitter",
+    source: "https://raw.githubusercontent.com/Olical/EventEmitter/master/EventEmitter.js"
   },
   {
     name: "Color",
     tags: ["color"],
     description: "Color conversion functions for switching between hex decimal, RGB, names and arrays.",
-    url: "https://github.com/Wolfy87/Color",
-    source: "https://raw.githubusercontent.com/Wolfy87/Color/master/color.js"
+    url: "https://github.com/Olical/Color",
+    source: "https://raw.githubusercontent.com/Olical/Color/master/color.js"
   },
   {
     name: "Microajax",
@@ -1967,13 +1977,15 @@ module.exports = [
     source: "https://bitbucket.org/killdream/ekho/raw/tip/src/ekho.js"
   },
   */
+  /*
   {
     name: "JSON.minify",
     tags: ["json"],
-    description: "Strip out // and /*..*/ comments from JSON before parsing.",
+    description: "Strip out // and /*..* comments from JSON before parsing.",
     url: "http://github.com/getify/JSON.minify",
     source: "https://raw.githubusercontent.com/getify/JSON.minify/master/minify.json.js"
   },
+  */
   {
     name: "jaylist",
     tags: ["functional", "extend", "data"],
@@ -2224,10 +2236,7 @@ module.exports = [
     tags: ["base","compose"],
     description: "Build your own framework from scratch",
     url: "https://github.com/pyrsmk/quark",
-    source: [
-       "https://raw.githubusercontent.com/pyrsmk/quark/master/src/quark.js",
-       "https://raw.githubusercontent.com/pyrsmk/quark/master/src/starter.js"
-    ]
+    source: "https://raw.githubusercontent.com/pyrsmk/quark/master/src/quark.js"
   },
   {
     name: "DragDrop",
@@ -2355,8 +2364,8 @@ module.exports = [
     name: "HTMLparser",
     tags: ["html", "dom","manipulation","json","parser","htmlparser"],
     description: "It parses HTML ¯\_(ツ)_/¯",
-    url: "https://github.com/seun40/HTMLparser",
-    source: "https://raw.githubusercontent.com/seun40/HTMLparser/master/HTMLparser.js"
+    url: "https://github.com/ogewan/HTMLparser",
+    source: "https://raw.githubusercontent.com/ogewan/HTMLparser/master/HTMLparser.js"
   },
   {
     name: "imageMaps.js",
@@ -2861,6 +2870,7 @@ module.exports = [
     url: "https://github.com/CapMousse/T-Lite",
     source: "https://raw.githubusercontent.com/CapMousse/T-Lite/master/tlite.js"
   },
+  /* Uglify error: Unexpected token: name (ValueError)
   {
     name: "String::format",
     tags: ["string", "language", "sugar"],
@@ -2868,6 +2878,7 @@ module.exports = [
     url: "https://github.com/davidchambers/string-format",
     source: "https://raw.githubusercontent.com/davidchambers/string-format/master/src/string-format.coffee"
   },
+  */
   {
     name: "Callbacks.js",
     tags: ["events", "dispatcher", "static", "callbacks"],
@@ -3333,7 +3344,7 @@ module.exports = [
     tags: ["testing", "tdd", "unit", "bdd"],
     description: "Unopinionated JavaScript (unit/integration/whatever) testing library",
     url: "https://github.com/guardianjs/guardianjs",
-    source: "https://raw.githubusercontent.com/guardianjs/guardianjs/master/bundle.js"
+    source: "https://raw.githubusercontent.com/guardianjs/guardianjs/master/guardian.js"
   },
   {
     name: "delayed",
@@ -3358,6 +3369,7 @@ module.exports = [
     url: "http://kinglozzer.github.io/SwipeMe/demo/index.html",
     source: "https://raw.githubusercontent.com/kinglozzer/SwipeMe/master/swipeme.js"
   },
+  /* gzipped file too big, 7.8 kB is not "micro", ignoring
   {
     name: "string.js",
     tags: ["string", "language"],
@@ -3365,6 +3377,7 @@ module.exports = [
     url: "http://stringjs.com",
     source: "https://raw.githubusercontent.com/jprichardson/string.js/master/lib/string.js"
   },
+  */
   {
     name: "emitonoff",
     github: "konsumer/emitonoff",
@@ -3395,6 +3408,7 @@ module.exports = [
     url: "https://github.com/gmac/pods.js",
     source: "https://raw.githubusercontent.com/gmac/pods.js/master/pods.js"
   },
+  /* gzipped file too big, 6.1 kB is not "micro", ignoring
   {
     name: "Hammer.js",
     github: "hammerjs/hammer.js",
@@ -3403,6 +3417,7 @@ module.exports = [
     url: "http://hammerjs.github.io/hammer.js/",
     source: "https://raw.githubusercontent.com/hammerjs/hammer.js/master/hammer.js"
   },
+  */
   {
     name: "Probability.js",
     tags: ["math", "mathematics", "probability", "random", "statistics"],
@@ -3940,6 +3955,7 @@ module.exports = [
     url: "https://github.com/monospaced/hamster.js",
     source: "http://monospaced.github.io/hamster.js/hamster.js"
   },
+  /* gzipped file too big, 8.2 kB is not "micro", ignoring
   {
     name: "MinifiedJS",
     github: "timjansen/minified.js",
@@ -3948,6 +3964,7 @@ module.exports = [
     url: "http://minifiedjs.com/",
     source: "http://minifiedjs.com/download/minified-src.js"
   },
+  */
   {
     name: "spin.js",
     tags: ["spinning", "indicator", "loading", "spinner"],
@@ -4047,7 +4064,7 @@ module.exports = [
     tags: ["class", "inheritance", "extend", "amd", "prototype", "prototypal", "lazy"],
     description: "The core module of RaptorJS provides a lightweight module system that supports namespacing, AMD, class inheritance, mixins, enums and lazy initialization. Works in the browser and Node.js",
     url: "https://github.com/raptorjs-legacy/raptorjs",
-    source: "https://raw.githubusercontent.com/raptorjs-legacy/raptorjs/master/dist/raptor.js"
+    source: "https://raw.githubusercontent.com/raptorjs-legacy/raptorjs/master/dist/raptor.min.js"
   },
   {
     name: "Lie",
@@ -4172,7 +4189,7 @@ module.exports = [
     tags: ["interpolation", "string", "formatting", "template", "templating"],
     description: "Ruby-like simple string interpolation for Node.js and browsers.",
     url: "https://github.com/mvasilkov/rssi",
-    source: "https://raw.githubusercontent.com/mvasilkov/rssi/master/rssi.js"
+    source: "https://raw.githubusercontent.com/mvasilkov/rssi/derelict/rssi.js"
   },
   {
     name: "trier.js",
@@ -4470,6 +4487,7 @@ module.exports = [
      url: "https://github.com/nighca/lib",
      source: "https://raw.githubusercontent.com/nighca/lib/master/dist/lib.js"
   },
+  /*
   {
      name: "i-canvas",
      tags: ["canvas", "dom-like", "html5"],
@@ -4477,6 +4495,7 @@ module.exports = [
      url: "https://github.com/nighca/i-canvas",
      source: "https://raw.githubusercontent.com/nighca/i-canvas/master/dist/i-canvas/1.2.0/index.js"
   },
+  */
   {
      name: "universal-diff",
      tags: ["diff", "compare", "string", "array", "queue"],
@@ -4489,14 +4508,14 @@ module.exports = [
      tags: ["lightrouter", "route", "routing", "router", "hash", "querystring", "named", "parameters"],
      description: "Ultra lightweight javascript routing for traditional and single page apps.",
      url: "https://github.com/garygreen/lightrouter",
-     source: "https://github.com/garygreen/lightrouter/blob/master/src/lightrouter.js"
+     source: "https://raw.githubusercontent.com/garygreen/lightrouter/master/dist/lightrouter.js"
   },
   {
      name: "ListOf",
      tags: ["list", "collection", "array", "library", "c#"],
      description: "A JavaScript implementation of the C# List<T> object.",
      url: "https://github.com/joelalejandro/stuff",
-     source: "https://github.com/joelalejandro/stuff/raw/master/ListOf.js"
+     source: "https://raw.githubusercontent.com/joelalejandro/stuff/master/ListOf.js"
   },
   {
      name: "EventoJS",
@@ -4525,14 +4544,14 @@ module.exports = [
      tags: ["hash", "path", "route", "router"],
      description: "Tiny and lightweight browser router library, developed with SPA in mind :)",
      url: "https://github.com/michaelsogos/Hash-Router",
-     source: "https://github.com/michaelsogos/Hash-Router/blob/master/src/hash-router.js"
+     source: "https://raw.githubusercontent.com/michaelsogos/Hash-Router/master/src/hash-router.js"
   },
   {
      name: "JsDic",
      tags: ["dependency", "injection", "container", "di", "dic"],
      description: "Dependecy injection container inspired by Angular.js.",
      url: "https://github.com/janmarek/JsDic",
-     source: "https://github.com/janmarek/JsDic/blob/master/jsdic.js"
+     source: "https://raw.githubusercontent.com/janmarek/JsDic/master/jsdic.js"
   },
   {
      name: "GreinerHormann",
@@ -4609,6 +4628,6 @@ module.exports = [
     tags: ["html5", "router", "routes", "tree", "framework-agnostic", "functional", "reactive", "spa"],
     description: "Simple, framework-agnostic, powerful and functional HTML5 routing solution.",
     url: "http://router5.github.io",
-    source: "https://github.com/router5/router5/blob/master/dist/browser/router5.js"
+    source: "https://raw.githubusercontent.com/router5/router5/master/dist/browser/router5.js"
   }
 ];
