@@ -4784,5 +4784,77 @@
 		<summary>A parser for mongo db queries.</summary>
 	</entry>
 
+	<entry>
+		<title>Freezer.js</title>
+		<link href="https://github.com/arqex/freezer" />
+		<id>urn:uuid:cefb9400-2ef4-11e5-84ee-c91d9af0224b</id>
+		<updated>2015-07-20'T'15:34:20+00:00</updated>
+		<summary>An immutable tree data structure that is always updated from the root, making easier to think in a reactive way.</summary>
+	</entry>
+
+	<entry>
+		<title>CSSTemplate</title>
+		<link href="https://github.com/ezakto/CSSTemplate.js" />
+		<id>urn:uuid:e493fd70-2ef4-11e5-84ee-c91d9af0224b</id>
+		<updated>2015-07-20'T'15:34:20+00:00</updated>
+		<summary>Inject and update dynamic CSS using simple js templating</summary>
+	</entry>
+
+	<entry>
+		<title>AtSpy</title>
+		<link href="http://AtSpy.github.io" />
+		<id>urn:uuid:88ab0510-2ef6-11e5-9eba-b591b60222d1</id>
+		<updated>2015-07-20'T'15:46:47+00:00</updated>
+		<summary>A test spy powered by es7 decorators and TypeScript </summary>
+	</entry>
+
+	<entry>
+		<title>InversifyJS</title>
+		<link href="http://inversify.io" />
+		<id>urn:uuid:6ca01b20-2ef7-11e5-91ae-2959308c9406</id>
+		<updated>2015-07-20'T'15:53:09+00:00</updated>
+		<summary>A lightweight IoC container written in TypeScript.</summary>
+	</entry>
+
+	<entry>
+		<title>guardian.js</title>
+		<link href="https://github.com/guardianjs/guardianjs" />
+		<id>urn:uuid:b64e13a0-2efa-11e5-bf95-475a0b9f0fe0</id>
+		<updated>2015-07-20'T'16:15:48+00:00</updated>
+		<summary>Unopinionated JavaScript (unit/integration/whatever) testing library</summary>
+	</entry>
+
+	<entry>
+		<title>lightrouter</title>
+		<link href="https://github.com/garygreen/lightrouter" />
+		<id>urn:uuid:c077b340-2efa-11e5-bf95-475a0b9f0fe0</id>
+		<updated>2015-07-20'T'16:15:48+00:00</updated>
+		<summary>Ultra lightweight javascript routing for traditional and single page apps.</summary>
+	</entry>
+
+	<entry>
+		<title>hash-router</title>
+		<link href="https://github.com/michaelsogos/Hash-Router" />
+		<id>urn:uuid:c0d73860-2efa-11e5-bf95-475a0b9f0fe0</id>
+		<updated>2015-07-20'T'16:15:48+00:00</updated>
+		<summary>Tiny and lightweight browser router library, developed with SPA in mind :)</summary>
+	</entry>
+
+	<entry>
+		<title>JsDic</title>
+		<link href="https://github.com/janmarek/JsDic" />
+		<id>urn:uuid:c0d75f70-2efa-11e5-bf95-475a0b9f0fe0</id>
+		<updated>2015-07-20'T'16:15:48+00:00</updated>
+		<summary>Dependecy injection container inspired by Angular.js.</summary>
+	</entry>
+
+	<entry>
+		<title>router5</title>
+		<link href="http://router5.github.io" />
+		<id>urn:uuid:c174b0e0-2efa-11e5-bf95-475a0b9f0fe0</id>
+		<updated>2015-07-20'T'16:15:48+00:00</updated>
+		<summary>Simple, framework-agnostic, powerful and functional HTML5 routing solution.</summary>
+	</entry>
+
 
 </feed>
