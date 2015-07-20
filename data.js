@@ -2125,6 +2125,13 @@ module.exports = [
     github: "pyrsmk/RIP"
   },
   {
+    name: "CSSTemplate",
+    tags: ["css","templates","global","client","browser","util"],
+    description: "Inject and update dynamic CSS using simple js templating",
+    url: "https://github.com/ezakto/CSSTemplate.js",
+    source: "https://raw.githubusercontent.com/ezakto/CSSTemplate.js/master/CSSTemplate.js"
+  },
+  {
     name: "ClassIE",
     tags: ["feature"],
     description: "ClassIE is an unobstrusive library which detects Internet Explorer version for JS and CSS sides",
