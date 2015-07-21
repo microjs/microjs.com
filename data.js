@@ -113,6 +113,14 @@ module.exports = [
     source: "https://github.com/5HT/n2o/tree/master/priv"
   },
   {
+    name: "Rat.js",
+    github: "keyten/Rat.js",
+    tags: ["canvas", "graphics", "oop", "html5", "games", "image", "draw"],
+    description: "Use objects on canvas",
+    url: "https://github.com/keyten/Rat.js",
+    source: "https://raw.githubusercontent.com/keyten/Rat.js/master/rat.js"
+  },
+  {
     name: "Timesheet.js",
     github: "sbstjn/timesheet.js",
     tags: ["timesheet", "graph", "charts", "flow", "gantt", "draw"],
