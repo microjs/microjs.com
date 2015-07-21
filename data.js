@@ -110,7 +110,11 @@ module.exports = [
     tags: ["Web Framework", "BERT", "WebSocket", "templating", "UTF-8", "validation", "Erlang"],
     description: "N2O Web Frameowork JavaScript companion library",
     url: "https://github.com/5HT/n2o",
-    source: "https://github.com/5HT/n2o/tree/master/priv"
+    source: ["https://raw.githubusercontent.com/5HT/n2o/master/priv/bullet.js",
+             "https://raw.githubusercontent.com/5HT/n2o/master/priv/n2o.js",
+             "https://raw.githubusercontent.com/5HT/n2o/master/priv/template.js",
+             "https://raw.githubusercontent.com/5HT/n2o/master/priv/utf8.js",
+             "https://raw.githubusercontent.com/5HT/n2o/master/priv/validation.js"]
   },
   {
     name: "Rat.js",
@@ -4674,7 +4678,7 @@ module.exports = [
      tags: ["IndexedDB", "WebSQL", "localStorage", "sessionStorage", "localStorage", "storage", "database", "object", "store"],
      description: "JavaScript Library for Cross Browser Persistence using WebStorage (LocalStorage, SessionStorage, WebSQL and IndexedDB) for all browsers.",
      url: "https://github.com/lcavadas/Storage.js",
-     source: "https://raw.githubusercontent.com/lcavadas/Storage.js/1.0.0/storage.min.js"
+     source: "https://raw.githubusercontent.com/lcavadas/Storage.js/master/build/storage.js"
   },
   {
     name: "xr",
@@ -4682,6 +4686,6 @@ module.exports = [
     tags: ["ajax", "xhr", "xmlhttprequest", "promise", "json", "request"],
     description: "Ultra-simple promise based wrapper around XMLHttpRequest",
     url: "https://github.com/radiosilence/xr",
-    source: "https://raw.githubusercontent.com/radiosilence/xr/master/src/xr.js"
+    source: "https://raw.githubusercontent.com/radiosilence/xr/master/xr.js"
   }
 ];
