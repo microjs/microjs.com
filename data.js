@@ -2060,6 +2060,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/jiem/my-common/master/my.common.js"
   },
   {
+    name: "domchanger",
+    tags: ["dom", "ui", "reactive"],
+    description: "Domchanger calculates diffs between virtual dom trees (JSONML) and applies only the difference to the dom",
+    url: "https://github.com/creationix/domchanger",
+    source: "https://raw.githubusercontent.com/creationix/domchanger/master/domchanger.js"
+  },
+  {
     name: "my.class.js",
     tags: ["language", "class"],
     description: "Probably the fastest JS class system. No wrappers.",
