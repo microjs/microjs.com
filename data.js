@@ -4644,5 +4644,13 @@ module.exports = [
     description: "Simple, framework-agnostic, powerful and functional HTML5 routing solution.",
     url: "http://router5.github.io",
     source: "https://raw.githubusercontent.com/router5/router5/master/dist/browser/router5.js"
+  },
+  {
+    name: "type-ahead.js",
+    github: "marcojetson/type-ahead.js",
+    tags: ["typeahead", "autocomplete", "autosuggest", "complete", "suggest"],
+    description: "A lightweight and extensible type ahead library",
+    url: "https://github.com/marcojetson/type-ahead.js",
+    source: "https://raw.githubusercontent.com/marcojetson/type-ahead.js/master/type-ahead.js"
   }
 ];
