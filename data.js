@@ -4660,5 +4660,13 @@ module.exports = [
      description: "JavaScript Library for Cross Browser Persistence using WebStorage (LocalStorage, SessionStorage, WebSQL and IndexedDB) for all browsers.",
      url: "https://github.com/lcavadas/Storage.js",
      source: "https://raw.githubusercontent.com/lcavadas/Storage.js/1.0.0/storage.min.js"
+  },
+  {
+    name: "xr",
+    github: "radiosilence/xr",
+    tags: ["ajax", "xhr", "xmlhttprequest", "promise", "json", "request"],
+    description: "Ultra-simple promise based wrapper around XMLHttpRequest",
+    url: "https://github.com/radiosilence/xr",
+    source: "https://raw.githubusercontent.com/radiosilence/xr/master/src/xr.js"
   }
 ];
