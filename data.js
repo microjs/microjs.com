@@ -2083,6 +2083,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/creationix/domchanger/master/domchanger.js"
   },
   {
+    name: "msgpack-js",
+    tags: ["msgpack", "json", "format", "encoder", "decoder", ],
+    description: "A msgpack encoder and decoder using ArrayBuffer and DataView",
+    url: "https://github.com/creationix/msgpack-js-browser",
+    source: "https://raw.githubusercontent.com/creationix/msgpack-js-browser/master/msgpack.js"
+  },
+  {
     name: "my.class.js",
     tags: ["language", "class"],
     description: "Probably the fastest JS class system. No wrappers.",
