@@ -4652,5 +4652,13 @@ module.exports = [
     description: "A lightweight and extensible type ahead library",
     url: "https://github.com/marcojetson/type-ahead.js",
     source: "https://raw.githubusercontent.com/marcojetson/type-ahead.js/master/type-ahead.js"
+  },
+  {
+     name: "Storage.js",
+     github: "lcavadas/Storage.js",
+     tags: ["IndexedDB", "WebSQL", "localStorage", "sessionStorage", "localStorage", "storage", "database", "object", "store"],
+     description: "JavaScript Library for Cross Browser Persistence using WebStorage (LocalStorage, SessionStorage, WebSQL and IndexedDB) for all browsers.",
+     url: "https://github.com/lcavadas/Storage.js",
+     source: "https://raw.githubusercontent.com/lcavadas/Storage.js/1.0.0/storage.min.js"
   }
 ];
