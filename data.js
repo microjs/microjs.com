@@ -105,6 +105,26 @@ module.exports = [
     source: "https://raw.githubusercontent.com/gagan-bansal/geojson2svg/master/dist/geojson2svg.js"
   },
   {
+    name: "N2O.js",
+    github: "5HT/n2o",
+    tags: ["Web Framework", "BERT", "WebSocket", "templating", "UTF-8", "validation", "Erlang"],
+    description: "N2O Web Frameowork JavaScript companion library",
+    url: "https://github.com/5HT/n2o",
+    source: ["https://raw.githubusercontent.com/5HT/n2o/master/priv/bullet.js",
+             "https://raw.githubusercontent.com/5HT/n2o/master/priv/n2o.js",
+             "https://raw.githubusercontent.com/5HT/n2o/master/priv/template.js",
+             "https://raw.githubusercontent.com/5HT/n2o/master/priv/utf8.js",
+             "https://raw.githubusercontent.com/5HT/n2o/master/priv/validation.js"]
+  },
+  {
+    name: "Rat.js",
+    github: "keyten/Rat.js",
+    tags: ["canvas", "graphics", "oop", "html5", "games", "image", "draw"],
+    description: "Use objects on canvas",
+    url: "https://github.com/keyten/Rat.js",
+    source: "https://raw.githubusercontent.com/keyten/Rat.js/master/rat.js"
+  },
+  {
     name: "Timesheet.js",
     github: "sbstjn/timesheet.js",
     tags: ["timesheet", "graph", "charts", "flow", "gantt", "draw"],
@@ -2058,6 +2078,20 @@ module.exports = [
     description: "A CommonJS-like script/module loader.",
     url: "https://github.com/jiem/my-common",
     source: "https://raw.githubusercontent.com/jiem/my-common/master/my.common.js"
+  },
+  {
+    name: "domchanger",
+    tags: ["dom", "ui", "reactive"],
+    description: "Domchanger calculates diffs between virtual dom trees (JSONML) and applies only the difference to the dom",
+    url: "https://github.com/creationix/domchanger",
+    source: "https://raw.githubusercontent.com/creationix/domchanger/master/domchanger.js"
+  },
+  {
+    name: "msgpack-js",
+    tags: ["msgpack", "json", "format", "encoder", "decoder", ],
+    description: "A msgpack encoder and decoder using ArrayBuffer and DataView",
+    url: "https://github.com/creationix/msgpack-js-browser",
+    source: "https://raw.githubusercontent.com/creationix/msgpack-js-browser/master/msgpack.js"
   },
   {
     name: "my.class.js",
@@ -4629,5 +4663,29 @@ module.exports = [
     description: "Simple, framework-agnostic, powerful and functional HTML5 routing solution.",
     url: "http://router5.github.io",
     source: "https://raw.githubusercontent.com/router5/router5/master/dist/browser/router5.js"
+  },
+  {
+    name: "type-ahead.js",
+    github: "marcojetson/type-ahead.js",
+    tags: ["typeahead", "autocomplete", "autosuggest", "complete", "suggest"],
+    description: "A lightweight and extensible type ahead library",
+    url: "https://github.com/marcojetson/type-ahead.js",
+    source: "https://raw.githubusercontent.com/marcojetson/type-ahead.js/master/type-ahead.js"
+  },
+  {
+     name: "Storage.js",
+     github: "lcavadas/Storage.js",
+     tags: ["IndexedDB", "WebSQL", "localStorage", "sessionStorage", "localStorage", "storage", "database", "object", "store"],
+     description: "JavaScript Library for Cross Browser Persistence using WebStorage (LocalStorage, SessionStorage, WebSQL and IndexedDB) for all browsers.",
+     url: "https://github.com/lcavadas/Storage.js",
+     source: "https://raw.githubusercontent.com/lcavadas/Storage.js/master/build/storage.js"
+  },
+  {
+    name: "xr",
+    github: "radiosilence/xr",
+    tags: ["ajax", "xhr", "xmlhttprequest", "promise", "json", "request"],
+    description: "Ultra-simple promise based wrapper around XMLHttpRequest",
+    url: "https://github.com/radiosilence/xr",
+    source: "https://raw.githubusercontent.com/radiosilence/xr/master/xr.js"
   }
 ];

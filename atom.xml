@@ -4856,5 +4856,61 @@
 		<summary>Simple, framework-agnostic, powerful and functional HTML5 routing solution.</summary>
 	</entry>
 
+	<entry>
+		<title>Rat.js</title>
+		<link href="https://github.com/keyten/Rat.js" />
+		<id>urn:uuid:0ef28e50-2fc8-11e5-b855-a7b3cf9a9141</id>
+		<updated>2015-07-21'T'16:46:33+00:00</updated>
+		<summary>Use objects on canvas</summary>
+	</entry>
+
+	<entry>
+		<title>domchanger</title>
+		<link href="https://github.com/creationix/domchanger" />
+		<id>urn:uuid:20c4ef10-2fc8-11e5-b855-a7b3cf9a9141</id>
+		<updated>2015-07-21'T'16:46:33+00:00</updated>
+		<summary>Domchanger calculates diffs between virtual dom trees (JSONML) and applies only the difference to the dom</summary>
+	</entry>
+
+	<entry>
+		<title>msgpack-js</title>
+		<link href="https://github.com/creationix/msgpack-js-browser" />
+		<id>urn:uuid:20ffd530-2fc8-11e5-b855-a7b3cf9a9141</id>
+		<updated>2015-07-21'T'16:46:33+00:00</updated>
+		<summary>A msgpack encoder and decoder using ArrayBuffer and DataView</summary>
+	</entry>
+
+	<entry>
+		<title>type-ahead.js</title>
+		<link href="https://github.com/marcojetson/type-ahead.js" />
+		<id>urn:uuid:391ee980-2fc8-11e5-b855-a7b3cf9a9141</id>
+		<updated>2015-07-21'T'16:46:33+00:00</updated>
+		<summary>A lightweight and extensible type ahead library</summary>
+	</entry>
+
+	<entry>
+		<title>N2O.js</title>
+		<link href="https://github.com/5HT/n2o" />
+		<id>urn:uuid:a6799a20-2fc8-11e5-95bb-a38533bf7909</id>
+		<updated>2015-07-21'T'16:50:50+00:00</updated>
+		<summary>N2O Web Frameowork JavaScript companion library</summary>
+	</entry>
+
+	<entry>
+		<title>Storage.js</title>
+		<link href="https://github.com/lcavadas/Storage.js" />
+		<id>urn:uuid:429c7530-2fc9-11e5-a078-47d1cf2cd721</id>
+		<updated>2015-07-21'T'16:53:59+00:00</updated>
+		<summary>JavaScript Library for Cross Browser Persistence using WebStorage (LocalStorage, SessionStorage, WebSQL and IndexedDB) for all browsers.</summary>
+	</entry>
+
+	<entry>
+		<title>xr</title>
+		<link href="https://github.com/radiosilence/xr" />
+		<id>urn:uuid:429dd4c0-2fc9-11e5-a078-47d1cf2cd721</id>
+		<updated>2015-07-21'T'16:53:59+00:00</updated>
+		<summary>Ultra-simple promise based wrapper around XMLHttpRequest</summary>
+	</entry>
+
 
 </feed>
