@@ -3524,7 +3524,7 @@ module.exports = [
     github: "nwtjs/nwt",
     tags: ["framework", "base", "dom", "webkit", "ajax", "events", "mobile", "animation", "transitions"],
     description: "Small JS framework that ships with ajax, anim, dom, and event methods. Several plugins available.",
-    url: "http://nwtjs.org",
+    url: "http://nwtjs.github.io/nwt/",
     source: "https://raw.githubusercontent.com/nwtjs/nwt/master/nwt.js"
   },
   {
