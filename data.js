@@ -4687,5 +4687,13 @@ module.exports = [
     description: "Ultra-simple promise based wrapper around XMLHttpRequest",
     url: "https://github.com/radiosilence/xr",
     source: "https://raw.githubusercontent.com/radiosilence/xr/master/xr.js"
+  },
+  {
+    name: "estrada",
+    github: "weslleyaraujo/estrada",
+    tags: ["router"],
+    description: "Lightwell router manager",
+    url: "https://github.com/weslleyaraujo/estrada",
+    source: "https://raw.githubusercontent.com/weslleyaraujo/estrada/master/dist/estrada.js"
   }
 ];
