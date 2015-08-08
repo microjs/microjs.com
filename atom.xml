@@ -4912,5 +4912,13 @@
 		<summary>Ultra-simple promise based wrapper around XMLHttpRequest</summary>
 	</entry>
 
+	<entry>
+		<title>ViaJS</title>
+		<link href="https://github.com/abdi0987/ViaJS" />
+		<id>urn:uuid:86bedcf0-3dd2-11e5-a63f-2f0a0d085b87</id>
+		<updated>2015-08-08'T'13:36:29+00:00</updated>
+		<summary>Via is a small library that allows you to load content on to a page dynamically</summary>
+	</entry>
+
 
 </feed>

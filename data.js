@@ -9,6 +9,14 @@
 
 module.exports = [
    {
+    name: "ViaJS",
+    github: "abdi0987/ViaJS",
+    tags: ["content","load","route","dynamic","browser","page",'html'],
+    description: "Via is a small library that allows you to load content on to a page dynamically",
+    url: "https://github.com/abdi0987/ViaJS",
+    source: "https://raw.githubusercontent.com/abdi0987/ViaJS/master/lib/app.js"
+  },
+   {
     name: "xflagable",
     github: "javimosch/xflagable",
     tags: ["flag", "event", "promise"],
