@@ -4695,5 +4695,13 @@ module.exports = [
     description: "Ultra-simple promise based wrapper around XMLHttpRequest",
     url: "https://github.com/radiosilence/xr",
     source: "https://raw.githubusercontent.com/radiosilence/xr/master/xr.js"
+  },
+  {
+    name: "html-chain",
+    github: "maael/html-chain",
+    tags: ["html", "lightweight","dom", "dom-builder", "templating", "chain"],
+    description: "A small javascript library to build DOM elements by chaining javascript functions",
+    url: "https://github.com/maael/html-chain",
+    source: "https://raw.githubusercontent.com/maael/html-chain/master/html.js"
   }
 ];
