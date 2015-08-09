@@ -4928,5 +4928,13 @@
 		<summary>A small javascript library to build DOM elements by chaining javascript functions</summary>
 	</entry>
 
+	<entry>
+		<title>Soundbox</title>
+		<link href="https://github.com/sbrl/soundbox" />
+		<id>urn:uuid:61ef4770-3ecc-11e5-8c0f-77f89dccc168</id>
+		<updated>2015-08-09'T'19:24:54+00:00</updated>
+		<summary>A super simple JS library for playing sound effects</summary>
+	</entry>
+
 
 </feed>

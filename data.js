@@ -2352,6 +2352,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/deepsweet/microjungle/master/dist/dom.js"
   },
   {
+    name: "Soundbox",
+	tags: ["sound", "audio", "play", "media"],
+	description: "A super simple JS library for playing sound effects",
+	url: "https://github.com/sbrl/soundbox",
+	source: "https://raw.githubusercontent.com/sbrl/soundbox/master/soundbox.js"
+  },
+  {
     name: "Optiscroll",
     tags: ["scroll", "ui", "event", "touch", "scrollbar"],
     description: "Custom scrollbars for modern webapps. Supercharge the native scroll",
