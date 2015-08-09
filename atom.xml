@@ -4920,5 +4920,13 @@
 		<summary>Via is a small library that allows you to load content on to a page dynamically</summary>
 	</entry>
 
+	<entry>
+		<title>html-chain</title>
+		<link href="https://github.com/maael/html-chain" />
+		<id>urn:uuid:bb721210-3ec6-11e5-a40c-694ea884b8a7</id>
+		<updated>2015-08-09'T'18:43:47+00:00</updated>
+		<summary>A small javascript library to build DOM elements by chaining javascript functions</summary>
+	</entry>
+
 
 </feed>
