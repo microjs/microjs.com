@@ -4687,5 +4687,13 @@ module.exports = [
     description: "Ultra-simple promise based wrapper around XMLHttpRequest",
     url: "https://github.com/radiosilence/xr",
     source: "https://raw.githubusercontent.com/radiosilence/xr/master/xr.js"
-  }
+  },
+    {
+    name: "Pjax-Parser",
+    github: "nmabhinandan/pjax-parser",
+    tags: ["pjax", "ajax", "express", "nodejs"],
+    description: "An Express middleware to handle pjax requests",
+    url: "https://github.com/nmabhinandan/pjax-parser",
+    source: "https://raw.githubusercontent.com/nmabhinandan/pjax-parser/v1.0.1/index.js"
+  },
 ];
