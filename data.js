@@ -4687,5 +4687,13 @@ module.exports = [
     description: "Ultra-simple promise based wrapper around XMLHttpRequest",
     url: "https://github.com/radiosilence/xr",
     source: "https://raw.githubusercontent.com/radiosilence/xr/master/xr.js"
+  },
+  {
+    name: "query-dom-components",
+    github: "dcamilleri/query-dom-components",
+    tags: ["query", "dom", "components"],
+    description: "Query your dom components from html and store them into a JavaScript object",
+    url: "https://github.com/dcamilleri/query-dom-components",
+    source: "https://raw.githubusercontent.com/dcamilleri/query-dom-components/master/build/query-dom-components.js"
   }
 ];
