@@ -9,6 +9,14 @@
 
 module.exports = [
    {
+    name: "data-obs",
+    github: "lmettini/data-obs",
+    tags: ["observer", "events","lightweight"],
+    description: "Simple lightweigh javascript data observer",
+    url: "https://github.com/lmettini/data-obs",
+    source: "https://raw.githubusercontent.com/lmettini/data-obs/master/data-obs.js"
+  },
+   {
     name: "xflagable",
     github: "javimosch/xflagable",
     tags: ["flag", "event", "promise"],
