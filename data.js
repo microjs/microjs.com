@@ -286,6 +286,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/daniellmb/ab.js/master/ab.src.js"
   },
   {
+    name: "FinnishSSN",
+    github: "vkomulai/finnish-ssn",
+    tags: ["SSN", "Finnish", "Validation", "Social security number", "Hetu", "Sotu"],
+    description: "Javascript library for validating and creating Finnish social security numbers.",
+    url: "https://github.com/vkomulai/finnish-ssn",
+    source: "https://raw.githubusercontent.com/vkomulai/finnish-ssn/master/finnish-ssn.js"
+  },
+  {
     name: "vanillatree",
     tags: ["jstree","jquery","interactive trees","vanilla", "pure", "native"],
     description: "Tiny replacement of jQuery jstree (\"interactive trees\") with no dependencies.",
