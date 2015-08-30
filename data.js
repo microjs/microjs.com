@@ -107,10 +107,10 @@ module.exports = [
   {
     name: "N2O.js",
     github: "5HT/n2o",
-    tags: ["Web Framework", "BERT", "WebSocket", "templating", "UTF-8", "validation", "Erlang"],
-    description: "N2O Web Frameowork JavaScript companion library",
+    tags: ["web", "framework", "bert", "binary", "ws", "websocket", "templat", "utf", "validation", "erlang"],
+    description: "Robust binary WebSocket channels, templates, UTF-8 and validation for Erlang N2O Server.",
     url: "https://github.com/5HT/n2o",
-    source: ["https://raw.githubusercontent.com/5HT/n2o/master/priv/bullet.js",
+    source: ["https://raw.githubusercontent.com/5HT/n2o/master/priv/bert.js",
              "https://raw.githubusercontent.com/5HT/n2o/master/priv/n2o.js",
              "https://raw.githubusercontent.com/5HT/n2o/master/priv/template.js",
              "https://raw.githubusercontent.com/5HT/n2o/master/priv/utf8.js",
