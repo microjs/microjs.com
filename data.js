@@ -4687,5 +4687,13 @@ module.exports = [
     description: "Ultra-simple promise based wrapper around XMLHttpRequest",
     url: "https://github.com/radiosilence/xr",
     source: "https://raw.githubusercontent.com/radiosilence/xr/master/xr.js"
+  },
+  {
+    name: "razax.js",
+    github: "razaibi/razaxjs",
+    tags: ["ajax", "xhr", "xmlhttprequest", "simple", "nojquery", "minimalcode"],
+    description: "Simple way to make ajax requests with or without arguments in single line of code. Easy for novice users.",
+    url: "https://github.com/razaibi/razaxjs",
+    source: "https://raw.githubusercontent.com/razaibi/razaxjs/master/razax.js"
   }
 ];
