@@ -4912,5 +4912,13 @@
 		<summary>Ultra-simple promise based wrapper around XMLHttpRequest</summary>
 	</entry>
 
+	<entry>
+		<title>Minibars.js</title>
+		<link href="https://github.com/Udo/minibars" />
+		<id>urn:uuid:d027e5d0-50b0-11e5-aaa0-8ffcbfe31aa4</id>
+		<updated>2015-09-01'T'13:53:05+00:00</updated>
+		<summary>A drop-in replacement for the huge Handlebars.js library.</summary>
+	</entry>
+
 
 </feed>

@@ -33,6 +33,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/arqex/freezer/master/build/freezer.js"
   },
   {
+    name: "Minibars.js",
+    github: "Udo/minibars",
+    tags: ["template", "handlebars", "drop-in"],
+    description: "A fast drop-in replacement for the huge Handlebars.js templating library.",
+    url: "https://github.com/Udo/minibars",
+    source: "https://raw.githubusercontent.com/Udo/minibars/master/minibars.js"
+  },
+  {
     name: "InversifyJS",
     github: "inversify/InversifyJS",
     tags: ["dependency", "inversion", "inversion", "control"],
