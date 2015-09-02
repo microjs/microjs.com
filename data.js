@@ -4687,5 +4687,13 @@ module.exports = [
     description: "Ultra-simple promise based wrapper around XMLHttpRequest",
     url: "https://github.com/radiosilence/xr",
     source: "https://raw.githubusercontent.com/radiosilence/xr/master/xr.js"
+  },
+  {
+    name: "tplize",
+    github: "alxgutnikov/tplize",
+    tags: ["templates"],
+    description: "A ~2kb lib for quickly prototyping templated content",
+    url: "https://github.com/alxgutnikov/tplize",
+    source: "https://raw.githubusercontent.com/alxgutnikov/tplize/master/index.js"
   }
 ];
