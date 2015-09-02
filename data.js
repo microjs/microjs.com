@@ -4687,5 +4687,13 @@ module.exports = [
     description: "Ultra-simple promise based wrapper around XMLHttpRequest",
     url: "https://github.com/radiosilence/xr",
     source: "https://raw.githubusercontent.com/radiosilence/xr/master/xr.js"
+  },
+  {
+    name: "cellx",
+    github: "Riim/cellx",
+    tags: ["reactive", "events", "data", "map", "list", "collection"],
+    description: "Ultra-fast javascript reactivity implementation",
+    url: "https://github.com/Riim/cellx",
+    source: "https://raw.githubusercontent.com/Riim/cellx/master/cellx.js"
   }
 ];
