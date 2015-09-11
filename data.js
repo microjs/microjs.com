@@ -4209,7 +4209,7 @@ module.exports = [
     tags: ["easter-egg", "keys", "sequence"],
     description: "Easter eggs made easy.",
     url: "https://github.com/rkrupinski/easter.js",
-    source: "https://raw.githubusercontent.com/rkrupinski/easter.js/master/easter.js"
+    source: "https://raw.githubusercontent.com/rkrupinski/easter.js/master/dist/easter.js"
   },
   {
     name: "henka",
