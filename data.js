@@ -4384,5 +4384,13 @@ module.exports = [
      description: "Design pattern to write clean, reusable, decoupled, standalone Modules that are coupled with Mediators.",
      url: "https://github.com/markmarijnissen/js-mediator",
      source: "https://raw.githubusercontent.com/markmarijnissen/js-mediator/master/mediator.js"
+  },
+  {
+     name: "randr",
+     github: "dolphin4ik/randr",
+     tags: ["randr","json","html","DOM","render"],
+     description: "html dom from json",
+     url: "https://github.com/dolphin4ik/randr",
+     source: "https://raw.githubusercontent.com/dolphin4ik/randr/master/randr.js"
   }
 ];
