@@ -4912,5 +4912,13 @@
 		<summary>Ultra-simple promise based wrapper around XMLHttpRequest</summary>
 	</entry>
 
+	<entry>
+		<title>WorkerB</title>
+		<link href="https://github.com/lukeschaefer/WorkerB" />
+		<id>urn:uuid:b611df00-5e4f-11e5-8f2f-0dd3e2679fe8</id>
+		<updated>2015-09-18'T'21:53:24+00:00</updated>
+		<summary>Extremely simple inline Web Worker for easy multithreading in JS</summary>
+	</entry>
+
 
 </feed>
