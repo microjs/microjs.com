@@ -1905,6 +1905,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/michalbe/mibbu/master/mibbu.js"
   },
   {
+    name: "GamepadMicro",
+    tags: ["gamepad", "html5"],
+    github: "likethemammal/gamepad-micro",
+    description: "Micro library that interfaces with the HTML5 Gamepad API and publishes gamepad update events.",
+    url: "https://github.com/likethemammal/gamepad-micro/",
+    source: "https://raw.githubusercontent.com/likethemammal/gamepad-micro/master/dist/gamepad-micro.min.js"
+  },
+  {
     name: "nimble",
     tags: ["functional", "async"],
     description: "Functional flow-control for JavaScript. Combines features of the underscore and async libraries.",

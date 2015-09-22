@@ -4912,5 +4912,13 @@
 		<summary>Ultra-simple promise based wrapper around XMLHttpRequest</summary>
 	</entry>
 
+	<entry>
+		<title>GamepadMicro</title>
+		<link href="https://github.com/likethemammal/gamepad-micro/" />
+		<id>urn:uuid:07752b40-6152-11e5-94cc-5175410990c9</id>
+		<updated>2015-09-22'T'17:47:09+00:00</updated>
+		<summary>Micro library that interfaces with the HTML5 Gamepad API and publishes gamepad update events.</summary>
+	</entry>
+
 
 </feed>
