@@ -3498,6 +3498,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/fschaefer/Lambda.js/master/Lambda.js"
   },
   {
+    name: "Lambda-30",
+    tags: ["lambda", "function", "expression", "anonymous", "literal", "functional"],
+    description: "A Lambda String implementation for Node.js that supports some ES6 (...rest, ()=>{}, ()=>retval) and a built in JSON encoder.",
+    url: "https://github.com/jdarling/lambda-30",
+    source: "https://raw.githubusercontent.com/jdarling/lambda-30/master/lib/lambda.js"
+  },
+  {
     name: "xxspubsub.js",
     tags: ["pubsub"],
     description: "Extra-extra-small publish/subscribe micro-library in JavaScript",
