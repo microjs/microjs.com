@@ -366,6 +366,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/ytiurin/hyphenjs/master/versions/hyphen.0.1.js"
   },
   {
+    name: "Smart Select",
+    github: "davidecantoni/smart-select",
+    tags: ["select", "multi-select", "multi select", "standalone", "library", "micro", "smart"],
+    description: "Smart select is replacing and beautifying standard selects while keeping them async.",
+    url: "https://github.com/davidecantoni/smart-select",
+    source: "https://raw.githubusercontent.com/davidecantoni/smart-select/master/src/js/smart-select.js"
+  },
+  {
     name: "Sortable",
     github: "RubaXa/Sortable",
     tags: ["sortable", "dnd", "reorder", "drag", "touch"],
