@@ -2789,6 +2789,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/rvagg/traversty/master/traversty.js"
   },
   {
+     name: "mini-signals",
+     github: "Hypercubed/mini-signals",
+     tags: ["events", "signals", "fast"],
+     description: "signals, in JavaScript, fast",
+     url: "https://github.com/Hypercubed/mini-signals",
+     source: "https://raw.githubusercontent.com/Hypercubed/mini-signals/master/browser.js"
+  },
+  {
     name: "html5tooltips.js",
     tags: ["ui", "tooltips", "hints", "html5", "css3", "animation"],
     description: "Light and clean tooltips with CSS3 animation",
