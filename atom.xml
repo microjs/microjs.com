@@ -4944,5 +4944,21 @@
 		<summary>A ~2kb lib for quickly prototyping templated content</summary>
 	</entry>
 
+	<entry>
+		<title>FinnishSSN</title>
+		<link href="https://github.com/vkomulai/finnish-ssn" />
+		<id>urn:uuid:ee40cf70-6a9e-11e5-a937-4dcdde076cbe</id>
+		<updated>2015-10-04'T'13:50:48+00:00</updated>
+		<summary>Javascript library for validating and creating Finnish social security numbers.</summary>
+	</entry>
+
+	<entry>
+		<title>populate.js</title>
+		<link href="https://github.com/dannyvankooten/populate.js" />
+		<id>urn:uuid:237df5f0-6a9f-11e5-a937-4dcdde076cbe</id>
+		<updated>2015-10-04'T'13:50:48+00:00</updated>
+		<summary>Populate form fields from a JSON object. Extremely small, no dependencies.</summary>
+	</entry>
+
 
 </feed>
