@@ -8,6 +8,17 @@
 // See examples below.
 
 module.exports = [
+     {
+    name: "MagJS",
+    github: "magnumjs/mag.js",
+    tags: ["mvc framework", "mvc", "framework", "templating", "library", "component", "fast", "simple", "clean"],
+    description: "Elegant DOM bindings - Intuitive, tiny, super crazy fast, pure JavaScript 2 HTML component templating library",
+    url: "https://github.com/magnumjs/mag.js",
+     source: [ "https://raw.githubusercontent.com/magnumjs/mag.js/master/src/fill.js",
+              "https://raw.githubusercontent.com/magnumjs/mag.js/master/src/module.js",
+              "https://raw.githubusercontent.com/magnumjs/mag.js/master/src/render.js",
+              "https://raw.githubusercontent.com/magnumjs/mag.js/master/src/mag.js"]
+  },
    {
     name: "xflagable",
     github: "javimosch/xflagable",
@@ -106,15 +117,15 @@ module.exports = [
   },
   {
     name: "N2O.js",
-    github: "5HT/n2o",
-    tags: ["Web Framework", "BERT", "WebSocket", "templating", "UTF-8", "validation", "Erlang"],
-    description: "N2O Web Frameowork JavaScript companion library",
-    url: "https://github.com/5HT/n2o",
-    source: ["https://raw.githubusercontent.com/5HT/n2o/master/priv/bullet.js",
-             "https://raw.githubusercontent.com/5HT/n2o/master/priv/n2o.js",
-             "https://raw.githubusercontent.com/5HT/n2o/master/priv/template.js",
-             "https://raw.githubusercontent.com/5HT/n2o/master/priv/utf8.js",
-             "https://raw.githubusercontent.com/5HT/n2o/master/priv/validation.js"]
+    github: "synrc/n2o",
+    tags: ["web", "framework", "bert", "binary", "ws", "websocket", "templat", "utf", "validation", "erlang"],
+    description: "Robust binary WebSocket channels, templates, UTF-8 and validation for Erlang N2O Server.",
+    url: "https://github.com/synrc/n2o",
+    source: ["https://raw.githubusercontent.com/synrc/n2o/master/priv/bert.js",
+             "https://raw.githubusercontent.com/synrc/n2o/master/priv/n2o.js",
+             "https://raw.githubusercontent.com/synrc/n2o/master/priv/template.js",
+             "https://raw.githubusercontent.com/synrc/n2o/master/priv/utf8.js",
+             "https://raw.githubusercontent.com/synrc/n2o/master/priv/validation.js"]
   },
   {
     name: "Rat.js",
@@ -286,6 +297,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/daniellmb/ab.js/master/ab.src.js"
   },
   {
+    name: "FinnishSSN",
+    github: "vkomulai/finnish-ssn",
+    tags: ["SSN", "Finnish", "Validation", "Social security number", "Hetu", "Sotu"],
+    description: "Javascript library for validating and creating Finnish social security numbers.",
+    url: "https://github.com/vkomulai/finnish-ssn",
+    source: "https://raw.githubusercontent.com/vkomulai/finnish-ssn/master/finnish-ssn.js"
+  },
+  {
     name: "vanillatree",
     tags: ["jstree","jquery","interactive trees","vanilla", "pure", "native"],
     description: "Tiny replacement of jQuery jstree (\"interactive trees\") with no dependencies.",
@@ -364,6 +383,14 @@ module.exports = [
     description: "Frank Liang's hyphenation beautifier.",
     url: "https://github.com/ytiurin/hyphenjs",
     source: "https://raw.githubusercontent.com/ytiurin/hyphenjs/master/versions/hyphen.0.1.js"
+  },
+  {
+    name: "Smart Select",
+    github: "davidecantoni/smart-select",
+    tags: ["select", "multi-select", "multi select", "standalone", "library", "micro", "smart"],
+    description: "Smart select is replacing and beautifying standard selects while keeping them async.",
+    url: "https://github.com/davidecantoni/smart-select",
+    source: "https://raw.githubusercontent.com/davidecantoni/smart-select/master/src/js/smart-select.js"
   },
   {
     name: "Sortable",
@@ -582,11 +609,11 @@ module.exports = [
   },
   {
     name: "swiftclick",
-    github: "tmwagency/swiftclick",
+    github: "munkychop/swiftclick",
     tags: ["mobile", "touch", "events", "swiftclick"],
     description: "SwiftClick is a library created to eliminate the 300ms click event delay on touch devices that support orientation change.",
-    url: "https://github.com/tmwagency/swiftclick",
-    source: "https://raw.githubusercontent.com/tmwagency/swiftclick/master/js/libs/swiftclick.js"
+    url: "https://github.com/munkychop/swiftclick",
+    source: "https://raw.githubusercontent.com/munkychop/swiftclick/master/js/libs/swiftclick.js"
   },
   {
     name: "bullet",
@@ -2789,6 +2816,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/rvagg/traversty/master/traversty.js"
   },
   {
+     name: "mini-signals",
+     github: "Hypercubed/mini-signals",
+     tags: ["events", "signals", "fast"],
+     description: "signals, in JavaScript, fast",
+     url: "https://github.com/Hypercubed/mini-signals",
+     source: "https://raw.githubusercontent.com/Hypercubed/mini-signals/master/browser.js"
+  },
+  {
     name: "html5tooltips.js",
     tags: ["ui", "tooltips", "hints", "html5", "css3", "animation"],
     description: "Light and clean tooltips with CSS3 animation",
@@ -3136,8 +3171,8 @@ module.exports = [
     name: "cookie.js",
     tags: ["cookie.js", "cookies", "storage"],
     description: "A small library that makes setting, getting and removing cookies really easy.",
-    url: "https://github.com/js-coder/cookie.js",
-    source: "https://raw.githubusercontent.com/js-coder/cookie.js/gh-pages/cookie.js"
+    url: "https://github.com/florian/cookie.js",
+    source: "https://raw.githubusercontent.com/florian/cookie.js/gh-pages/cookie.js"
   },
   {
     name: "Ordering.js",
@@ -3214,8 +3249,8 @@ module.exports = [
     name: "lostorage.js",
     tags: ["storage", "localStorage", "sessionStorage"],
     description: "Client-side storage the way it should be - using the HTML5 localStorage API. lostorage.js allows you to save any kind of data.",
-    url: "https://github.com/js-coder/lostorage.js",
-    source: "https://raw.githubusercontent.com/js-coder/loStorage.js/master/src/loStorage.js"
+    url: "https://github.com/florian/lostorage.js",
+    source: "https://raw.githubusercontent.com/florian/loStorage.js/master/src/loStorage.js"
   },
   {
     name: "guggenheim.js",
@@ -3498,6 +3533,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/fschaefer/Lambda.js/master/Lambda.js"
   },
   {
+    name: "Lambda-30",
+    tags: ["lambda", "function", "expression", "anonymous", "literal", "functional"],
+    description: "A Lambda String implementation for Node.js that supports some ES6 (...rest, ()=>{}, ()=>retval) and a built in JSON encoder.",
+    url: "https://github.com/jdarling/lambda-30",
+    source: "https://raw.githubusercontent.com/jdarling/lambda-30/master/lib/lambda.js"
+  },
+  {
     name: "xxspubsub.js",
     tags: ["pubsub"],
     description: "Extra-extra-small publish/subscribe micro-library in JavaScript",
@@ -3650,15 +3692,15 @@ module.exports = [
     name: "range.js",
     tags: ["range"],
     description: "JavaScript's missing range function.",
-    url: "https://github.com/js-coder/range.js",
-    source: "https://raw.githubusercontent.com/js-coder/range.js/master/lib/range.js"
+    url: "https://github.com/florian/range.js",
+    source: "https://raw.githubusercontent.com/florian/range.js/master/lib/range.js"
   },
   {
     name: "Strukt",
     tags: ["utilities"],
     description: "Ruby inspired Structs for JavaScript.",
-    url: "https://github.com/js-coder/Strukt",
-    source: "https://raw.githubusercontent.com/js-coder/Strukt/master/lib/strukt.js"
+    url: "https://github.com/florian/Strukt",
+    source: "https://raw.githubusercontent.com/florian/Strukt/master/lib/strukt.js"
   },
   {
     name: "ipsum.js",
@@ -3884,8 +3926,8 @@ module.exports = [
     name: "Bespoke.js",
     tags: ["presentation", "slides", "deck", "css3"],
     description: "DIY presentation micro-framework, harnessing the power of CSS3 transitions.",
-    url: "https://github.com/markdalgleish/bespoke.js",
-    source: "https://raw.githubusercontent.com/markdalgleish/bespoke.js/master/dist/bespoke.js"
+    url: "https://github.com/bespokejs/bespoke.js",
+    source: "https://raw.githubusercontent.com/bespokejs/bespoke.js/master/dist/bespoke.js"
   },
   {
     name: "usertiming.js",
@@ -4209,7 +4251,7 @@ module.exports = [
     tags: ["easter-egg", "keys", "sequence"],
     description: "Easter eggs made easy.",
     url: "https://github.com/rkrupinski/easter.js",
-    source: "https://raw.githubusercontent.com/rkrupinski/easter.js/master/easter.js"
+    source: "https://raw.githubusercontent.com/rkrupinski/easter.js/master/dist/easter.js"
   },
   {
     name: "henka",
@@ -4322,8 +4364,8 @@ module.exports = [
     name: "Grapnel.js",
     tags: ["grapnel", "route", "routing", "router", "hash", "anchor", "tiny", "require", "named", "parameters"],
     description: "The smallest (1100 bytes gzipped!) JavaScript Router with Named Parameters",
-    url: "https://github.com/EngineeringMode/Grapnel.js",
-    source: "https://raw.githubusercontent.com/EngineeringMode/Grapnel.js/master/src/grapnel.js"
+    url: "https://github.com/bytecipher/Grapnel.js",
+    source: "https://raw.githubusercontent.com/bytecipher/Grapnel.js/master/src/grapnel.js"
   },
   {
     name: "Nerve",
@@ -4687,5 +4729,29 @@ module.exports = [
     description: "Ultra-simple promise based wrapper around XMLHttpRequest",
     url: "https://github.com/radiosilence/xr",
     source: "https://raw.githubusercontent.com/radiosilence/xr/master/xr.js"
+  },
+  {
+    name: "SimpleScrollbar",
+    github: "buzinas/simple-scrollbar",
+    tags: ["scrollbar", "ui", "interface", "scroll", "custom", "lightweight"],
+    description: "Very simple vanilla javascript library for creating a custom scrollbar cross-browser and cross-devices",
+    url: "https://github.com/buzinas/simple-scrollbar",
+    source: "https://raw.githubusercontent.com/buzinas/simple-scrollbar/master/simple-scrollbar.js"
+  },
+  {
+    name: "tplize",
+    github: "alxgutnikov/tplize",
+    tags: ["templates"],
+    description: "A ~2kb lib for quickly prototyping templated content",
+    url: "https://github.com/alxgutnikov/tplize",
+    source: "https://raw.githubusercontent.com/alxgutnikov/tplize/master/index.js"
+  },
+  {
+    name: "populate.js",
+    github: "dannyvankooten/populate.js",
+    tags: ["json", "form"],
+    description: "Populate form fields from a JSON object. Extremely small, no dependencies.",
+    url: "https://github.com/dannyvankooten/populate.js",
+    source: "https://raw.githubusercontent.com/dannyvankooten/populate.js/master/populate.js"
   }
 ];
