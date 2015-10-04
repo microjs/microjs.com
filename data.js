@@ -117,7 +117,7 @@ module.exports = [
   },
   {
     name: "N2O.js",
-    github: "5HT/n2o",
+    github: "synrc/n2o",
     tags: ["Web Framework", "BERT", "WebSocket", "templating", "UTF-8", "validation", "Erlang"],
     description: "N2O Web Frameowork JavaScript companion library",
     url: "https://github.com/synrc/n2o",
@@ -601,7 +601,7 @@ module.exports = [
   },
   {
     name: "swiftclick",
-    github: "tmwagency/swiftclick",
+    github: "munkychop/swiftclick",
     tags: ["mobile", "touch", "events", "swiftclick"],
     description: "SwiftClick is a library created to eliminate the 300ms click event delay on touch devices that support orientation change.",
     url: "https://github.com/munkychop/swiftclick",

@@ -4912,5 +4912,37 @@
 		<summary>Ultra-simple promise based wrapper around XMLHttpRequest</summary>
 	</entry>
 
+	<entry>
+		<title>MagJS</title>
+		<link href="https://github.com/magnumjs/mag.js" />
+		<id>urn:uuid:48e373e0-6a97-11e5-a5d3-7d0a29c05afa</id>
+		<updated>2015-10-04'T'12:55:59+00:00</updated>
+		<summary>Elegant DOM bindings - Intuitive, tiny, super crazy fast, pure JavaScript 2 HTML component templating library</summary>
+	</entry>
+
+	<entry>
+		<title>mini-signals</title>
+		<link href="https://github.com/Hypercubed/mini-signals" />
+		<id>urn:uuid:6758b1a0-6a97-11e5-a5d3-7d0a29c05afa</id>
+		<updated>2015-10-04'T'12:55:59+00:00</updated>
+		<summary>signals, in JavaScript, fast</summary>
+	</entry>
+
+	<entry>
+		<title>SimpleScrollbar</title>
+		<link href="https://github.com/buzinas/simple-scrollbar" />
+		<id>urn:uuid:7ced98a0-6a97-11e5-a5d3-7d0a29c05afa</id>
+		<updated>2015-10-04'T'12:55:59+00:00</updated>
+		<summary>Very simple vanilla javascript library for creating a custom scrollbar cross-browser and cross-devices</summary>
+	</entry>
+
+	<entry>
+		<title>tplize</title>
+		<link href="https://github.com/alxgutnikov/tplize" />
+		<id>urn:uuid:7cee0dd0-6a97-11e5-a5d3-7d0a29c05afa</id>
+		<updated>2015-10-04'T'12:55:59+00:00</updated>
+		<summary>A ~2kb lib for quickly prototyping templated content</summary>
+	</entry>
+
 
 </feed>
