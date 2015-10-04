@@ -4721,5 +4721,13 @@ module.exports = [
     description: "Ultra-simple promise based wrapper around XMLHttpRequest",
     url: "https://github.com/radiosilence/xr",
     source: "https://raw.githubusercontent.com/radiosilence/xr/master/xr.js"
+  },
+  {
+    name: "SimpleScrollbar",
+    github: "buzinas/simple-scrollbar",
+    tags: ["scrollbar", "ui", "interface", "scroll", "custom", "lightweight"],
+    description: "Very simple vanilla javascript library for creating a custom scrollbar cross-browser and cross-devices",
+    url: "https://github.com/buzinas/simple-scrollbar",
+    source: "https://raw.githubusercontent.com/buzinas/simple-scrollbar/master/simple-scrollbar.js"
   }
 ];
