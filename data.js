@@ -4729,5 +4729,13 @@ module.exports = [
     description: "Very simple vanilla javascript library for creating a custom scrollbar cross-browser and cross-devices",
     url: "https://github.com/buzinas/simple-scrollbar",
     source: "https://raw.githubusercontent.com/buzinas/simple-scrollbar/master/simple-scrollbar.js"
+  },
+  {
+    name: "tplize",
+    github: "alxgutnikov/tplize",
+    tags: ["templates"],
+    description: "A ~2kb lib for quickly prototyping templated content",
+    url: "https://github.com/alxgutnikov/tplize",
+    source: "https://raw.githubusercontent.com/alxgutnikov/tplize/master/index.js"
   }
 ];
