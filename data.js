@@ -4737,5 +4737,13 @@ module.exports = [
     description: "A ~2kb lib for quickly prototyping templated content",
     url: "https://github.com/alxgutnikov/tplize",
     source: "https://raw.githubusercontent.com/alxgutnikov/tplize/master/index.js"
+  },
+  {
+    name: "populate.js",
+    github: "dannyvankooten/populate.js",
+    tags: ["json", "form"],
+    description: "Populate form fields from a JSON object. Extremely small, no dependencies.",
+    url: "https://github.com/dannyvankooten/populate.js",
+    source: "https://raw.githubusercontent.com/dannyvankooten/populate.js/master/populate.js"
   }
 ];
