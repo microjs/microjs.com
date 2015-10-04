@@ -8,6 +8,17 @@
 // See examples below.
 
 module.exports = [
+     {
+    name: "MagJS",
+    github: "magnumjs/mag.js",
+    tags: ["mvc framework", "mvc", "framework", "templating", "library", "component", "fast", "simple", "clean"],
+    description: "Elegant DOM bindings - Intuitive, tiny, super crazy fast, pure JavaScript 2 HTML component templating library",
+    url: "https://github.com/magnumjs/mag.js",
+     source: [ "https://raw.githubusercontent.com/magnumjs/mag.js/master/src/fill.js",
+              "https://raw.githubusercontent.com/magnumjs/mag.js/master/src/module.js",
+              "https://raw.githubusercontent.com/magnumjs/mag.js/master/src/render.js",
+              "https://raw.githubusercontent.com/magnumjs/mag.js/master/src/mag.js"]
+  },
    {
     name: "xflagable",
     github: "javimosch/xflagable",
