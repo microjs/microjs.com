@@ -4753,5 +4753,13 @@ module.exports = [
     description: "Populate form fields from a JSON object. Extremely small, no dependencies.",
     url: "https://github.com/dannyvankooten/populate.js",
     source: "https://raw.githubusercontent.com/dannyvankooten/populate.js/master/populate.js"
+  },
+  {
+    name: "offside.js",
+    github: "toomuchdesign/offside",
+    tags: ["menu", "navigation", "responsive", "off-canvas","offcanvas", "off", "canvas"],
+    description: "A minimal ~3kb JavaScript kit without library dependencies to push things off-canvas using using just class manipulation.",
+    url: "https://github.com/toomuchdesign/offside",
+    source: "https://raw.githubusercontent.com/toomuchdesign/offside/master/dist/offside.js"
   }
 ];
