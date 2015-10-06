@@ -4960,5 +4960,37 @@
 		<summary>Populate form fields from a JSON object. Extremely small, no dependencies.</summary>
 	</entry>
 
+	<entry>
+		<title>ViaJS</title>
+		<link href="https://github.com/abdi0987/ViaJS" />
+		<id>urn:uuid:c6ccd660-6c73-11e5-afaf-a193ce19c00d</id>
+		<updated>2015-10-06'T'21:46:55+00:00</updated>
+		<summary>Via is a small library that allows you to load content on to a page dynamically</summary>
+	</entry>
+
+	<entry>
+		<title>Soundbox</title>
+		<link href="https://github.com/sbrl/soundbox" />
+		<id>urn:uuid:df148150-6c73-11e5-afaf-a193ce19c00d</id>
+		<updated>2015-10-06'T'21:46:55+00:00</updated>
+		<summary>A super simple JS library for playing sound effects</summary>
+	</entry>
+
+	<entry>
+		<title>offside.js</title>
+		<link href="https://github.com/toomuchdesign/offside" />
+		<id>urn:uuid:f704e480-6c73-11e5-afaf-a193ce19c00d</id>
+		<updated>2015-10-06'T'21:46:55+00:00</updated>
+		<summary>A minimal ~3kb JavaScript kit without library dependencies to push things off-canvas using using just class manipulation.</summary>
+	</entry>
+
+	<entry>
+		<title>html-chain</title>
+		<link href="https://github.com/maael/html-chain" />
+		<id>urn:uuid:f70532a0-6c73-11e5-afaf-a193ce19c00d</id>
+		<updated>2015-10-06'T'21:46:55+00:00</updated>
+		<summary>A small javascript library to build DOM elements by chaining javascript functions</summary>
+	</entry>
+
 
 </feed>
