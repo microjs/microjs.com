@@ -20,6 +20,14 @@ module.exports = [
               "https://raw.githubusercontent.com/magnumjs/mag.js/master/src/mag.js"]
   },
    {
+    name: "ViaJS",
+    github: "abdi0987/ViaJS",
+    tags: ["content","load","route","dynamic","browser","page",'html'],
+    description: "Via is a small library that allows you to load content on to a page dynamically",
+    url: "https://github.com/abdi0987/ViaJS",
+    source: "https://raw.githubusercontent.com/abdi0987/ViaJS/master/lib/app.js"
+  },
+   {
     name: "xflagable",
     github: "javimosch/xflagable",
     tags: ["flag", "event", "promise"],
@@ -2369,6 +2377,13 @@ module.exports = [
     description: "very simple and powerful client-side HTML via JSON templating engine.",
     url: "https://github.com/deepsweet/microjungle",
     source: "https://raw.githubusercontent.com/deepsweet/microjungle/master/dist/dom.js"
+  },
+  {
+    name: "Soundbox",
+	tags: ["sound", "audio", "play", "media"],
+	description: "A super simple JS library for playing sound effects",
+	url: "https://github.com/sbrl/soundbox",
+	source: "https://raw.githubusercontent.com/sbrl/soundbox/master/soundbox.js"
   },
   {
     name: "Optiscroll",
@@ -4761,5 +4776,13 @@ module.exports = [
     description: "A minimal ~3kb JavaScript kit without library dependencies to push things off-canvas using using just class manipulation.",
     url: "https://github.com/toomuchdesign/offside",
     source: "https://raw.githubusercontent.com/toomuchdesign/offside/master/dist/offside.js"
+  },
+  {
+    name: "html-chain",
+    github: "maael/html-chain",
+    tags: ["html", "lightweight","dom", "dom-builder", "templating", "chain"],
+    description: "A small javascript library to build DOM elements by chaining javascript functions",
+    url: "https://github.com/maael/html-chain",
+    source: "https://raw.githubusercontent.com/maael/html-chain/master/html.js"
   }
 ];
