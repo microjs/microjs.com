@@ -1338,6 +1338,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/schuttelaar/Rococo/master/rococo.js"
   },
   {
+	    name: "StringFormatter",
+	    github: "anywhichway/stringformatter",
+	    tags: ["formatting","ui","text","string"],
+	    description: "An extensible, garbage collecting Javascript string formatter that supports objects, currency, date/time, decimals, and more ... goes far beyond sprintf approach.",
+	    url: "https://github.com/anywhichway/stringformatter",
+	    source: "https://raw.githubusercontent.com/anywhichway/stringformatter/master/StringFormatter.js"
+  },
+  {
     name: "Backbone",
     github: "jashkenas/backbone",
     tags: ["mvc", "data", "functional"],
