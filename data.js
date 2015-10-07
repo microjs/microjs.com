@@ -35,6 +35,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/abdi0987/ViaJS/master/lib/app.js"
   },
    {
+    name: "RouterX",
+    github: "https://github.com/bcoop713/routerx",
+    tags: ["router", "frp", "rxjs", "cycle", "rx"],
+    description: "A stupid simple functional reactive router built for use with Rx.js apps",
+    url: "https://github.com/bcoop713/routerx",
+    source: "https://raw.githubusercontent.com/bcoop713/routerx/master/index.js"
+   },
+   {
     name: "xflagable",
     github: "javimosch/xflagable",
     tags: ["flag", "event", "promise"],
