@@ -2745,6 +2745,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/chjj/zest/master/lib/zest.js"
   },
   {
+    name: "Peppermint",
+    tags: ["mobile", "slider", "touch", "carousel", "slideshow"],
+    description: "Yet another touch slider. Fast, lightweight, extensible, works on everything.",
+    url: "https://github.com/wilddeer/Peppermint",
+    source: "https://raw.github.com/wilddeer/Peppermint/master/peppermint.js"
+  },
+  {
     name: "Cookie Monster",
     tags: ["cookies", "data", "store"],
     description: "A lightweight cookie library",
