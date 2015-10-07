@@ -8,6 +8,13 @@
 // See examples below.
 
 module.exports = [
+  {
+    name: "uniloc",
+    github: "unicorn-standard/uniloc",
+    tags: ["router", "routing", "query", "parser", "parsing", "parameters", "uri"],
+    url: "http://unicornstandard.com/packages/uniloc.html",
+    source: "https://raw.githubusercontent.com/unicorn-standard/uniloc/master/uniloc.js"
+  },
      {
     name: "MagJS",
     github: "magnumjs/mag.js",
