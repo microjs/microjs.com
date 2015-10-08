@@ -4992,5 +4992,13 @@
 		<summary>A small javascript library to build DOM elements by chaining javascript functions</summary>
 	</entry>
 
+	<entry>
+		<title>Peppermint</title>
+		<link href="https://github.com/wilddeer/Peppermint" />
+		<id>urn:uuid:e88d6c40-6dec-11e5-b98d-15d4b4728911</id>
+		<updated>2015-10-08'T'18:45:54+00:00</updated>
+		<summary>Yet another touch slider. Fast, lightweight, extensible, works on everything.</summary>
+	</entry>
+
 
 </feed>

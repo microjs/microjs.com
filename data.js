@@ -8,6 +8,7 @@
 // See examples below.
 
 module.exports = [
+/*
   {
     name: "uniloc",
     github: "unicorn-standard/uniloc",
@@ -15,7 +16,8 @@ module.exports = [
     url: "http://unicornstandard.com/packages/uniloc.html",
     source: "https://raw.githubusercontent.com/unicorn-standard/uniloc/master/uniloc.js"
   },
-     {
+*/
+  {
     name: "MagJS",
     github: "magnumjs/mag.js",
     tags: ["mvc framework", "mvc", "framework", "templating", "library", "component", "fast", "simple", "clean"],
@@ -26,21 +28,21 @@ module.exports = [
               "https://raw.githubusercontent.com/magnumjs/mag.js/master/src/render.js",
               "https://raw.githubusercontent.com/magnumjs/mag.js/master/src/mag.js"]
   },
-   {
+  {
     name: "ViaJS",
     github: "abdi0987/ViaJS",
-    tags: ["content","load","route","dynamic","browser","page",'html'],
+    tags: ["content","load","route","dynamic","browser","page","html"],
     description: "Via is a small library that allows you to load content on to a page dynamically",
     url: "https://github.com/abdi0987/ViaJS",
     source: "https://raw.githubusercontent.com/abdi0987/ViaJS/master/lib/app.js"
   },
-   {
+  {
     name: "RouterX",
-    github: "https://github.com/bcoop713/routerx",
+    github: "bcoop713/routerx",
     tags: ["router", "frp", "rxjs", "cycle", "rx"],
     description: "A stupid simple functional reactive router built for use with Rx.js apps",
     url: "https://github.com/bcoop713/routerx",
-    source: "https://raw.githubusercontent.com/bcoop713/routerx/master/index.js"
+    source: "https://raw.githubusercontent.com/bcoop713/routerx/master/routerx.js"
    },
    {
     name: "xflagable",
@@ -2605,15 +2607,13 @@ module.exports = [
     url: "https://github.com/paulca/whenever.js",
     source: "https://raw.githubusercontent.com/paulca/whenever.js/master/whenever.js"
   },
-  /* Links to a zip file, needs to link to a JS file, couldn't find a reference to a pure js file on the site.
   {
     name: "Sylvester",
     tags: ["svg", "vector", "matrix", "math"],
     description: "A js library for mathematics with vectors and matrices",
     url: "http://sylvester.jcoglan.com/",
-    source: "http://sylvester.jcoglan.com/assets/sylvester-0-1-3.zip"
+    source: "http://sylvester.jcoglan.com/assets/sylvester-0-1-3.zip!/sylvester.src.js"
   },
-  */
   {
     name: "Include.js",
     tags: ["loader"],
@@ -2749,7 +2749,7 @@ module.exports = [
     tags: ["mobile", "slider", "touch", "carousel", "slideshow"],
     description: "Yet another touch slider. Fast, lightweight, extensible, works on everything.",
     url: "https://github.com/wilddeer/Peppermint",
-    source: "https://raw.github.com/wilddeer/Peppermint/master/peppermint.js"
+    source: "https://raw.githubusercontent.com/wilddeer/Peppermint/master/dist/peppermint.js"
   },
   {
     name: "Cookie Monster",
@@ -3954,6 +3954,7 @@ module.exports = [
   },
   {
     name: "ShuntingYard.js",
+    github: "Calamari/shunting-yard.js",
     tags: ["shunting yard", "algorithms", "math", "rpn", "reverse polish notation", "eval", "expression", "Dijkstra"],
     description: "Calculate math from user input without using eval with Dijkstra's shunting yard algorithm",
     url: "https://github.com/Calamari/shunting-yard.js",
@@ -3961,13 +3962,15 @@ module.exports = [
   },
   {
     name: "Bespoke.js",
+    github: "bespokejs/bespoke",
     tags: ["presentation", "slides", "deck", "css3"],
     description: "DIY presentation micro-framework, harnessing the power of CSS3 transitions.",
-    url: "https://github.com/bespokejs/bespoke.js",
-    source: "https://raw.githubusercontent.com/bespokejs/bespoke.js/master/dist/bespoke.js"
+    url: "https://github.com/bespokejs/bespoke",
+    source: "https://raw.githubusercontent.com/bespokejs/bespoke/master/dist/bespoke.js"
   },
   {
     name: "usertiming.js",
+    github: "nicjansma/usertiming.js",
     tags: ["usertiming", "user timing", "performance timeline", "window.performance.now", "mark", "measure"],
     description: "User Timing polyfill",
     url: "https://github.com/nicjansma/usertiming.js",
@@ -4401,8 +4404,8 @@ module.exports = [
     name: "Grapnel.js",
     tags: ["grapnel", "route", "routing", "router", "hash", "anchor", "tiny", "require", "named", "parameters"],
     description: "The smallest (1100 bytes gzipped!) JavaScript Router with Named Parameters",
-    url: "https://github.com/bytecipher/Grapnel.js",
-    source: "https://raw.githubusercontent.com/bytecipher/Grapnel.js/master/src/grapnel.js"
+    url: "https://github.com/bytecipher/grapnel",
+    source: "https://raw.githubusercontent.com/bytecipher/grapnel/master/src/grapnel.js"
   },
   {
     name: "Nerve",
