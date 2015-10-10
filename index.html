@@ -7,6 +7,7 @@
   <link href="http://fonts.googleapis.com/css?family=Maiden+Orange" rel="stylesheet">
   <link href="atom.xml" type="application/atom+xml" rel="alternate" title="Microjs ATOM feed">
   <link rel="stylesheet" href="style.css">
+  <style id="tagVisibility" data-color="">li div.tags{display:none;}</style>
   </head>
   <body>
 
@@ -20,7 +21,12 @@
   </div>
 
   <div id="ineed" style="display: none;">
-    <span>I need ...</span><input type="text" id="ineed_text">
+    <span>I need ...</span>
+    <input type="text" id="ineed_text">
+    <div id="config">
+      <span class="icon tag" title="show/hide tags" onclick="toggleTagVisibility()"> </span>
+      <span class="icon color" title="change colors" onclick="toggleColorMode()"> </span>
+    </div>
     <div id="ineed_select" style="display: none;"></div>
   </div>
 
@@ -85,6 +91,7 @@
   </p>
 
   <script src="data-min.js"></script>
+  <script src="http://simonwaldherr.github.io/ColorConverter.js/colorconverter.js"></script>
   <script type="text/javascript" id="scr">
 /* Micro-Framework-Listing-Site-Microlib
  * Now with extra-chocolatey easter eggs!
@@ -100,26 +107,49 @@
     , $results = $('results')
       // micro-templating
     , t = function (s, d){
-        for (var p in d) s = s.replace(new RegExp('{' + p + '}', 'g'), d[p])
-        return s
+        for (var p in d) s = s.replace(new RegExp('{' + p + '}', 'g'), d[p]);
+        return s;
       }
     , render = function (results){
-        var html = [], i = results.length, r
+        var html = [], i = results.length, r, tags;
         while (i--) {
           if (!(r = results[i])._rendered) {
+            tags = '<span>'+results[i].tags.join('</span> <span>')+'</span>';
             r.stat =
                 '<div class="stat">'
-              + (r.ghwatchers ? t('<span class="w">{ghwatchers}</span><span class="f">{ghforks}</span>', r) : '')
-              + (r.tweets ? t('<span class="t">{tweets}</span>', r) : '')
+              + (r.ghwatchers ? t('<span class="w icon">{ghwatchers}</span><span class="f icon">{ghforks}</span>', r) : '')
+              + (r.tweets ? t('<span class="t icon">{tweets}</span>', r) : '')
               + '</div>'
             r.heading = r.name.length < 16 ? 3 : 4;
-            r._rendered = t('<li><a href="{url}"><div class="size">{size}</div><div class="title"><h{heading}>{name}</h{heading}>{stat}</div>{description}</a></li>', r)
+            r._rendered = t('<li><a href="{url}"><div class="size">{size}</div><div class="title"><h{heading}>{name}</h{heading}>{stat}</div>{description}</a><div class="tags">'+tags+'</div></li>', r)
           }
           html.push(results[i]._rendered)
         }
-        $results.innerHTML = html.join('')
+        $results.innerHTML = html.join('');
+        if(document.getElementById('tagVisibility').getAttribute('data-color') === 'true') {
+          toggleColorMode();
+        }
+        var i, j, tagDivs, tagSpans, searchBox, libMatches, changeEvent;
+        tagDivs = document.getElementsByClassName('tags');
+        searchBox = document.getElementById('ineed_text');
+        for(i = 0; i < tagDivs.length; i++) {
+          if(tagDivs[i] !== undefined) {
+            tagSpans = tagDivs[i].getElementsByTagName('span');
+            for(j = 0; j < tagSpans.length; j++) {
+              if(tagSpans[j] !== undefined) {
+                tagSpans[j].onclick = function () {
+                  searchBox.value = this.innerHTML;
+                  window.location.hash = this.innerHTML;
+                  changeEvent = document.createEvent("HTMLEvents");
+                  changeEvent.initEvent("change", false, true);
+                  searchBox.dispatchEvent(changeEvent);
+                  window.scrollTo(0, 100);
+                };
+              }
+            }
+          }
+        }
       }
-
   MicroJS.sort(function () { return 0.5 - Math.random() })
 
 // mini feature-detect for some of the stuff we use with fallback for garbage browsers
@@ -222,21 +252,28 @@
         e && keydownListener({ keyCode: 13 })
       }
     , keydownDelayed = cumulativeDelayed(function () { search() }, 250)
-    , showsearch = function () { showopt(); search() }
+    , showsearch = function () {
+        showopt();
+        search();
+      }
       // make our pseudo-select box work as if it was a real select box
     , keydownListener = function (e) {
         switch (e.keyCode) {
           case 38: //up
-            showsearch(); selectUp()
+            showsearch();
+            selectUp();
             break;
           case 40: //down
-            showsearch(); selectDown()
+            showsearch();
+            selectDown();
             break;
           case 13: //return
-            hideopt(); search()
+            hideopt();
+            search();
             break;
           default:
-            hideopt(); keydownDelayed()
+            hideopt();
+            keydownDelayed();
         }
       }
       // arrow-up
@@ -301,27 +338,63 @@
   $ineedText.addEventListener('click', focusListener, false)
   $ineedText.addEventListener('blur', blurListener, false)
   $ineedText.addEventListener('keydown', keydownListener, false)
+  $ineedText.addEventListener('change', search, false)
   $ineedSelect.addEventListener('click', selectListener, false)
 
   ;(function(kw) {
-    if (!kw) return
+    if (!kw) {
+      return;
+    }
     for (var i = 0; i < options.length; i++) {
       if (kw == options[i].tag) { kw = options[i].label; break; }
     }
-    $ineedText.value = kw
-  }(location.href.split('#')[1]))
+    $ineedText.value = kw;
+  }(location.href.split('#')[1]));
 
-  search()
-  $ineed.style.display = ''
-  $ineedText.focus()
-  window.setTimeout(hideopt,10)
+  search();
+  $ineed.style.display = '';
+  $ineedText.focus();
+  window.setTimeout(hideopt,10);
 
-})() : render(MicroJS) // fallback for old browsers, you don't deserve the sweetness!
+})() : render(MicroJS); // fallback for old browsers, you don't deserve the sweetness!
 
 })();
 
-</script>
+var toggleTagVisibility = function () {
+  var tagStyleElement = document.getElementById('tagVisibility');
+  if(tagStyleElement.innerHTML === '.tags{display:none;}') {
+    tagStyleElement.innerHTML = '.tags{display:block;}';
+  } else {
+    tagStyleElement.innerHTML = '.tags{display:none;}';
+  }
+}
 
+var toggleColorMode = function () {
+  var sint, size, background, i, elements;
+  elements = document.getElementById('results').children;
+  if(elements[0].style.background === '') {
+    for(i = 0; i < elements.length; i++) {
+      size = elements[i].getElementsByClassName('size')[0].innerHTML;
+      sint = (85+parseFloat(size)*60) > 360 ? 360 : 85+parseFloat(size)*60;
+      background = 'background: #'+colorconv.HSL2HEX([sint,80,58])+';'
+      + 'background: -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.2)), color-stop(0.5, rgba(255,255,255,0.1)), color-stop(0.501, rgba(255,255,255,0.0)), to(rgba(255,255,255,0.0))), -webkit-gradient(linear, left top, left bottom, from(#'+colorconv.HSL2HEX([sint,80,58])+'), to(#'+colorconv.HSL2HEX([sint,60,40])+'));'
+      + 'background: -webkit-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)), -webkit-linear-gradient(#'+colorconv.HSL2HEX([sint,80,58])+', #'+colorconv.HSL2HEX([sint,60,40])+');'
+      + 'background: -moz-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)), -moz-linear-gradient(#'+colorconv.HSL2HEX([sint,80,58])+', #'+colorconv.HSL2HEX([sint,60,40])+');'
+      + 'background: -ms-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)), -ms-linear-gradient(#'+colorconv.HSL2HEX([sint,80,58])+', #'+colorconv.HSL2HEX([sint,60,40])+');'
+      + 'background: -o-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)), -o-linear-gradient(#'+colorconv.HSL2HEX([sint,80,58])+', #'+colorconv.HSL2HEX([sint,60,40])+');'
+      + 'background: linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)), linear-gradient(#'+colorconv.HSL2HEX([sint,80,58])+', #'+colorconv.HSL2HEX([sint,60,40])+');';
+      elements[i].setAttribute("style", background);
+    }
+    document.getElementById('tagVisibility').setAttribute('data-color',true);
+  } else {
+    for(i = 0; i < elements.length; i++) {
+      elements[i].style.background = '';
+      document.getElementById('tagVisibility').setAttribute('data-color',false);
+    }
+  }
+}
+
+</script>
 <script>
   var _gauges = _gauges || [];
   (function() {
