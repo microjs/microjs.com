@@ -82,7 +82,7 @@ option {
 		-webkit-transform: scale(1);
 	}
 }
-li a {
+li {
 	height: 60px;
 	-moz-border-radius: 25px;
 	-webkit-border-radius: 25px;
@@ -99,7 +99,25 @@ li a {
 	padding: 20px;
 	-webkit-animation: appear 0.2s;
 }
-li:nth-child(6n+1) a {
+li * {
+	-webkit-font-smoothing: antialiased;
+	text-rendering:optimizeLegibility;
+	text-overflow: ellipsis;
+	color: #fff;
+	text-decoration: none;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-o-user-select: none;
+	user-select: none;
+}
+li a {
+	height: 60px;
+}
+li span {
+	font-weight: bold;
+}
+
+li:nth-child(6n+1) {
 	background: #791982;
 	background:
 		-webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.2)), color-stop(0.5, rgba(255,255,255,0.1)), color-stop(0.501, rgba(255,255,255,0.0)), to(rgba(255,255,255,0.0))),
@@ -120,7 +138,7 @@ li:nth-child(6n+1) a {
 		linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
 		linear-gradient(#a839b2, #6c1075);
 }
-li:nth-child(6n+2) a {
+li:nth-child(6n+2) {
 	background: #C4004D;
 	background:
 		-webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.2)), color-stop(0.5, rgba(255,255,255,0.1)), color-stop(0.501, rgba(255,255,255,0.0)), to(rgba(255,255,255,0.0))),
@@ -141,7 +159,7 @@ li:nth-child(6n+2) a {
 		linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
 		linear-gradient(#ff0071, #bb0047);
 }
-li:nth-child(6n+3) a {
+li:nth-child(6n+3) {
 	background: #81A02C;
 	background:
 		-webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.2)), color-stop(0.5, rgba(255,255,255,0.1)), color-stop(0.501, rgba(255,255,255,0.0)), to(rgba(255,255,255,0.0))),
@@ -162,7 +180,7 @@ li:nth-child(6n+3) a {
 		linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
 		linear-gradient(#acd030, #6f9113);
 }
-li:nth-child(6n+4) a {
+li:nth-child(6n+4) {
 	background: #4A8419;
 	background:
 		-webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.2)), color-stop(0.5, rgba(255,255,255,0.1)), color-stop(0.501, rgba(255,255,255,0.0)), to(rgba(255,255,255,0.0))),
@@ -183,7 +201,7 @@ li:nth-child(6n+4) a {
 		linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
 		linear-gradient(#58aa00, #337100);
 }
-li:nth-child(6n+5) a {
+li:nth-child(6n+5) {
 	background: #18946D;
 	background:
 		-webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.2)), color-stop(0.5, rgba(255,255,255,0.1)), color-stop(0.501, rgba(255,255,255,0.0)), to(rgba(255,255,255,0.0))),
@@ -204,7 +222,7 @@ li:nth-child(6n+5) a {
 		linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
 		linear-gradient(#00aa78, #05603e);
 }
-li:nth-child(6n+6) a {
+li:nth-child(6n+6) {
 	background: #1E577F;
 	background:
 		-webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.2)), color-stop(0.5, rgba(255,255,255,0.1)), color-stop(0.501, rgba(255,255,255,0.0)), to(rgba(255,255,255,0.0))),
@@ -225,7 +243,7 @@ li:nth-child(6n+6) a {
 		linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
 		linear-gradient(#0074ae, #073c66);
 }
-li a:hover, li a:focus {
+li :hover, li :focus {
 	background:
 		-webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.1)), color-stop(0.5, rgba(255,255,255,0.2)), color-stop(0.501, rgba(255,255,255,0.1)), to(rgba(255,255,255,0.1))),
 		-webkit-gradient(linear, left top, left bottom, from(#3a3e40), to(#2a2e30));
@@ -248,7 +266,7 @@ li a:hover, li a:focus {
 	-moz-box-shadow:0 0 50px rgba(255,255,255,0.15);
 	-webkit-box-shadow:0 0 100px rgba(255,255,255,0.15);
 }
-li:nth-child(6n+1) a:hover, li:nth-child(6n+1) a:focus {
+li:nth-child(6n+1) :hover, li:nth-child(6n+1) :focus {
 	background:
 		-webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.1)), color-stop(0.5, rgba(255,255,255,0.2)), color-stop(0.501, rgba(255,255,255,0.1)), to(rgba(255,255,255,0.1))),
 		-webkit-gradient(linear, left top, left bottom, from(#A839B2), to(#6c1075));
@@ -268,7 +286,7 @@ li:nth-child(6n+1) a:hover, li:nth-child(6n+1) a:focus {
 		linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
 		linear-gradient(#A839B2, #6c1075);
 }
-li:nth-child(6n+2) a:hover, li:nth-child(6n+2) a:focus {
+li:nth-child(6n+2) :hover, li:nth-child(6n+2) :focus {
 	background:
 		-webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.1)), color-stop(0.5, rgba(255,255,255,0.2)), color-stop(0.501, rgba(255,255,255,0.1)), to(rgba(255,255,255,0.1))),
 		-webkit-gradient(linear, left top, left bottom, from(#ff0071), to(#bb0047));
@@ -288,7 +306,7 @@ li:nth-child(6n+2) a:hover, li:nth-child(6n+2) a:focus {
 		linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
 		linear-gradient(#ff0071, #bb0047);
 }
-li:nth-child(6n+3) a:hover, li:nth-child(6n+3) a:focus {
+li:nth-child(6n+3) :hover, li:nth-child(6n+3) :focus {
 	background:
 		-webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.1)), color-stop(0.5, rgba(255,255,255,0.2)), color-stop(0.501, rgba(255,255,255,0.1)), to(rgba(255,255,255,0.1))),
 		-webkit-gradient(linear, left top, left bottom, from(#acd030), to(#6f9113));
@@ -308,7 +326,7 @@ li:nth-child(6n+3) a:hover, li:nth-child(6n+3) a:focus {
 		linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
 		linear-gradient(#acd030, #6f9113);
 }
-li:nth-child(6n+4) a:hover, li:nth-child(6n+4) a:focus {
+li:nth-child(6n+4) :hover, li:nth-child(6n+4) :focus {
 	background:
 		-webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.1)), color-stop(0.5, rgba(255,255,255,0.2)), color-stop(0.501, rgba(255,255,255,0.1)), to(rgba(255,255,255,0.1))),
 		-webkit-gradient(linear, left top, left bottom, from(#58aa00), to(#337100));
@@ -328,7 +346,7 @@ li:nth-child(6n+4) a:hover, li:nth-child(6n+4) a:focus {
 		linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
 		linear-gradient(#58aa00, #337100);
 }
-li:nth-child(6n+5) a:hover, li:hover:nth-child(6n+5) a:focus {
+li:nth-child(6n+5):hover, li:hover:nth-child(6n+5):focus {
 	background:
 		-webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.1)), color-stop(0.5, rgba(255,255,255,0.2)), color-stop(0.501, rgba(255,255,255,0.1)), to(rgba(255,255,255,0.1))),
 		-webkit-gradient(linear, left top, left bottom, from(#00aa78), to(#05603e));
@@ -348,7 +366,7 @@ li:nth-child(6n+5) a:hover, li:hover:nth-child(6n+5) a:focus {
 		linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
 		linear-gradient(#00aa78, #05603e);
 }
-li:nth-child(6n+6) a:hover, li:nth-child(6n+6) a:focus {
+li:nth-child(6n+6):hover, li:nth-child(6n+6):focus {
 	background:
 		-webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.1)), color-stop(0.5, rgba(255,255,255,0.2)), color-stop(0.501, rgba(255,255,255,0.1)), to(rgba(255,255,255,0.1))),
 		-webkit-gradient(linear, left top, left bottom, from(#0074ae), to(#073c66));
@@ -374,6 +392,7 @@ li .title {
 	border-right: 1px solid rgba(255,255,255,1.0);
 	padding: 0 20px 0 0;
 	height: 60px;
+	overflow: hidden;
 }
 li h3, li h4 {
 	display: inline;
@@ -393,22 +412,38 @@ li h4 {
 	height: 19px;
 	opacity: 0.5;
 }
-.title .stat span {
-	background-image: url("data:image/png;base64,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");
+	span.icon {
+  background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAACSCAYAAABMi0qyAAAF4UlEQVRoBe2ZW2gdRRjHc2q9NLWa2lovrZ7jDREFGyr2QTAHvBW8EFRKRdD4INSXEvsi+KAWjKAvFR9UEDlFpNWCtF5AECExWry3qdInW5OU1kuVNqZR0pISf//JfNvZPbPnnGgRhP3gl5n5bjv7ze7s7klpenq67d/InEjwGnRDoMxjHvWlky0tmoFnAe02GIO1UAazqS+dbPKRr7OZg1oZBmANlCG0qS9dF8hHvs5uTgraD8pcA4kchwKkexbkI1/FcKIzmeSoKWpcgzypYZCPfBXTVtIfRH/O8dUZ921e04lhH8ivYqswzOAoXAHN5Fwc5KuYJIEFKXMzGUk56BRAYkuj4uRJDYP85Ssp2ynsJuuDUPPZK7R9vq9mO1ThEZDIVzGjyibCZRxgrHVWlU2kM9/oMspoF1KZfpcf0zhxS0avDHYAl9BOQdN6CI6ApnYNhKIlXguyyUe+M0JGm5q1Op1w+gydSCeb+bnWLiTLF7ZlBgu9QkcdDY3Wb5TAfBq2YQ0aOuYZiwRtbUUNmtdgGRfQ0ryLSPpml/Lr+ByHx+QclezdFYwvpj8B43BhoE/djY2WsZcjzocFsC56dClzMl+A/giYHKazGOr855JDR5gHKpb2gCthFXSAifaFzfAR/AD74QBMKuMG+AtmK4p5Sgnmw5bZRuP/JrTbOZ3G4I1ZJKnhOwdSRVSSl+EE5IlsL4G7fmhTCTSbpTAJefInBq2Qzbzudr6ayp4JedKOQT6JZC+kaxNLfif10GmUYJAcd4CuiR1BvuuCfqoGquq3sBvuD8+Tvoq2Gr6HL8GtAG0qwTwUd8FZMuRQ59Psdk7NNjbI1iDm01BXJGi+KzcsoIxFEf/DGiyh4JPwniofSqursJig0+FQGKx+KwkU/JYPHPTtySbnvrf9oAP7d6Dd+PGYrznG2vOC4HWxYOligdItyQSfwVizqfOvU0SC5fMNfAV6DKZiUgNvXE+rc34icN5Efwrs2zKJy67CJZT3Ul/ivbSLoAS2CmfT13KelOAoympH1wyOQhVugT9AuuPwJCQziO3KJ0hPeZ3oBUQS6vTo09hJ9hSk1GUrCZ+ReiZKLoMkWIrYDKRvWWIzaDlYjkWCogbFdTCLW4YNpAf6YWNuGMZeqGYd0C0Hk2E63VkfN8aw0XvJqcec6PdDVhK7+WmP0/4XyjADTT0m+k3FiXZcJ3hV6OyC8GPL2XL+DKEfSTaUUqk0gmITtCrLcUwfjFmoYP3QilSjRyKyu4XomgXrvb8GFVPQalojwTjbHUOxIVESrGnvglZkGCede1pQdsAzEH4vM0xkmF4vpItGmmQZLSVOVev7dsSvUEY9MyyeTMVzQVdCcjtHr5IWlEWCU1BEexO1eus9+E64D24E/USmt1btQj/DO7AFJmBGuP/1TBArYBBM3qXzmw1oP4Qh2Ak3g4uz4CoK/WJn8gUd2V70is1+PJd2BI7BbdLJ6XrYB5Kv4RDohzYd8ReQbAP5LoK9IFFbkfJVjbysot1qg0z7KeM9Gd1z2tIGqEaXL8mUb1Vc9d/3bTdt+kMDBfKJLmV7fddX6Y9gK/Ma/XthNbwAMZlSgh3esp12Z+C1gv5K6ISbYBT0GaQn82H4HPpUg2XwWebcssPfUehTsB0uhwro50O3CkpyFWiN80Q/f8mvDrud9UNrFZ6HXyErdR/d5hB7sFyE8Xa4Fcqg4KdhD9RJLEGdUyOFnUIjn4a2IsEp2NKKIv4fiqjd6CCwc0RJNpS6jYLNoxMOQigfM1gJfV6Zm0DBP3mnsHmYgQ6mf1xJkh04vGW1mWo718aSlfUojoGenzOiLAF6PmanjSpXUqdwA24Hcl3jhiTBPwmeIKdLcA+d8fgBcrX6mUz/zHCveXpZ2Aqx7dxXKtXI/wH4wGmVxXM+7aMQvmQwTImmfTdYTFKDROGNsSQKdtNuJUEPTqHoP1ypIzN2B80e2cYLcbDrQcF1R26WQIleAb0L5QYrSaNHm94NKvC2q3bOn78BalNk/P1uRCIAAAAASUVORK5CYII=");
+
 	background-repeat: no-repeat;
 	background-size: 16px 94px;
 	display: inline-block;
 	padding: 1px 8px 0 24px;
 }
-.title .stat .w {
+.icon .w {
 	background-position: 4px -25px;
 }
-.title .stat .f {
+.icon .f {
 	background-position: 4px -50px;
 }
-.title .stat .t {
+.icon .t {
 	background-position: 4px -75px;
 }
+div#config {
+	display: inline-block;
+}
+#ineed .icon {
+	height: 24px;
+	display: inline-block;
+	cursor: pointer;
+}
+#ineed .icon.color {
+	background-position: 4px -100px;
+}
+#ineed .icon.tag {
+	background-position: 4px -125px;
+}
+
 li div.size {
 	float: right;
 	margin: 0 0 0 30px;
@@ -495,6 +530,11 @@ pre {
 	line-height: 100%;
 	text-align: left;
 }
+.tags {
+	display: block;
+	margin-top: 25px;
+}
+
 #ineed {
 	margin: 10px auto;
 	font-size: 25px;
@@ -512,7 +552,7 @@ pre {
 	background: black;
 	color: white;
 	padding: 3px;
-	width: 502px;
+	width: 415px;
 }
 #ineed_select {
 	position: absolute;
