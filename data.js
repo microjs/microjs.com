@@ -8,15 +8,14 @@
 // See examples below.
 
 module.exports = [
-/*
   {
     name: "uniloc",
     github: "unicorn-standard/uniloc",
     tags: ["router", "routing", "query", "parser", "parsing", "parameters", "uri"],
-    url: "http://unicornstandard.com/packages/uniloc.html",
+    description: "Uniloc is a utility to match URIs to named routes, and to generate URIs given a route name and options",
+    url: "https://github.com/unicorn-standard/uniloc",
     source: "https://raw.githubusercontent.com/unicorn-standard/uniloc/master/uniloc.js"
   },
-*/
   {
     name: "MagJS",
     github: "magnumjs/mag.js",
