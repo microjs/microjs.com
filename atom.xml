@@ -5000,5 +5000,21 @@
 		<summary>Yet another touch slider. Fast, lightweight, extensible, works on everything.</summary>
 	</entry>
 
+	<entry>
+		<title>uniloc</title>
+		<link href="https://github.com/unicorn-standard/uniloc" />
+		<id>urn:uuid:0d9960c0-6f5f-11e5-98b2-9fc4a70bfb5b</id>
+		<updated>2015-10-10'T'14:56:10+00:00</updated>
+		<summary>Uniloc is a utility to match URIs to named routes, and to generate URIs given a route name and options</summary>
+	</entry>
+
+	<entry>
+		<title>GamepadMicro</title>
+		<link href="https://github.com/likethemammal/gamepad-micro/" />
+		<id>urn:uuid:229c40f0-6f5f-11e5-98b2-9fc4a70bfb5b</id>
+		<updated>2015-10-10'T'14:56:10+00:00</updated>
+		<summary>Micro library that interfaces with the HTML5 Gamepad API and publishes gamepad update events.</summary>
+	</entry>
+
 
 </feed>

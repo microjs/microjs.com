@@ -8,15 +8,14 @@
 // See examples below.
 
 module.exports = [
-/*
   {
     name: "uniloc",
     github: "unicorn-standard/uniloc",
     tags: ["router", "routing", "query", "parser", "parsing", "parameters", "uri"],
-    url: "http://unicornstandard.com/packages/uniloc.html",
+    description: "Uniloc is a utility to match URIs to named routes, and to generate URIs given a route name and options",
+    url: "https://github.com/unicorn-standard/uniloc",
     source: "https://raw.githubusercontent.com/unicorn-standard/uniloc/master/uniloc.js"
   },
-*/
   {
     name: "MagJS",
     github: "magnumjs/mag.js",
@@ -1955,6 +1954,14 @@ module.exports = [
     description: "Microframework for fast game prototyping using Canvas & DOM",
     url: "https://github.com/michalbe/mibbu",
     source: "https://raw.githubusercontent.com/michalbe/mibbu/master/mibbu.js"
+  },
+  {
+    name: "GamepadMicro",
+    tags: ["gamepad", "html5"],
+    github: "likethemammal/gamepad-micro",
+    description: "Micro library that interfaces with the HTML5 Gamepad API and publishes gamepad update events.",
+    url: "https://github.com/likethemammal/gamepad-micro/",
+    source: "https://raw.githubusercontent.com/likethemammal/gamepad-micro/master/dist/gamepad-micro.min.js"
   },
   {
     name: "nimble",
