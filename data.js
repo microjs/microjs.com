@@ -343,6 +343,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/PoeHaH/devicedetector/master/devicedetector-production.js"
   },
   {
+    name: "MicroLib-Tabs",
+    tags: ["dom", "tabs", "tabbed content"],
+    description: "A small library for easily creating tabbed content. Small markup and a single function.",
+    url: "https://github.com/VizuaaLOG/microlib-tabs",
+    source: "https://raw.githubusercontent.com/VizuaaLOG/microlib-tabs/master/dist/tabs.microlib-latest.js"
+  },
+  {
     name: "Feed",
     github: "evandrolg/Feed",
     tags: ["feed", "rss", "feed reader", "client-side"],

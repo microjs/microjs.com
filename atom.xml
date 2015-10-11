@@ -5016,5 +5016,13 @@
 		<summary>Micro library that interfaces with the HTML5 Gamepad API and publishes gamepad update events.</summary>
 	</entry>
 
+	<entry>
+		<title>MicroLib-Tabs</title>
+		<link href="https://github.com/VizuaaLOG/microlib-tabs" />
+		<id>urn:uuid:51085d10-702d-11e5-b4f7-9f013a27cfa9</id>
+		<updated>2015-10-11'T'15:32:07+00:00</updated>
+		<summary>A small library for easily creating tabbed content. Small markup and a single function.</summary>
+	</entry>
+
 
 </feed>
