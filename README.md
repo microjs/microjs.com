@@ -34,6 +34,10 @@ Want to add your own? Fork this site on GitHub, add your framework to "data.js" 
 To check the minified and compressed size of your library from the command line, either use `./build.js -v` (see below) or run:
 
     $ uglifyjs yourlib.js | gzip -9f | wc -c
+    
+    or
+    
+    $ wget -q -O- https://domain.tld/path/to/file.src | uglifyjs | gzip -9f | wc -c
 
 ### How to add
 
