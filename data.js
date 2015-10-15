@@ -15,6 +15,13 @@ module.exports = [
     description: "Create flag promises",
     url: "https://github.com/javimosch/xflagable/",
     source: "https://raw.githubusercontent.com/javimosch/xflagable/master/xflagable.js"
+  },{
+    name: "hotkeys",
+    github: "jaywcjlove/hotkeys",
+    tags: ["hotkey", "hotkeys", "hotkeys-js", "hotkeysjs", "key", "keys", "keyboard", "shortcuts"],
+    description: "A simple micro-library for defining and dispatching keyboard shortcuts. It has no dependencies.",
+    url: "http://jaywcjlove.github.io/hotkeys/",
+    source: "https://raw.githubusercontent.com/jaywcjlove/hotkeys/master/src/hotkeys.js"
   },
   {
     name: "Location Init",
