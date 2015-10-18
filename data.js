@@ -2070,15 +2070,13 @@ module.exports = [
     source: "https://bitbucket.org/killdream/ekho/raw/tip/src/ekho.js"
   },
   */
-  /*
   {
     name: "JSON.minify",
     tags: ["json"],
     description: "Strip out // and /*..* comments from JSON before parsing.",
-    url: "http://github.com/getify/JSON.minify",
-    source: "https://raw.githubusercontent.com/getify/JSON.minify/master/minify.json.js"
+    url: "https://github.com/getify/JSON.minify",
+    source: "https://raw.githubusercontent.com/getify/JSON.minify/master/json2.js"
   },
-  */
   {
     name: "jaylist",
     tags: ["functional", "extend", "data"],
@@ -2477,7 +2475,7 @@ module.exports = [
   {
     name: "HTMLparser",
     tags: ["html", "dom","manipulation","json","parser","htmlparser"],
-    description: "It parses HTML ¯\_(ツ)_/¯",
+    description: "It parses HTML ¯\\_(ツ)_/¯",
     url: "https://github.com/ogewan/HTMLparser",
     source: "https://raw.githubusercontent.com/ogewan/HTMLparser/master/HTMLparser.js"
   },
@@ -2630,10 +2628,20 @@ module.exports = [
   },
   {
     name: "Sylvester",
-    tags: ["svg", "vector", "matrix", "math"],
+    github: "jcoglan/sylvester",
+    tags: ["svg", "vector", "matrix", "math", "mathematics", "matrices"],
     description: "A js library for mathematics with vectors and matrices",
     url: "http://sylvester.jcoglan.com/",
-    source: "http://sylvester.jcoglan.com/assets/sylvester-0-1-3.zip!/sylvester.src.js"
+    source: ["https://raw.githubusercontent.com/jcoglan/sylvester/master/src/exports.js",
+             "https://raw.githubusercontent.com/jcoglan/sylvester/master/src/line.js",
+             "https://raw.githubusercontent.com/jcoglan/sylvester/master/src/line.segment.js",
+             "https://raw.githubusercontent.com/jcoglan/sylvester/master/src/linkedlist.js",
+             "https://raw.githubusercontent.com/jcoglan/sylvester/master/src/matrix.js",
+             "https://raw.githubusercontent.com/jcoglan/sylvester/master/src/plane.js",
+             "https://raw.githubusercontent.com/jcoglan/sylvester/master/src/polygon.js",
+             "https://raw.githubusercontent.com/jcoglan/sylvester/master/src/polygon.vertex.js",
+             "https://raw.githubusercontent.com/jcoglan/sylvester/master/src/sylvester.js",
+             "https://raw.githubusercontent.com/jcoglan/sylvester/master/src/vector.js"]
   },
   {
     name: "Include.js",
@@ -3133,7 +3141,7 @@ module.exports = [
   {
     name: "konami.js",
     github: "SimonWaldherr/konami.js",
-    tags: ["events", "input", "bind", "keypress"],
+    tags: ["events", "input", "bind", "keypress", "hotkeys", "keyboard", "shortcuts"],
     description: "logs every keypress and store it for later",
     url: "https://github.com/SimonWaldherr/konami.js",
     source: "https://raw.githubusercontent.com/SimonWaldherr/konami.js/master/konami.js"
