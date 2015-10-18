@@ -5016,5 +5016,37 @@
 		<summary>Micro library that interfaces with the HTML5 Gamepad API and publishes gamepad update events.</summary>
 	</entry>
 
+	<entry>
+		<title>hotkeys</title>
+		<link href="http://jaywcjlove.github.io/hotkeys/" />
+		<id>urn:uuid:644e17f0-7593-11e5-8bd6-ade2b909fe30</id>
+		<updated>2015-10-18'T'12:25:56+00:00</updated>
+		<summary>A simple micro-library for defining and dispatching keyboard shortcuts. It has no dependencies.</summary>
+	</entry>
+
+	<entry>
+		<title>MicroLib-Tabs</title>
+		<link href="https://github.com/VizuaaLOG/microlib-tabs" />
+		<id>urn:uuid:66509eb0-7593-11e5-8bd6-ade2b909fe30</id>
+		<updated>2015-10-18'T'12:25:56+00:00</updated>
+		<summary>A small library for easily creating tabbed content. Small markup and a single function.</summary>
+	</entry>
+
+	<entry>
+		<title>Sylvester</title>
+		<link href="http://sylvester.jcoglan.com/" />
+		<id>urn:uuid:e59ce5f0-7595-11e5-949c-cf2fbf48ac77</id>
+		<updated>2015-10-18'T'12:43:13+00:00</updated>
+		<summary>A js library for mathematics with vectors and matrices</summary>
+	</entry>
+
+	<entry>
+		<title>once.js</title>
+		<link href="https://github.com/daniellmb/once.js" />
+		<id>urn:uuid:ff712450-7595-11e5-98c3-41bcab539c09</id>
+		<updated>2015-10-18'T'12:44:34+00:00</updated>
+		<summary>Enforce that a CoffeeScript or JavaScript function can only be executed once.</summary>
+	</entry>
+
 
 </feed>
