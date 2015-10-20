@@ -4838,5 +4838,13 @@ module.exports = [
     description: "A small javascript library to build DOM elements by chaining javascript functions",
     url: "https://github.com/maael/html-chain",
     source: "https://raw.githubusercontent.com/maael/html-chain/master/html.js"
+  },
+  {
+    name: "swiss-army-knife.js",
+    github: "imaustink/swiss-army-knife",
+    tags: ["helper", "lightweight", "polyfill", "ES6", "forEach", "date", "dates", "user", "freindly", "browser"],
+    description: "Swiss Army Knife is a JavaScript library intended to make client side development a little less painfull.",
+    url: "https://github.com/imaustink/swiss-army-knife",
+    source: "https://github.com/imaustink/swiss-army-knife/blob/master/swiss-army-knife.min.js"
   }
 ];
