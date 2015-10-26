@@ -4846,5 +4846,13 @@ module.exports = [
     description: "Swiss Army Knife is a JavaScript library intended to make client side development a little less painfull.",
     url: "https://github.com/imaustink/swiss-army-knife",
     source: "https://github.com/imaustink/swiss-army-knife/blob/master/swiss-army-knife.min.js"
+  },
+  {
+    name: "wallop.js",
+    github: "peduarte/wallop",
+    tags: ["helper", "lightweight", "slider", "browser", "carousel", "native", "slideshow", "gallery", "toggle"],
+    description: "A minimal JS library for showing & hiding things.",
+    url: "https://github.com/peduarte/wallop",
+    source: "https://raw.githubusercontent.com/peduarte/wallop/master/js/Wallop.min.js"
   }
 ];
