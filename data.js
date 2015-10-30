@@ -4694,6 +4694,6 @@ module.exports = [
     tags: ["reactive", "events", "data", "map", "list", "collection"],
     description: "Ultra-fast javascript reactivity implementation",
     url: "https://github.com/Riim/cellx",
-    source: "https://raw.githubusercontent.com/Riim/cellx/master/cellx.js"
+    source: "https://raw.githubusercontent.com/Riim/cellx/master/cellx.min.js"
   }
 ];
