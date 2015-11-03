@@ -4416,6 +4416,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/pseudosavant/psQuery/master/src/psQuery.js"
   },
   {
+    name: "class-256.js",
+    github: "koffeine/class-256.js",
+    tags: ["class", "prototype", "object", "inheritance", "oop", "super", "constructor"],
+    description: "256 byte JavaScript classical inheritance pattern library",
+    url: "https://github.com/koffeine/class-256.js",
+    source: "https://github.com/koffeine/class-256.js/blob/master/dist/class.min.js"
+  },
+  {
     name: "psColor",
     tags: ["color", "canvas"],
     description: "psColor is a small JavaScript library for calculating the average color of an  &lt;img&gt; element in the browser.",
