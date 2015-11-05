@@ -4419,7 +4419,7 @@ module.exports = [
     name: "class-256.js",
     github: "koffeine/class-256.js",
     tags: ["class", "prototype", "object", "inheritance", "oop", "super", "constructor"],
-    description: "256 byte JavaScript classical inheritance pattern library",
+    description: "Less than 256 byte JavaScript classical inheritance pattern library",
     url: "https://github.com/koffeine/class-256.js",
     source: "https://github.com/koffeine/class-256.js/blob/master/dist/class.min.js"
   },
