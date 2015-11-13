@@ -2351,6 +2351,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/kbjr/DragDrop/master/drag-drop.js"
   },
   {
+    name: "earley-parser-js",
+    github: "lagodiuk/earley-parser-js",
+    tags: ["parsing", "context-free grammar", "earley parser", "natural language processing", "nlp", "parse tree"],
+    description: "General purpose context-free languages parser - Earley parser",
+    url: "https://github.com/lagodiuk/earley-parser-js",
+    source: "https://rawgit.com/lagodiuk/earley-parser-js/master/earley-oop.min.js"
+  },
+  {
     name: "Async",
     tags: ["control flow", "module", "asynchronous "],
     description: "Async is a utility module which provides straight-forward, powerful functions for working with asynchronous JavaScript.",
