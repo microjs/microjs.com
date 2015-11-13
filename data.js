@@ -4854,5 +4854,13 @@ module.exports = [
     description: "A minimal JS library for showing & hiding things.",
     url: "https://github.com/peduarte/wallop",
     source: "https://raw.githubusercontent.com/peduarte/wallop/master/js/Wallop.min.js"
+  },
+  {
+    name: "isMobileOS.js",
+    github: "RazorfishGermany/es6-module-isMobileOs",
+    tags: ["helper", "lightweight", "mobile", "detection", "user agent string", "ES6", "UMD"],
+    description: "A simple ECMAScript6 module which checks for mobile operating systems.",
+    url: "https://github.com/RazorfishGermany/es6-module-isMobileOs",
+    source: "https://github.com/RazorfishGermany/es6-module-isMobileOs/blob/master/dist/main.min.js"
   }
 ];
