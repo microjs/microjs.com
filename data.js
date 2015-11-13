@@ -563,7 +563,7 @@ module.exports = [
     tags: ["events"],
     description: "A mini event library for Javascript applications",
     url: "https://github.com/allouis/minivents",
-    source: "https://raw.githubusercontent.com/allouis/minivents/master/minivents.js"
+    source: "https://raw.githubusercontent.com/allouis/minivents/master/dist/minivents.js"
   },
   {
     name: "Tipograph",
@@ -2955,7 +2955,7 @@ module.exports = [
     tags: ["momentum", "touch", "mouse", "mobile"],
     description: "Add momentum to anything. It's like iScroll, except not for scrolling. Supports mouse and touch events.",
     url: "http://chrisbateman.github.io/impetus",
-    source: "https://raw.githubusercontent.com/chrisbateman/impetus/master/impetus.js"
+    source: "https://raw.githubusercontent.com/chrisbateman/impetus/master/dist/impetus.js"
   },
   {
     name: "seedrandom.js",
@@ -3246,7 +3246,7 @@ module.exports = [
     tags: ["cookie.js", "cookies", "storage"],
     description: "A small library that makes setting, getting and removing cookies really easy.",
     url: "https://github.com/florian/cookie.js",
-    source: "https://raw.githubusercontent.com/florian/cookie.js/gh-pages/cookie.js"
+    source: "https://raw.githubusercontent.com/florian/cookie.js/master/cookie.js"
   },
   {
     name: "Ordering.js",
@@ -4429,7 +4429,7 @@ module.exports = [
     tags: ["class", "prototype", "object", "inheritance", "oop", "super", "constructor"],
     description: "Less than 256 byte JavaScript classical inheritance pattern library",
     url: "https://github.com/koffeine/class-256.js",
-    source: "https://github.com/koffeine/class-256.js/blob/master/dist/class.min.js"
+    source: "https://raw.githubusercontent.com/koffeine/class-256.js/master/dist/class.js"
   },
   {
     name: "psColor",
@@ -4813,7 +4813,7 @@ module.exports = [
     tags: ["ajax", "xhr", "xmlhttprequest", "promise", "json", "request"],
     description: "Ultra-simple promise based wrapper around XMLHttpRequest",
     url: "https://github.com/radiosilence/xr",
-    source: "https://raw.githubusercontent.com/radiosilence/xr/master/xr.js"
+    source: "https://raw.githubusercontent.com/radiosilence/xr/master/src/xr.js"
   },
   {
     name: "SimpleScrollbar",
@@ -4861,7 +4861,7 @@ module.exports = [
     tags: ["helper", "lightweight", "polyfill", "ES6", "forEach", "date", "dates", "user", "freindly", "browser"],
     description: "Swiss Army Knife is a JavaScript library intended to make client side development a little less painfull.",
     url: "https://github.com/imaustink/swiss-army-knife",
-    source: "https://github.com/imaustink/swiss-army-knife/blob/master/swiss-army-knife.min.js"
+    source: "https://raw.githubusercontent.com/imaustink/swiss-army-knife/master/swiss-army-knife.js"
   },
   {
     name: "wallop.js",
@@ -4869,7 +4869,7 @@ module.exports = [
     tags: ["helper", "lightweight", "slider", "browser", "carousel", "native", "slideshow", "gallery", "toggle"],
     description: "A minimal JS library for showing & hiding things.",
     url: "https://github.com/peduarte/wallop",
-    source: "https://raw.githubusercontent.com/peduarte/wallop/master/js/Wallop.min.js"
+    source: "https://raw.githubusercontent.com/peduarte/wallop/master/js/Wallop.js"
   },
   {
     name: "isMobileOS.js",
@@ -4877,6 +4877,6 @@ module.exports = [
     tags: ["helper", "lightweight", "mobile", "detection", "user agent string", "ES6", "UMD"],
     description: "A simple ECMAScript6 module which checks for mobile operating systems.",
     url: "https://github.com/RazorfishGermany/es6-module-isMobileOs",
-    source: "https://github.com/RazorfishGermany/es6-module-isMobileOs/blob/master/dist/main.min.js"
+    source: "https://raw.githubusercontent.com/RazorfishGermany/es6-module-isMobileOs/master/dist/main.js"
   }
 ];
