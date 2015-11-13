@@ -5048,5 +5048,37 @@
 		<summary>Enforce that a CoffeeScript or JavaScript function can only be executed once.</summary>
 	</entry>
 
+	<entry>
+		<title>class-256.js</title>
+		<link href="https://github.com/koffeine/class-256.js" />
+		<id>urn:uuid:35bd33d0-8a10-11e5-9668-1d2f4314b987</id>
+		<updated>2015-11-13'T'14:08:39+00:00</updated>
+		<summary>Less than 256 byte JavaScript classical inheritance pattern library</summary>
+	</entry>
+
+	<entry>
+		<title>swiss-army-knife.js</title>
+		<link href="https://github.com/imaustink/swiss-army-knife" />
+		<id>urn:uuid:38e32bf0-8a10-11e5-9668-1d2f4314b987</id>
+		<updated>2015-11-13'T'14:08:39+00:00</updated>
+		<summary>Swiss Army Knife is a JavaScript library intended to make client side development a little less painfull.</summary>
+	</entry>
+
+	<entry>
+		<title>wallop.js</title>
+		<link href="https://github.com/peduarte/wallop" />
+		<id>urn:uuid:39133ca0-8a10-11e5-9668-1d2f4314b987</id>
+		<updated>2015-11-13'T'14:08:39+00:00</updated>
+		<summary>A minimal JS library for showing &amp; hiding things.</summary>
+	</entry>
+
+	<entry>
+		<title>isMobileOS.js</title>
+		<link href="https://github.com/RazorfishGermany/es6-module-isMobileOs" />
+		<id>urn:uuid:39242c90-8a10-11e5-9668-1d2f4314b987</id>
+		<updated>2015-11-13'T'14:08:39+00:00</updated>
+		<summary>A simple ECMAScript6 module which checks for mobile operating systems.</summary>
+	</entry>
+
 
 </feed>
