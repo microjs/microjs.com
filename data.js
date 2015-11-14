@@ -2495,6 +2495,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/yckart/imageMaps.js/master/imagemaps.js"
   },
   {
+    name: "rounding.js",
+    tags: ["numeric", "algorithm"],
+    description: "Exact rounding with a choice of rounding algorithms",
+    url: "https://github.com/top-quark/rounding.js",
+    source: "https://raw.githubusercontent.com/top-quark/rounding.js/master/rounding.js" 
+  },
+  {
     name: "SpellChecker.js",
     tags: ["spell-correction", "spell", "linguist", "language", "text"],
     description: "A javascript spell-correction",
