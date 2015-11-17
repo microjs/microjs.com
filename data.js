@@ -2789,6 +2789,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/wilddeer/Peppermint/master/dist/peppermint.js"
   },
   {
+    name: "BabelBox",
+    tags: ["i18n", "translation", "multilingual", "language", "internationalization", "amd"],
+    description: "i18n library that allows users to easily support multiple languages and requirejs support",
+    url: "http://javascript-kurse-berlin.de/labs/babelbox.html",
+    source: "https://raw.githubusercontent.com/hoxton-one/babelbox/master/dist/babelbox.js"
+  },
+  {
     name: "Cookie Monster",
     tags: ["cookies", "data", "store"],
     description: "A lightweight cookie library",
