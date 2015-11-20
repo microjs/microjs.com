@@ -4878,5 +4878,13 @@ module.exports = [
     description: "A simple ECMAScript6 module which checks for mobile operating systems.",
     url: "https://github.com/RazorfishGermany/es6-module-isMobileOs",
     source: "https://raw.githubusercontent.com/RazorfishGermany/es6-module-isMobileOs/master/dist/main.js"
+  },
+  {
+    name: "preact",
+    github: "developit/preact",
+    tags: ["dom", "templating"],
+    description: "Tiny & fast Component-based Virtual DOM framework.",
+    url: "https://github.com/developit/preact",
+    source: "https://raw.githubusercontent.com/developit/preact/master/src/preact.js"
   }
 ];
