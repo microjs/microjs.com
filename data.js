@@ -9,6 +9,7 @@
 
 module.exports = [
   {
+    'use strict';
     name: "uniloc",
     github: "unicorn-standard/uniloc",
     tags: ["router", "routing", "query", "parser", "parsing", "parameters", "uri"],
@@ -4878,5 +4879,13 @@ module.exports = [
     description: "A simple ECMAScript6 module which checks for mobile operating systems.",
     url: "https://github.com/RazorfishGermany/es6-module-isMobileOs",
     source: "https://raw.githubusercontent.com/RazorfishGermany/es6-module-isMobileOs/master/dist/main.js"
+  },
+  {
+    name: "whitestorm.js",
+    github: "sasha240100/WhitestormJS",
+    tags: ["3d", "webgl", "framework", "engine", "three.js", "cannon.js", "posteffects", "physics", "editor"],
+    description: "physic + rendering 3d engine based on three.js and cannon.js",
+    url: "https://github.com/sasha240100/WhitestormJS",
+    source: "https://raw.githubusercontent.com/sasha240100/WhitestormJS/master/build/whitestorm.js"
   }
 ];
