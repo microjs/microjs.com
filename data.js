@@ -4878,5 +4878,13 @@ module.exports = [
     description: "A simple ECMAScript6 module which checks for mobile operating systems.",
     url: "https://github.com/RazorfishGermany/es6-module-isMobileOs",
     source: "https://raw.githubusercontent.com/RazorfishGermany/es6-module-isMobileOs/master/dist/main.js"
+  },
+  {
+    name: "smoke-signal",
+    github: "StephanHoyer/smoke-signal",
+    tags: ["pubsub", "event", "observer"],
+    description: "Simple small functional event observer for the browser and node.",
+    url: "https://github.com/StephanHoyer/smoke-signal",
+    source: "https://raw.githubusercontent.com/StephanHoyer/smoke-signal/master/index.js"
   }
 ];
