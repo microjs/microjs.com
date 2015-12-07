@@ -616,8 +616,8 @@ module.exports = [
   {
     name: "j2c",
     github: "pygy/j2c",
-    tags: ["CSS", "compiler", "preprocessor", "SASS", "LESS", "Stylus", "JSON"],
-    description: "CSS preprocessor working from JavaScript objects.",
+    tags: ["CSS", "CSS-in-JS", "compiler", "preprocessor", "SASS", "LESS", "Stylus", "JSON"],
+    description: "CSS-in-JS libray. Small, yet robust and featureful. Local classes, nested selectors, all @rules (nestable), full style sheets or inline styles...",
     url: "http://j2c.py.gy",
     source: "https://raw.githubusercontent.com/pygy/j2c/master/dist/j2c.global.js"
   },
