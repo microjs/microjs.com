@@ -9,6 +9,14 @@
 
 module.exports = [
   {
+    name: "xion",
+    github: "danristea/xion",
+    tags: ["MVC", "JsonML", "diff", "DOM", "vtree"],
+    description: "Lightweight client-side MVC framework that uses JsonML syntax and virtual DOM diffing.",
+    url: "https://github.com/danristea/xion",
+    source: "https://raw.githubusercontent.com/danristea/xion/master/xion.js"
+  },
+  {
     name: "uniloc",
     github: "unicorn-standard/uniloc",
     tags: ["router", "routing", "query", "parser", "parsing", "parameters", "uri"],
