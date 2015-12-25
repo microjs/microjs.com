@@ -4878,5 +4878,13 @@ module.exports = [
     description: "A simple ECMAScript6 module which checks for mobile operating systems.",
     url: "https://github.com/RazorfishGermany/es6-module-isMobileOs",
     source: "https://raw.githubusercontent.com/RazorfishGermany/es6-module-isMobileOs/master/dist/main.js"
+  },
+  {
+    name: "viiny-dragger",
+    github: "giraysam/viiny-dragger",
+    tags: ["viiny", "viiny-dragger", "drag and drop"],
+    description: "vinny-dragger is a drag and drop plugin for javascript.",
+    url: "http://giraysam.github.io/viiny-dragger/",
+    source: "https://raw.githubusercontent.com/giraysam/viiny-dragger/master/src/index.js"
   }
 ];
