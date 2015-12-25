@@ -4885,6 +4885,6 @@ module.exports = [
     tags: ["viiny", "viiny-dragger", "drag and drop"],
     description: "vinny-dragger is a drag and drop plugin for javascript.",
     url: "http://giraysam.github.io/viiny-dragger/",
-    source: "https://github.com/giraysam/viiny-dragger/blob/master/src/index.js"
+    source: "https://github.com/giraysam/viiny-dragger/releases/latest"
   }
 ];
