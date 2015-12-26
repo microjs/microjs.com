@@ -83,6 +83,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/arqex/freezer/master/build/freezer.js"
   },
   {
+    name: "FromNow",
+    github: "lukeed/fromNow",
+    tags: ["date", "time", "parse", "format", "from now", "fromNow", "readable time", "time difference"],
+    description: "An extremely lightweight javascript utility for calculating readable time differences from now vs past or future dates.",
+    url: "https://github.com/lukeed/fromNow",
+    source: "https://raw.githubusercontent.com/lukeed/fromNow/master/fromNow.js"
+  },
+  {
     name: "InversifyJS",
     github: "inversify/InversifyJS",
     tags: ["dependency", "inversion", "inversion", "control"],
