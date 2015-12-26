@@ -4900,5 +4900,13 @@ module.exports = [
     description: "Tiny & fast Component-based Virtual DOM framework.",
     url: "https://github.com/developit/preact",
     source: "https://raw.githubusercontent.com/developit/preact/master/src/preact.js"
+  },
+  {
+    name: "smoke-signal",
+    github: "StephanHoyer/smoke-signal",
+    tags: ["pubsub", "event", "observer"],
+    description: "Simple small functional event observer for the browser and node.",
+    url: "https://github.com/StephanHoyer/smoke-signal",
+    source: "https://raw.githubusercontent.com/StephanHoyer/smoke-signal/master/index.js"
   }
 ];
