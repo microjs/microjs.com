@@ -4932,5 +4932,13 @@ module.exports = [
     description: "Simple small functional event observer for the browser and node.",
     url: "https://github.com/StephanHoyer/smoke-signal",
     source: "https://raw.githubusercontent.com/StephanHoyer/smoke-signal/master/index.js"
+  },
+  {
+    name: "nanoflux.js",
+    github: "ohager/nanoflux",
+    tags: ["flux", "lightweight", "full flux", "tiny", "micro"],
+    description: "A very lightweight and dependency-free Flux implementation",
+    url: "https://github.com/ohager/nanoflux",
+    source: "https://raw.githubusercontent.com/ohager/nanoflux/master/dist/nanoflux.js"
   }
 ];
