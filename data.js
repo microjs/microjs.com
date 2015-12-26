@@ -9,6 +9,14 @@
 
 module.exports = [
   {
+    name: "blobcounter.js",
+    github: "amirhkkh/blobcounter.js",
+    tags: ["blob", "image", "canvas", "processing", "2D", "blobcounter"],
+    description: "blobcounter.js helps you find blobs and shapes in an image",
+    url: "https://github.com/amirhkkh/blobcounter.js",
+    source: "https://github.com/amirhkkh/blobcounter.js/raw/master/blobcounter.js"
+  },
+  {
     name: "uniloc",
     github: "unicorn-standard/uniloc",
     tags: ["router", "routing", "query", "parser", "parsing", "parameters", "uri"],
