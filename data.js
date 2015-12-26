@@ -80,7 +80,7 @@ module.exports = [
     tags: ["date", "time", "parse", "format", "from now", "fromNow", "readable time", "time difference"],
     description: "An extremely lightweight javascript utility for calculating readable time differences from now vs past or future dates.",
     url: "https://github.com/lukeed/fromNow",
-    source: "https://github.com/lukeed/fromNow/blob/master/fromNow.js"
+    source: "https://raw.githubusercontent.com/lukeed/fromNow/master/fromNow.js"
   },
   {
     name: "InversifyJS",
