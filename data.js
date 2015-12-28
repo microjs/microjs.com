@@ -4924,5 +4924,13 @@ module.exports = [
     description: "Simple small functional event observer for the browser and node.",
     url: "https://github.com/StephanHoyer/smoke-signal",
     source: "https://raw.githubusercontent.com/StephanHoyer/smoke-signal/master/index.js"
+  },
+  {
+    name: "min.css",
+    github: "w3core/min.css",
+    tags: ["minify", "css", "javascript", "nodejs", "fastest", "tiniest"],
+    description: "min.css is a tiniest, fastest and efficient JavaScript library for minifying CSS files. It works in node and the browser.",
+    url: "https://github.com/w3core/min.css",
+    source: "https://github.com/w3core/min.css/raw/master/min.css.js"
   }
 ];
