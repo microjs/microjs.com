@@ -4929,7 +4929,7 @@ module.exports = [
     name: "min.css",
     github: "w3core/min.css",
     tags: ["minify", "css", "javascript", "nodejs", "fastest", "tiniest"],
-    description: "min.css is a tiniest, fastest and efficient JavaScript library for minifying CSS files. It works in node and the browser.",
+    description: "min.css is the tiniest, fastest and efficient JavaScript library for minifying CSS files. It works in node and the browser.",
     url: "https://github.com/w3core/min.css",
     source: "https://github.com/w3core/min.css/raw/master/min.css.js"
   }
