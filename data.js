@@ -4885,6 +4885,6 @@ module.exports = [
     tags: ["flux", "lightweight", "full flux", "tiny", "micro"],
     description: "A very lightweight and dependency-free Flux implementation",
     url: "https://github.com/ohager/nanoflux",
-    source: "https://raw.githubusercontent.com/ohager/nanoflux/master/dist/nanoflux.min.js"
+    source: "https://raw.githubusercontent.com/ohager/nanoflux/master/dist/nanoflux.js"
   }
 ];
