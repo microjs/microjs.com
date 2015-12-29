@@ -686,6 +686,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/EvandroLG/selecting/master/src/selecting.js"
   },
   {
+	name: "Avtomat",
+	github: "Temoto-kun/avtomat",
+	tags: ["automaton", "finite-state", "machine", "deterministic","non-deterministic", "input", "event"],
+	description: "Non-deterministic finite state machine (with empty moves) implementation",
+	url: "https://github.com/Temoto-kun/avtomat",
+	source: "https://raw.githubusercontent.com/Temoto-kun/avtomat/master/src/avtomat.js"
+  },
+  {
     name: "store",
     github: "nbubna/store",
     tags: ["localStorage", "sessionStorage", "JSON", "namespace", "API", "extensible"],
