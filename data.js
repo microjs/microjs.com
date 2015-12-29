@@ -4940,5 +4940,13 @@ module.exports = [
     description: "min.css is the tiniest, fastest and efficient JavaScript library for minifying CSS files. It works in node and the browser.",
     url: "https://github.com/w3core/min.css",
     source: "https://github.com/w3core/min.css/raw/master/min.css.js"
+  },
+  {
+    name: "viiny-dragger",
+    github: "giraysam/viiny-dragger",
+    tags: ["viiny", "viiny-dragger", "drag and drop"],
+    description: "vinny-dragger is a drag and drop plugin for javascript.",
+    url: "http://giraysam.github.io/viiny-dragger/",
+    source: "https://github.com/giraysam/viiny-dragger/blob/master/src/index.js"
   }
 ];
