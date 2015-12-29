@@ -9,6 +9,14 @@
 
 module.exports = [
   {
+    name: "blobcounter.js",
+    github: "amirhkkh/blobcounter.js",
+    tags: ["blob", "image", "canvas", "processing", "2D", "blobcounter"],
+    description: "blobcounter.js helps you find blobs and shapes in an image",
+    url: "https://github.com/amirhkkh/blobcounter.js",
+    source: "https://github.com/amirhkkh/blobcounter.js/raw/master/blobcounter.js"
+  },
+  {
     name: "uniloc",
     github: "unicorn-standard/uniloc",
     tags: ["router", "routing", "query", "parser", "parsing", "parameters", "uri"],
@@ -73,6 +81,14 @@ module.exports = [
     description: "An immutable tree data structure that is always updated from the root, making easier to think in a reactive way.",
     url: "https://github.com/arqex/freezer",
     source: "https://raw.githubusercontent.com/arqex/freezer/master/build/freezer.js"
+  },
+  {
+    name: "FromNow",
+    github: "lukeed/fromNow",
+    tags: ["date", "time", "parse", "format", "from now", "fromNow", "readable time", "time difference"],
+    description: "An extremely lightweight javascript utility for calculating readable time differences from now vs past or future dates.",
+    url: "https://github.com/lukeed/fromNow",
+    source: "https://raw.githubusercontent.com/lukeed/fromNow/master/fromNow.js"
   },
   {
     name: "InversifyJS",
@@ -615,11 +631,11 @@ module.exports = [
   },
   {
     name: "j2c",
-    github: "pygy/j2c",
-    tags: ["CSS", "compiler", "preprocessor", "SASS", "LESS", "Stylus", "JSON"],
-    description: "CSS preprocessor working from JavaScript objects.",
+    github: "j2css/j2c",
+    tags: ["CSS", "CSS-in-JS", "compiler", "preprocessor", "SASS", "LESS", "Stylus", "JSON"],
+    description: "CSS-in-JS libray. Small, yet robust and featureful. Local classes, nested selectors, all @rules (nestable), full style sheets or inline styles...",
     url: "http://j2c.py.gy",
-    source: "https://raw.githubusercontent.com/pygy/j2c/master/dist/j2c.global.js"
+    source: "https://raw.githubusercontent.com/j2css/j2c/master/dist/j2c.global.js"
   },
   {
     name: "JsChannels",
@@ -2495,6 +2511,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/yckart/imageMaps.js/master/imagemaps.js"
   },
   {
+    name: "rounding.js",
+    tags: ["numeric", "algorithm"],
+    description: "Exact rounding with a choice of rounding algorithms",
+    url: "https://github.com/top-quark/rounding.js",
+    source: "https://raw.githubusercontent.com/top-quark/rounding.js/master/rounding.js"
+  },
+  {
     name: "SpellChecker.js",
     tags: ["spell-correction", "spell", "linguist", "language", "text"],
     description: "A javascript spell-correction",
@@ -2787,6 +2810,13 @@ module.exports = [
     description: "Yet another touch slider. Fast, lightweight, extensible, works on everything.",
     url: "https://github.com/wilddeer/Peppermint",
     source: "https://raw.githubusercontent.com/wilddeer/Peppermint/master/dist/peppermint.js"
+  },
+  {
+    name: "BabelBox",
+    tags: ["i18n", "translation", "multilingual", "language", "internationalization", "amd"],
+    description: "i18n library that allows users to easily support multiple languages and requirejs support",
+    url: "http://javascript-kurse-berlin.de/labs/babelbox.html",
+    source: "https://raw.githubusercontent.com/hoxton-one/babelbox/master/dist/babelbox.js"
   },
   {
     name: "Cookie Monster",
@@ -4879,12 +4909,28 @@ module.exports = [
     url: "https://github.com/RazorfishGermany/es6-module-isMobileOs",
     source: "https://raw.githubusercontent.com/RazorfishGermany/es6-module-isMobileOs/master/dist/main.js"
   },
+    {
+        name: "nanoflux.js",
+        github: "ohager/nanoflux",
+        tags: ["flux", "lightweight", "full flux", "tiny", "micro"],
+        description: "A very lightweight and dependency-free Flux implementation",
+        url: "https://github.com/ohager/nanoflux",
+        source: "https://raw.githubusercontent.com/ohager/nanoflux/master/dist/nanoflux.js"
+    },
+    {
+    name: "preact",
+    github: "developit/preact",
+    tags: ["dom", "templating"],
+    description: "Tiny & fast Component-based Virtual DOM framework.",
+    url: "https://github.com/developit/preact",
+    source: "https://raw.githubusercontent.com/developit/preact/master/src/preact.js"
+  },
   {
-    name: "nanoflux.js",
-    github: "ohager/nanoflux",
-    tags: ["flux", "lightweight", "full flux", "tiny", "micro"],
-    description: "A very lightweight and dependency-free Flux implementation",
-    url: "https://github.com/ohager/nanoflux",
-    source: "https://raw.githubusercontent.com/ohager/nanoflux/master/dist/nanoflux.js"
+    name: "smoke-signal",
+    github: "StephanHoyer/smoke-signal",
+    tags: ["pubsub", "event", "observer"],
+    description: "Simple small functional event observer for the browser and node.",
+    url: "https://github.com/StephanHoyer/smoke-signal",
+    source: "https://raw.githubusercontent.com/StephanHoyer/smoke-signal/master/index.js"
   }
 ];
