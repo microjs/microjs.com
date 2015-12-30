@@ -323,6 +323,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/daniellmb/VidBG/master/vidbg.js"
   },
   {
+    name: "WorkerB",
+    tags: ["web", "worker", "webworker", "async", "threads", "inline"],
+    description: "Extremely simple inline Web Worker for easy multithreading in JS",
+    url: "https://github.com/lukeschaefer/WorkerB",
+    source: "https://raw.githubusercontent.com/lukeschaefer/WorkerB/master/WorkerB.js"
+  },
+  {
     name: "aop.js",
     tags: ["aspect","oriented","programming","aop", "functional"],
     description: "Aspect Oriented Programming Micro Library.",
