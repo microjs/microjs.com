@@ -1369,6 +1369,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/schuttelaar/Rococo/master/rococo.js"
   },
   {
+    name: "TinyDatePicker",
+    tags: ["date", "calendar", "picker", "datepicker"],
+    description: "Small, zero-dependency date picker (~1500 bytes min+zipped)",
+    url: "https://github.com/chrisdavies/tiny-date-picker",
+    source: "https://raw.githubusercontent.com/chrisdavies/tiny-date-picker/master/tiny-date-picker.js"
+  },
+  {
     name: "Backbone",
     github: "jashkenas/backbone",
     tags: ["mvc", "data", "functional"],
@@ -2515,7 +2522,7 @@ module.exports = [
     tags: ["numeric", "algorithm"],
     description: "Exact rounding with a choice of rounding algorithms",
     url: "https://github.com/top-quark/rounding.js",
-    source: "https://raw.githubusercontent.com/top-quark/rounding.js/master/rounding.js" 
+    source: "https://raw.githubusercontent.com/top-quark/rounding.js/master/rounding.js"
   },
   {
     name: "SpellChecker.js",
