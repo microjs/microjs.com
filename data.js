@@ -9,6 +9,22 @@
 
 module.exports = [
   {
+    name: "blobcounter.js",
+    github: "amirhkkh/blobcounter.js",
+    tags: ["blob", "image", "canvas", "processing", "2D", "blobcounter"],
+    description: "blobcounter.js helps you find blobs and shapes in an image",
+    url: "https://github.com/amirhkkh/blobcounter.js",
+    source: "https://raw.githubusercontent.com/amirhkkh/blobcounter.js/master/blobcounter.js"
+  },
+  {
+    name: "xion",
+    github: "danristea/xion",
+    tags: ["MVC", "JsonML", "diff", "DOM", "vtree"],
+    description: "Lightweight client-side MVC framework that uses JsonML syntax and virtual DOM diffing.",
+    url: "https://github.com/danristea/xion",
+    source: "https://raw.githubusercontent.com/danristea/xion/master/xion.js"
+  },
+  {
     name: "uniloc",
     github: "unicorn-standard/uniloc",
     tags: ["router", "routing", "query", "parser", "parsing", "parameters", "uri"],
@@ -73,6 +89,14 @@ module.exports = [
     description: "An immutable tree data structure that is always updated from the root, making easier to think in a reactive way.",
     url: "https://github.com/arqex/freezer",
     source: "https://raw.githubusercontent.com/arqex/freezer/master/build/freezer.js"
+  },
+  {
+    name: "FromNow",
+    github: "lukeed/fromNow",
+    tags: ["date", "time", "parse", "format", "from now", "fromNow", "readable time", "time difference"],
+    description: "An extremely lightweight javascript utility for calculating readable time differences from now vs past or future dates.",
+    url: "https://github.com/lukeed/fromNow",
+    source: "https://raw.githubusercontent.com/lukeed/fromNow/master/fromNow.js"
   },
   {
     name: "InversifyJS",
@@ -305,6 +329,13 @@ module.exports = [
     description: "micro-library for embedding video backgrounds into web pages",
     url: "https://github.com/daniellmb/VidBG",
     source: "https://raw.githubusercontent.com/daniellmb/VidBG/master/vidbg.js"
+  },
+  {
+    name: "WorkerB",
+    tags: ["web", "worker", "webworker", "async", "threads", "inline"],
+    description: "Extremely simple inline Web Worker for easy multithreading in JS",
+    url: "https://github.com/lukeschaefer/WorkerB",
+    source: "https://raw.githubusercontent.com/lukeschaefer/WorkerB/master/WorkerB.js"
   },
   {
     name: "aop.js",
@@ -615,11 +646,11 @@ module.exports = [
   },
   {
     name: "j2c",
-    github: "pygy/j2c",
-    tags: ["CSS", "compiler", "preprocessor", "SASS", "LESS", "Stylus", "JSON"],
-    description: "CSS preprocessor working from JavaScript objects.",
+    github: "j2css/j2c",
+    tags: ["CSS", "CSS-in-JS", "compiler", "preprocessor", "SASS", "LESS", "Stylus", "JSON"],
+    description: "CSS-in-JS libray. Small, yet robust and featureful. Local classes, nested selectors, all @rules (nestable), full style sheets or inline styles...",
     url: "http://j2c.py.gy",
-    source: "https://raw.githubusercontent.com/pygy/j2c/master/dist/j2c.global.js"
+    source: "https://raw.githubusercontent.com/j2css/j2c/master/dist/j2c.global.js"
   },
   {
     name: "JsChannels",
@@ -668,6 +699,14 @@ module.exports = [
     description: "A library that allows you to access the text selected by the user",
     url: "https://github.com/EvandroLG/selecting",
     source: "https://raw.githubusercontent.com/EvandroLG/selecting/master/src/selecting.js"
+  },
+  {
+	name: "Avtomat",
+	github: "Temoto-kun/avtomat",
+	tags: ["automaton", "finite-state", "machine", "deterministic","non-deterministic", "input", "event"],
+	description: "Non-deterministic finite state machine (with empty moves) implementation",
+	url: "https://github.com/Temoto-kun/avtomat",
+	source: "https://raw.githubusercontent.com/Temoto-kun/avtomat/master/src/avtomat.js"
   },
   {
     name: "store",
@@ -825,11 +864,11 @@ module.exports = [
   },
   {
     name: "ImageFlip.js",
-    github: "erf/ImageFlip.js",
+    github: "erf/imageflip",
     tags: ["slideshow", "images", "gallery", "collage"],
     description: "Minimalistic slideshow library.",
-    url: "https://github.com/erf/ImageFlip.js",
-    source: "https://raw.githubusercontent.com/erf/ImageFlip.js/master/imageflip.js"
+    url: "https://github.com/erf/imageflip",
+    source: "https://raw.githubusercontent.com/erf/imageflip/master/imageflip.js"
   },
   {
     name: "safemap.js",
@@ -2356,7 +2395,7 @@ module.exports = [
     tags: ["parsing", "context-free grammar", "earley parser", "natural language processing", "nlp", "parse tree"],
     description: "General purpose context-free languages parser - Earley parser",
     url: "https://github.com/lagodiuk/earley-parser-js",
-    source: "https://rawgit.com/lagodiuk/earley-parser-js/master/earley-oop.min.js"
+    source: "https://rawgit.com/lagodiuk/earley-parser-js/master/earley-oop.js"
   },
   {
     name: "Async",
@@ -2493,6 +2532,13 @@ module.exports = [
     description: "Responsive image maps to all browsers",
     url: "https://github.com/yckart/imageMaps.js",
     source: "https://raw.githubusercontent.com/yckart/imageMaps.js/master/imagemaps.js"
+  },
+  {
+    name: "rounding.js",
+    tags: ["numeric", "algorithm"],
+    description: "Exact rounding with a choice of rounding algorithms",
+    url: "https://github.com/top-quark/rounding.js",
+    source: "https://raw.githubusercontent.com/top-quark/rounding.js/master/rounding.js" 
   },
   {
     name: "SpellChecker.js",
@@ -2787,6 +2833,13 @@ module.exports = [
     description: "Yet another touch slider. Fast, lightweight, extensible, works on everything.",
     url: "https://github.com/wilddeer/Peppermint",
     source: "https://raw.githubusercontent.com/wilddeer/Peppermint/master/dist/peppermint.js"
+  },
+  {
+    name: "BabelBox",
+    tags: ["i18n", "translation", "multilingual", "language", "internationalization", "amd"],
+    description: "i18n library that allows users to easily support multiple languages and requirejs support",
+    url: "http://javascript-kurse-berlin.de/labs/babelbox.html",
+    source: "https://raw.githubusercontent.com/hoxton-one/babelbox/master/dist/babelbox.js"
   },
   {
     name: "Cookie Monster",
@@ -4878,5 +4931,45 @@ module.exports = [
     description: "A simple ECMAScript6 module which checks for mobile operating systems.",
     url: "https://github.com/RazorfishGermany/es6-module-isMobileOs",
     source: "https://raw.githubusercontent.com/RazorfishGermany/es6-module-isMobileOs/master/dist/main.js"
+  },
+  {
+    name: "preact",
+    github: "developit/preact",
+    tags: ["dom", "templating"],
+    description: "Tiny & fast Component-based Virtual DOM framework.",
+    url: "https://github.com/developit/preact",
+    source: "https://raw.githubusercontent.com/developit/preact/master/src/preact.js"
+  },
+  {
+    name: "smoke-signal",
+    github: "StephanHoyer/smoke-signal",
+    tags: ["pubsub", "event", "observer"],
+    description: "Simple small functional event observer for the browser and node.",
+    url: "https://github.com/StephanHoyer/smoke-signal",
+    source: "https://raw.githubusercontent.com/StephanHoyer/smoke-signal/master/index.js"
+  },
+  {
+    name: "nanoflux.js",
+    github: "ohager/nanoflux",
+    tags: ["flux", "lightweight", "full flux", "tiny", "micro"],
+    description: "A very lightweight and dependency-free Flux implementation",
+    url: "https://github.com/ohager/nanoflux",
+    source: "https://raw.githubusercontent.com/ohager/nanoflux/master/dist/nanoflux.js"
+  },
+  {
+    name: "min.css",
+    github: "w3core/min.css",
+    tags: ["minify", "css", "javascript", "nodejs", "fastest", "tiniest"],
+    description: "min.css is the tiniest, fastest and efficient JavaScript library for minifying CSS files. It works in node and the browser.",
+    url: "https://github.com/w3core/min.css",
+    source: "https://raw.githubusercontent.com/w3core/min.css/master/min.css.js"
+  },
+  {
+    name: "viiny-dragger",
+    github: "giraysam/viiny-dragger",
+    tags: ["viiny", "viiny-dragger", "drag and drop"],
+    description: "vinny-dragger is a drag and drop plugin for javascript.",
+    url: "http://giraysam.github.io/viiny-dragger/",
+    source: "https://raw.githubusercontent.com/giraysam/viiny-dragger/master/src/index.js"
   }
 ];
