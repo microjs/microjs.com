@@ -331,6 +331,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/daniellmb/VidBG/master/vidbg.js"
   },
   {
+    name: "WorkerB",
+    tags: ["web", "worker", "webworker", "async", "threads", "inline"],
+    description: "Extremely simple inline Web Worker for easy multithreading in JS",
+    url: "https://github.com/lukeschaefer/WorkerB",
+    source: "https://raw.githubusercontent.com/lukeschaefer/WorkerB/master/WorkerB.js"
+  },
+  {
     name: "aop.js",
     tags: ["aspect","oriented","programming","aop", "functional"],
     description: "Aspect Oriented Programming Micro Library.",
@@ -692,6 +699,14 @@ module.exports = [
     description: "A library that allows you to access the text selected by the user",
     url: "https://github.com/EvandroLG/selecting",
     source: "https://raw.githubusercontent.com/EvandroLG/selecting/master/src/selecting.js"
+  },
+  {
+	name: "Avtomat",
+	github: "Temoto-kun/avtomat",
+	tags: ["automaton", "finite-state", "machine", "deterministic","non-deterministic", "input", "event"],
+	description: "Non-deterministic finite state machine (with empty moves) implementation",
+	url: "https://github.com/Temoto-kun/avtomat",
+	source: "https://raw.githubusercontent.com/Temoto-kun/avtomat/master/src/avtomat.js"
   },
   {
     name: "store",
@@ -4940,5 +4955,21 @@ module.exports = [
     description: "A very lightweight and dependency-free Flux implementation",
     url: "https://github.com/ohager/nanoflux",
     source: "https://raw.githubusercontent.com/ohager/nanoflux/master/dist/nanoflux.js"
+  },
+  {
+    name: "min.css",
+    github: "w3core/min.css",
+    tags: ["minify", "css", "javascript", "nodejs", "fastest", "tiniest"],
+    description: "min.css is the tiniest, fastest and efficient JavaScript library for minifying CSS files. It works in node and the browser.",
+    url: "https://github.com/w3core/min.css",
+    source: "https://github.com/w3core/min.css/raw/master/min.css.js"
+  },
+  {
+    name: "viiny-dragger",
+    github: "giraysam/viiny-dragger",
+    tags: ["viiny", "viiny-dragger", "drag and drop"],
+    description: "vinny-dragger is a drag and drop plugin for javascript.",
+    url: "http://giraysam.github.io/viiny-dragger/",
+    source: "https://github.com/giraysam/viiny-dragger/blob/master/src/index.js"
   }
 ];
