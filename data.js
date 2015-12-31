@@ -14,7 +14,7 @@ module.exports = [
     tags: ["blob", "image", "canvas", "processing", "2D", "blobcounter"],
     description: "blobcounter.js helps you find blobs and shapes in an image",
     url: "https://github.com/amirhkkh/blobcounter.js",
-    source: "https://github.com/amirhkkh/blobcounter.js/raw/master/blobcounter.js"
+    source: "https://raw.githubusercontent.com/amirhkkh/blobcounter.js/master/blobcounter.js"
   },
   {
     name: "xion",
@@ -864,11 +864,11 @@ module.exports = [
   },
   {
     name: "ImageFlip.js",
-    github: "erf/ImageFlip.js",
+    github: "erf/imageflip",
     tags: ["slideshow", "images", "gallery", "collage"],
     description: "Minimalistic slideshow library.",
-    url: "https://github.com/erf/ImageFlip.js",
-    source: "https://raw.githubusercontent.com/erf/ImageFlip.js/master/imageflip.js"
+    url: "https://github.com/erf/imageflip",
+    source: "https://raw.githubusercontent.com/erf/imageflip/master/imageflip.js"
   },
   {
     name: "safemap.js",
@@ -2395,7 +2395,7 @@ module.exports = [
     tags: ["parsing", "context-free grammar", "earley parser", "natural language processing", "nlp", "parse tree"],
     description: "General purpose context-free languages parser - Earley parser",
     url: "https://github.com/lagodiuk/earley-parser-js",
-    source: "https://rawgit.com/lagodiuk/earley-parser-js/master/earley-oop.min.js"
+    source: "https://rawgit.com/lagodiuk/earley-parser-js/master/earley-oop.js"
   },
   {
     name: "Async",
@@ -4962,7 +4962,7 @@ module.exports = [
     tags: ["minify", "css", "javascript", "nodejs", "fastest", "tiniest"],
     description: "min.css is the tiniest, fastest and efficient JavaScript library for minifying CSS files. It works in node and the browser.",
     url: "https://github.com/w3core/min.css",
-    source: "https://github.com/w3core/min.css/raw/master/min.css.js"
+    source: "https://raw.githubusercontent.com/w3core/min.css/master/min.css.js"
   },
   {
     name: "viiny-dragger",
@@ -4970,6 +4970,6 @@ module.exports = [
     tags: ["viiny", "viiny-dragger", "drag and drop"],
     description: "vinny-dragger is a drag and drop plugin for javascript.",
     url: "http://giraysam.github.io/viiny-dragger/",
-    source: "https://github.com/giraysam/viiny-dragger/blob/master/src/index.js"
+    source: "https://raw.githubusercontent.com/giraysam/viiny-dragger/master/src/index.js"
   }
 ];

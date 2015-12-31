@@ -5080,5 +5080,101 @@
 		<summary>A simple ECMAScript6 module which checks for mobile operating systems.</summary>
 	</entry>
 
+	<entry>
+		<title>blobcounter.js</title>
+		<link href="https://github.com/amirhkkh/blobcounter.js" />
+		<id>urn:uuid:5455a6c0-afbc-11e5-93a8-75a9cfaf1896</id>
+		<updated>2015-12-31'T'12:45:08+00:00</updated>
+		<summary>blobcounter.js helps you find blobs and shapes in an image</summary>
+	</entry>
+
+	<entry>
+		<title>xion</title>
+		<link href="https://github.com/danristea/xion" />
+		<id>urn:uuid:54572d60-afbc-11e5-93a8-75a9cfaf1896</id>
+		<updated>2015-12-31'T'12:45:08+00:00</updated>
+		<summary>Lightweight client-side MVC framework that uses JsonML syntax and virtual DOM diffing.</summary>
+	</entry>
+
+	<entry>
+		<title>FromNow</title>
+		<link href="https://github.com/lukeed/fromNow" />
+		<id>urn:uuid:5459c570-afbc-11e5-93a8-75a9cfaf1896</id>
+		<updated>2015-12-31'T'12:45:08+00:00</updated>
+		<summary>An extremely lightweight javascript utility for calculating readable time differences from now vs past or future dates.</summary>
+	</entry>
+
+	<entry>
+		<title>WorkerB</title>
+		<link href="https://github.com/lukeschaefer/WorkerB" />
+		<id>urn:uuid:56892890-afbc-11e5-93a8-75a9cfaf1896</id>
+		<updated>2015-12-31'T'12:45:08+00:00</updated>
+		<summary>Extremely simple inline Web Worker for easy multithreading in JS</summary>
+	</entry>
+
+	<entry>
+		<title>Avtomat</title>
+		<link href="https://github.com/Temoto-kun/avtomat" />
+		<id>urn:uuid:596a9da0-afbc-11e5-93a8-75a9cfaf1896</id>
+		<updated>2015-12-31'T'12:45:08+00:00</updated>
+		<summary>Non-deterministic finite state machine (with empty moves) implementation</summary>
+	</entry>
+
+	<entry>
+		<title>earley-parser-js</title>
+		<link href="https://github.com/lagodiuk/earley-parser-js" />
+		<id>urn:uuid:6bb2a390-afbc-11e5-93a8-75a9cfaf1896</id>
+		<updated>2015-12-31'T'12:45:08+00:00</updated>
+		<summary>General purpose context-free languages parser - Earley parser</summary>
+	</entry>
+
+	<entry>
+		<title>rounding.js</title>
+		<link href="https://github.com/top-quark/rounding.js" />
+		<id>urn:uuid:6c4609f0-afbc-11e5-93a8-75a9cfaf1896</id>
+		<updated>2015-12-31'T'12:45:08+00:00</updated>
+		<summary>Exact rounding with a choice of rounding algorithms</summary>
+	</entry>
+
+	<entry>
+		<title>BabelBox</title>
+		<link href="http://javascript-kurse-berlin.de/labs/babelbox.html" />
+		<id>urn:uuid:78a52730-afbc-11e5-93a8-75a9cfaf1896</id>
+		<updated>2015-12-31'T'12:45:08+00:00</updated>
+		<summary>i18n library that allows users to easily support multiple languages and requirejs support</summary>
+	</entry>
+
+	<entry>
+		<title>viiny-dragger</title>
+		<link href="http://giraysam.github.io/viiny-dragger/" />
+		<id>urn:uuid:9ce9ab20-afbc-11e5-93a8-75a9cfaf1896</id>
+		<updated>2015-12-31'T'12:45:08+00:00</updated>
+		<summary>vinny-dragger is a drag and drop plugin for javascript.</summary>
+	</entry>
+
+	<entry>
+		<title>nanoflux.js</title>
+		<link href="https://github.com/ohager/nanoflux" />
+		<id>urn:uuid:9cea9580-afbc-11e5-93a8-75a9cfaf1896</id>
+		<updated>2015-12-31'T'12:45:08+00:00</updated>
+		<summary>A very lightweight and dependency-free Flux implementation</summary>
+	</entry>
+
+	<entry>
+		<title>min.css</title>
+		<link href="https://github.com/w3core/min.css" />
+		<id>urn:uuid:9ceb0ab0-afbc-11e5-93a8-75a9cfaf1896</id>
+		<updated>2015-12-31'T'12:45:08+00:00</updated>
+		<summary>min.css is the tiniest, fastest and efficient JavaScript library for minifying CSS files. It works in node and the browser.</summary>
+	</entry>
+
+	<entry>
+		<title>smoke-signal</title>
+		<link href="https://github.com/StephanHoyer/smoke-signal" />
+		<id>urn:uuid:9ced0680-afbc-11e5-93a8-75a9cfaf1896</id>
+		<updated>2015-12-31'T'12:45:08+00:00</updated>
+		<summary>Simple small functional event observer for the browser and node.</summary>
+	</entry>
+
 
 </feed>
