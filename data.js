@@ -4861,6 +4861,6 @@ module.exports = [
     tags: ["dom", "events", "delegation"],
     description: "A JavaScript event handler micro library.",
     url: "http://brunoscopelliti.github.io/dom-events/",
-    source: "https://raw.githubusercontent.com/brunoscopelliti/dom-events/master/dist/dom-events.min.js"
+    source: "https://raw.githubusercontent.com/brunoscopelliti/dom-events/master/dist/dom-events.js"
   }
 ];
