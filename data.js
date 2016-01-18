@@ -14,7 +14,15 @@ module.exports = [
     tags: ["blob", "image", "canvas", "processing", "2D", "blobcounter"],
     description: "blobcounter.js helps you find blobs and shapes in an image",
     url: "https://github.com/amirhkkh/blobcounter.js",
-    source: "https://github.com/amirhkkh/blobcounter.js/raw/master/blobcounter.js"
+    source: "https://raw.githubusercontent.com/amirhkkh/blobcounter.js/master/blobcounter.js"
+  },
+  {
+    name: "xion",
+    github: "danristea/xion",
+    tags: ["MVC", "JsonML", "diff", "DOM", "vtree"],
+    description: "Lightweight client-side MVC framework that uses JsonML syntax and virtual DOM diffing.",
+    url: "https://github.com/danristea/xion",
+    source: "https://raw.githubusercontent.com/danristea/xion/master/xion.js"
   },
   {
     name: "uniloc",
@@ -321,6 +329,13 @@ module.exports = [
     description: "micro-library for embedding video backgrounds into web pages",
     url: "https://github.com/daniellmb/VidBG",
     source: "https://raw.githubusercontent.com/daniellmb/VidBG/master/vidbg.js"
+  },
+  {
+    name: "WorkerB",
+    tags: ["web", "worker", "webworker", "async", "threads", "inline"],
+    description: "Extremely simple inline Web Worker for easy multithreading in JS",
+    url: "https://github.com/lukeschaefer/WorkerB",
+    source: "https://raw.githubusercontent.com/lukeschaefer/WorkerB/master/WorkerB.js"
   },
   {
     name: "aop.js",
@@ -686,6 +701,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/EvandroLG/selecting/master/src/selecting.js"
   },
   {
+	name: "Avtomat",
+	github: "Temoto-kun/avtomat",
+	tags: ["automaton", "finite-state", "machine", "deterministic","non-deterministic", "input", "event"],
+	description: "Non-deterministic finite state machine (with empty moves) implementation",
+	url: "https://github.com/Temoto-kun/avtomat",
+	source: "https://raw.githubusercontent.com/Temoto-kun/avtomat/master/src/avtomat.js"
+  },
+  {
     name: "store",
     github: "nbubna/store",
     tags: ["localStorage", "sessionStorage", "JSON", "namespace", "API", "extensible"],
@@ -841,11 +864,11 @@ module.exports = [
   },
   {
     name: "ImageFlip.js",
-    github: "erf/ImageFlip.js",
+    github: "erf/imageflip",
     tags: ["slideshow", "images", "gallery", "collage"],
     description: "Minimalistic slideshow library.",
-    url: "https://github.com/erf/ImageFlip.js",
-    source: "https://raw.githubusercontent.com/erf/ImageFlip.js/master/imageflip.js"
+    url: "https://github.com/erf/imageflip",
+    source: "https://raw.githubusercontent.com/erf/imageflip/master/imageflip.js"
   },
   {
     name: "safemap.js",
@@ -2379,7 +2402,7 @@ module.exports = [
     tags: ["parsing", "context-free grammar", "earley parser", "natural language processing", "nlp", "parse tree"],
     description: "General purpose context-free languages parser - Earley parser",
     url: "https://github.com/lagodiuk/earley-parser-js",
-    source: "https://rawgit.com/lagodiuk/earley-parser-js/master/earley-oop.min.js"
+    source: "https://rawgit.com/lagodiuk/earley-parser-js/master/earley-oop.js"
   },
   {
     name: "Async",
@@ -4931,5 +4954,29 @@ module.exports = [
     description: "Simple small functional event observer for the browser and node.",
     url: "https://github.com/StephanHoyer/smoke-signal",
     source: "https://raw.githubusercontent.com/StephanHoyer/smoke-signal/master/index.js"
+  },
+  {
+    name: "nanoflux.js",
+    github: "ohager/nanoflux",
+    tags: ["flux", "lightweight", "full flux", "tiny", "micro"],
+    description: "A very lightweight and dependency-free Flux implementation",
+    url: "https://github.com/ohager/nanoflux",
+    source: "https://raw.githubusercontent.com/ohager/nanoflux/master/dist/nanoflux.js"
+  },
+  {
+    name: "min.css",
+    github: "w3core/min.css",
+    tags: ["minify", "css", "javascript", "nodejs", "fastest", "tiniest"],
+    description: "min.css is the tiniest, fastest and efficient JavaScript library for minifying CSS files. It works in node and the browser.",
+    url: "https://github.com/w3core/min.css",
+    source: "https://raw.githubusercontent.com/w3core/min.css/master/min.css.js"
+  },
+  {
+    name: "viiny-dragger",
+    github: "giraysam/viiny-dragger",
+    tags: ["viiny", "viiny-dragger", "drag and drop"],
+    description: "vinny-dragger is a drag and drop plugin for javascript.",
+    url: "http://giraysam.github.io/viiny-dragger/",
+    source: "https://raw.githubusercontent.com/giraysam/viiny-dragger/master/src/index.js"
   }
 ];
