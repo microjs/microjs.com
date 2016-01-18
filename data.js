@@ -4591,6 +4591,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/chrisdavies/plite/master/plite.js"
   },
   {
+    name: "Tlite",
+    tags: ["ui", "tooltips", "hints"],
+    description: "Tooltips with CSS3 transitions (650 bytes of JS min+zipped)",
+    url: "http://chrisdavies.github.io/tlite/",
+    source: "https://raw.githubusercontent.com/chrisdavies/tlite/master/tlite.js"
+  },
+  {
     name: "Rlite",
     tags: ["rlite", "route", "routing", "router", "hash", "querystring", "named", "parameters"],
     description: "Tiny, simple, light-weight routing (~500 bytes min+zipped)",
