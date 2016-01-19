@@ -5176,5 +5176,29 @@
 		<summary>Simple small functional event observer for the browser and node.</summary>
 	</entry>
 
+	<entry>
+		<title>TinyDatePicker</title>
+		<link href="https://github.com/chrisdavies/tiny-date-picker" />
+		<id>urn:uuid:3804cf60-bf01-11e5-9115-15e2d5b56925</id>
+		<updated>2016-01-19'T'23:05:41+00:00</updated>
+		<summary>Small, zero-dependency date picker (~1500 bytes min+zipped)</summary>
+	</entry>
+
+	<entry>
+		<title>panorama</title>
+		<link href="https://github.com/pyrsmk/panorama" />
+		<id>urn:uuid:42337810-bf01-11e5-9115-15e2d5b56925</id>
+		<updated>2016-01-19'T'23:05:41+00:00</updated>
+		<summary>Lighten background images with Canvas2D</summary>
+	</entry>
+
+	<entry>
+		<title>Tlite</title>
+		<link href="http://chrisdavies.github.io/tlite/" />
+		<id>urn:uuid:5ac32880-bf01-11e5-9115-15e2d5b56925</id>
+		<updated>2016-01-19'T'23:05:41+00:00</updated>
+		<summary>Tooltips with CSS3 transitions (650 bytes of JS min+zipped)</summary>
+	</entry>
+
 
 </feed>

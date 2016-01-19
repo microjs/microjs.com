@@ -1392,6 +1392,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/schuttelaar/Rococo/master/rococo.js"
   },
   {
+    name: "TinyDatePicker",
+    tags: ["date", "calendar", "picker", "datepicker"],
+    description: "Small, zero-dependency date picker (~1500 bytes min+zipped)",
+    url: "https://github.com/chrisdavies/tiny-date-picker",
+    source: "https://raw.githubusercontent.com/chrisdavies/tiny-date-picker/master/tiny-date-picker.js"
+  },
+  {
     name: "Backbone",
     github: "jashkenas/backbone",
     tags: ["mvc", "data", "functional"],
@@ -2305,6 +2312,14 @@ module.exports = [
     github: "pyrsmk/RIP"
   },
   {
+    name: "panorama",
+    tags: ["canvas","responsive"],
+    description: "Lighten background images with Canvas2D",
+    url: "https://github.com/pyrsmk/panorama",
+    source: "https://raw.githubusercontent.com/pyrsmk/panorama/master/src/panorama.js",
+    github: "pyrsmk/panorama"
+  },
+  {
     name: "CSSTemplate",
     tags: ["css","templates","global","client","browser","util"],
     description: "Inject and update dynamic CSS using simple js templating",
@@ -2538,7 +2553,7 @@ module.exports = [
     tags: ["numeric", "algorithm"],
     description: "Exact rounding with a choice of rounding algorithms",
     url: "https://github.com/top-quark/rounding.js",
-    source: "https://raw.githubusercontent.com/top-quark/rounding.js/master/rounding.js" 
+    source: "https://raw.githubusercontent.com/top-quark/rounding.js/master/rounding.js"
   },
   {
     name: "SpellChecker.js",
@@ -4584,6 +4599,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/chrisdavies/plite/master/plite.js"
   },
   {
+    name: "Tlite",
+    tags: ["ui", "tooltips", "hints"],
+    description: "Tooltips with CSS3 transitions (650 bytes of JS min+zipped)",
+    url: "http://chrisdavies.github.io/tlite/",
+    source: "https://raw.githubusercontent.com/chrisdavies/tlite/master/tlite.js"
+  },
+  {
     name: "Rlite",
     tags: ["rlite", "route", "routing", "router", "hash", "querystring", "named", "parameters"],
     description: "Tiny, simple, light-weight routing (~500 bytes min+zipped)",
@@ -4932,7 +4954,15 @@ module.exports = [
     url: "https://github.com/RazorfishGermany/es6-module-isMobileOs",
     source: "https://raw.githubusercontent.com/RazorfishGermany/es6-module-isMobileOs/master/dist/main.js"
   },
-  {
+    {
+        name: "nanoflux.js",
+        github: "ohager/nanoflux",
+        tags: ["flux", "lightweight", "full flux", "tiny", "micro"],
+        description: "A very lightweight and dependency-free Flux implementation",
+        url: "https://github.com/ohager/nanoflux",
+        source: "https://raw.githubusercontent.com/ohager/nanoflux/master/dist/nanoflux.js"
+    },
+    {
     name: "preact",
     github: "developit/preact",
     tags: ["dom", "templating"],
