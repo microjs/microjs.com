@@ -2312,6 +2312,14 @@ module.exports = [
     github: "pyrsmk/RIP"
   },
   {
+    name: "panorama",
+    tags: ["canvas","responsive"],
+    description: "Lighten background images with Canvas2D",
+    url: "https://github.com/pyrsmk/panorama",
+    source: "https://raw.githubusercontent.com/pyrsmk/panorama/master/src/panorama.js",
+    github: "pyrsmk/panorama"
+  },
+  {
     name: "CSSTemplate",
     tags: ["css","templates","global","client","browser","util"],
     description: "Inject and update dynamic CSS using simple js templating",
