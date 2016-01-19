@@ -4954,7 +4954,15 @@ module.exports = [
     url: "https://github.com/RazorfishGermany/es6-module-isMobileOs",
     source: "https://raw.githubusercontent.com/RazorfishGermany/es6-module-isMobileOs/master/dist/main.js"
   },
-  {
+    {
+        name: "nanoflux.js",
+        github: "ohager/nanoflux",
+        tags: ["flux", "lightweight", "full flux", "tiny", "micro"],
+        description: "A very lightweight and dependency-free Flux implementation",
+        url: "https://github.com/ohager/nanoflux",
+        source: "https://raw.githubusercontent.com/ohager/nanoflux/master/dist/nanoflux.js"
+    },
+    {
     name: "preact",
     github: "developit/preact",
     tags: ["dom", "templating"],
