@@ -4993,5 +4993,13 @@ module.exports = [
     description: "vinny-dragger is a drag and drop plugin for javascript.",
     url: "http://giraysam.github.io/viiny-dragger/",
     source: "https://raw.githubusercontent.com/giraysam/viiny-dragger/master/src/index.js"
+  },
+  {
+    name: "navigo",
+    github: "krasimir/navigo",
+    tags: ["router", "routing", "map", "history", "hash"],
+    description: "A simple vanilla JavaScript router with a fallback for older browsers",
+    url: "https://github.com/krasimir/navigo.git",
+    source: "https://raw.githubusercontent.com/krasimir/navigo/master/lib/navigo.js"
   }
 ];

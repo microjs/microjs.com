@@ -5176,5 +5176,13 @@
 		<summary>Simple small functional event observer for the browser and node.</summary>
 	</entry>
 
+	<entry>
+		<title>navigo</title>
+		<link href="https://github.com/krasimir/navigo.git" />
+		<id>urn:uuid:79ec4480-b12d-11e5-b181-1b14890d0d8d</id>
+		<updated>2016-01-02'T'08:46:47+00:00</updated>
+		<summary>A simple vanilla JavaScript router with a fallback for older browsers</summary>
+	</entry>
+
 
 </feed>
