@@ -9,6 +9,22 @@
 
 module.exports = [
   {
+    name: "GitHub-Repo-Widget.js",
+    github: "hustcc/GitHub-Repo-Widget.js",
+    tags: ["github", "repository", "widget", "website"],
+    description: "A good looking github repository widget to add to your website. Not depends on jQuery or Other.",
+    url: "http://www.atool.org",
+    source: "https://raw.githubusercontent.com/hustcc/GitHub-Repo-Widget.js/master/GithubRepoWidget.js"
+  },
+  {
+    name: "placeholder.js",
+    github: "hustcc/placeholder.js",
+    tags: ["images", "placeholders", "client-side", "canvas", "browser-side", "html5"],
+    description: "Image placeholder uses CANVAS to render image placeholders entirely in browser.",
+    url: "http://placeholder.cn",
+    source: "https://raw.githubusercontent.com/hustcc/placeholder.js/master/placeholder.js"
+  },
+  {
     name: "blobcounter.js",
     github: "amirhkkh/blobcounter.js",
     tags: ["blob", "image", "canvas", "processing", "2D", "blobcounter"],
