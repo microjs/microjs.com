@@ -1946,6 +1946,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/davebalmer/turtlewax/master/pen.js" // also needs an extra, small, hsv.js
   },
   {
+    name: "mom",
+    github: "momjs/mom",
+    tags: ["dependency", "injection", "module", "loader", "event bus", "eventBus"],
+    description: "Dynamic Loading of Javascript based on DOM elements.",
+    url: "http://mom.js.org",
+    source: "https://raw.githubusercontent.com/momjs/mom/master/dist/mom.js"
+  },
+  {
     name: "picoCSS",
     tags: ["CSS", "CSS3", "mobile"],
     description: "Basic CSS DOM manipulation and animation optimized for webkit browsers(Safari, Chrome) for building mobile web apps",
