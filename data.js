@@ -969,6 +969,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/zestjs/zoe/master/zoe.js"
   },
   {
+    name: "dzt-url-parser",
+    github: "dajbd/dzt-url-parser",
+    tags: ["URL", "parse", "getParameters", "parser", "param"],
+    description: "parse the url parameters(or location.search) to an object.",
+    url: "https://github.com/dajbd/dzt-url-parser",
+    source: "https://raw.githubusercontent.com/dajbd/dzt-url-parser/master/dzt-url-parser.js"
+  },
+  {
     name: "atom.js",
     github: "zynga/atom",
     tags: ["async", "barrier", "control", "events", "flow", "properties"],
