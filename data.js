@@ -73,6 +73,13 @@ module.exports = [
     description: "A simple micro-library for defining and dispatching keyboard shortcuts. It has no dependencies.",
     url: "http://jaywcjlove.github.io/hotkeys/",
     source: "https://raw.githubusercontent.com/jaywcjlove/hotkeys/master/src/hotkeys.js"
+  },{
+    name: "window.module",
+    github: "ziolko/window.module",
+    tags: ["di", "dependency", "injection", "container", "module", "require"],
+    description: "Synchronous module system for browsers.",
+    url: "https://github.com/ziolko/window.module",
+    source: "https://raw.githubusercontent.com/ziolko/window.module/master/window.module.js"
   },
   {
     name: "Location Init",
