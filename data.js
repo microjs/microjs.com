@@ -5001,5 +5001,13 @@ module.exports = [
     description: "vinny-dragger is a drag and drop plugin for javascript.",
     url: "http://giraysam.github.io/viiny-dragger/",
     source: "https://raw.githubusercontent.com/giraysam/viiny-dragger/master/src/index.js"
+  },
+  {
+    name: "TinyAnimate",
+    github: "branneman/TinyAnimate",
+    tags: ["animate", "animation", "css", "easing", "svg", "tiny", "lightweight", "requestAnimationFrame", "window.performance"],
+    description: "Animation micro library. Vanilla JavaScript.",
+    url: "https://github.com/branneman/TinyAnimate",
+    source: "https://raw.githubusercontent.com/branneman/TinyAnimate/master/bin/TinyAnimate.js"
   }
 ];
