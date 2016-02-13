@@ -60,6 +60,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/bcoop713/routerx/master/routerx.js"
    },
    {
+    name: "scriber",
+    github: "jccazeaux/scriber",
+    tags: ["html", "DOM", "builder", "scriber", "writer"],
+    description: "A simple fluent library to write html DOM elements",
+    url: "https://jccazeaux.github.io/scriber",
+    source: "https://raw.githubusercontent.com/jccazeaux/scriber/master/src/scriber.js"
+   },
+   {
     name: "xflagable",
     github: "javimosch/xflagable",
     tags: ["flag", "event", "promise"],
