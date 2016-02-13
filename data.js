@@ -2878,6 +2878,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/e-/hsi.js/master/hsi.js"
   },
   {
+    name: "jacks",
+    github: "jccazeaux/Jacks",
+    tags: ["ajax", "xhr", "rest", "fluent", ],
+    description: "Fluent, extensible, easy-to-use,  ajax Framework.",
+    url: "http://jccazeaux.github.io/Jacks/",
+    source: "https://github.com/jccazeaux/Jacks/blob/master/src/Jacks.js"
+  },
+  {
     name: "colorspaces.js",
     tags: ["color"],
     description: "Convert between RGB and several CIE color spaces for smarter color manipulation.",
@@ -5001,13 +5009,5 @@ module.exports = [
     description: "vinny-dragger is a drag and drop plugin for javascript.",
     url: "http://giraysam.github.io/viiny-dragger/",
     source: "https://raw.githubusercontent.com/giraysam/viiny-dragger/master/src/index.js"
-  },
-  {
-    name: "jacks",
-    github: "jccazeaux/Jacks",
-    tags: ["ajax", "xhr", "rest", "fluent", ],
-    description: "Fluent, extensible, easy-to-use,  ajax Framework.",
-    url: "http://jccazeaux.github.io/Jacks/",
-    source: "https://github.com/jccazeaux/Jacks/blob/master/src/Jacks.js"
   }
 ];
