@@ -2879,11 +2879,11 @@ module.exports = [
   },
   {
     name: "jacks",
-    github: "jccazeaux/Jacks",
-    tags: ["ajax", "xhr", "rest", "fluent", ],
-    description: "Fluent, extensible, easy-to-use,  ajax Framework.",
-    url: "http://jccazeaux.github.io/Jacks/",
-    source: "https://github.com/jccazeaux/Jacks/blob/master/src/Jacks.js"
+    github: "jccazeaux/jacks",
+    tags: ["ajax", "xhr", "rest", "fluent", "XMLHttpRequest"],
+    description: "Fluent, extensible, easy-to-use ajax Framework.",
+    url: "http://jccazeaux.github.io/jacks/",
+    source: "https://github.com/jccazeaux/jacks/blob/master/src/jacks.js"
   },
   {
     name: "colorspaces.js",
