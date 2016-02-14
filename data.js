@@ -115,14 +115,6 @@ module.exports = [
     source: "https://raw.githubusercontent.com/AtSpy/AtSpy/master/dist/atspy.js"
   },
   {
-    name: "Carburator",
-    github: "jccazeaux/carburator",
-    tags: ["dependency", "injection", "asynchronous", "promise", "di", "container" ],
-    description: "Asynchronous dependency injection framework. Adaptable to any Promise implementation.",
-    url: "http://jccazeaux.github.io/carburator",
-    source: "https://raw.githubusercontent.com/jccazeaux/carburator/master/src/carburator.js"
-  },
-  {
     name: "Tinyscrollbar",
     github: "wieringen/tinyscrollbar",
     tags: ["scrollbar", "ui", "interface", "scroll"],
