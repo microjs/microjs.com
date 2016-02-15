@@ -66,7 +66,16 @@ module.exports = [
     description: "Create flag promises",
     url: "https://github.com/javimosch/xflagable/",
     source: "https://raw.githubusercontent.com/javimosch/xflagable/master/xflagable.js"
-  },{
+  },
+  {
+    name: "diapason",
+    github: "jccazeaux/diapason",
+    tags: ["dependency", "injection", "di", "asynchronous", "promise"],
+    description: "Asynchronous dependency injections that works on any promise framework",
+    url: "https://jccazeaux.github.io/diapason",
+    source: "https://raw.githubusercontent.com/jccazeaux/diapason/master/src/diapason.js"
+  },
+  {
     name: "hotkeys",
     github: "jaywcjlove/hotkeys",
     tags: ["hotkey", "hotkeys", "hotkeys-js", "hotkeysjs", "key", "keys", "keyboard", "shortcuts"],
