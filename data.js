@@ -5001,5 +5001,13 @@ module.exports = [
     description: "vinny-dragger is a drag and drop plugin for javascript.",
     url: "http://giraysam.github.io/viiny-dragger/",
     source: "https://raw.githubusercontent.com/giraysam/viiny-dragger/master/src/index.js"
+  },
+  {
+    name: "razax.js",
+    github: "razaibi/razaxjs",
+    tags: ["ajax", "xhr", "xmlhttprequest", "simple", "nojquery", "minimalcode"],
+    description: "Simple way to make ajax requests with or without arguments in single line of code. Easy for novice users.",
+    url: "https://github.com/razaibi/razaxjs",
+    source: "https://raw.githubusercontent.com/razaibi/razaxjs/master/razax.js"
   }
 ];
