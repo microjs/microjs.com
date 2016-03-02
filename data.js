@@ -5009,5 +5009,13 @@ module.exports = [
     description: "Simple way to make ajax requests with or without arguments in single line of code. Easy for novice users.",
     url: "https://github.com/razaibi/razaxjs",
     source: "https://raw.githubusercontent.com/razaibi/razaxjs/master/razax.js"
+  },
+  {
+    name: "TinyAnimate",
+    github: "branneman/TinyAnimate",
+    tags: ["animate", "animation", "css", "easing", "svg", "tiny", "lightweight", "requestAnimationFrame", "window.performance"],
+    description: "Animation micro library. Vanilla JavaScript.",
+    url: "https://github.com/branneman/TinyAnimate",
+    source: "https://raw.githubusercontent.com/branneman/TinyAnimate/master/bin/TinyAnimate.js"
   }
 ];
