@@ -5001,5 +5001,13 @@ module.exports = [
     description: "vinny-dragger is a drag and drop plugin for javascript.",
     url: "http://giraysam.github.io/viiny-dragger/",
     source: "https://raw.githubusercontent.com/giraysam/viiny-dragger/master/src/index.js"
-  }
+  },
+  {
+    name: "S4",
+    github: "tassiviktor/s4",
+    tags: ["jquery","lightweight", "tiny", "micro", "ajax"],
+    description: "Tiny (5k) replacement of jQuer for DOM, CSS, and Ajax",
+    url: "https://github.com/tassiviktor/s4/",
+    source: "https://raw.githubusercontent.com/tassiviktor/s4/master/src/s4.js"
+  },
 ];
