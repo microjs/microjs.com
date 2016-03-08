@@ -2434,7 +2434,7 @@ module.exports = [
     tags: ["parsing", "context-free grammar", "earley parser", "natural language processing", "nlp", "parse tree"],
     description: "General purpose context-free languages parser - Earley parser",
     url: "https://github.com/lagodiuk/earley-parser-js",
-    source: "https://rawgit.com/lagodiuk/earley-parser-js/master/earley-oop.js"
+    source: "https://raw.githubusercontent.com/lagodiuk/earley-parser-js/master/earley-oop.js"
   },
   {
     name: "Async",
@@ -4159,8 +4159,8 @@ module.exports = [
     name: "defineObject",
     tags: ["prototypes", "objects", "mixins"],
     description: "A bit of sugar for defining JavaScript Objects and their Prototypes.",
-    url: "https://github.com/smelnikov/defineObject",
-    source: "https://raw.githubusercontent.com/smelnikov/defineObject/master/defineObject.js"
+    url: "https://github.com/melnikov-s/defineObject",
+    source: "https://raw.githubusercontent.com/melnikov-s/defineObject/master/defineObject.js"
   },
   {
     name: "color.js",
@@ -4447,8 +4447,8 @@ module.exports = [
     name: "gameloop.js",
     tags: ["games"],
     description: "Very simple library to create game loop.",
-    url: "https://github.com/arthesowy/gameloop.js",
-    source: "https://raw.githubusercontent.com/arthesowy/gameloop.js/master/gameloop.js"
+    url: "https://github.com/t4pczan/gameloop.js",
+    source: "https://raw.githubusercontent.com/t4pczan/gameloop.js/master/gameloop.js"
   },
   {
     name: "FastActive",
@@ -4492,7 +4492,7 @@ module.exports = [
     tags: ["router", "event handling", "template engine", "mvp", "framework", "fast", "tiny"],
     description: "A React-like, 3.5KB user interface library",
     url: "https://muut.com/riotjs",
-    source: "https://raw.githubusercontent.com/riot/riot/master/riot.min.js"
+    source: "https://raw.githubusercontent.com/riot/riot/master/riot.js"
   },
   {
     name: "Contra",
@@ -5040,6 +5040,6 @@ module.exports = [
     tags: ["animate", "animation", "css", "easing", "svg", "tiny", "lightweight", "requestAnimationFrame", "window.performance"],
     description: "Animation micro library. Vanilla JavaScript.",
     url: "https://github.com/branneman/TinyAnimate",
-    source: "https://raw.githubusercontent.com/branneman/TinyAnimate/master/bin/TinyAnimate.js"
+    source: "https://raw.githubusercontent.com/branneman/TinyAnimate/master/src/TinyAnimate.js"
   }
 ];
