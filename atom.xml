@@ -5200,5 +5200,53 @@
 		<summary>Tooltips with CSS3 transitions (650 bytes of JS min+zipped)</summary>
 	</entry>
 
+	<entry>
+		<title>scriber</title>
+		<link href="https://jccazeaux.github.io/scriber" />
+		<id>urn:uuid:b95e24c0-e54f-11e5-b6dd-3f76bab08c63</id>
+		<updated>2016-03-08'T'17:03:44+00:00</updated>
+		<summary>A simple fluent library to write html DOM elements</summary>
+	</entry>
+
+	<entry>
+		<title>diapason</title>
+		<link href="https://jccazeaux.github.io/diapason" />
+		<id>urn:uuid:b9752f30-e54f-11e5-b6dd-3f76bab08c63</id>
+		<updated>2016-03-08'T'17:03:44+00:00</updated>
+		<summary>Asynchronous dependency injections that works on any promise framework</summary>
+	</entry>
+
+	<entry>
+		<title>window.module</title>
+		<link href="https://github.com/ziolko/window.module" />
+		<id>urn:uuid:b97974f0-e54f-11e5-b6dd-3f76bab08c63</id>
+		<updated>2016-03-08'T'17:03:44+00:00</updated>
+		<summary>Synchronous module system for browsers.</summary>
+	</entry>
+
+	<entry>
+		<title>razax.js</title>
+		<link href="https://github.com/razaibi/razaxjs" />
+		<id>urn:uuid:e475ca50-e54f-11e5-b6dd-3f76bab08c63</id>
+		<updated>2016-03-08'T'17:03:44+00:00</updated>
+		<summary>Simple way to make ajax requests with or without arguments in single line of code. Easy for novice users.</summary>
+	</entry>
+
+	<entry>
+		<title>TinyAnimate</title>
+		<link href="https://github.com/branneman/TinyAnimate" />
+		<id>urn:uuid:f0c820e0-e550-11e5-818c-d50290a56e2b</id>
+		<updated>2016-03-08'T'17:11:19+00:00</updated>
+		<summary>Animation micro library. Vanilla JavaScript.</summary>
+	</entry>
+
+	<entry>
+		<title>mom</title>
+		<link href="http://mom.js.org" />
+		<id>urn:uuid:35495c20-e551-11e5-a6af-15fc9ab4944d</id>
+		<updated>2016-03-08'T'17:13:55+00:00</updated>
+		<summary>Dynamic Loading of Javascript based on DOM elements.</summary>
+	</entry>
+
 
 </feed>

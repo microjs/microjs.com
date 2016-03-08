@@ -9,6 +9,14 @@
 
 module.exports = [
   {
+  	name: "NodeList.js",
+  	github: "eorroe/NodeList.js",
+  	tags: ["DOM", "NodeList"],
+  	description: "Use the Native DOM APIs as easily as jQuery",
+  	url: "https://github.com/eorroe/NodeList.js",
+  	source: "https://github.com/eorroe/NodeList.js/blob/master/NodeList.js"
+  },
+  {
     name: "blobcounter.js",
     github: "amirhkkh/blobcounter.js",
     tags: ["blob", "image", "canvas", "processing", "2D", "blobcounter"],
@@ -60,19 +68,43 @@ module.exports = [
     source: "https://raw.githubusercontent.com/bcoop713/routerx/master/routerx.js"
    },
    {
+    name: "scriber",
+    github: "jccazeaux/scriber",
+    tags: ["html", "DOM", "builder", "scriber", "writer"],
+    description: "A simple fluent library to write html DOM elements",
+    url: "https://jccazeaux.github.io/scriber",
+    source: "https://raw.githubusercontent.com/jccazeaux/scriber/master/src/scriber.js"
+   },
+   {
     name: "xflagable",
     github: "javimosch/xflagable",
     tags: ["flag", "event", "promise"],
     description: "Create flag promises",
     url: "https://github.com/javimosch/xflagable/",
     source: "https://raw.githubusercontent.com/javimosch/xflagable/master/xflagable.js"
-  },{
+  },
+  {
+    name: "diapason",
+    github: "jccazeaux/diapason",
+    tags: ["dependency", "injection", "di", "asynchronous", "promise"],
+    description: "Asynchronous dependency injections that works on any promise framework",
+    url: "https://jccazeaux.github.io/diapason",
+    source: "https://raw.githubusercontent.com/jccazeaux/diapason/master/src/diapason.js"
+  },
+  {
     name: "hotkeys",
     github: "jaywcjlove/hotkeys",
     tags: ["hotkey", "hotkeys", "hotkeys-js", "hotkeysjs", "key", "keys", "keyboard", "shortcuts"],
     description: "A simple micro-library for defining and dispatching keyboard shortcuts. It has no dependencies.",
     url: "http://jaywcjlove.github.io/hotkeys/",
     source: "https://raw.githubusercontent.com/jaywcjlove/hotkeys/master/src/hotkeys.js"
+  },{
+    name: "window.module",
+    github: "ziolko/window.module",
+    tags: ["di", "dependency", "injection", "container", "module", "require"],
+    description: "Synchronous module system for browsers.",
+    url: "https://github.com/ziolko/window.module",
+    source: "https://raw.githubusercontent.com/ziolko/window.module/master/window.module.js"
   },
   {
     name: "Location Init",
@@ -1946,6 +1978,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/davebalmer/turtlewax/master/pen.js" // also needs an extra, small, hsv.js
   },
   {
+    name: "mom",
+    github: "momjs/mom",
+    tags: ["dependency", "injection", "module", "loader", "event bus", "eventBus"],
+    description: "Dynamic Loading of Javascript based on DOM elements.",
+    url: "http://mom.js.org",
+    source: "https://raw.githubusercontent.com/momjs/mom/master/dist/mom.js"
+  },
+  {
     name: "picoCSS",
     tags: ["CSS", "CSS3", "mobile"],
     description: "Basic CSS DOM manipulation and animation optimized for webkit browsers(Safari, Chrome) for building mobile web apps",
@@ -2410,7 +2450,7 @@ module.exports = [
     tags: ["parsing", "context-free grammar", "earley parser", "natural language processing", "nlp", "parse tree"],
     description: "General purpose context-free languages parser - Earley parser",
     url: "https://github.com/lagodiuk/earley-parser-js",
-    source: "https://rawgit.com/lagodiuk/earley-parser-js/master/earley-oop.js"
+    source: "https://raw.githubusercontent.com/lagodiuk/earley-parser-js/master/earley-oop.js"
   },
   {
     name: "Async",
@@ -4135,8 +4175,8 @@ module.exports = [
     name: "defineObject",
     tags: ["prototypes", "objects", "mixins"],
     description: "A bit of sugar for defining JavaScript Objects and their Prototypes.",
-    url: "https://github.com/smelnikov/defineObject",
-    source: "https://raw.githubusercontent.com/smelnikov/defineObject/master/defineObject.js"
+    url: "https://github.com/melnikov-s/defineObject",
+    source: "https://raw.githubusercontent.com/melnikov-s/defineObject/master/defineObject.js"
   },
   {
     name: "color.js",
@@ -4423,8 +4463,8 @@ module.exports = [
     name: "gameloop.js",
     tags: ["games"],
     description: "Very simple library to create game loop.",
-    url: "https://github.com/arthesowy/gameloop.js",
-    source: "https://raw.githubusercontent.com/arthesowy/gameloop.js/master/gameloop.js"
+    url: "https://github.com/t4pczan/gameloop.js",
+    source: "https://raw.githubusercontent.com/t4pczan/gameloop.js/master/gameloop.js"
   },
   {
     name: "FastActive",
@@ -4468,7 +4508,7 @@ module.exports = [
     tags: ["router", "event handling", "template engine", "mvp", "framework", "fast", "tiny"],
     description: "A React-like, 3.5KB user interface library",
     url: "https://muut.com/riotjs",
-    source: "https://raw.githubusercontent.com/riot/riot/master/riot.min.js"
+    source: "https://raw.githubusercontent.com/riot/riot/master/riot.js"
   },
   {
     name: "Contra",
@@ -5001,5 +5041,21 @@ module.exports = [
     description: "vinny-dragger is a drag and drop plugin for javascript.",
     url: "http://giraysam.github.io/viiny-dragger/",
     source: "https://raw.githubusercontent.com/giraysam/viiny-dragger/master/src/index.js"
+  },
+  {
+    name: "razax.js",
+    github: "razaibi/razaxjs",
+    tags: ["ajax", "xhr", "xmlhttprequest", "simple", "nojquery", "minimalcode"],
+    description: "Simple way to make ajax requests with or without arguments in single line of code. Easy for novice users.",
+    url: "https://github.com/razaibi/razaxjs",
+    source: "https://raw.githubusercontent.com/razaibi/razaxjs/master/razax.js"
+  },
+  {
+    name: "TinyAnimate",
+    github: "branneman/TinyAnimate",
+    tags: ["animate", "animation", "css", "easing", "svg", "tiny", "lightweight", "requestAnimationFrame", "window.performance"],
+    description: "Animation micro library. Vanilla JavaScript.",
+    url: "https://github.com/branneman/TinyAnimate",
+    source: "https://raw.githubusercontent.com/branneman/TinyAnimate/master/src/TinyAnimate.js"
   }
 ];
