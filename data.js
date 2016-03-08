@@ -9,6 +9,14 @@
 
 module.exports = [
   {
+  	name: "NodeList.js",
+  	github: "eorroe/NodeList.js",
+  	tags: ["DOM", "NodeList"],
+  	description: "Use the Native DOM APIs as easily as jQuery",
+  	url: "https://github.com/eorroe/NodeList.js",
+  	source: "https://github.com/eorroe/NodeList.js/blob/master/NodeList.js"
+  },
+  {
     name: "blobcounter.js",
     github: "amirhkkh/blobcounter.js",
     tags: ["blob", "image", "canvas", "processing", "2D", "blobcounter"],
