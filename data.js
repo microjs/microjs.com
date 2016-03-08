@@ -9,6 +9,14 @@
 
 module.exports = [
   {
+  	name: "NodeList.js",
+  	github: "eorroe/NodeList.js",
+  	tags: ["DOM", "NodeList"],
+  	description: "Use the Native DOM APIs as easily as jQuery",
+  	url: "https://github.com/eorroe/NodeList.js",
+  	source: "https://github.com/eorroe/NodeList.js/blob/master/NodeList.js"
+  },
+  {
     name: "blobcounter.js",
     github: "amirhkkh/blobcounter.js",
     tags: ["blob", "image", "canvas", "processing", "2D", "blobcounter"],
@@ -1968,6 +1976,14 @@ module.exports = [
     description: "LOGO-inspired canvas drawing lib, adds method chaining and polar coordinates for added fun.",
     url: "https://github.com/davebalmer/turtlewax",
     source: "https://raw.githubusercontent.com/davebalmer/turtlewax/master/pen.js" // also needs an extra, small, hsv.js
+  },
+  {
+    name: "mom",
+    github: "momjs/mom",
+    tags: ["dependency", "injection", "module", "loader", "event bus", "eventBus"],
+    description: "Dynamic Loading of Javascript based on DOM elements.",
+    url: "http://mom.js.org",
+    source: "https://raw.githubusercontent.com/momjs/mom/master/dist/mom.js"
   },
   {
     name: "picoCSS",

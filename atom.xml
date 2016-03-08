@@ -5240,5 +5240,13 @@
 		<summary>Animation micro library. Vanilla JavaScript.</summary>
 	</entry>
 
+	<entry>
+		<title>mom</title>
+		<link href="http://mom.js.org" />
+		<id>urn:uuid:35495c20-e551-11e5-a6af-15fc9ab4944d</id>
+		<updated>2016-03-08'T'17:13:55+00:00</updated>
+		<summary>Dynamic Loading of Javascript based on DOM elements.</summary>
+	</entry>
+
 
 </feed>
