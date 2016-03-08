@@ -73,6 +73,13 @@ module.exports = [
     description: "A simple micro-library for defining and dispatching keyboard shortcuts. It has no dependencies.",
     url: "http://jaywcjlove.github.io/hotkeys/",
     source: "https://raw.githubusercontent.com/jaywcjlove/hotkeys/master/src/hotkeys.js"
+  },{
+    name: "window.module",
+    github: "ziolko/window.module",
+    tags: ["di", "dependency", "injection", "container", "module", "require"],
+    description: "Synchronous module system for browsers.",
+    url: "https://github.com/ziolko/window.module",
+    source: "https://raw.githubusercontent.com/ziolko/window.module/master/window.module.js"
   },
   {
     name: "Location Init",
@@ -5001,5 +5008,21 @@ module.exports = [
     description: "vinny-dragger is a drag and drop plugin for javascript.",
     url: "http://giraysam.github.io/viiny-dragger/",
     source: "https://raw.githubusercontent.com/giraysam/viiny-dragger/master/src/index.js"
+  },
+  {
+    name: "razax.js",
+    github: "razaibi/razaxjs",
+    tags: ["ajax", "xhr", "xmlhttprequest", "simple", "nojquery", "minimalcode"],
+    description: "Simple way to make ajax requests with or without arguments in single line of code. Easy for novice users.",
+    url: "https://github.com/razaibi/razaxjs",
+    source: "https://raw.githubusercontent.com/razaibi/razaxjs/master/razax.js"
+  },
+  {
+    name: "TinyAnimate",
+    github: "branneman/TinyAnimate",
+    tags: ["animate", "animation", "css", "easing", "svg", "tiny", "lightweight", "requestAnimationFrame", "window.performance"],
+    description: "Animation micro library. Vanilla JavaScript.",
+    url: "https://github.com/branneman/TinyAnimate",
+    source: "https://raw.githubusercontent.com/branneman/TinyAnimate/master/bin/TinyAnimate.js"
   }
 ];
