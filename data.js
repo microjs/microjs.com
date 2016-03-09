@@ -457,6 +457,22 @@ module.exports = [
     source: "https://raw.githubusercontent.com/typicode/pegasus/master/dist/pegasus.js"
   },
   {
+    name: "FinnishBankUtils",
+    github: "vkomulai/finnish-bank-utils",
+    tags: ["Finnish","IBAN", "Validation", "Viitenumero", "Reference number"],
+    description: "Library for validating and creating Finnish IBAN bank account numbers and reference numbers.",
+    url: "https://github.com/vkomulai/finnish-bank-utils",
+    source: "https://raw.githubusercontent.com/vkomulai/finnish-bank-utils/master/dist/finnish-bank-utils.js"
+  },
+  {
+    name: "FinnishBusinessIds",
+    github: "vkomulai/finnish-business-ids",
+    tags: ["Finnish", "Y-tunnus", "alv-tunnus", "vat number", "Business ID", "Validation"],
+    description: "Library for validating and creating Finnish business IDs (Y-tunnus, alv-numero).",
+    url: "https://github.com/vkomulai/finnish-business-ids",
+    source: "https://raw.githubusercontent.com/vkomulai/finnish-business-ids/master/dist/finnish-business-ids.js"
+  },
+  {
     name: "PerfNow.js",
     tags: ["performance", "benchmark", "polyfill", "high", "resolution", "timer", "now"],
     description: "A high resolution performance benchmarking polyfill",
