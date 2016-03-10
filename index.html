@@ -362,11 +362,8 @@
 
 var toggleTagVisibility = function () {
   var tagStyleElement = document.getElementById('tagVisibility');
-  if(tagStyleElement.innerHTML === '.tags{display:none;}') {
-    tagStyleElement.innerHTML = '.tags{display:block;}';
-  } else {
-    tagStyleElement.innerHTML = '.tags{display:none;}';
-  }
+  var html = tagStyleElement.innerHTML;
+  tagStyleElement.innerHTML = /^\li div.tags\{display:none;\}$/.test(html) ? 'li div.tags{display:block;}' : 'li div.tags{display:none;}';
 }
 
 var toggleColorMode = function () {
