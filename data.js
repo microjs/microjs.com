@@ -8,6 +8,14 @@
 // See examples below.
 
 module.exports = [
+   {
+    name: "VP PubSub",
+    github: "schubergphilis/vp-pubsub",
+    tags: ["pubsub", "publish", "subscribe", "message", "pub", "sub", "emitter", "event"],
+    description: "VP PubSub is a publish/subscribe library that supports message filtering",
+    url: "https://github.com/schubergphilis/vp-pubsub",
+    source: "https://raw.githubusercontent.com/schubergphilis/vp-pubsub/master/vp-pubsub.js"
+  },
   {
   	name: "NodeList.js",
   	github: "eorroe/NodeList.js",
