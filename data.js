@@ -199,6 +199,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/nbubna/store/master/dist/store2.js"
   },
   {
+    name: "Popper.js",
+    github: "FezVrasta/popper.js",
+    tags: ["positioning", "tooltip", "popover", "dropdown", "customizable", "extensible"],
+    description: "A kickass library to manage your poppers.",
+    url: "https://fezvrasta.github.io/popper.js",
+    source: "https://raw.githubusercontent.com/FezVrasta/popper.js/master/build/popper.js"
+  },
+  {
     name: "Oboe.js",
     github: "jimhigson/oboe.js",
     tags: ["ajax", "streaming", "download", "json", "parser", "sax", "jsonpath", "http"],
