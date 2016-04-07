@@ -60,6 +60,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/abdi0987/ViaJS/master/lib/app.js"
   },
   {
+    name: "miq",
+    github: "edwinm/miq",
+    tags: ["jquery", "dom", "ajax"],
+    description: "Lightweight modern jQuery-like DOM library",
+    url: "http://www.bitstorm.org/javascript/miq/",
+    source: "http://www.bitstorm.org/javascript/miq/miq.js"
+   },
+   {
     name: "RouterX",
     github: "bcoop713/routerx",
     tags: ["router", "frp", "rxjs", "cycle", "rx"],
