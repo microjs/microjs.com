@@ -5057,5 +5057,13 @@ module.exports = [
     description: "Animation micro library. Vanilla JavaScript.",
     url: "https://github.com/branneman/TinyAnimate",
     source: "https://raw.githubusercontent.com/branneman/TinyAnimate/master/src/TinyAnimate.js"
+  },
+  {
+    name: "Arbitrary Hotkeys",
+    github: "Yuri-M-Dias/arbitrary-hotkeys",
+    tags: ["input", "bind", "keypress", "hotkey", "hotkeys", "keystroke", "key", "keys", "keyboard", "shortcuts"],
+    description: "jQuery plugin that allows you to set arbitrary hotkeys for hyperlinks in your HTML page.",
+    url: "https://github.com/Yuri-M-Dias/arbitrary-hotkeys",
+    source: "https://raw.githubusercontent.com/Yuri-M-Dias/arbitrary-hotkeys/master/arbitrary-hotkeys.js"
   }
 ];

@@ -5248,5 +5248,13 @@
 		<summary>Dynamic Loading of Javascript based on DOM elements.</summary>
 	</entry>
 
+	<entry>
+		<title>Arbitrary Hotkeys</title>
+		<link href="https://github.com/Yuri-M-Dias/arbitrary-hotkeys" />
+		<id>urn:uuid:d71bbac0-00b8-11e6-9cb3-1bb59c0473c0</id>
+		<updated>2016-04-12'T'14:12:57+00:00</updated>
+		<summary>jQuery plugin that allows you to set arbitrary hotkeys for hyperlinks in your HTML page.</summary>
+	</entry>
+
 
 </feed>
