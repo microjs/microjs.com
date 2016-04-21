@@ -5248,5 +5248,12 @@
 		<summary>Dynamic Loading of Javascript based on DOM elements.</summary>
 	</entry>
 
+	<entry>
+		<title>placeholder.js</title>
+		<link href="http://placeholder.cn/" />
+		<id>urn:uuid:4cc5091d-6b21-47f7-90b0-3b3230636dce</id>
+		<updated>2016-04-21'T'19:42:45+00:00</updated>
+		<summary>Image placeholder uses CANVAS to render image placeholders entirely in browser.</summary>
+	</entry>
 
 </feed>

@@ -17,6 +17,14 @@ module.exports = [
   	source: "https://github.com/eorroe/NodeList.js/blob/master/NodeList.js"
   },
   {
+    name: "placeholder.js",
+    github: "hustcc/placeholder.js",
+    tags: ["images", "placeholder.js", "client-side", "canvas", "browser-side", "html5"],
+    description: "Image placeholder uses CANVAS to render image placeholders entirely in browser.",
+    url: "http://placeholder.cn/",
+    source: "https://raw.githubusercontent.com/hustcc/placeholder.js/master/placeholder.js"
+  },
+  {
     name: "blobcounter.js",
     github: "amirhkkh/blobcounter.js",
     tags: ["blob", "image", "canvas", "processing", "2D", "blobcounter"],
