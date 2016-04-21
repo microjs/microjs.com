@@ -5057,5 +5057,13 @@ module.exports = [
     description: "Animation micro library. Vanilla JavaScript.",
     url: "https://github.com/branneman/TinyAnimate",
     source: "https://raw.githubusercontent.com/branneman/TinyAnimate/master/src/TinyAnimate.js"
+  },
+  {
+    name: "Nanobar",
+    github: "jacoborus/nanobar",
+    tags: ["progress", "bar", "loader", "topbar", "minimal"],
+    description: "Very lightweight progress bars. Vanilla JavaScript.",
+    url: "http://nanobar.jacoborus.codes",
+    source: "https://raw.githubusercontent.com/jacoborus/nanobar/master/nanobar.js"
   }
 ];
