@@ -5248,5 +5248,13 @@
 		<summary>Dynamic Loading of Javascript based on DOM elements.</summary>
 	</entry>
 
+	<entry>
+		<title>Paint.js</title>
+		<link href="https://github.com/KingPixil/paint" />
+		<id>urn:uuid:5ccab3d0-09a9-11e6-be47-3b63ffda7b5e</id>
+		<updated>2016-04-23'T'23:15:06+00:00</updated>
+		<summary>Lightweight Alternative to JQuery, comes with most core methods. Plenty of Plugins!</summary>
+	</entry>
+
 
 </feed>

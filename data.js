@@ -2209,6 +2209,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/olivernn/augment.js/master/augment.js"
   },
   {
+    name: "Paint.js",
+    github: "KingPixil/paint",
+    tags: ["jquery", "DOM Utility", "DOM", "$", "smaller jQuery"],
+    description: "Lightweight Alternative to JQuery, comes with most core methods. Plenty of Plugins!",
+    url: "https://github.com/KingPixil/paint",
+    source: "https://raw.githubusercontent.com/KingPixil/paint/master/dist/paint.js"
+  },
+  {
     name: "thumbs.js",
     tags: ["polyfill"],
     description: "Add touch event support to the desktop and other mouse-based browsers.",
