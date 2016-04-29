@@ -4809,6 +4809,17 @@ module.exports = [
      source: "https://raw.githubusercontent.com/mateuszgachowski/Carpet.js/master/src/carpet.js"
   },
   {
+     name: "bimo",
+     github: "tdukai/bimo",
+     tags: ["binding", "model", "observable", "non-intrusive", "two-way", "one-way"],
+     description: "Non-intrusive binding between model and HTML controls and non-opinionated observable model with multiple watch strategies",
+     url: "https://github.com/tdukai/bimo",
+     source: [
+        "https://github.com/tdukai/bimo/blob/master/src/model.js",
+        "https://github.com/tdukai/bimo/blob/master/src/binder.js"
+     ]
+  },
+  {
      name: "keycharm",
      tags: ["keyboard"],
      description: "Simple, lightweight key-binding libw. MIT or Apache 2.0.",
