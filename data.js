@@ -5057,5 +5057,13 @@ module.exports = [
     description: "Animation micro library. Vanilla JavaScript.",
     url: "https://github.com/branneman/TinyAnimate",
     source: "https://raw.githubusercontent.com/branneman/TinyAnimate/master/src/TinyAnimate.js"
+  },
+  {
+    name: "XPopUp",
+    github: "reduardo7/xpopup",
+    tags: ["popup", "window.open", "javascript", "browser", "callback", "nojquer", "simple", "easy", "events", "chrome", "firefox"],
+    description: "Full control over JavaScript PopUp's.",
+    url: "https://github.com/reduardo7/xpopup",
+    source: "https://raw.githubusercontent.com/reduardo7/xpopup/master/xpopup.js"
   }
 ];
