@@ -5064,6 +5064,6 @@ module.exports = [
     tags: ["class", "node", "npm", "javascript", "nojquery", "browser", "chrome"],
     description: "Simple JavaScript Class. Create your advanced JavaScript Class!",
     url: "https://github.com/reduardo7/sjsClass",
-    source: "https://github.com/reduardo7/sjsClass/blob/master/lib/sjsclass.js"
+    source: "https://raw.githubusercontent.com/reduardo7/sjsClass/master/lib/sjsclass.js"
   }
 ];
