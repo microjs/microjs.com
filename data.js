@@ -27,8 +27,8 @@ module.exports = [
   {
     name: "ModuleJS",
     github: "audinue/ModuleJS",
-    tags: ["es6", "module", "import", "export", "browser"],
-    description: "ES6 module import/export for browsers.",
+    tags: ["es2015", "module", "import", "export", "browser"],
+    description: "ES2015 module import/export for browsers.",
     url: "https://github.com/audinue/ModuleJS",
     source: "https://raw.githubusercontent.com/audinue/ModuleJS/master/module.js"
   },
