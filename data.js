@@ -5057,5 +5057,13 @@ module.exports = [
     description: "Animation micro library. Vanilla JavaScript.",
     url: "https://github.com/branneman/TinyAnimate",
     source: "https://raw.githubusercontent.com/branneman/TinyAnimate/master/src/TinyAnimate.js"
-  }
+  },
+ {
+    name: "BitsyCode",
+    github: "BitsyCode/BitsyCode",
+    tags: ["javascript", "library", "nojquery", "methods"],
+    description: "A Javascript Library with a bunch of methods that helps makes coding faster and effecient.",
+    url: "https://github.com/BitsyCode/BitsyCode",
+    source: "https://github.com/BitsyCode/BitsyCode/blob/master/js/bitsycode-1.0.1.js"
+  }  
 ];
