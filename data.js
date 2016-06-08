@@ -5064,6 +5064,6 @@ module.exports = [
     tags: ["router", "route", "TypeScript"],
     description: "A small routing library inspired by ngRoute module."
     url: "https://github.com/Forestdev/jsRoute",
-    source: "https://github.com/Forestdev/jsRoute/blob/master/src/JSRoute.ts"
+    source: "https://github.com/Forestdev/jsRoute/blob/master/dist/jsRoute.js"
   }
 ];
