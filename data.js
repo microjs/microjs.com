@@ -5057,5 +5057,13 @@ module.exports = [
     description: "Animation micro library. Vanilla JavaScript.",
     url: "https://github.com/branneman/TinyAnimate",
     source: "https://raw.githubusercontent.com/branneman/TinyAnimate/master/src/TinyAnimate.js"
+  },
+  {
+    name: "is.js",
+    github: "pwnn/is.js",
+    tags: ["is", "predicate", "check", "type", "typeof", "type-check","ie6","micro","extensible"],
+    description: "Minimalistic predicate library.",
+    url: "https://github.com/pwnn/is.js",
+    source: "https://raw.githubusercontent.com/pwnn/is.js/master/lib/is.js"
   }
 ];
