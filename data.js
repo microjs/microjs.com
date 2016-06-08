@@ -5057,5 +5057,13 @@ module.exports = [
     description: "Animation micro library. Vanilla JavaScript.",
     url: "https://github.com/branneman/TinyAnimate",
     source: "https://raw.githubusercontent.com/branneman/TinyAnimate/master/src/TinyAnimate.js"
+  },
+  {
+    name: "jsRoute",
+    github: "Forestdev/jsRoute",
+    tags: ["router", "route", "TypeScript"],
+    description: "A small routing library inspired by ngRoute module."
+    url: "https://github.com/Forestdev/jsRoute",
+    source: "https://github.com/Forestdev/jsRoute/blob/master/dist/jsRoute.js"
   }
 ];
