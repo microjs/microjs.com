@@ -5057,5 +5057,13 @@ module.exports = [
     description: "Animation micro library. Vanilla JavaScript.",
     url: "https://github.com/branneman/TinyAnimate",
     source: "https://raw.githubusercontent.com/branneman/TinyAnimate/master/src/TinyAnimate.js"
+  },
+  {
+    name: "AriaControl",
+    github: "PureRandom/AriaControl",
+    tags: ["aria","accessability","screenreader"],
+    description: "Automatically update the users mark-up to meet ARIA standards",
+    url: "https://github.com/PureRandom/AriaControl",
+    source: "https://github.com/PureRandom/AriaControl/blob/master/aria-connect.js"
   }
 ];
