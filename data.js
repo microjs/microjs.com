@@ -5043,6 +5043,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/giraysam/viiny-dragger/master/src/index.js"
   },
   {
+    name: "EQCSS",
+    github: "eqcss/eqcss",
+    tags: ["element", "queries", "container", "query", "eq", "responsive", "rwd", "scoped", "css", "parent", "selector"],
+    description: "EQCSS is a CSS extension that introduces Element Queries, Scoped Styles, & CSS selectors like $parent and $this",
+    url: "https://github.com/eqcss/eqcss/",
+    source: "https://raw.githubusercontent.com/eqcss/eqcss/gh-pages/EQCSS.js"
+  },
+  {
     name: "razax.js",
     github: "razaibi/razaxjs",
     tags: ["ajax", "xhr", "xmlhttprequest", "simple", "nojquery", "minimalcode"],

@@ -5248,5 +5248,13 @@
 		<summary>Dynamic Loading of Javascript based on DOM elements.</summary>
 	</entry>
 
+	<entry>
+		<title>EQCSS</title>
+		<link href="https://github.com/eqcss/eqcss/" />
+		<id>urn:uuid:bf67fd20-33d6-11e6-a794-db886d35bc84</id>
+		<updated>2016-06-16'T'15:26:19+00:00</updated>
+		<summary>EQCSS is a CSS extension that introduces Element Queries, Scoped Styles, CSS selectors like $parent and $prev</summary>
+	</entry>
+
 
 </feed>
