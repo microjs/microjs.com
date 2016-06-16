@@ -5249,22 +5249,6 @@
 	</entry>
 
 	<entry>
-		<title>TEST</title>
-		<link href="http://giraysam.github.io/viiny-dragger/" />
-		<id>urn:uuid:bbf27ae0-33d5-11e6-aec6-8dbe2a0332d9</id>
-		<updated>2016-06-16'T'15:19:01+00:00</updated>
-		<summary>vinny-dragger is a drag and drop plugin for javascript.</summary>
-	</entry>
-
-	<entry>
-		<title>EQCSS.js</title>
-		<link href="https://github.com/eqcss/eqcss/" />
-		<id>urn:uuid:075de230-33d6-11e6-8ca9-fd5e1fd00aeb</id>
-		<updated>2016-06-16'T'15:21:09+00:00</updated>
-		<summary>vinny-dragger is a drag and drop plugin for javascript.</summary>
-	</entry>
-
-	<entry>
 		<title>EQCSS</title>
 		<link href="https://github.com/eqcss/eqcss/" />
 		<id>urn:uuid:bf67fd20-33d6-11e6-a794-db886d35bc84</id>
