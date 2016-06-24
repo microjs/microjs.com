@@ -17,6 +17,14 @@ module.exports = [
   	source: "https://github.com/eorroe/NodeList.js/blob/master/NodeList.js"
   },
   {
+    name: "placeholder.js",
+    github: "hustcc/placeholder.js",
+    tags: ["images", "placeholder.js", "client-side", "canvas", "browser-side", "html5"],
+    description: "Image placeholder uses CANVAS to render image placeholders entirely in browser.",
+    url: "http://placeholder.cn/",
+    source: "https://raw.githubusercontent.com/hustcc/placeholder.js/master/placeholder.js"
+  },
+  {
     name: "blobcounter.js",
     github: "amirhkkh/blobcounter.js",
     tags: ["blob", "image", "canvas", "processing", "2D", "blobcounter"],
@@ -5057,5 +5065,13 @@ module.exports = [
     description: "Animation micro library. Vanilla JavaScript.",
     url: "https://github.com/branneman/TinyAnimate",
     source: "https://raw.githubusercontent.com/branneman/TinyAnimate/master/src/TinyAnimate.js"
+  },
+  {
+    name: "timeago.js",
+    github: "hustcc/timeago.js",
+    tags: ["timeago", "datetime", "*** time ago", "date", "javascript timeago"],
+    description: "a simple library (less then 2kb) to used to format datetime with `*** time ago` statement. eg: '3 hours ago'.",
+    url: "http://github.com/hustcc/timeago.js",
+    source: "https://raw.githubusercontent.com/hustcc/timeago.js/master/dist/timeago.js"
   }
 ];
