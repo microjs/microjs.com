@@ -5065,5 +5065,13 @@ module.exports = [
     description: "Animation micro library. Vanilla JavaScript.",
     url: "https://github.com/branneman/TinyAnimate",
     source: "https://raw.githubusercontent.com/branneman/TinyAnimate/master/src/TinyAnimate.js"
+  },
+  {
+    name: "timeago.js",
+    github: "hustcc/timeago.js",
+    tags: ["timeago", "datetime", "*** time ago", "date", "javascript timeago"],
+    description: "a simple library (less then 2kb) to used to format datetime with `*** time ago` statement. eg: '3 hours ago'.",
+    url: "http://github.com/hustcc/timeago.js",
+    source: "https://raw.githubusercontent.com/hustcc/timeago.js/master/dist/timeago.js"
   }
 ];
