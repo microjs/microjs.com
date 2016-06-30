@@ -5057,5 +5057,13 @@ module.exports = [
     description: "Animation micro library. Vanilla JavaScript.",
     url: "https://github.com/branneman/TinyAnimate",
     source: "https://raw.githubusercontent.com/branneman/TinyAnimate/master/src/TinyAnimate.js"
+  },
+  {
+    name: "Monkberry",
+    github: "monkberry/monkberry",
+    tags: ["dom-builder", "dom", "templating", "template engine", "view", "ui", "user interface", "svg", "fast", ""],
+    description: "Monkberry – a JavaScript library for building web user interfaces.",
+    url: "http://monkberry.js.org",
+    source: "https://github.com/monkberry/monkberry/blob/master/monkberry.js"
   }
 ];
