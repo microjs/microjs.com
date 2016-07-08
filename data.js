@@ -1628,6 +1628,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/alpha123/Jaguar/master/src/jaguar.js"
   },
   {
+    "name": "cla",
+    "tags": ["image", "contrast", "level"],
+    "description": "automatic color level adjuster for low contrast images",
+    "url": "https://github.com/alperr/cla",
+    "source": "https://raw.githubusercontent.com/alperr/cla/master/cla.js"
+  },  
+  {
     "name": "mixit",
     "tags": ["mixin", "merge", "json"],
     "description": "a smart mixin/merging object helper",

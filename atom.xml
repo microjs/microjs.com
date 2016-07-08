@@ -5248,5 +5248,13 @@
 		<summary>Dynamic Loading of Javascript based on DOM elements.</summary>
 	</entry>
 
+	<entry>
+		<title>cla</title>
+		<link href="https://github.com/alperr/cla" />
+		<id>urn:uuid:b9adc290-450e-11e6-83d8-a7c3d6fdd31b</id>
+		<updated>2016-07-08'T'13:20:00+00:00</updated>
+		<summary>automatic color level adjuster for low contrast images</summary>
+	</entry>
+
 
 </feed>
