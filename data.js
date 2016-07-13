@@ -269,7 +269,7 @@ module.exports = [
   {
     name: "Muject",
     github: "srijs/muject",
-    tags: ["dependency", "injection", "inversion", "control", "ioc", "di", "require"],
+    tags: ["dependency", "injection", "inversion", "control", "ioc", "di", "require", ],
     description: "10-SLOC no-bullshit dependency injection micro-library",
     url: "https://github.com/srijs/muject",
     source: "https://raw.githubusercontent.com/srijs/muject/master/index.js"
@@ -5057,5 +5057,13 @@ module.exports = [
     description: "Animation micro library. Vanilla JavaScript.",
     url: "https://github.com/branneman/TinyAnimate",
     source: "https://raw.githubusercontent.com/branneman/TinyAnimate/master/src/TinyAnimate.js"
+  },
+  {
+     name: "arenite",
+     github: "arenite/arenite",
+     tags: ["dependency", "inversion", "control", "injection", "ioc", "di", "require", "dependency injection", "provider", "IOC", "microkernel", "module", "framework", "service locator"],
+     description: "Inversion of Control / Dependency Injection Library",
+     url: "https://github.com/arenite/arenite",
+     source: "https://raw.githubusercontent.com/arenite/arenite/master/build/arenite.js"
   }
 ];
