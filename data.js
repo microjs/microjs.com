@@ -5057,5 +5057,13 @@ module.exports = [
     description: "Animation micro library. Vanilla JavaScript.",
     url: "https://github.com/branneman/TinyAnimate",
     source: "https://raw.githubusercontent.com/branneman/TinyAnimate/master/src/TinyAnimate.js"
+  },
+  {
+    name: "slack-micro",
+    github: "johnagan/slack-micro",
+    tags: ["slack", "api", "client", "node", "serverless", "micro", "functions", "lambda"],
+    description: "A micro client to interact with Slack's Web API",
+    url: "https://github.com/johnagan/slack-micro",
+    source: "https://raw.githubusercontent.com/johnagan/slack-micro/master/index.js"
   }
 ];
