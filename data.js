@@ -912,11 +912,11 @@ module.exports = [
   },
   {
     name: "OneDollar.js",
-    github: "nok/onedollar-coffeescript",
-    tags: ["gesture", "recognition", "recognizer", "multitouch", "interactive", "input", "jquery"],
-    description: "A JavaScript implementation of the &dollar;1 Gesture Recognizer, a two-dimensional template based gesture recognition",
-    url: "https://github.com/nok/onedollar-coffeescript",
-    source: "https://raw.githubusercontent.com/nok/onedollar-coffeescript/master/lib/onedollar.js"
+    github: "nok/onedollar-unistroke-coffee",
+    tags: ["gesture", "recognition", "recognizer", "touch" ,"multitouch", "interaction", "jquery"],
+    description: "Implementation of the $1 Gesture Recognizer, a two-dimensional template based gesture recognition, in JavaScript.",
+    url: "https://github.com/nok/onedollar-unistroke-coffee",
+    source: "https://raw.githubusercontent.com/nok/onedollar-unistroke-coffee/master/lib/onedollar.js"
   },
   {
     name: "LocalDB.js",
