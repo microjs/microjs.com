@@ -76,6 +76,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/jccazeaux/scriber/master/src/scriber.js"
    },
    {
+    name: "dusk",
+    github: "mjsarfatti/dusk",
+    tags: ["alternative", "jquery", "lightweight", "fast", "tiny", "selector", "dom", "abstraction", "dusk"],
+    description: "A feathery (light), alacritous (fast) DOM abstraction, partly based on PlainJS",
+    url: "https://github.com/mjsarfatti/dusk",
+    source: "https://raw.githubusercontent.com/mjsarfatti/dusk/master/dist/dusk.js"
+   },
+   {
     name: "xflagable",
     github: "javimosch/xflagable",
     tags: ["flag", "event", "promise"],

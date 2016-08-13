@@ -5248,5 +5248,21 @@
 		<summary>Dynamic Loading of Javascript based on DOM elements.</summary>
 	</entry>
 
+	<entry>
+		<title>Lambda-30</title>
+		<link href="https://github.com/jdarling/lambda-30" />
+		<id>urn:uuid:4065ff70-60f1-11e6-93d8-71b16b1d1569</id>
+		<updated>2016-08-13'T'00:58:03+00:00</updated>
+		<summary>A Lambda String implementation for Node.js that supports some ES6 (...rest, ()=&gt;{}, ()=&gt;retval) and a built in JSON encoder.</summary>
+	</entry>
+
+	<entry>
+		<title>dusk</title>
+		<link href="https://github.com/mjsarfatti/dusk" />
+		<id>urn:uuid:ec34b1c0-60f1-11e6-b5e2-e35699137a55</id>
+		<updated>2016-08-13'T'01:04:42+00:00</updated>
+		<summary>A feathery (light), alacritous (fast) DOM abstraction, partly based on PlainJS</summary>
+	</entry>
+
 
 </feed>
