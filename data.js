@@ -5064,6 +5064,6 @@ module.exports = [
     tags:["dom", "events", "query selection"],
     description: "A tiny JavaScript framework",
     url: "https://microtk.io",
-    source: "https://cdn.rawgit.com/microTK/microTK/master/dist/microTK.min.js"
+    source: "https://cdn.rawgit.com/microTK/microTK/master/dist/microTK.js"
   }
 ];
