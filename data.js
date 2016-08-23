@@ -2928,8 +2928,8 @@ module.exports = [
     name: "husl",
     tags: ["color"],
     description: "A human-friendly alternative to the HSL color space.",
-    url: "http://boronine.github.io/husl",
-    source: "https://raw.githubusercontent.com/boronine/husl/master/husl.js"
+    url: "http://www.husl-colors.org/",
+    source: "https://raw.githubusercontent.com/husl-colors/husl/master/husl.coffee"
   },
   {
     name: "Fayer",
