@@ -3480,6 +3480,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/federico-lox/pubsub.js/master/src/pubsub.js"
   },
   {
+    name: "pastafarian",
+    tags: ["statemachine", "state", "fsm", "event", "finite", "state", "machine"],
+    description: "A tiny event emitter-based finite state machine",
+    url: "https://github.com/orbitbot/pastafarian",
+    source: "https://raw.githubusercontent.com/orbitbot/pastafarian/master/pastafarian.js"
+  },
+  {
     name: "Pjs",
     github: "jneen/pjs",
     url: "https://github.com/jneen/pjs",
