@@ -5057,5 +5057,14 @@ module.exports = [
     description: "Animation micro library. Vanilla JavaScript.",
     url: "https://github.com/branneman/TinyAnimate",
     source: "https://raw.githubusercontent.com/branneman/TinyAnimate/master/src/TinyAnimate.js"
+  },
+  {
+  	name: "ns.js",
+  	github: "Soldier-B/ns.js",
+  	tags: ["namespace","module","scope","simple","name","space"],
+  	description: "A small and simple Javascript namespace function",
+  	url: "https://github.com/Soldier-B/ns.js",
+  	source: "https://raw.githubusercontent.com/Soldier-B/ns.js/master/ns.js"
+  }
   }
 ];
