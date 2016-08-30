@@ -5066,5 +5066,4 @@ module.exports = [
   	url: "https://github.com/Soldier-B/ns.js",
   	source: "https://raw.githubusercontent.com/Soldier-B/ns.js/master/ns.js"
   }
-  }
 ];
