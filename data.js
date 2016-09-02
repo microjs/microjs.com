@@ -5071,5 +5071,13 @@ module.exports = [
     description: "Animation micro library. Vanilla JavaScript.",
     url: "https://github.com/branneman/TinyAnimate",
     source: "https://raw.githubusercontent.com/branneman/TinyAnimate/master/src/TinyAnimate.js"
+  },
+  {
+    name: "microTK",
+    github: "microTK/microTK",
+    tags:["dom", "events", "query selection"],
+    description: "A tiny JavaScript framework",
+    url: "https://microtk.io",
+    source: "https://cdn.rawgit.com/microTK/microTK/master/dist/microTK.js"
   }
 ];
