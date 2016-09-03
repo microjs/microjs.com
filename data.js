@@ -14,7 +14,7 @@ module.exports = [
   	tags: ["DOM", "NodeList"],
   	description: "Use the Native DOM APIs as easily as jQuery",
   	url: "https://github.com/eorroe/NodeList.js",
-  	source: "https://github.com/eorroe/NodeList.js/blob/master/NodeList.js"
+  	source: "https://raw.githubusercontent.com/eorroe/NodeList.js/master/NodeList.js"
   },
   {
     name: "Fuse.js",
@@ -22,15 +22,15 @@ module.exports = [
     tags: ["Lightweight", "fuzzy", "fuzzy-search", "search"],
     description: "Lightweight fuzzy-search library",
     url: "http://fusejs.io",
-    source: "https://github.com/krisk/Fuse/blob/master/src/fuse.js"
+    source: "https://raw.githubusercontent.com/krisk/Fuse/master/src/fuse.js"
   },
   {
     name: "blobcounter.js",
-    github: "amirhkkh/blobcounter.js",
+    github: "satrobit/blobcounter.js",
     tags: ["blob", "image", "canvas", "processing", "2D", "blobcounter"],
     description: "blobcounter.js helps you find blobs and shapes in an image",
-    url: "https://github.com/amirhkkh/blobcounter.js",
-    source: "https://raw.githubusercontent.com/amirhkkh/blobcounter.js/master/blobcounter.js"
+    url: "https://github.com/satrobit/blobcounter.js",
+    source: "https://raw.githubusercontent.com/satrobit/blobcounter.js/master/blobcounter.js"
   },
   {
     name: "xion",
@@ -38,7 +38,7 @@ module.exports = [
     tags: ["MVC", "JsonML", "diff", "DOM", "vtree"],
     description: "Lightweight client-side MVC framework that uses JsonML syntax and virtual DOM diffing.",
     url: "https://github.com/danristea/xion",
-    source: "https://raw.githubusercontent.com/danristea/xion/master/xion.js"
+    source: "https://raw.githubusercontent.com/danristea/xion/master/build/xion.dev.js"
   },
   {
     name: "uniloc",
@@ -689,8 +689,8 @@ module.exports = [
     github: "jesseskinner/hoverboard",
     tags: ["Hoverboard", "Flux", "React", "store", "model", "data", "listener"],
     description: "A very lightweight (anti-gravity?) data model and Flux store with actions and a state change listener.",
-    url: "https://github.com/jesseskinner/hoverboard",
-    source: "https://raw.githubusercontent.com/jesseskinner/hoverboard/master/dist/hoverboard.js"
+    url: "https://github.com/jesseskinner/hover",
+    source: "https://raw.githubusercontent.com/jesseskinner/hover/master/src/index.js"
   },
   {
     name: "j2c",
@@ -931,8 +931,8 @@ module.exports = [
     github: "nok/onedollar-coffeescript",
     tags: ["gesture", "recognition", "recognizer", "multitouch", "interactive", "input", "jquery"],
     description: "A JavaScript implementation of the &dollar;1 Gesture Recognizer, a two-dimensional template based gesture recognition",
-    url: "https://github.com/nok/onedollar-coffeescript",
-    source: "https://raw.githubusercontent.com/nok/onedollar-coffeescript/master/lib/onedollar.js"
+    url: "https://github.com/nok/onedollar-unistroke-coffee",
+    source: "https://raw.githubusercontent.com/nok/onedollar-unistroke-coffee/master/lib/onedollar.js"
   },
   {
     name: "LocalDB.js",
