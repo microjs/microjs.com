@@ -14,15 +14,23 @@ module.exports = [
   	tags: ["DOM", "NodeList"],
   	description: "Use the Native DOM APIs as easily as jQuery",
   	url: "https://github.com/eorroe/NodeList.js",
-  	source: "https://github.com/eorroe/NodeList.js/blob/master/NodeList.js"
+  	source: "https://raw.githubusercontent.com/eorroe/NodeList.js/master/NodeList.js"
+  },
+  {
+    name: "Fuse.js",
+    github: "krisk/fuse",
+    tags: ["Lightweight", "fuzzy", "fuzzy-search", "search"],
+    description: "Lightweight fuzzy-search library",
+    url: "http://fusejs.io",
+    source: "https://raw.githubusercontent.com/krisk/Fuse/master/src/fuse.js"
   },
   {
     name: "blobcounter.js",
-    github: "amirhkkh/blobcounter.js",
+    github: "satrobit/blobcounter.js",
     tags: ["blob", "image", "canvas", "processing", "2D", "blobcounter"],
     description: "blobcounter.js helps you find blobs and shapes in an image",
-    url: "https://github.com/amirhkkh/blobcounter.js",
-    source: "https://raw.githubusercontent.com/amirhkkh/blobcounter.js/master/blobcounter.js"
+    url: "https://github.com/satrobit/blobcounter.js",
+    source: "https://raw.githubusercontent.com/satrobit/blobcounter.js/master/blobcounter.js"
   },
   {
     name: "xion",
@@ -30,7 +38,7 @@ module.exports = [
     tags: ["MVC", "JsonML", "diff", "DOM", "vtree"],
     description: "Lightweight client-side MVC framework that uses JsonML syntax and virtual DOM diffing.",
     url: "https://github.com/danristea/xion",
-    source: "https://raw.githubusercontent.com/danristea/xion/master/xion.js"
+    source: "https://raw.githubusercontent.com/danristea/xion/master/build/xion.dev.js"
   },
   {
     name: "uniloc",
@@ -82,6 +90,14 @@ module.exports = [
     description: "Create flag promises",
     url: "https://github.com/javimosch/xflagable/",
     source: "https://raw.githubusercontent.com/javimosch/xflagable/master/xflagable.js"
+   },
+   {
+    name: "xtypejs",
+    github: "lucono/xtypejs",
+    tags: ["xtype", "type", "typeof", "data-type", "validation"],
+    description: "Elegant, highly efficient data validation for JavaScript Apps",
+    url: "http://xtype.js.org",
+    source: "https://raw.githubusercontent.com/lucono/xtypejs/master/project/xtypejs/xtype.js"
   },
   {
     name: "diapason",
@@ -673,8 +689,8 @@ module.exports = [
     github: "jesseskinner/hoverboard",
     tags: ["Hoverboard", "Flux", "React", "store", "model", "data", "listener"],
     description: "A very lightweight (anti-gravity?) data model and Flux store with actions and a state change listener.",
-    url: "https://github.com/jesseskinner/hoverboard",
-    source: "https://raw.githubusercontent.com/jesseskinner/hoverboard/master/dist/hoverboard.js"
+    url: "https://github.com/jesseskinner/hover",
+    source: "https://raw.githubusercontent.com/jesseskinner/hover/master/src/index.js"
   },
   {
     name: "j2c",
@@ -915,8 +931,8 @@ module.exports = [
     github: "nok/onedollar-coffeescript",
     tags: ["gesture", "recognition", "recognizer", "multitouch", "interactive", "input", "jquery"],
     description: "A JavaScript implementation of the &dollar;1 Gesture Recognizer, a two-dimensional template based gesture recognition",
-    url: "https://github.com/nok/onedollar-coffeescript",
-    source: "https://raw.githubusercontent.com/nok/onedollar-coffeescript/master/lib/onedollar.js"
+    url: "https://github.com/nok/onedollar-unistroke-coffee",
+    source: "https://raw.githubusercontent.com/nok/onedollar-unistroke-coffee/master/lib/onedollar.js"
   },
   {
     name: "LocalDB.js",
@@ -3480,6 +3496,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/federico-lox/pubsub.js/master/src/pubsub.js"
   },
   {
+    name: "pastafarian",
+    tags: ["statemachine", "state", "fsm", "event", "finite", "state", "machine"],
+    description: "A tiny event emitter-based finite state machine",
+    url: "https://github.com/orbitbot/pastafarian",
+    source: "https://raw.githubusercontent.com/orbitbot/pastafarian/master/pastafarian.js"
+  },
+  {
     name: "Pjs",
     github: "jneen/pjs",
     url: "https://github.com/jneen/pjs",
@@ -4618,6 +4641,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/krasimir/deb.js/master/lib/deb.js"
   },
   {
+    name: "henderson",
+    tags: ["statemachine", "state", "fsm", "event", "finite", "state", "machine", "promise", "promises"],
+    description: "A tiny event emitter-based finite state machine with promises",
+    url: "https://github.com/orbitbot/henderson",
+    source: "https://raw.githubusercontent.com/orbitbot/henderson/master/henderson.js"
+  },
+  {
     name: "Balalaika",
     tags: ["dom", "selectors", "jquery", "library"],
     description: "Tiny but impossible powerful jQuery-like Javascript DOM library",
@@ -5057,5 +5087,13 @@ module.exports = [
     description: "Animation micro library. Vanilla JavaScript.",
     url: "https://github.com/branneman/TinyAnimate",
     source: "https://raw.githubusercontent.com/branneman/TinyAnimate/master/src/TinyAnimate.js"
+  },
+  {
+    name: "microTK",
+    github: "microTK/microTK",
+    tags:["dom", "events", "query selection"],
+    description: "A tiny JavaScript framework",
+    url: "https://microtk.io",
+    source: "https://cdn.rawgit.com/microTK/microTK/master/dist/microTK.js"
   }
 ];

@@ -5248,5 +5248,61 @@
 		<summary>Dynamic Loading of Javascript based on DOM elements.</summary>
 	</entry>
 
+	<entry>
+		<title>NodeList.js</title>
+		<link href="https://github.com/eorroe/NodeList.js" />
+		<id>urn:uuid:cce0feb0-71b7-11e6-8328-b1f051b0f177</id>
+		<updated>2016-09-03'T'09:21:27+00:00</updated>
+		<summary>Use the Native DOM APIs as easily as jQuery</summary>
+	</entry>
+
+	<entry>
+		<title>Fuse.js</title>
+		<link href="http://fusejs.io" />
+		<id>urn:uuid:cce40bf0-71b7-11e6-8328-b1f051b0f177</id>
+		<updated>2016-09-03'T'09:21:27+00:00</updated>
+		<summary>Lightweight fuzzy-search library</summary>
+	</entry>
+
+	<entry>
+		<title>xtypejs</title>
+		<link href="http://xtype.js.org" />
+		<id>urn:uuid:cd0f1390-71b7-11e6-8328-b1f051b0f177</id>
+		<updated>2016-09-03'T'09:21:27+00:00</updated>
+		<summary>Elegant, highly efficient data validation for JavaScript Apps</summary>
+	</entry>
+
+	<entry>
+		<title>pastafarian</title>
+		<link href="https://github.com/orbitbot/pastafarian" />
+		<id>urn:uuid:e8243660-71b7-11e6-8328-b1f051b0f177</id>
+		<updated>2016-09-03'T'09:21:27+00:00</updated>
+		<summary>A tiny event emitter-based finite state machine</summary>
+	</entry>
+
+	<entry>
+		<title>Lambda-30</title>
+		<link href="https://github.com/jdarling/lambda-30" />
+		<id>urn:uuid:e91721e0-71b7-11e6-8328-b1f051b0f177</id>
+		<updated>2016-09-03'T'09:21:27+00:00</updated>
+		<summary>A Lambda String implementation for Node.js that supports some ES6 (...rest, ()=&gt;{}, ()=&gt;retval) and a built in JSON encoder.</summary>
+	</entry>
+
+	<entry>
+		<title>henderson</title>
+		<link href="https://github.com/orbitbot/henderson" />
+		<id>urn:uuid:effae550-71b7-11e6-8328-b1f051b0f177</id>
+		<updated>2016-09-03'T'09:21:27+00:00</updated>
+		<summary>A tiny event emitter-based finite state machine with promises</summary>
+	</entry>
+
+	<entry>
+		<title>microTK</title>
+		<link href="https://microtk.io" />
+		<id>urn:uuid:f35a15e0-71b7-11e6-8328-b1f051b0f177</id>
+		<updated>2016-09-03'T'09:21:27+00:00</updated>
+		<summary>A tiny JavaScript framework</summary>
+	</entry>
+
 
 </feed>
