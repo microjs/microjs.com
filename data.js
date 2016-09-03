@@ -82,6 +82,14 @@ module.exports = [
     description: "Create flag promises",
     url: "https://github.com/javimosch/xflagable/",
     source: "https://raw.githubusercontent.com/javimosch/xflagable/master/xflagable.js"
+   },
+   {
+    name: "xtypejs",
+    github: "lucono/xtypejs",
+    tags: ["xtype", "type", "typeof", "data-type", "validation"],
+    description: "Elegant, highly efficient data validation for JavaScript Apps",
+    url: "http://xtype.js.org",
+    source: "https://raw.githubusercontent.com/lucono/xtypejs/master/project/xtypejs/xtype.js"
   },
   {
     name: "diapason",
