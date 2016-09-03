@@ -17,6 +17,14 @@ module.exports = [
   	source: "https://github.com/eorroe/NodeList.js/blob/master/NodeList.js"
   },
   {
+    name: "Fuse.js",
+    github: "krisk/fuse",
+    tags: ["Lightweight", "fuzzy", "fuzzy-search", "search"],
+    description: "Lightweight fuzzy-search library",
+    url: "http://fusejs.io",
+    source: "https://github.com/krisk/Fuse/blob/master/src/fuse.js"
+  },
+  {
     name: "blobcounter.js",
     github: "amirhkkh/blobcounter.js",
     tags: ["blob", "image", "canvas", "processing", "2D", "blobcounter"],
