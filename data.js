@@ -16,6 +16,15 @@ module.exports = [
   	url: "https://github.com/eorroe/NodeList.js",
   	source: "https://raw.githubusercontent.com/eorroe/NodeList.js/master/NodeList.js"
   },
+  
+  {
+    name: "Dragula",
+    github: "bevacqua/dragula",
+    tags: ["Drag and Drop", "simple", "Library"],
+    description: "Drag and drop so simple it hurts",
+    url: "https://bevacqua.github.io/dragula/",
+    source: "https://github.com/bevacqua/dragula/blob/master/dragula.js"
+  },
   {
     name: "Fuse.js",
     github: "krisk/fuse",
