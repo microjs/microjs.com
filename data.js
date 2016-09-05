@@ -17,6 +17,14 @@ module.exports = [
   	source: "https://raw.githubusercontent.com/eorroe/NodeList.js/master/NodeList.js"
   },
   {
+    name: "fuzzysearch",
+    github: "bevacqua/fuzzysearch",
+    tags: ["Lightweight", "Tiny", "fast", "fuzzy", "fuzzy-search", "search"],
+    description: "Tiny and blazing-fast fuzzy search in JavaScript",
+    url: "https://github.com/bevacqua/fuzzysearch",
+    source: "https://github.com/bevacqua/fuzzysearch/blob/master/index.js"
+  },
+  {
     name: "Fuse.js",
     github: "krisk/fuse",
     tags: ["Lightweight", "fuzzy", "fuzzy-search", "search"],
