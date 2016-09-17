@@ -5095,5 +5095,13 @@ module.exports = [
     description: "A tiny JavaScript framework",
     url: "https://microtk.io",
     source: "https://cdn.rawgit.com/microTK/microTK/master/dist/microTK.js"
+  },
+  {
+    name: "OfflineModel",
+    github: "willmendesneto/offline-model",
+    tags: ["offline", "model", "service", "model", "localStorage", "sessionStorage", "module", "WebSQL", "storage", "database", "object", "store"],
+    description: "Your module for Offline operations with Javascript",
+    url: "https://github.com/willmendesneto/offline-model",
+    source: "https://raw.githubusercontent.com/willmendesneto/offline-model/master/index.js"
   }
 ];
