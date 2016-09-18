@@ -95,7 +95,7 @@ module.exports = [
     name: "xtypejs",
     github: "lucono/xtypejs",
     tags: ["xtype", "type", "typeof", "data-type", "validation"],
-    description: "Elegant, highly efficient data validation for JavaScript Apps",
+    description: "Elegant, highly efficient data validation for JavaScript",
     url: "http://xtype.js.org",
     source: "https://raw.githubusercontent.com/lucono/xtypejs/master/project/xtypejs/xtype.js"
   },
