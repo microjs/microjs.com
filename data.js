@@ -5095,5 +5095,13 @@ module.exports = [
     description: "A tiny JavaScript framework",
     url: "https://microtk.io",
     source: "https://cdn.rawgit.com/microTK/microTK/master/dist/microTK.js"
+  },
+  {
+    name: "boomerang-cache",
+    github: "giraysam/boomerang-cache",
+    tags: ["boomerang", "boomerang-cache", "localStorage", "sessionStorage", "javascript cache"],
+    description: "boomerangCache is a client side caching library based on localStorage and sessionStorage",
+    url: "http://giraysam.github.io/boomerang-cache/",
+    source: "https://raw.githubusercontent.com/giraysam/boomerang-cache/master/src/boomerang-cache.js"
   }
 ];
