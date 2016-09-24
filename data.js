@@ -400,6 +400,13 @@ module.exports = [
     url: "https://github.com/daniellmb/aop.js",
     source: "https://raw.githubusercontent.com/daniellmb/aop.js/master/aop.js"
   },
+    {
+    name: "dont-go",
+    tags: ["favicon", "title"],
+    description: "Change the title and/or favicon of the page when it is inactive.",
+    url: "https://github.com/mightyCrow/dont-go",
+    source: "https://raw.githubusercontent.com/mightyCrow/dont-go/master/lib/dont-go.js"
+  },
   {
     name: "di.js",
     tags: ["dependency","injection","di"],
