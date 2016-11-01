@@ -5120,5 +5120,13 @@ module.exports = [
     description: "boomerangCache is a client side caching library based on localStorage and sessionStorage",
     url: "http://giraysam.github.io/boomerang-cache/",
     source: "https://raw.githubusercontent.com/giraysam/boomerang-cache/master/src/boomerang-cache.js"
+  },
+  {
+    name: "Redux",
+    github: "reactjs/redux",
+    tags: ["data", "functional"],
+    description: "Predictable state container for JavaScript apps",
+    url: "http://redux.js.org/",
+    source: "https://unpkg.com/redux@3.6.0/dist/redux.js"
   }
 ];
