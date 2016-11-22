@@ -16,7 +16,6 @@ module.exports = [
   	url: "https://github.com/eorroe/NodeList.js",
   	source: "https://raw.githubusercontent.com/eorroe/NodeList.js/master/NodeList.js"
   },
-  
   {
     name: "Dragula",
     github: "bevacqua/dragula",
@@ -3651,6 +3650,14 @@ module.exports = [
     description: "BigScreen is a simple library for using the JavaScript Full Screen API.",
     url: "http://brad.is/coding/BigScreen/",
     source: "https://raw.githubusercontent.com/bdougherty/BigScreen/master/bigscreen.js"
+  },
+  {
+    name: "Package.js",
+    github: "mcmlxxxiii/Package.js",
+    tags: ["package", "packaging", "code"],
+    description: "Package.js is an utility for organizing code in packages with both private and public modules.",
+    url: "https://github.com/mcmlxxxiii/Package.js",
+    source: "https://raw.githubusercontent.com/mcmlxxxiii/Package.js/master/src/Package.js"
   },
   {
     name: "SwipeMe",
