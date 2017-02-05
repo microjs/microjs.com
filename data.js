@@ -1598,6 +1598,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/janl/mustache.js/master/mustache.js"
   },
   {
+    name: "tiny-mustache",
+    github: "aishikaty/tiny-mustache",
+    tags: ["templating", "template", "tiny"],
+    description: "The smallest implementation of Mustache logic-less template engine.",
+    url: "https://github.com/aishikaty/tiny-mustache",
+    source: "https://raw.githubusercontent.com/aishikaty/tiny-mustache/master/mustache.js"
+  },
+  {
     name: "LABjs",
     tags: ["loader"],
     description: "The *performance* script loader: on-demand parallel script loading with ordered execution for dependencies.",
