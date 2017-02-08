@@ -5136,5 +5136,5 @@ module.exports = [
     description: "Predictable state container for JavaScript apps",
     url: "http://redux.js.org/",
     source: "https://unpkg.com/redux@3.6.0/dist/redux.js"
-  },  
+  }  
 ];
