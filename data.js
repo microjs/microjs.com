@@ -5058,6 +5058,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/developit/preact/master/src/preact.js"
   },
   {
+    name: "ajaxify",
+    github: "marcoroganovic/ajaxify",
+    tags: ["ajax", "promises", "rest"],
+    description: "Extremely ES2015 Promise based AJAX requests.",
+    url: "https://github.com/marcoroganovic/ajaxify",
+    source: "https://raw.githubusercontent.com/marcoroganovic/ajaxify/master/ajaxify.js"
+  },
+  {
     name: "smoke-signal",
     github: "StephanHoyer/smoke-signal",
     tags: ["pubsub", "event", "observer"],
@@ -5128,5 +5136,5 @@ module.exports = [
     description: "Predictable state container for JavaScript apps",
     url: "http://redux.js.org/",
     source: "https://unpkg.com/redux@3.6.0/dist/redux.js"
-  }
+  },  
 ];

@@ -5312,5 +5312,21 @@
 		<summary>boomerangCache is a client side caching library based on localStorage and sessionStorage</summary>
 	</entry>
 
+	<entry>
+		<title>ajaxify</title>
+		<link href="https://github.com/marcoroganovic/ajaxify" />
+		<id>urn:uuid:c7d06a10-ee39-11e6-b588-a78a648f0027</id>
+		<updated>2017-02-08'T'20:01:42+00:00</updated>
+		<summary>Extremely ES2015 Promise based AJAX requests.</summary>
+	</entry>
+
+	<entry>
+		<title>Redux</title>
+		<link href="http://redux.js.org/" />
+		<id>urn:uuid:c961b870-ee39-11e6-b588-a78a648f0027</id>
+		<updated>2017-02-08'T'20:01:42+00:00</updated>
+		<summary>Predictable state container for JavaScript apps</summary>
+	</entry>
+
 
 </feed>
