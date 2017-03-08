@@ -42,6 +42,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/krisk/Fuse/master/src/fuse.js"
   },
   {
+    name: "Tiny Browser Framework",
+    github: "thedumbterminal/TinyBrowserFramework",
+    tags: ["framework", "web", "websocket", "browser"],
+    description: "Minimal Client JS Framework",
+    url: "https://github.com/thedumbterminal/TinyBrowserFramework",
+    source: "https://raw.githubusercontent.com/thedumbterminal/TinyBrowserFramework/master/src/index.js"
+  },
+  {
     name: "blobcounter.js",
     github: "satrobit/blobcounter.js",
     tags: ["blob", "image", "canvas", "processing", "2D", "blobcounter"],
