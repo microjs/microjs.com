@@ -4665,11 +4665,11 @@ module.exports = [
     source: "https://raw.githubusercontent.com/orbitbot/henderson/master/henderson.js"
   },
   {
-    name: "Balalaika",
+    name: "bala.js",
     tags: ["dom", "selectors", "jquery", "library"],
-    description: "Tiny but impossible powerful jQuery-like Javascript DOM library",
-    url: "https://github.com/finom/balalaika",
-    source: "https://raw.githubusercontent.com/finom/balalaika/master/balalaika.js"
+    description: "A tiny function for elements selection",
+    url: "https://github.com/finom/bala",
+    source: "https://github.com/finom/bala/blob/master/bala.min.js"
   },
   {
     name: "Gifffer",
