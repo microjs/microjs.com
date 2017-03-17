@@ -497,6 +497,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/daniellmb/perfnow.js/master/perfnow.js"
   },
   {
+    name: "GraphicsJS",
+    github: "anychart/graphicsjs",
+    tags: ["svg", "vml", "graphics", "drawing", "animation", "visualization", "charts", "data visualization", "api"],
+    description: "A powerful lightweight JavaScript drawing library for graphics and animation, based on SVG/VML, with intuitive API",
+    url: "http://www.graphicsjs.org",
+    source: "https://github.com/AnyChart/GraphicsJS/blob/master/dist/graphics.js"
+  },
+  {
     name: "SaVaGe.js",
     tags: ["svg"],
     description: "A small SVG library with a chaining API",
