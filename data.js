@@ -5128,5 +5128,13 @@ module.exports = [
     description: "Predictable state container for JavaScript apps",
     url: "http://redux.js.org/",
     source: "https://unpkg.com/redux@3.6.0/dist/redux.js"
-  }
+  },
+  {
+    name: "microBench",
+    github: "kmpatel/microBench",
+    tags: ["performance", "benchmark"],
+    description: "Tiny, simple framework to bench mark you JS code in browser console",
+    url: "https://github.com/kmpatel/microBench/releases",
+    source: "https://github.com/kmpatel/microBench/tree/v0.9"
+  }	
 ];
