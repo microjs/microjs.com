@@ -5129,12 +5129,12 @@ module.exports = [
     url: "http://redux.js.org/",
     source: "https://unpkg.com/redux@3.6.0/dist/redux.js"
   },
-  {
+{
     name: "microBench",
     github: "kmpatel/microBench",
     tags: ["performance", "benchmark"],
-    description: "Tiny, simple framework to bench mark you JS code in browser console",
+    description: "Tiny, simple framework to benchmark your JS functions in browser console",
     url: "https://github.com/kmpatel/microBench/releases",
-    source: "https://github.com/kmpatel/microBench/tree/v0.9"
-  }	
+    source: "https://raw.githubusercontent.com/kmpatel/microBench/v0.9/ubenchmark.js"
+ }	
 ];
