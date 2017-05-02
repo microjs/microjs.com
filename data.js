@@ -5034,6 +5034,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/peduarte/wallop/master/js/Wallop.js"
   },
   {
+    name: "Universal Router",
+    github: "kriasoft/universal-router",
+    tags: ["react", "reactjs", "react-component", "route", "routes", "router", "routing", "flux"],
+    description: "A simple middleware-style router for isomorphic JavaScript web apps",
+    url: "https://www.kriasoft.com/universal-router/",
+    source: "https://raw.githubusercontent.com/kriasoft/universal-router/master/dist/universal-router.js"
+  },
+  {
     name: "isMobileOS.js",
     github: "RazorfishGermany/es6-module-isMobileOs",
     tags: ["helper", "lightweight", "mobile", "detection", "user agent string", "ES6", "UMD"],
