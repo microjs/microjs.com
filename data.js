@@ -16,7 +16,7 @@ module.exports = [
   	url: "https://github.com/eorroe/NodeList.js",
   	source: "https://raw.githubusercontent.com/eorroe/NodeList.js/master/NodeList.js"
   },
-  
+
   {
     name: "Dragula",
     github: "bevacqua/dragula",
@@ -5127,5 +5127,21 @@ module.exports = [
     description: "A simple, dynamic, powerful module loader with hot swapping and optional remote loading support.",
     url: "https://github.com/isiahmeadows/simple-require-loader",
     source: "https://cdn.rawgit.com/isiahmeadows/simple-require-loader/v0.1.0/r.js"
+  },
+  {
+    name: "Redux",
+    github: "reactjs/redux",
+    tags: ["data", "functional"],
+    description: "Predictable state container for JavaScript apps",
+    url: "http://redux.js.org/",
+    source: "https://unpkg.com/redux@3.6.0/dist/redux.js"
+  },
+  {
+    name: "Picodom",
+    github: "picodom/picodom",
+    tags: ["virtual", "dom", "templating"],
+    description: "1kb JavaScript Virtual DOM builder and patch algorithm.",
+    url: "https://github.com/picodom/picodom",
+    source: "https://unpkg.com/picodom"
   }
 ];
