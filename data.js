@@ -5138,6 +5138,14 @@ module.exports = [
     source: "https://unpkg.com/redux@3.6.0/dist/redux.js"
   },
   {
+    name: "Maybe",
+    github: "alexanderjarvis/maybes",
+    tags: ["maybe", "functional"],
+    description: "Maybe is a type that wraps optional values",
+    url: "https://github.com/alexanderjarvis/maybe",
+    source: "https://raw.githubusercontent.com/alexanderjarvis/maybe/master/src/maybe.js"
+  },
+  {
     name: "microBench",
     github: "kmpatel/microBench",
     tags: ["performance", "benchmark"],
