@@ -16,7 +16,7 @@ module.exports = [
   	url: "https://github.com/eorroe/NodeList.js",
   	source: "https://raw.githubusercontent.com/eorroe/NodeList.js/master/NodeList.js"
   },
-  
+
   {
     name: "Dragula",
     github: "bevacqua/dragula",
@@ -5128,5 +5128,13 @@ module.exports = [
     description: "Predictable state container for JavaScript apps",
     url: "http://redux.js.org/",
     source: "https://unpkg.com/redux@3.6.0/dist/redux.js"
+  },
+  {
+    name: "Picodom",
+    github: "picodom/picodom",
+    tags: ["virtual", "dom", "templating"],
+    description: "1kb JavaScript Virtual DOM builder and patch algorithm.",
+    url: "https://github.com/picodom/picodom",
+    source: "https://unpkg.com/picodom"
   }
 ];
