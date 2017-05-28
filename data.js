@@ -5138,6 +5138,14 @@ module.exports = [
     source: "https://unpkg.com/redux@3.6.0/dist/redux.js"
   },
   {
+    name: "microBench",
+    github: "kmpatel/microBench",
+    tags: ["performance", "benchmark"],
+    description: "Tiny, simple framework to benchmark your JS functions in browser console",
+    url: "https://github.com/kmpatel/microBench/releases",
+    source: "https://raw.githubusercontent.com/kmpatel/microBench/v0.9/ubenchmark.js"
+  },	
+  {
     name: "Animatelo",
     github: "gibbok/animatelo",
     tags: ["animation", "animate", "web animation"],
