@@ -5138,6 +5138,14 @@ module.exports = [
     source: "https://unpkg.com/redux@3.6.0/dist/redux.js"
   },
   {
+    name: "Animatelo",
+    github: "gibbok/animatelo",
+    tags: ["animation", "animate", "web animation"],
+    description: "Animatelo is a bunch of cool, fun, and cross-browser animations for you to use in your projects. This is a porting to Web Animation API of the fabulous animate.css project.",
+    url: "https://gibbok.github.io/animatelo/",
+    source: "https://raw.githubusercontent.com/gibbok/animatelo/master/dist/animatelo.min.js"
+  },
+  {
     name: "Picodom",
     github: "picodom/picodom",
     tags: ["virtual", "dom", "templating"],
