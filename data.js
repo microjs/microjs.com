@@ -148,6 +148,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/tbleckert/location-init/master/index.js"
   },
   {
+    name: "Handorgel",
+    github: "oncode/handorgel",
+    tags: ["handorgel", "accordion", "tabs", "toggle", "collapse"],
+    description: "Accessible W3C conform accordion written in ES6.",
+    url: "https://github.com/oncode/handorgel",
+    source: "https://raw.githubusercontent.com/oncode/handorgel/master/lib/handorgel.js"
+  },
+  {
     name: "Freezer.js",
     github: "arqex/freezer",
     tags: ["immutable", "react", "tree", "cursors", "store", "events"],
