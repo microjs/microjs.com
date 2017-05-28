@@ -3654,6 +3654,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/chrisdavies/eev/master/eev.js"
   },
   {
+    name: "tiptext.js",
+    github: "agamemnus/tiptext.js",
+    tags: ["ui", "hints", "html5", "css3", "animation", "mutation observers", "pretty", "dom", "tool tip", "tooltip", "tooltips", "tool tips", "floating tooltip", "floating tool tips"],
+    description: "A floating tooltip function, using mutation observers. Has 6 customizable callbacks!",
+    url: "https://github.com/agamemnus/tiptext.js",
+    source: "https://raw.github.com/agamemnus/tiptext.js/gh-pages/tiptext-1.0.js"
+  },
+  {
     name: "guardian.js",
     github: "guardianjs/guardianjs",
     tags: ["testing", "tdd", "unit", "bdd"],
