@@ -1,3 +1,6 @@
 language: node_js
 node_js:
   - 6
+env:
+  - GH_USER=microjs-api
+  - GH_TOKEN=2ece186470c452c1e0a9ebe397dc1024a14ec9ec

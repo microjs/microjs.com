@@ -16,7 +16,7 @@ module.exports = [
   	url: "https://github.com/eorroe/NodeList.js",
   	source: "https://raw.githubusercontent.com/eorroe/NodeList.js/master/NodeList.js"
   },
-  
+
   {
     name: "Dragula",
     github: "bevacqua/dragula",
@@ -5034,6 +5034,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/peduarte/wallop/master/js/Wallop.js"
   },
   {
+    name: "Universal Router",
+    github: "kriasoft/universal-router",
+    tags: ["react", "reactjs", "react-component", "route", "routes", "router", "routing", "flux"],
+    description: "A simple middleware-style router for isomorphic JavaScript web apps",
+    url: "https://www.kriasoft.com/universal-router/",
+    source: "https://raw.githubusercontent.com/kriasoft/universal-router/master/dist/universal-router.js"
+  },
+  {
     name: "isMobileOS.js",
     github: "RazorfishGermany/es6-module-isMobileOs",
     tags: ["helper", "lightweight", "mobile", "detection", "user agent string", "ES6", "UMD"],
@@ -5136,5 +5144,29 @@ module.exports = [
     description: "Maybe is a type that wraps optional values",
     url: "https://github.com/alexanderjarvis/maybe",
     source: "https://raw.githubusercontent.com/alexanderjarvis/maybe/master/src/maybe.js"
+  },
+  {
+    name: "microBench",
+    github: "kmpatel/microBench",
+    tags: ["performance", "benchmark"],
+    description: "Tiny, simple framework to benchmark your JS functions in browser console",
+    url: "https://github.com/kmpatel/microBench/releases",
+    source: "https://raw.githubusercontent.com/kmpatel/microBench/v0.9/ubenchmark.js"
+  },	
+  {
+    name: "Animatelo",
+    github: "gibbok/animatelo",
+    tags: ["animation", "animate", "web animation"],
+    description: "Animatelo is a bunch of cool, fun, and cross-browser animations for you to use in your projects. This is a porting to Web Animation API of the fabulous animate.css project.",
+    url: "https://gibbok.github.io/animatelo/",
+    source: "https://raw.githubusercontent.com/gibbok/animatelo/master/dist/animatelo.min.js"
+  },
+  {
+    name: "Picodom",
+    github: "picodom/picodom",
+    tags: ["virtual", "dom", "templating"],
+    description: "1kb JavaScript Virtual DOM builder and patch algorithm.",
+    url: "https://github.com/picodom/picodom",
+    source: "https://unpkg.com/picodom"
   }
 ];
