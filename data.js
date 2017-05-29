@@ -4078,6 +4078,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/relay/anim/master/anim.js"
   },
   {
+    name: "Check.js",
+    github: "Morklympious/check.js",
+    tags: ["type checking", "verification", "utility", "library"],
+    description: "A tiny library for type and sanity checking",
+    url: "https://github.com/Morklympious/check.js",
+    source: "https://raw.githubusercontent.com/Morklympious/check.js/master/dist/check.min.js"
+   },
+  {
     name: "Relay",
     tags: ["dom", "library", "framework", "mvc", "traversing", "events", "pubsub", "base"],
     description: "A lightweight framework for building de-coupled apps",
