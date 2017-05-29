@@ -2044,6 +2044,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/rgrove/lazyload/master/lazyload.js"
   },
   {
+    name: "SUL.js",
+    tags: ["dom", "lightweight", "shorthand", "ajax"],
+    description: "Small library for DOM and AJAX operations (jQuery function style).",
+    url: "https://github.com/MrOnlineCoder/sul.js",
+    source: "https://github.com/MrOnlineCoder/sul.js/blob/master/src/sul.js"
+  },
+  {
     name: "Valentine",
     tags: ["functional", "language", "data"],
     description: "JavaScripts functional sister providing iterators, type checking, and basic utils",
