@@ -5193,6 +5193,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/giraysam/boomerang-cache/master/src/boomerang-cache.js"
   },
   {
+    name: "Qoob",
+    github: "enzyme/qoob",
+    tags: ["DOM", "manipulation", "events", "css", "query selection", "data", "traversal", "es2015", "js:next", "functional"],
+    description: "A lightweight DOM manipulation library",
+    url: "https://github.com/enzyme/qoob",
+    source: "https://github.com/enzyme/qoob/blob/master/src/qoob.js"
+  },
+  {
     name: "Prophet.js",
     github: "binarybaba/prophetjs",
     tags: ["toast", "notification", "growl", "snarl", "alert", "flash","messages","vanilla"],
