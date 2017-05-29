@@ -5116,8 +5116,8 @@ module.exports = [
     {
     name: "preact",
     github: "developit/preact",
-    tags: ["dom", "templating"],
-    description: "Tiny & fast Component-based Virtual DOM framework.",
+    tags: ["dom", "diff", "templating", "react", "components"],
+    description: "Preact is a fast, 3kB alternative to React, with the same ES2015 API",
     url: "https://github.com/developit/preact",
     source: "https://raw.githubusercontent.com/developit/preact/master/src/preact.js"
   },
