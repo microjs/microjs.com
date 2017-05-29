@@ -9,6 +9,14 @@
 
 module.exports = [
   {
+    name: "tinyModal",
+    github: "juanbrujo/tinyModal",
+    tags: ["modal","javascript","vanilla","simple"],
+    description: "Clean, Fast, Modular and customizable Modal Window controller",
+    url: "http://juanbrujo.github.io/tinyModal/",
+    source: "https://github.com/juanbrujo/tinyModal/blob/master/src/tinyModal.js"
+  },
+  {
   	name: "NodeList.js",
   	github: "eorroe/NodeList.js",
   	tags: ["DOM", "NodeList"],
@@ -16,7 +24,6 @@ module.exports = [
   	url: "https://github.com/eorroe/NodeList.js",
   	source: "https://raw.githubusercontent.com/eorroe/NodeList.js/master/NodeList.js"
   },
-
   {
     name: "Dragula",
     github: "bevacqua/dragula",
