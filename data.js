@@ -551,11 +551,11 @@ module.exports = [
     source: "https://raw.githubusercontent.com/dhilipsiva/style.js/master/src/js/style.js"
   },
   {
-    name: "hyphen.js",
+    name: "hyphen",
     tags: ["text", "hyphenation", "hyphen", "liang"],
-    description: "Frank Liang's hyphenation beautifier.",
-    url: "https://github.com/ytiurin/hyphenjs",
-    source: "https://raw.githubusercontent.com/ytiurin/hyphenjs/master/versions/hyphen.0.1.js"
+    description: "Franklin M. Liang's hyphenation algorithm, implemented in Javascript",
+    url: "https://github.com/ytiurin/hyphen",
+    source: "https://raw.githubusercontent.com/ytiurin/hyphen/master/hyphen.js"
   },
   {
     name: "Smart Select",
