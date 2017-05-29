@@ -23,5 +23,8 @@
   },
   "engines": {
     "node": "*"
+  },
+  "scripts": {
+    "test": "./build.js -v"
   }
 }

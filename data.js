@@ -9,20 +9,60 @@
 
 module.exports = [
   {
+    name: "tinyModal",
+    github: "juanbrujo/tinyModal",
+    tags: ["modal","javascript","vanilla","simple"],
+    description: "Clean, Fast, Modular and customizable Modal Window controller",
+    url: "http://juanbrujo.github.io/tinyModal/",
+    source: "https://github.com/juanbrujo/tinyModal/blob/master/src/tinyModal.js"
+  },
+  {
   	name: "NodeList.js",
   	github: "eorroe/NodeList.js",
   	tags: ["DOM", "NodeList"],
   	description: "Use the Native DOM APIs as easily as jQuery",
   	url: "https://github.com/eorroe/NodeList.js",
-  	source: "https://github.com/eorroe/NodeList.js/blob/master/NodeList.js"
+  	source: "https://raw.githubusercontent.com/eorroe/NodeList.js/master/NodeList.js"
+  },
+  {
+    name: "Dragula",
+    github: "bevacqua/dragula",
+    tags: ["Drag and Drop", "simple", "Library"],
+    description: "Drag and drop so simple it hurts",
+    url: "https://bevacqua.github.io/dragula/",
+    source: "https://github.com/bevacqua/dragula/blob/master/dragula.js"
+  },
+  {
+    name: "fuzzysearch",
+    github: "bevacqua/fuzzysearch",
+    tags: ["Lightweight", "Tiny", "fast", "fuzzy", "fuzzy-search", "search"],
+    description: "Tiny and blazing-fast fuzzy search in JavaScript",
+    url: "https://github.com/bevacqua/fuzzysearch",
+    source: "https://github.com/bevacqua/fuzzysearch/blob/master/index.js"
+  },
+  {
+    name: "Fuse.js",
+    github: "krisk/fuse",
+    tags: ["Lightweight", "fuzzy", "fuzzy-search", "search"],
+    description: "Lightweight fuzzy-search library",
+    url: "http://fusejs.io",
+    source: "https://raw.githubusercontent.com/krisk/Fuse/master/src/fuse.js"
+  },
+  {
+    name: "Tiny Browser Framework",
+    github: "thedumbterminal/TinyBrowserFramework",
+    tags: ["framework", "web", "websocket", "browser"],
+    description: "Minimal Client JS Framework",
+    url: "https://github.com/thedumbterminal/TinyBrowserFramework",
+    source: "https://raw.githubusercontent.com/thedumbterminal/TinyBrowserFramework/master/src/index.js"
   },
   {
     name: "blobcounter.js",
-    github: "amirhkkh/blobcounter.js",
+    github: "satrobit/blobcounter.js",
     tags: ["blob", "image", "canvas", "processing", "2D", "blobcounter"],
     description: "blobcounter.js helps you find blobs and shapes in an image",
-    url: "https://github.com/amirhkkh/blobcounter.js",
-    source: "https://raw.githubusercontent.com/amirhkkh/blobcounter.js/master/blobcounter.js"
+    url: "https://github.com/satrobit/blobcounter.js",
+    source: "https://raw.githubusercontent.com/satrobit/blobcounter.js/master/blobcounter.js"
   },
   {
     name: "xion",
@@ -30,7 +70,7 @@ module.exports = [
     tags: ["MVC", "JsonML", "diff", "DOM", "vtree"],
     description: "Lightweight client-side MVC framework that uses JsonML syntax and virtual DOM diffing.",
     url: "https://github.com/danristea/xion",
-    source: "https://raw.githubusercontent.com/danristea/xion/master/xion.js"
+    source: "https://raw.githubusercontent.com/danristea/xion/master/build/xion.dev.js"
   },
   {
     name: "uniloc",
@@ -39,6 +79,14 @@ module.exports = [
     description: "Uniloc is a utility to match URIs to named routes, and to generate URIs given a route name and options",
     url: "https://github.com/unicorn-standard/uniloc",
     source: "https://raw.githubusercontent.com/unicorn-standard/uniloc/master/uniloc.js"
+  },
+  {
+    name: "body-scroll-freezer.js",
+    github: "ramonvictor/body-scroll-freezer",
+    tags: ["scroll", "freeze", "modal", "scrolling", "lightbox", "performance"],
+    description: "Dependency-free JS module to freeze body scroll when opening modal box",
+    url: "https://github.com/ramonvictor/body-scroll-freezer",
+    source: "https://raw.githubusercontent.com/ramonvictor/body-scroll-freezer/master/src/body-scroll-freezer.js"
   },
   {
     name: "MagJS",
@@ -82,6 +130,14 @@ module.exports = [
     description: "Create flag promises",
     url: "https://github.com/javimosch/xflagable/",
     source: "https://raw.githubusercontent.com/javimosch/xflagable/master/xflagable.js"
+   },
+   {
+    name: "xtypejs",
+    github: "lucono/xtypejs",
+    tags: ["xtype", "type", "typeof", "data-type", "validation"],
+    description: "Elegant, highly efficient data validation for JavaScript",
+    url: "http://xtype.js.org",
+    source: "https://raw.githubusercontent.com/lucono/xtypejs/master/project/xtypejs/xtype.js"
   },
   {
     name: "diapason",
@@ -113,6 +169,14 @@ module.exports = [
     description: "Simple route callbacks",
     url: "https://github.com/tbleckert/location-init",
     source: "https://raw.githubusercontent.com/tbleckert/location-init/master/index.js"
+  },
+  {
+    name: "Handorgel",
+    github: "oncode/handorgel",
+    tags: ["handorgel", "accordion", "tabs", "toggle", "collapse"],
+    description: "Accessible W3C conform accordion written in ES6.",
+    url: "https://github.com/oncode/handorgel",
+    source: "https://raw.githubusercontent.com/oncode/handorgel/master/lib/handorgel.js"
   },
   {
     name: "Freezer.js",
@@ -464,6 +528,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/daniellmb/perfnow.js/master/perfnow.js"
   },
   {
+    name: "GraphicsJS",
+    github: "anychart/graphicsjs",
+    tags: ["svg", "vml", "graphics", "drawing", "animation", "visualization", "charts", "data visualization", "api"],
+    description: "A powerful lightweight JavaScript drawing library for graphics and animation, based on SVG/VML, with intuitive API",
+    url: "http://www.graphicsjs.org",
+    source: "https://github.com/AnyChart/GraphicsJS/blob/master/dist/graphics.js"
+  },
+  {
     name: "SaVaGe.js",
     tags: ["svg"],
     description: "A small SVG library with a chaining API",
@@ -479,11 +551,11 @@ module.exports = [
     source: "https://raw.githubusercontent.com/dhilipsiva/style.js/master/src/js/style.js"
   },
   {
-    name: "hyphen.js",
+    name: "hyphen",
     tags: ["text", "hyphenation", "hyphen", "liang"],
-    description: "Frank Liang's hyphenation beautifier.",
-    url: "https://github.com/ytiurin/hyphenjs",
-    source: "https://raw.githubusercontent.com/ytiurin/hyphenjs/master/versions/hyphen.0.1.js"
+    description: "Franklin M. Liang's hyphenation algorithm, implemented in Javascript",
+    url: "https://github.com/ytiurin/hyphen",
+    source: "https://raw.githubusercontent.com/ytiurin/hyphen/master/hyphen.js"
   },
   {
     name: "Smart Select",
@@ -673,8 +745,8 @@ module.exports = [
     github: "jesseskinner/hoverboard",
     tags: ["Hoverboard", "Flux", "React", "store", "model", "data", "listener"],
     description: "A very lightweight (anti-gravity?) data model and Flux store with actions and a state change listener.",
-    url: "https://github.com/jesseskinner/hoverboard",
-    source: "https://raw.githubusercontent.com/jesseskinner/hoverboard/master/dist/hoverboard.js"
+    url: "https://github.com/jesseskinner/hover",
+    source: "https://raw.githubusercontent.com/jesseskinner/hover/master/src/index.js"
   },
   {
     name: "j2c",
@@ -915,8 +987,8 @@ module.exports = [
     github: "nok/onedollar-coffeescript",
     tags: ["gesture", "recognition", "recognizer", "multitouch", "interactive", "input", "jquery"],
     description: "A JavaScript implementation of the &dollar;1 Gesture Recognizer, a two-dimensional template based gesture recognition",
-    url: "https://github.com/nok/onedollar-coffeescript",
-    source: "https://raw.githubusercontent.com/nok/onedollar-coffeescript/master/lib/onedollar.js"
+    url: "https://github.com/nok/onedollar-unistroke-coffee",
+    source: "https://raw.githubusercontent.com/nok/onedollar-unistroke-coffee/master/lib/onedollar.js"
   },
   {
     name: "LocalDB.js",
@@ -1565,6 +1637,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/janl/mustache.js/master/mustache.js"
   },
   {
+    name: "tiny-mustache",
+    github: "aishikaty/tiny-mustache",
+    tags: ["templating", "template", "tiny"],
+    description: "The smallest implementation of Mustache logic-less template engine.",
+    url: "https://github.com/aishikaty/tiny-mustache",
+    source: "https://raw.githubusercontent.com/aishikaty/tiny-mustache/master/mustache.js"
+  },
+  {
     name: "LABjs",
     tags: ["loader"],
     description: "The *performance* script loader: on-demand parallel script loading with ordered execution for dependencies.",
@@ -1964,6 +2044,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/rgrove/lazyload/master/lazyload.js"
   },
   {
+    name: "SUL.js",
+    tags: ["dom", "lightweight", "shorthand", "ajax"],
+    description: "Small library for DOM and AJAX operations (jQuery function style).",
+    url: "https://github.com/MrOnlineCoder/sul.js",
+    source: "https://github.com/MrOnlineCoder/sul.js/blob/master/src/sul.js"
+  },
+  {
     name: "Valentine",
     tags: ["functional", "language", "data"],
     description: "JavaScripts functional sister providing iterators, type checking, and basic utils",
@@ -2242,6 +2329,13 @@ module.exports = [
     description: "Domchanger calculates diffs between virtual dom trees (JSONML) and applies only the difference to the dom",
     url: "https://github.com/creationix/domchanger",
     source: "https://raw.githubusercontent.com/creationix/domchanger/master/domchanger.js"
+  },
+  {
+    name: "onfontload",
+    tags: ["font", "load", "webfont", "font-face", "FOUT"],
+    description: "Detects when fonts are loaded.",
+    url: "https://github.com/eduardomb/onfontload",
+    source: "https://raw.githubusercontent.com/eduardomb/onfontload/master/onfontload.js"
   },
   {
     name: "msgpack-js",
@@ -2928,8 +3022,8 @@ module.exports = [
     name: "husl",
     tags: ["color"],
     description: "A human-friendly alternative to the HSL color space.",
-    url: "http://boronine.github.io/husl",
-    source: "https://raw.githubusercontent.com/boronine/husl/master/husl.js"
+    url: "http://www.husl-colors.org/",
+    source: "https://raw.githubusercontent.com/husl-colors/husl/master/husl.coffee"
   },
   {
     name: "Fayer",
@@ -3480,6 +3574,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/federico-lox/pubsub.js/master/src/pubsub.js"
   },
   {
+    name: "pastafarian",
+    tags: ["statemachine", "state", "fsm", "event", "finite", "state", "machine"],
+    description: "A tiny event emitter-based finite state machine",
+    url: "https://github.com/orbitbot/pastafarian",
+    source: "https://raw.githubusercontent.com/orbitbot/pastafarian/master/pastafarian.js"
+  },
+  {
     name: "Pjs",
     github: "jneen/pjs",
     url: "https://github.com/jneen/pjs",
@@ -3575,6 +3676,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/jasonmoo/t.js/master/t.js"
   },
   {
+    name: "displace.js",
+    github: "catc/displace",
+    tags: ["move", "dom", "drag", "tiny", "mouse", "touch"],
+    description: "Minimal javascript library for creating movable DOM elements",
+    url: "https://catc.github.io/displace",
+    source: "https://raw.githubusercontent.com/catc/displace/master/dist/displace.js"
+  },
+  {
     name: "statelet",
     tags: ["events"],
     description: "Little state objects",
@@ -3588,6 +3697,14 @@ module.exports = [
     description: "A tiny, fast, zero-dependency event emitter (~500 bytes min + gzip)",
     url: "https://github.com/chrisdavies/eev",
     source: "https://raw.githubusercontent.com/chrisdavies/eev/master/eev.js"
+  },
+  {
+    name: "tiptext.js",
+    github: "agamemnus/tiptext.js",
+    tags: ["ui", "hints", "html5", "css3", "animation", "mutation observers", "pretty", "dom", "tool tip", "tooltip", "tooltips", "tool tips", "floating tooltip", "floating tool tips"],
+    description: "A floating tooltip function, using mutation observers. Has 6 customizable callbacks!",
+    url: "https://github.com/agamemnus/tiptext.js",
+    source: "https://raw.github.com/agamemnus/tiptext.js/gh-pages/tiptext-1.0.js"
   },
   {
     name: "guardian.js",
@@ -3960,6 +4077,14 @@ module.exports = [
     url: "https://github.com/relay/anim",
     source: "https://raw.githubusercontent.com/relay/anim/master/anim.js"
   },
+  {
+    name: "Check.js",
+    github: "Morklympious/check.js",
+    tags: ["type checking", "verification", "utility", "library"],
+    description: "A tiny library for type and sanity checking",
+    url: "https://github.com/Morklympious/check.js",
+    source: "https://raw.githubusercontent.com/Morklympious/check.js/master/dist/check.min.js"
+   },
   {
     name: "Relay",
     tags: ["dom", "library", "framework", "mvc", "traversing", "events", "pubsub", "base"],
@@ -4618,6 +4743,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/krasimir/deb.js/master/lib/deb.js"
   },
   {
+    name: "henderson",
+    tags: ["statemachine", "state", "fsm", "event", "finite", "state", "machine", "promise", "promises"],
+    description: "A tiny event emitter-based finite state machine with promises",
+    url: "https://github.com/orbitbot/henderson",
+    source: "https://raw.githubusercontent.com/orbitbot/henderson/master/henderson.js"
+  },
+  {
     name: "Balalaika",
     tags: ["dom", "selectors", "jquery", "library"],
     description: "Tiny but impossible powerful jQuery-like Javascript DOM library",
@@ -4987,6 +5119,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/peduarte/wallop/master/js/Wallop.js"
   },
   {
+    name: "Universal Router",
+    github: "kriasoft/universal-router",
+    tags: ["react", "reactjs", "react-component", "route", "routes", "router", "routing", "flux"],
+    description: "A simple middleware-style router for isomorphic JavaScript web apps",
+    url: "https://www.kriasoft.com/universal-router/",
+    source: "https://raw.githubusercontent.com/kriasoft/universal-router/master/dist/universal-router.js"
+  },
+  {
     name: "isMobileOS.js",
     github: "RazorfishGermany/es6-module-isMobileOs",
     tags: ["helper", "lightweight", "mobile", "detection", "user agent string", "ES6", "UMD"],
@@ -5005,8 +5145,8 @@ module.exports = [
     {
     name: "preact",
     github: "developit/preact",
-    tags: ["dom", "templating"],
-    description: "Tiny & fast Component-based Virtual DOM framework.",
+    tags: ["dom", "diff", "templating", "react", "components"],
+    description: "Preact is a fast, 3kB alternative to React, with the same ES2015 API",
     url: "https://github.com/developit/preact",
     source: "https://raw.githubusercontent.com/developit/preact/master/src/preact.js"
   },
@@ -5057,6 +5197,85 @@ module.exports = [
     description: "Animation micro library. Vanilla JavaScript.",
     url: "https://github.com/branneman/TinyAnimate",
     source: "https://raw.githubusercontent.com/branneman/TinyAnimate/master/src/TinyAnimate.js"
+  },
+  {
+    name: "microTK",
+    github: "microTK/microTK",
+    tags:["dom", "events", "query selection"],
+    description: "A tiny JavaScript framework",
+    url: "https://microtk.io",
+    source: "https://cdn.rawgit.com/microTK/microTK/master/dist/microTK.js"
+  },
+  {
+    name: "boomerang-cache",
+    github: "giraysam/boomerang-cache",
+    tags: ["boomerang", "boomerang-cache", "localStorage", "sessionStorage", "javascript cache"],
+    description: "boomerangCache is a client side caching library based on localStorage and sessionStorage",
+    url: "http://giraysam.github.io/boomerang-cache/",
+    source: "https://raw.githubusercontent.com/giraysam/boomerang-cache/master/src/boomerang-cache.js"
+  },
+  {
+    name: "Qoob",
+    github: "enzyme/qoob",
+    tags: ["DOM", "manipulation", "events", "css", "query selection", "data", "traversal", "es2015", "js:next", "functional"],
+    description: "A lightweight DOM manipulation library",
+    url: "https://github.com/enzyme/qoob",
+    source: "https://github.com/enzyme/qoob/blob/master/src/qoob.js"
+  },
+  {
+    name: "Prophet.js",
+    github: "binarybaba/prophetjs",
+    tags: ["toast", "notification", "growl", "snarl", "alert", "flash","messages","vanilla"],
+    description: "Vanilla JS library for clean toast notifications",
+    url: "https://github.com/binarybaba/prophetjs",
+    source: "https://raw.githubusercontent.com/binarybaba/prophetjs/master/dist/js/prophet.js"
+  },
+  {
+    name: "simple-require-loader",
+    tags: ["loader", "spa", "cross-platform"],
+    description: "A simple, dynamic, powerful module loader with hot swapping and optional remote loading support.",
+    url: "https://github.com/isiahmeadows/simple-require-loader",
+    source: "https://cdn.rawgit.com/isiahmeadows/simple-require-loader/v0.1.0/r.js"
+  },
+  {
+    name: "Redux",
+    github: "reactjs/redux",
+    tags: ["data", "functional"],
+    description: "Predictable state container for JavaScript apps",
+    url: "http://redux.js.org/",
+    source: "https://unpkg.com/redux@3.6.0/dist/redux.js"
+  },
+  {
+    name: "Maybe",
+    github: "alexanderjarvis/maybes",
+    tags: ["maybe", "functional"],
+    description: "Maybe is a type that wraps optional values",
+    url: "https://github.com/alexanderjarvis/maybe",
+    source: "https://raw.githubusercontent.com/alexanderjarvis/maybe/master/src/maybe.js"
+  },
+  {
+    name: "microBench",
+    github: "kmpatel/microBench",
+    tags: ["performance", "benchmark"],
+    description: "Tiny, simple framework to benchmark your JS functions in browser console",
+    url: "https://github.com/kmpatel/microBench/releases",
+    source: "https://raw.githubusercontent.com/kmpatel/microBench/v0.9/ubenchmark.js"
+  },	
+  {
+    name: "Animatelo",
+    github: "gibbok/animatelo",
+    tags: ["animation", "animate", "web animation"],
+    description: "Animatelo is a bunch of cool, fun, and cross-browser animations for you to use in your projects. This is a porting to Web Animation API of the fabulous animate.css project.",
+    url: "https://gibbok.github.io/animatelo/",
+    source: "https://raw.githubusercontent.com/gibbok/animatelo/master/dist/animatelo.min.js"
+  },
+  {
+    name: "Picodom",
+    github: "picodom/picodom",
+    tags: ["virtual", "dom", "templating"],
+    description: "1kb JavaScript Virtual DOM builder and patch algorithm.",
+    url: "https://github.com/picodom/picodom",
+    source: "https://unpkg.com/picodom"
   },
   {
     name: "xPrototype",
