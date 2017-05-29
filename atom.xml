@@ -5312,5 +5312,149 @@
 		<summary>boomerangCache is a client side caching library based on localStorage and sessionStorage</summary>
 	</entry>
 
+	<entry>
+		<title>Redux</title>
+		<link href="http://redux.js.org/" />
+		<id>urn:uuid:4dc9f470-43fc-11e7-bfb0-a3a6dd36ddcf</id>
+		<updated>2017-05-28'T'23:19:46+00:00</updated>
+		<summary>Predictable state container for JavaScript apps</summary>
+	</entry>
+
+	<entry>
+		<title>Tiny Browser Framework</title>
+		<link href="https://github.com/thedumbterminal/TinyBrowserFramework" />
+		<id>urn:uuid:e65e1720-4483-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>Minimal Client JS Framework</summary>
+	</entry>
+
+	<entry>
+		<title>body-scroll-freezer.js</title>
+		<link href="https://github.com/ramonvictor/body-scroll-freezer" />
+		<id>urn:uuid:e65f2890-4483-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>Dependency-free JS module to freeze body scroll when opening modal box</summary>
+	</entry>
+
+	<entry>
+		<title>Handorgel</title>
+		<link href="https://github.com/oncode/handorgel" />
+		<id>urn:uuid:e7b346e0-4483-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>Accessible W3C conform accordion written in ES6.</summary>
+	</entry>
+
+	<entry>
+		<title>FinnishBusinessIds</title>
+		<link href="https://github.com/vkomulai/finnish-business-ids" />
+		<id>urn:uuid:e963dd10-4483-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>Library for validating and creating Finnish business IDs (Y-tunnus, alv-numero).</summary>
+	</entry>
+
+	<entry>
+		<title>FinnishBankUtils</title>
+		<link href="https://github.com/vkomulai/finnish-bank-utils" />
+		<id>urn:uuid:e967d4b0-4483-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>Library for validating and creating Finnish IBAN bank account numbers and reference numbers.</summary>
+	</entry>
+
+	<entry>
+		<title>hyphen</title>
+		<link href="https://github.com/ytiurin/hyphen" />
+		<id>urn:uuid:e9c4e8d0-4483-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>Franklin M. Liang&apos;s hyphenation algorithm, implemented in Javascript</summary>
+	</entry>
+
+	<entry>
+		<title>EQCSS</title>
+		<link href="https://github.com/eqcss/eqcss/" />
+		<id>urn:uuid:ec254700-4483-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>EQCSS is a CSS reprocessor that introduces Scoped Styles, Element Queries, Container Queries, and new selectors like $parent and $prev and more</summary>
+	</entry>
+
+	<entry>
+		<title>dzt-url-parser</title>
+		<link href="https://github.com/dajbd/dzt-url-parser" />
+		<id>urn:uuid:ee82e610-4483-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>parse the url parameters(or location.search) to an object.</summary>
+	</entry>
+
+	<entry>
+		<title>tiny-mustache</title>
+		<link href="https://github.com/aishikaty/tiny-mustache" />
+		<id>urn:uuid:f3409530-4483-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>The smallest implementation of Mustache logic-less template engine.</summary>
+	</entry>
+
+	<entry>
+		<title>onfontload</title>
+		<link href="https://github.com/eduardomb/onfontload" />
+		<id>urn:uuid:f8e066f0-4483-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>Detects when fonts are loaded.</summary>
+	</entry>
+
+	<entry>
+		<title>displace.js</title>
+		<link href="https://catc.github.io/displace" />
+		<id>urn:uuid:033c8840-4484-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>Minimal javascript library for creating movable DOM elements</summary>
+	</entry>
+
+	<entry>
+		<title>Universal Router</title>
+		<link href="https://www.kriasoft.com/universal-router/" />
+		<id>urn:uuid:0e6b14c0-4484-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>A simple middleware-style router for isomorphic JavaScript web apps</summary>
+	</entry>
+
+	<entry>
+		<title>Prophet.js</title>
+		<link href="https://github.com/binarybaba/prophetjs" />
+		<id>urn:uuid:0ecbf970-4484-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>Vanilla JS library for clean toast notifications</summary>
+	</entry>
+
+	<entry>
+		<title>simple-require-loader</title>
+		<link href="https://github.com/isiahmeadows/simple-require-loader" />
+		<id>urn:uuid:0ee1f270-4484-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>A simple, dynamic, powerful module loader with hot swapping and optional remote loading support.</summary>
+	</entry>
+
+	<entry>
+		<title>microBench</title>
+		<link href="https://github.com/kmpatel/microBench/releases" />
+		<id>urn:uuid:0f6a8360-4484-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>Tiny, simple framework to benchmark your JS functions in browser console</summary>
+	</entry>
+
+	<entry>
+		<title>xPrototype</title>
+		<link href="https://github.com/reduardo7/xPrototype" />
+		<id>urn:uuid:0f6af890-4484-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>xPrototype is a fast, small and feature-rich JavaScript library. It makes things like for loop, for each, time out / interval, data types, sort / order, conversion, clone object, extend object, string manipulation much simpler with an easy-to-use API that works across a multitude of browsers and platforms.</summary>
+	</entry>
+
+	<entry>
+		<title>Animatelo</title>
+		<link href="https://gibbok.github.io/animatelo/" />
+		<id>urn:uuid:0f6af891-4484-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>Animatelo is a bunch of cool, fun, and cross-browser animations for you to use in your projects. This is a porting to Web Animation API of the fabulous animate.css project.</summary>
+	</entry>
+
 
 </feed>
