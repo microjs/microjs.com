@@ -5045,8 +5045,8 @@ module.exports = [
   {
     name: "EQCSS",
     github: "eqcss/eqcss",
-    tags: ["element", "queries", "container", "query", "eq", "responsive", "rwd", "scoped", "css", "parent", "selector"],
-    description: "EQCSS is a CSS extension that introduces Element Queries, Scoped Styles, & CSS selectors like $parent and $this",
+    tags: ["element", "queries", "container", "query", "css", "reprocessor", "rwd", "scoped", "styles", "parent", "selector"],
+    description: "EQCSS is a CSS reprocessor that introduces Scoped Styles, Element Queries, Container Queries, and new selectors like $parent and $prev and more",
     url: "https://github.com/eqcss/eqcss/",
     source: "https://raw.githubusercontent.com/eqcss/eqcss/gh-pages/EQCSS.js"
   },
