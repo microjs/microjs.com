@@ -3891,14 +3891,6 @@ module.exports = [
     source: "https://raw.githubusercontent.com/Nycto/PicoModal/master/src/picoModal.js"
   },
   {
-    name: "nwt",
-    github: "nwtjs/nwt",
-    tags: ["framework", "base", "dom", "webkit", "ajax", "events", "mobile", "animation", "transitions"],
-    description: "Small JS framework that ships with ajax, anim, dom, and event methods. Several plugins available.",
-    url: "http://nwtjs.github.io/nwt/",
-    source: "https://raw.githubusercontent.com/nwtjs/nwt/master/nwt.js"
-  },
-  {
     name: "microphone",
     github: "srubin/microphone",
     tags: ["html5", "audio", "microphone", "signalprocessing", "dsp", "mic", "sound"],
