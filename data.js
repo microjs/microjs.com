@@ -1637,16 +1637,6 @@ module.exports = [
     source: "https://raw.githubusercontent.com/madrobby/zepto/master/src/zepto.js"
   },
   {
-    name: "xui",
-    github: "xui/xui",
-    tags: ["base", "dom", "mobile", "ajax", "events", "webkit", "animation"],
-    description: "DOM library for authoring HTML5 mobile web applications, works cross-device and cross-platform.",
-    url: "http://xuijs.com",
-    source: ["https://raw.githubusercontent.com/xui/xui/master/src/header.js",
-             "https://raw.githubusercontent.com/xui/xui/master/src/base.js",
-             "https://raw.githubusercontent.com/xui/xui/master/src/footer.js"]
-  },
-  {
     name: "Underscore",
     github: "jashkenas/underscore",
     tags: ["functional", "language", "data"],
