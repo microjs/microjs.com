@@ -74,6 +74,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/unicorn-standard/uniloc/master/uniloc.js"
   },
   {
+    name: "body-scroll-freezer.js",
+    github: "ramonvictor/body-scroll-freezer",
+    tags: ["scroll", "freeze", "modal", "scrolling", "lightbox", "performance"],
+    description: "Dependency-free JS module to freeze body scroll when opening modal box",
+    url: "https://github.com/ramonvictor/body-scroll-freezer",
+    source: "https://raw.githubusercontent.com/ramonvictor/body-scroll-freezer/master/src/body-scroll-freezer.js"
+  },
+  {
     name: "MagJS",
     github: "magnumjs/mag.js",
     tags: ["mvc framework", "mvc", "framework", "templating", "library", "component", "fast", "simple", "clean"],
