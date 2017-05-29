@@ -853,6 +853,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/FezVrasta/popper.js/master/build/popper.js"
   },
   {
+    name: "EQCSS",
+    github: "eqcss/eqcss",
+    tags: ["element", "queries", "container", "query", "css", "reprocessor", "rwd", "scoped", "styles", "parent", "selector"],
+    description: "EQCSS is a CSS reprocessor that introduces Scoped Styles, Element Queries, Container Queries, and new selectors like $parent and $prev and more",
+    url: "https://github.com/eqcss/eqcss/",
+    source: "https://raw.githubusercontent.com/eqcss/eqcss/gh-pages/EQCSS.js"
+  },
+  {
     name: "Oboe.js",
     github: "jimhigson/oboe.js",
     tags: ["ajax", "streaming", "download", "json", "parser", "sax", "jsonpath", "http"],
@@ -5298,7 +5306,7 @@ module.exports = [
     description: "Tiny, simple framework to benchmark your JS functions in browser console",
     url: "https://github.com/kmpatel/microBench/releases",
     source: "https://raw.githubusercontent.com/kmpatel/microBench/v0.9/ubenchmark.js"
-  },	
+  },
   {
     name: "Animatelo",
     github: "gibbok/animatelo",
