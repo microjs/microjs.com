@@ -3044,6 +3044,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/e-/hsi.js/master/hsi.js"
   },
   {
+    name: "jacks",
+    github: "jccazeaux/jacks",
+    tags: ["ajax", "xhr", "rest", "fluent", "XMLHttpRequest"],
+    description: "Fluent, extensible, easy-to-use ajax Framework.",
+    url: "http://jccazeaux.github.io/jacks/",
+    source: "https://github.com/jccazeaux/jacks/blob/master/src/jacks.js"
+  },
+  {
     name: "colorspaces.js",
     tags: ["color"],
     description: "Convert between RGB and several CIE color spaces for smarter color manipulation.",
