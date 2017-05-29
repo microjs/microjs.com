@@ -65,6 +65,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/satrobit/blobcounter.js/master/blobcounter.js"
   },
   {
+    name: "ModuleJS",
+    github: "audinue/ModuleJS",
+    tags: ["es6", "module", "import", "export", "browser"],
+    description: "ES6 module import/export for browsers.",
+    url: "https://github.com/audinue/ModuleJS",
+    source: "https://raw.githubusercontent.com/audinue/ModuleJS/master/module.js"
+  },
+  {
     name: "xion",
     github: "danristea/xion",
     tags: ["MVC", "JsonML", "diff", "DOM", "vtree"],
