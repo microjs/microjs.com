@@ -3655,6 +3655,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/jasonmoo/t.js/master/t.js"
   },
   {
+    name: "displace.js",
+    github: "catc/displace",
+    tags: ["move", "dom", "drag", "tiny", "mouse", "touch"],
+    description: "Minimal javascript library for creating movable DOM elements",
+    url: "https://catc.github.io/displace",
+    source: "https://raw.githubusercontent.com/catc/displace/master/dist/displace.js"
+  },
+  {
     name: "statelet",
     tags: ["events"],
     description: "Little state objects",
