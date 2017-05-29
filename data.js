@@ -49,6 +49,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/krisk/Fuse/master/src/fuse.js"
   },
   {
+    name: "Tiny Browser Framework",
+    github: "thedumbterminal/TinyBrowserFramework",
+    tags: ["framework", "web", "websocket", "browser"],
+    description: "Minimal Client JS Framework",
+    url: "https://github.com/thedumbterminal/TinyBrowserFramework",
+    source: "https://raw.githubusercontent.com/thedumbterminal/TinyBrowserFramework/master/src/index.js"
+  },
+  {
     name: "blobcounter.js",
     github: "satrobit/blobcounter.js",
     tags: ["blob", "image", "canvas", "processing", "2D", "blobcounter"],
@@ -71,6 +79,14 @@ module.exports = [
     description: "Uniloc is a utility to match URIs to named routes, and to generate URIs given a route name and options",
     url: "https://github.com/unicorn-standard/uniloc",
     source: "https://raw.githubusercontent.com/unicorn-standard/uniloc/master/uniloc.js"
+  },
+  {
+    name: "body-scroll-freezer.js",
+    github: "ramonvictor/body-scroll-freezer",
+    tags: ["scroll", "freeze", "modal", "scrolling", "lightbox", "performance"],
+    description: "Dependency-free JS module to freeze body scroll when opening modal box",
+    url: "https://github.com/ramonvictor/body-scroll-freezer",
+    source: "https://raw.githubusercontent.com/ramonvictor/body-scroll-freezer/master/src/body-scroll-freezer.js"
   },
   {
     name: "MagJS",
@@ -153,6 +169,14 @@ module.exports = [
     description: "Simple route callbacks",
     url: "https://github.com/tbleckert/location-init",
     source: "https://raw.githubusercontent.com/tbleckert/location-init/master/index.js"
+  },
+  {
+    name: "Handorgel",
+    github: "oncode/handorgel",
+    tags: ["handorgel", "accordion", "tabs", "toggle", "collapse"],
+    description: "Accessible W3C conform accordion written in ES6.",
+    url: "https://github.com/oncode/handorgel",
+    source: "https://raw.githubusercontent.com/oncode/handorgel/master/lib/handorgel.js"
   },
   {
     name: "Freezer.js",
@@ -502,6 +526,14 @@ module.exports = [
     description: "A high resolution performance benchmarking polyfill",
     url: "https://github.com/daniellmb/perfnow.js",
     source: "https://raw.githubusercontent.com/daniellmb/perfnow.js/master/perfnow.js"
+  },
+  {
+    name: "GraphicsJS",
+    github: "anychart/graphicsjs",
+    tags: ["svg", "vml", "graphics", "drawing", "animation", "visualization", "charts", "data visualization", "api"],
+    description: "A powerful lightweight JavaScript drawing library for graphics and animation, based on SVG/VML, with intuitive API",
+    url: "http://www.graphicsjs.org",
+    source: "https://github.com/AnyChart/GraphicsJS/blob/master/dist/graphics.js"
   },
   {
     name: "SaVaGe.js",
@@ -1603,6 +1635,14 @@ module.exports = [
     description: "Minimal, logic-less templating with {{mustaches}}. Great for server- or client-side templating.",
     url: "http://mustache.github.io/",
     source: "https://raw.githubusercontent.com/janl/mustache.js/master/mustache.js"
+  },
+  {
+    name: "tiny-mustache",
+    github: "aishikaty/tiny-mustache",
+    tags: ["templating", "template", "tiny"],
+    description: "The smallest implementation of Mustache logic-less template engine.",
+    url: "https://github.com/aishikaty/tiny-mustache",
+    source: "https://raw.githubusercontent.com/aishikaty/tiny-mustache/master/mustache.js"
   },
   {
     name: "LABjs",
@@ -3622,6 +3662,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/jasonmoo/t.js/master/t.js"
   },
   {
+    name: "displace.js",
+    github: "catc/displace",
+    tags: ["move", "dom", "drag", "tiny", "mouse", "touch"],
+    description: "Minimal javascript library for creating movable DOM elements",
+    url: "https://catc.github.io/displace",
+    source: "https://raw.githubusercontent.com/catc/displace/master/dist/displace.js"
+  },
+  {
     name: "statelet",
     tags: ["events"],
     description: "Little state objects",
@@ -3635,6 +3683,14 @@ module.exports = [
     description: "A tiny, fast, zero-dependency event emitter (~500 bytes min + gzip)",
     url: "https://github.com/chrisdavies/eev",
     source: "https://raw.githubusercontent.com/chrisdavies/eev/master/eev.js"
+  },
+  {
+    name: "tiptext.js",
+    github: "agamemnus/tiptext.js",
+    tags: ["ui", "hints", "html5", "css3", "animation", "mutation observers", "pretty", "dom", "tool tip", "tooltip", "tooltips", "tool tips", "floating tooltip", "floating tool tips"],
+    description: "A floating tooltip function, using mutation observers. Has 6 customizable callbacks!",
+    url: "https://github.com/agamemnus/tiptext.js",
+    source: "https://raw.github.com/agamemnus/tiptext.js/gh-pages/tiptext-1.0.js"
   },
   {
     name: "guardian.js",
@@ -5041,6 +5097,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/peduarte/wallop/master/js/Wallop.js"
   },
   {
+    name: "Universal Router",
+    github: "kriasoft/universal-router",
+    tags: ["react", "reactjs", "react-component", "route", "routes", "router", "routing", "flux"],
+    description: "A simple middleware-style router for isomorphic JavaScript web apps",
+    url: "https://www.kriasoft.com/universal-router/",
+    source: "https://raw.githubusercontent.com/kriasoft/universal-router/master/dist/universal-router.js"
+  },
+  {
     name: "isMobileOS.js",
     github: "RazorfishGermany/es6-module-isMobileOs",
     tags: ["helper", "lightweight", "mobile", "detection", "user agent string", "ES6", "UMD"],
@@ -5059,8 +5123,8 @@ module.exports = [
     {
     name: "preact",
     github: "developit/preact",
-    tags: ["dom", "templating"],
-    description: "Tiny & fast Component-based Virtual DOM framework.",
+    tags: ["dom", "diff", "templating", "react", "components"],
+    description: "Preact is a fast, 3kB alternative to React, with the same ES2015 API",
     url: "https://github.com/developit/preact",
     source: "https://raw.githubusercontent.com/developit/preact/master/src/preact.js"
   },
@@ -5127,5 +5191,60 @@ module.exports = [
     description: "boomerangCache is a client side caching library based on localStorage and sessionStorage",
     url: "http://giraysam.github.io/boomerang-cache/",
     source: "https://raw.githubusercontent.com/giraysam/boomerang-cache/master/src/boomerang-cache.js"
+  },
+  {
+    name: "Prophet.js",
+    github: "binarybaba/prophetjs",
+    tags: ["toast", "notification", "growl", "snarl", "alert", "flash","messages","vanilla"],
+    description: "Vanilla JS library for clean toast notifications",
+    url: "https://github.com/binarybaba/prophetjs",
+    source: "https://raw.githubusercontent.com/binarybaba/prophetjs/master/dist/js/prophet.js"
+  },
+  {
+    name: "simple-require-loader",
+    tags: ["loader", "spa", "cross-platform"],
+    description: "A simple, dynamic, powerful module loader with hot swapping and optional remote loading support.",
+    url: "https://github.com/isiahmeadows/simple-require-loader",
+    source: "https://cdn.rawgit.com/isiahmeadows/simple-require-loader/v0.1.0/r.js"
+  },
+  {
+    name: "Redux",
+    github: "reactjs/redux",
+    tags: ["data", "functional"],
+    description: "Predictable state container for JavaScript apps",
+    url: "http://redux.js.org/",
+    source: "https://unpkg.com/redux@3.6.0/dist/redux.js"
+  },
+  {
+    name: "Maybe",
+    github: "alexanderjarvis/maybes",
+    tags: ["maybe", "functional"],
+    description: "Maybe is a type that wraps optional values",
+    url: "https://github.com/alexanderjarvis/maybe",
+    source: "https://raw.githubusercontent.com/alexanderjarvis/maybe/master/src/maybe.js"
+  },
+  {
+    name: "microBench",
+    github: "kmpatel/microBench",
+    tags: ["performance", "benchmark"],
+    description: "Tiny, simple framework to benchmark your JS functions in browser console",
+    url: "https://github.com/kmpatel/microBench/releases",
+    source: "https://raw.githubusercontent.com/kmpatel/microBench/v0.9/ubenchmark.js"
+  },	
+  {
+    name: "Animatelo",
+    github: "gibbok/animatelo",
+    tags: ["animation", "animate", "web animation"],
+    description: "Animatelo is a bunch of cool, fun, and cross-browser animations for you to use in your projects. This is a porting to Web Animation API of the fabulous animate.css project.",
+    url: "https://gibbok.github.io/animatelo/",
+    source: "https://raw.githubusercontent.com/gibbok/animatelo/master/dist/animatelo.min.js"
+  },
+  {
+    name: "Picodom",
+    github: "picodom/picodom",
+    tags: ["virtual", "dom", "templating"],
+    description: "1kb JavaScript Virtual DOM builder and patch algorithm.",
+    url: "https://github.com/picodom/picodom",
+    source: "https://unpkg.com/picodom"
   }
 ];
