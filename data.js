@@ -5292,5 +5292,13 @@ module.exports = [
     description: "1kb JavaScript Virtual DOM builder and patch algorithm.",
     url: "https://github.com/picodom/picodom",
     source: "https://unpkg.com/picodom"
+  },
+  {
+    name: "xPrototype",
+    github: "reduardo7/xPrototype",
+    tags: ["javascript", "prototype", "extend", "object", "quick", "simple", "nojquery", "loop", "browser", "chrome", "firefox"],
+    description: "xPrototype is a fast, small and feature-rich JavaScript library. It makes things like for loop, for each, time out / interval, data types, sort / order, conversion, clone object, extend object, string manipulation much simpler with an easy-to-use API that works across a multitude of browsers and platforms.",
+    url: "https://github.com/reduardo7/xPrototype",
+    source: "https://raw.githubusercontent.com/reduardo7/xPrototype/master/xprototype.js"
   }
 ];
