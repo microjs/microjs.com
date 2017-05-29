@@ -2331,6 +2331,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/creationix/domchanger/master/domchanger.js"
   },
   {
+    name: "onfontload",
+    tags: ["font", "load", "webfont", "font-face", "FOUT"],
+    description: "Detects when fonts are loaded.",
+    url: "https://github.com/eduardomb/onfontload",
+    source: "https://raw.githubusercontent.com/eduardomb/onfontload/master/onfontload.js"
+  },
+  {
     name: "msgpack-js",
     tags: ["msgpack", "json", "format", "encoder", "decoder", ],
     description: "A msgpack encoder and decoder using ArrayBuffer and DataView",
