@@ -2825,6 +2825,13 @@ module.exports = [
     source:"https://raw.githubusercontent.com/arextar/Vine/master/vine.js"
   },
   {
+    name: "Speedball",
+    tags: ["di", "ioc", "dependency injection", "inversion of control"],
+    description: "A flexible dependency injection library",
+    url: "https://github.com/cameron-martin/speedball",
+    source: "https://raw.githubusercontent.com/cameron-martin/speedball/master/dist/speedball.js"
+  },
+  {
     name: "micro-selector",
     tags: ["css"],
     description: "A micro, super fast, scope limited, javascript selector engine to be used anywhere",
