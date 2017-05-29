@@ -5186,6 +5186,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/giraysam/boomerang-cache/master/src/boomerang-cache.js"
   },
   {
+    name: "Prophet.js",
+    github: "binarybaba/prophetjs",
+    tags: ["toast", "notification", "growl", "snarl", "alert", "flash","messages","vanilla"],
+    description: "Vanilla JS library for clean toast notifications",
+    url: "https://github.com/binarybaba/prophetjs",
+    source: "https://raw.githubusercontent.com/binarybaba/prophetjs/master/dist/js/prophet.js"
+  },
+  {
     name: "simple-require-loader",
     tags: ["loader", "spa", "cross-platform"],
     description: "A simple, dynamic, powerful module loader with hot swapping and optional remote loading support.",
