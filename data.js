@@ -5186,6 +5186,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/giraysam/boomerang-cache/master/src/boomerang-cache.js"
   },
   {
+    name: "simple-require-loader",
+    tags: ["loader", "spa", "cross-platform"],
+    description: "A simple, dynamic, powerful module loader with hot swapping and optional remote loading support.",
+    url: "https://github.com/isiahmeadows/simple-require-loader",
+    source: "https://cdn.rawgit.com/isiahmeadows/simple-require-loader/v0.1.0/r.js"
+  },
+  {
     name: "Redux",
     github: "reactjs/redux",
     tags: ["data", "functional"],
