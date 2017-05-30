@@ -146,7 +146,15 @@ module.exports = [
     description: "Create flag promises",
     url: "https://github.com/javimosch/xflagable/",
     source: "https://raw.githubusercontent.com/javimosch/xflagable/master/xflagable.js"
-   },
+   },	
+   {
+    name: "data-obs",
+    github: "lmettini/data-obs",
+    tags: ["observer", "events","lightweight"],
+    description: "Simple lightweigh javascript data observer",
+    url: "https://github.com/lmettini/data-obs",
+    source: "https://raw.githubusercontent.com/lmettini/data-obs/master/data-obs.js"
+  },
    {
     name: "xtypejs",
     github: "lucono/xtypejs",
