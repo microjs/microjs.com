@@ -57,6 +57,18 @@ You will see **warnings** where entries need to be checked and **errors** where 
 
 If you wish to see details of all entries, you can run the `./build -v` command.
 
+
+### Submitting a PR
+
+- Fork repository
+- Clone repository to your local machine
+- Add to `data.js` file the representative attributes listed above
+- **NOTE** add the new files somewhere other than the bottom to make PR merging less conflict-prone
+- Run `npm install` if you haven't already and `npm test`
+- If your added package comes up with a `SUCCESS` message you are good to go, submit the PR
+- To filter on only your package results run `./build.js -v | grep YOUR_PACKAGE_NAME`
+
+
 ## All rights reserved ###
 
 Please note that MicroJS.com is a curated site and that we reserve the right to refuse any listing for any reason.
