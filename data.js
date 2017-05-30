@@ -122,32 +122,32 @@ module.exports = [
     description: "Lightweight modern jQuery-like DOM library",
     url: "http://www.bitstorm.org/javascript/miq/",
     source: "http://www.bitstorm.org/javascript/miq/miq.js"
-   },
-   {
+  },
+  {
     name: "RouterX",
     github: "bcoop713/routerx",
     tags: ["router", "frp", "rxjs", "cycle", "rx"],
     description: "A stupid simple functional reactive router built for use with Rx.js apps",
     url: "https://github.com/bcoop713/routerx",
     source: "https://raw.githubusercontent.com/bcoop713/routerx/master/routerx.js"
-   },
-   {
+  },
+  {
     name: "scriber",
     github: "jccazeaux/scriber",
     tags: ["html", "DOM", "builder", "scriber", "writer"],
     description: "A simple fluent library to write html DOM elements",
     url: "https://jccazeaux.github.io/scriber",
     source: "https://raw.githubusercontent.com/jccazeaux/scriber/master/src/scriber.js"
-   },
-   {
+  },
+  {
     name: "xflagable",
     github: "javimosch/xflagable",
     tags: ["flag", "event", "promise"],
     description: "Create flag promises",
     url: "https://github.com/javimosch/xflagable/",
     source: "https://raw.githubusercontent.com/javimosch/xflagable/master/xflagable.js"
-   },	
-   {
+  },	
+  {
     name: "data-obs",
     github: "lmettini/data-obs",
     tags: ["observer", "events","lightweight"],
@@ -155,7 +155,7 @@ module.exports = [
     url: "https://github.com/lmettini/data-obs",
     source: "https://raw.githubusercontent.com/lmettini/data-obs/master/data-obs.js"
   },
-   {
+  {
     name: "xtypejs",
     github: "lucono/xtypejs",
     tags: ["xtype", "type", "typeof", "data-type", "validation"],
