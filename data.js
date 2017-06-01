@@ -5252,6 +5252,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/branneman/TinyAnimate/master/src/TinyAnimate.js"
   },
   {
+     name: "arenite",
+     github: "arenite/arenite",
+     tags: ["dependency", "inversion", "control", "injection", "ioc", "di", "require", "dependency injection", "provider", "IOC", "microkernel", "module", "framework", "service locator"],
+     description: "Inversion of Control / Dependency Injection Library",
+     url: "https://github.com/arenite/arenite",
+     source: "https://raw.githubusercontent.com/arenite/arenite/master/build/arenite.js"
+  },
+  {
   	name: "ns.js",
   	github: "Soldier-B/ns.js",
   	tags: ["namespace","module","scope","simple","name","space"],
