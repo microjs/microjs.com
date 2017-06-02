@@ -5353,5 +5353,13 @@ module.exports = [
     description: "xPrototype is a fast, small and feature-rich JavaScript library. It makes things like for loop, for each, time out / interval, data types, sort / order, conversion, clone object, extend object, string manipulation much simpler with an easy-to-use API that works across a multitude of browsers and platforms.",
     url: "https://github.com/reduardo7/xPrototype",
     source: "https://raw.githubusercontent.com/reduardo7/xPrototype/master/xprototype.js"
+  },
+  {
+    name: "SkateJS",
+    github: "skatejs/skatejs",
+    tags: ["javascript", "web", "component", "components", "custom", "elements", "shadow", "dom"],
+    description: "SkateJS is a web component library designed to give you an augmentation of the web component specs focusing on a functional rendering pipeline, clean property / attribute semantics and a small footprint.",
+    url: "https://github.com/skatejs/skatejs",
+    source: "https://unpkg.com/skatejs"
   }
 ];
