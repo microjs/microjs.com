@@ -3997,6 +3997,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/dciccale/parsy/master/lib/parsy.js"
   },
   {
+    name: "Talker.js",
+    github: "secondstreet/talker.js",
+    tags: ["events", "window.postMessage", "iframe", "promise", "communication", "message"],
+    description: "Simple event delegation library",
+    url: "https://github.com/secondstreet/talker.js",
+    source: "https://raw.githubusercontent.com/secondstreet/talker.js/master/src/talker.js"
+  },
+  {
     name: "Gator",
     github: "ccampbell/gator",
     tags: ["dom", "events", "delegation"],
