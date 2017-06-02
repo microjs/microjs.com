@@ -5116,6 +5116,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/radiosilence/xr/master/src/xr.js"
   },
   {
+    name: "nano-markdown",
+    github: "Holixus/nano-markdown",
+    tags: ["markdown", "html", "nano", "micro", "microjs", "small"],
+    description: "A very small Markdown to HTML converter",
+    url: "https://github.com/Holixus/nano-markdown",
+    source: "https://raw.githubusercontent.com/Holixus/nano-markdown/master/index.js"
+  },
+  {
     name: "SimpleScrollbar",
     github: "buzinas/simple-scrollbar",
     tags: ["scrollbar", "ui", "interface", "scroll", "custom", "lightweight"],
