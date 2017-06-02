@@ -5108,6 +5108,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/marcojetson/type-ahead.js/master/type-ahead.js"
   },
   {
+    name: "dont-go",
+    tags: ["favicon", "title"],
+    description: "Change the title and/or favicon of the page when it is inactive.",
+    url: "https://github.com/tiaanduplessis/dont-go",
+    source: "https://raw.githubusercontent.com/tiaanduplessis/dont-go/master/lib/dont-go.js"
+  },
+  {
      name: "Storage.js",
      github: "lcavadas/Storage.js",
      tags: ["IndexedDB", "WebSQL", "localStorage", "sessionStorage", "localStorage", "storage", "database", "object", "store"],
@@ -5384,5 +5391,5 @@ module.exports = [
     description: "SkateJS is a web component library designed to give you an augmentation of the web component specs focusing on a functional rendering pipeline, clean property / attribute semantics and a small footprint.",
     url: "https://github.com/skatejs/skatejs",
     source: "https://unpkg.com/skatejs"
-  }
+  },
 ];
