@@ -5357,7 +5357,7 @@ module.exports = [
   {
     name: "SkateJS",
     github: "skatejs/skatejs",
-    tags: ["javascript", "web", "component", "components", "custom", "elements", "shadow", "dom"],
+    tags: ["javascript", "web", "component", "components", "custom", "elements", "shadow", "dom", "html", "virtual", "vdom", "jsx", "frp", "functional", "reactive", "programming"],
     description: "SkateJS is a web component library designed to give you an augmentation of the web component specs focusing on a functional rendering pipeline, clean property / attribute semantics and a small footprint.",
     url: "https://github.com/skatejs/skatejs",
     source: "https://unpkg.com/skatejs"
