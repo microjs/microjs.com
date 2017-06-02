@@ -146,7 +146,7 @@ module.exports = [
     description: "Create flag promises",
     url: "https://github.com/javimosch/xflagable/",
     source: "https://raw.githubusercontent.com/javimosch/xflagable/master/xflagable.js"
-  },	
+  },
   {
     name: "data-obs",
     github: "lmettini/data-obs",
@@ -5363,6 +5363,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/reduardo7/xPrototype/master/xprototype.js"
   },
   {
+    name: "microdi",
+    github: "yavorskiy/microdi",
+    tags: ["dependency", "injection", "di", "es6"],
+    description: "Micro helper for JavaScript dependency injection (DI).",
+    url: "https://github.com/yavorskiy/microdi",
+    source: "https://raw.githubusercontent.com/yavorskiy/microdi/master/index.js"
+  }, {
     name: "SkateJS",
     github: "skatejs/skatejs",
     tags: ["javascript", "web", "component", "components", "custom", "elements", "shadow", "dom", "html", "virtual", "vdom", "jsx", "frp", "functional", "reactive", "programming"],
