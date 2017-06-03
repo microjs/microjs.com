@@ -516,6 +516,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/EvandroLG/Feed/master/src/feed.js"
   },
   {
+    name: "Stoor",
+    github: "tiaanduplessis/stoor",
+    tags: ["storage", "local-storage", "session-storage"],
+    description: "Local and Session storage wrapper with support for namespacing and multi get, set and remove",
+    url: "https://github.com/tiaanduplessis/stoor",
+    source: "https://raw.githubusercontent.com/tiaanduplessis/stoor/master/dist/stoor.js"
+  },
+  {
     name: "Dom.js",
     tags: ["dom", "dom manipulation", "dom traversal", "dom events", "crossbrowser", "event", "traversal"," manipulation"],
     description: "DOM.js is a lightweight, fast and cross browser library for DOM traversal, manipulation and event handling.",
