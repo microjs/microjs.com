@@ -5399,5 +5399,12 @@ module.exports = [
     description: "SkateJS is a web component library designed to give you an augmentation of the web component specs focusing on a functional rendering pipeline, clean property / attribute semantics and a small footprint.",
     url: "https://github.com/skatejs/skatejs",
     source: "https://unpkg.com/skatejs"
+  }, {
+    name: "aph",
+    github: "kaisermann/aph",
+    tags: ["javascript", "DOM", "jQuery", "Manipulation"],
+    description: "A mini (1.2kb) DOM Manipulation library. A very slim and fast helper.",
+    url: "https://github.com/kaisermann/aph",
+    source: "https://raw.githubusercontent.com/kaisermann/aph/master/dist/aph.js"
   },
 ];
