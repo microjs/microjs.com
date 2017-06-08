@@ -4626,6 +4626,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/gamtiq/teo/master/dist/teo.js"
   },
   {
+    name: "simple-slider",
+    tags: ["simple", "carousel", "slider", "gallery", "slideshow", "javascript-carousel"],
+    description: "The 1kb JavaScript Carousel",
+    url: "https://github.com/ruyadorno/simple-slider",
+    source: "https://raw.githubusercontent.com/ruyadorno/simple-slider/master/dist/simpleslider.js"
+  },
+  {
     name: "easter.js",
     tags: ["easter-egg", "keys", "sequence"],
     description: "Easter eggs made easy.",
