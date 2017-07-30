@@ -5314,6 +5314,14 @@ module.exports = [
     source: "https://cdn.rawgit.com/microTK/microTK/master/dist/microTK.js"
   },
   {
+    name: "tinyfade.js",
+    github: "moqmar/tinyfade.js",
+    tags: ["javascript", "slideshow", "slider", "responsive", "fade", "image"],
+    description: "A tiny plain JavaScript library for fully responsive image slideshows.",
+    url: "https://moqmar.github.io/tinyfade.js/",
+    source: "https://raw.githubusercontent.com/moqmar/tinyfade.js/master/tinyfade.js"
+  },
+  {
     name: "boomerang-cache",
     github: "giraysam/boomerang-cache",
     tags: ["boomerang", "boomerang-cache", "localStorage", "sessionStorage", "javascript cache"],
