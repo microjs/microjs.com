@@ -5456,5 +5456,93 @@
 		<summary>Animatelo is a bunch of cool, fun, and cross-browser animations for you to use in your projects. This is a porting to Web Animation API of the fabulous animate.css project.</summary>
 	</entry>
 
+	<entry>
+		<title>VP PubSub</title>
+		<link href="https://github.com/schubergphilis/vp-pubsub" />
+		<id>urn:uuid:9441f0f0-7620-11e7-9c10-fffe7e9841dd</id>
+		<updated>2017-07-31'T'18:45:40+00:00</updated>
+		<summary>VP PubSub is a publish/subscribe library that supports message filtering</summary>
+	</entry>
+
+	<entry>
+		<title>data-obs</title>
+		<link href="https://github.com/lmettini/data-obs" />
+		<id>urn:uuid:9559c990-7620-11e7-9c10-fffe7e9841dd</id>
+		<updated>2017-07-31'T'18:45:40+00:00</updated>
+		<summary>Simple lightweigh javascript data observer</summary>
+	</entry>
+
+	<entry>
+		<title>Class.JS Advanced</title>
+		<link href="https://github.com/tomFlidr/class.js" />
+		<id>urn:uuid:95b64170-7620-11e7-9c10-fffe7e9841dd</id>
+		<updated>2017-07-31'T'18:45:40+00:00</updated>
+		<summary>JS library for prototyped classes with customizable syntax and &apos;self&apos; and &apos;static&apos; elements like in &quot;PHP Late Static Binding&quot;.</summary>
+	</entry>
+
+	<entry>
+		<title>Ajax.JS</title>
+		<link href="https://github.com/tomFlidr/ajax.js" />
+		<id>urn:uuid:95b704c0-7620-11e7-9c10-fffe7e9841dd</id>
+		<updated>2017-07-31'T'18:45:40+00:00</updated>
+		<summary>JSON/JSONP/XML/TEXT requests, JSON de/serialization, auto xml init, global error handlers, cross browser and much more...</summary>
+	</entry>
+
+	<entry>
+		<title>Stoor</title>
+		<link href="https://github.com/tiaanduplessis/stoor" />
+		<id>urn:uuid:97e137c0-7620-11e7-9c10-fffe7e9841dd</id>
+		<updated>2017-07-31'T'18:45:40+00:00</updated>
+		<summary>Local and Session storage wrapper with support for namespacing and multi get, set and remove</summary>
+	</entry>
+
+	<entry>
+		<title>Speedball</title>
+		<link href="https://github.com/cameron-martin/speedball" />
+		<id>urn:uuid:ab16aaf0-7620-11e7-9c10-fffe7e9841dd</id>
+		<updated>2017-07-31'T'18:45:40+00:00</updated>
+		<summary>A flexible dependency injection library</summary>
+	</entry>
+
+	<entry>
+		<title>Talker.js</title>
+		<link href="https://github.com/secondstreet/talker.js" />
+		<id>urn:uuid:b64892d0-7620-11e7-9c10-fffe7e9841dd</id>
+		<updated>2017-07-31'T'18:45:40+00:00</updated>
+		<summary>Simple event delegation library</summary>
+	</entry>
+
+	<entry>
+		<title>simple-slider</title>
+		<link href="https://github.com/ruyadorno/simple-slider" />
+		<id>urn:uuid:bbc7bd30-7620-11e7-9c10-fffe7e9841dd</id>
+		<updated>2017-07-31'T'18:45:40+00:00</updated>
+		<summary>The 1kb JavaScript Carousel</summary>
+	</entry>
+
+	<entry>
+		<title>dont-go</title>
+		<link href="https://github.com/tiaanduplessis/dont-go" />
+		<id>urn:uuid:bf4a5440-7620-11e7-9c10-fffe7e9841dd</id>
+		<updated>2017-07-31'T'18:45:40+00:00</updated>
+		<summary>Change the title and/or favicon of the page when it is inactive.</summary>
+	</entry>
+
+	<entry>
+		<title>nano-markdown</title>
+		<link href="https://github.com/Holixus/nano-markdown" />
+		<id>urn:uuid:bf4d1360-7620-11e7-9c10-fffe7e9841dd</id>
+		<updated>2017-07-31'T'18:45:40+00:00</updated>
+		<summary>A very small Markdown to HTML converter</summary>
+	</entry>
+
+	<entry>
+		<title>arenite</title>
+		<link href="https://github.com/arenite/arenite" />
+		<id>urn:uuid:c060a640-7620-11e7-9c10-fffe7e9841dd</id>
+		<updated>2017-07-31'T'18:45:40+00:00</updated>
+		<summary>Inversion of Control / Dependency Injection Library</summary>
+	</entry>
+
 
 </feed>
