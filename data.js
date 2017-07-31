@@ -25,6 +25,30 @@ module.exports = [
     source: "https://github.com/juanbrujo/tinyModal/blob/master/src/tinyModal.js"
   },
   {
+  	name: "WSH log",
+  	github: "tomFlidr/WSH-debuging-logger",
+  	tags: ["debuging", "windows script host", "jscript", "development", "tools", "tool", "console", "wsh"],
+  	description: "WSH (Windows Script Host) JScript debuging function to display structural objects",
+  	url: "https://github.com/tomFlidr/WSH-debuging-logger",
+  	source: "https://github.com/tomFlidr/WSH-debuging-logger/blob/master/log.js"
+  },
+  {
+  	name: "class.js",
+  	github: "tomFlidr/class.js",
+  	tags: ["class", "base", "prototype", "extends", "extending", "prototypal", "inheritance", "structure"],
+  	description: "Unique javascript class helper to create classes with possibilities to call any dynamic and static parent method anywhere recursively",
+  	url: "https://github.com/tomFlidr/class.js",
+  	source: "https://github.com/tomFlidr/class.js/blob/master/class.min.js"
+  },
+  {
+  	name: "Ajax.js",
+  	github: "tomFlidr/ajax.js",
+  	tags: ["AJAX", "JSON", "JSONP", "XML", "XHR", "XmlHttpRequest", "async"],
+  	description: "Javascript AJAX is cross browser lib supports JSON, JSONP, XML, TEXT, auto serial., evaluation or xml conversion and global handlers",
+  	url: "https://github.com/tomFlidr/ajax.js",
+  	source: "https://github.com/tomFlidr/ajax.js/blob/master/src/ajax.src.js"
+  },
+  {
   	name: "NodeList.js",
   	github: "eorroe/NodeList.js",
   	tags: ["DOM", "NodeList"],
