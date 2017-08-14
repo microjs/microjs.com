@@ -235,6 +235,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/AtSpy/AtSpy/master/dist/atspy.js"
   },
   {
+    name: "FrontExpress",
+    github: "camelaissani/frontexpress",
+    tags: ["frontexpress", "router", "routing", "express", "spa", "framework", "front-end", "tiny", "parameters", "querystring", "named", "path", "uri"],
+    description: "An Express.js-Style router for the front-end",
+    url: "https://www.frontexpressjs.com",
+    source: "https://raw.githubusercontent.com/camelaissani/frontexpress/master/frontexpress.js"
+  },
+  {
     name: "Tinyscrollbar",
     github: "wieringen/tinyscrollbar",
     tags: ["scrollbar", "ui", "interface", "scroll"],
