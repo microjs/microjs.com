@@ -5456,5 +5456,77 @@
 		<summary>Animatelo is a bunch of cool, fun, and cross-browser animations for you to use in your projects. This is a porting to Web Animation API of the fabulous animate.css project.</summary>
 	</entry>
 
+	<entry>
+		<title>VP PubSub</title>
+		<link href="https://github.com/schubergphilis/vp-pubsub" />
+		<id>urn:uuid:5633bf20-7ac4-11e7-bdb6-01faaf4cb702</id>
+		<updated>2017-08-06'T'16:28:45+00:00</updated>
+		<summary>VP PubSub is a publish/subscribe library that supports message filtering</summary>
+	</entry>
+
+	<entry>
+		<title>data-obs</title>
+		<link href="https://github.com/lmettini/data-obs" />
+		<id>urn:uuid:56f5af90-7ac4-11e7-bdb6-01faaf4cb702</id>
+		<updated>2017-08-06'T'16:28:45+00:00</updated>
+		<summary>Simple lightweigh javascript data observer</summary>
+	</entry>
+
+	<entry>
+		<title>Stoor</title>
+		<link href="https://github.com/tiaanduplessis/stoor" />
+		<id>urn:uuid:58048780-7ac4-11e7-bdb6-01faaf4cb702</id>
+		<updated>2017-08-06'T'16:28:45+00:00</updated>
+		<summary>Local and Session storage wrapper with support for namespacing and multi get, set and remove</summary>
+	</entry>
+
+	<entry>
+		<title>Speedball</title>
+		<link href="https://github.com/cameron-martin/speedball" />
+		<id>urn:uuid:62e84f60-7ac4-11e7-bdb6-01faaf4cb702</id>
+		<updated>2017-08-06'T'16:28:45+00:00</updated>
+		<summary>A flexible dependency injection library</summary>
+	</entry>
+
+	<entry>
+		<title>Talker.js</title>
+		<link href="https://github.com/secondstreet/talker.js" />
+		<id>urn:uuid:68ec1310-7ac4-11e7-bdb6-01faaf4cb702</id>
+		<updated>2017-08-06'T'16:28:45+00:00</updated>
+		<summary>Simple event delegation library</summary>
+	</entry>
+
+	<entry>
+		<title>simple-slider</title>
+		<link href="https://github.com/ruyadorno/simple-slider" />
+		<id>urn:uuid:6bafee00-7ac4-11e7-bdb6-01faaf4cb702</id>
+		<updated>2017-08-06'T'16:28:45+00:00</updated>
+		<summary>The 1kb JavaScript Carousel</summary>
+	</entry>
+
+	<entry>
+		<title>dont-go</title>
+		<link href="https://github.com/tiaanduplessis/dont-go" />
+		<id>urn:uuid:6d9a0ac0-7ac4-11e7-bdb6-01faaf4cb702</id>
+		<updated>2017-08-06'T'16:28:45+00:00</updated>
+		<summary>Change the title and/or favicon of the page when it is inactive.</summary>
+	</entry>
+
+	<entry>
+		<title>nano-markdown</title>
+		<link href="https://github.com/Holixus/nano-markdown" />
+		<id>urn:uuid:6dc2c870-7ac4-11e7-bdb6-01faaf4cb702</id>
+		<updated>2017-08-06'T'16:28:45+00:00</updated>
+		<summary>A very small Markdown to HTML converter</summary>
+	</entry>
+
+	<entry>
+		<title>arenite</title>
+		<link href="https://github.com/arenite/arenite" />
+		<id>urn:uuid:6e3bc900-7ac4-11e7-bdb6-01faaf4cb702</id>
+		<updated>2017-08-06'T'16:28:45+00:00</updated>
+		<summary>Inversion of Control / Dependency Injection Library</summary>
+	</entry>
+
 
 </feed>

@@ -480,6 +480,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/daniellmb/di.js/master/di.js"
   },
   {
+    name: "yall.js",
+    tags: ["lazy load","images","performance"],
+    description: "A teeny tiny image lazy loader.",
+    url: "https://github.com/malchata/yall.js",
+    source: "https://raw.githubusercontent.com/malchata/yall.js/master/src/yall.js"
+  },
+  {
     name: "ab.js",
     tags: ["ab test","a/b test","split test", "testing"],
     description: "A/B/n Testing Micro Library.",
