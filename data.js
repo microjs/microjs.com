@@ -1445,13 +1445,6 @@ module.exports = [
     source: "https://raw.githubusercontent.com/mourner/simplify-js/master/simplify.js"
   },
   {
-    name: "TinyDOM",
-    tags: ["dom"],
-    description: "A very small DOM manipulation framework",
-    url: "https://github.com/ctult/TinyDOM",
-    source: "https://raw.githubusercontent.com/ctult/TinyDOM/master/tinyDOM.js"
-  },
-  {
     name: "DOMpteur",
     github: "SimonWaldherr/DOMpteur",
     tags: ["dom", "ready", "html", "getElement", "selector"],
