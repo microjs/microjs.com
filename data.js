@@ -195,6 +195,22 @@ module.exports = [
     source: "https://raw.githubusercontent.com/tbleckert/location-init/master/index.js"
   },
   {
+    name: "Class.JS Advanced",
+    github: "tomFlidr/class.js",
+    tags: ["class", "prototype", "oop", "node", "old browsers", "wsh", "adobe", "inheritance", "extend", "static", "self", "php class", "php late static binding", "namespace"],
+    description: "JS library for prototyped classes with customizable syntax and 'self' and 'static' elements like in \"PHP Late Static Binding\".",
+    url: "https://github.com/tomFlidr/class.js",
+    source: "https://tomflidr.github.io/class.js/builds/latest/class.dev.js"
+  },
+  {
+    name: "Ajax.JS",
+    github: "tomFlidr/ajax.js",
+    tags: ["ajax", "XMLHttpRequest", "old browsers", "JSON", "JSONP", "TEXT", "XML", "rest", "http", "https", "global events", "async"],
+    description: "JSON/JSONP/XML/TEXT requests, JSON de/serialization, auto xml init, global error handlers, cross browser and much more...",
+    url: "https://github.com/tomFlidr/ajax.js",
+    source: "https://tomflidr.github.io/ajax.js/builds/latest/ajax.dev.js"
+  },
+  {
     name: "Handorgel",
     github: "oncode/handorgel",
     tags: ["handorgel", "accordion", "tabs", "toggle", "collapse"],
