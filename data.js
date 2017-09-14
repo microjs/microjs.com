@@ -4188,5 +4188,13 @@ module.exports = [
     description: "Small, easy-to-learn and modular JavaScript framework for big",
     url: "https://github.com/mateuszgachowski/Carpet.js",
     source: "https://raw.githubusercontent.com/mateuszgachowski/Carpet.js/master/src/carpet.js"
+  },
+  {
+    name: "tplite",
+    github: "lloyd/tplite",
+    tags: ["component", "template", "event"],
+    description: "Component based on micro javascript template engine without dependency.",
+    url: "https://github.com/lloydzhou/tplite",
+    source: "https://github.com/lloydzhou/tplite/blob/master/lib/tplite-all.js"
   }
 ];
