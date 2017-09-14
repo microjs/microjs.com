@@ -6,548 +6,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=0.45">
   <link href="http://fonts.googleapis.com/css?family=Maiden+Orange" rel="stylesheet">
   <link href="atom.xml" type="application/atom+xml" rel="alternate" title="Microjs ATOM feed">
-
-  <style type="text/css">
-
-  html {
-    min-height: 100%;
-  }
-  body {
-    -webkit-text-size-adjust: none;
-    text-align: center;
-    margin: 0;
-    background: #333;
-    background: -webkit-gradient(radial, center top, 0, center top, 600, color-stop(0, #2A2E30), color-stop(1, #111414));
-    background: -webkit-radial-gradient(center top, circle closest-corner, #2A2E30, #111414);
-    background: -moz-radial-gradient(center top, circle closest-corner, #2A2E30, #111414);
-    background: -ms-radial-gradient(center top, circle closest-corner, #2A2E30, #111414);
-    background: -o-radial-gradient(center top, circle closest-corner, #2A2E30, #111414);
-    background: radial-gradient(center top, circle closest-corner, #2A2E30, #111414);
-    color: #fff;
-    font: 15px/19px Helvetica, Arial;
-    min-height: 100%;
-  }
-  ul {
-    width: 650px;
-    margin: 20px auto;
-    list-style-type: none;
-    padding: 0;
-  }
-  h1, h2, h3, h4, p.footer strong, .clue strong {
-    font-family: 'Maiden Orange', arial, sans-serif;
-    font-weight: normal;
-  }
-  #header {
-    position: relative;
-  }
-  h1 {
-    padding-top: 50px;
-    color: #fff;
-    margin: 0;
-    font-size: 136px;
-    line-height: 130px;
-    font-weight: normal;
-    text-shadow: 0px -1px 9px rgba(0,0,0,0.4);
-  }
-  h1.overlay {
-    position: absolute;
-    top: 0;
-    width: 100%;
-    -webkit-mask-image: -webkit-gradient(linear, left top,
-      left bottom, from(rgba(0,0,0,1)), to(rgba(0,0,0,0)));
-    text-shadow: none;
-  }
-  h1.overlay span {
-    color: #fff !important;
-  }
-  h1 span:nth-child(6n+1) { color: #A839B2; }
-  h1 span:nth-child(6n+2) { color: #FF0071; }
-  h1 span:nth-child(6n+3) { color: #ACD030; }
-  h1 span:nth-child(6n+4) { color: #58AA00; }
-  h1 span:nth-child(6n+5) { color: #00AA78; }
-  h1 span:nth-child(6n+6) { color: #0074AE; }
-  h2 {
-    color: #fff;
-    margin: 0;
-    font-size: 26px;
-    line-height: 30px;
-    font-weight: normal;
-    text-shadow: 0px -1px 5px rgba(0,0,0,0.4);
-  }
-  select {
-    font-size: 25px;
-    background: #000;
-    color: #fff;
-    padding: 3px;
-  }
-  option {
-    background: #000;
-  }
-  @-webkit-keyframes appear {
-    from {
-      opacity: 0;
-      -webkit-transform: scale(0);
-    }
-    to {
-      opacity: 1;
-      -webkit-transform: scale(1);
-    }
-  }
-  li a {
-    height: 60px;
-    -moz-border-radius: 25px;
-    -webkit-border-radius: 25px;
-    border-radius: 25px;
-    margin: 0 0 10px 0;
-    -webkit-font-smoothing: antialiased;
-    text-rendering:optimizeLegibility;
-    overflow: hidden;
-    padding-bottom: 10px;
-    text-overflow: ellipsis;
-    color: #fff;
-    text-decoration: none;
-    display: block;
-    padding: 20px;
-    -webkit-animation: appear 0.2s;
-  }
-  li:nth-child(6n+1) a {
-    background: #791982;
-    background:
-      -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.2)), color-stop(0.5, rgba(255,255,255,0.1)), color-stop(0.501, rgba(255,255,255,0.0)), to(rgba(255,255,255,0.0))),
-      -webkit-gradient(linear, left top, left bottom, from(#A839B2), to(#6c1075));
-    background:
-      -webkit-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
-      -webkit-linear-gradient(#a839b2, #6c1075);
-    background:
-      -moz-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
-      -moz-linear-gradient(#a839b2, #6c1075);
-    background:
-      -ms-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
-      -ms-linear-gradient(#a839b2, #6c1075);
-    background:
-      -o-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
-      -o-linear-gradient(#a839b2, #6c1075);
-    background:
-      linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
-      linear-gradient(#a839b2, #6c1075);
-  }
-  li:nth-child(6n+2) a {
-    background: #C4004D;
-    background:
-      -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.2)), color-stop(0.5, rgba(255,255,255,0.1)), color-stop(0.501, rgba(255,255,255,0.0)), to(rgba(255,255,255,0.0))),
-      -webkit-gradient(linear, left top, left bottom, from(#ff0071), to(#bb0047));
-    background:
-      -webkit-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
-      -webkit-linear-gradient(#ff0071, #bb0047);
-    background:
-      -moz-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
-      -moz-linear-gradient(#ff0071, #bb0047);
-    background:
-      -ms-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
-      -ms-linear-gradient(#ff0071, #bb0047);
-    background:
-      -o-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
-      -o-linear-gradient(#ff0071, #bb0047);
-    background:
-      linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
-      linear-gradient(#ff0071, #bb0047);
-  }
-  li:nth-child(6n+3) a {
-    background: #81A02C;
-    background:
-      -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.2)), color-stop(0.5, rgba(255,255,255,0.1)), color-stop(0.501, rgba(255,255,255,0.0)), to(rgba(255,255,255,0.0))),
-      -webkit-gradient(linear, left top, left bottom, from(#acd030), to(#6f9113));
-    background:
-      -webkit-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
-      -webkit-linear-gradient(#acd030, #6f9113);
-    background:
-      -moz-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
-      -moz-linear-gradient(#acd030, #6f9113);
-    background:
-      -ms-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
-      -ms-linear-gradient(#acd030, #6f9113);
-    background:
-      -o-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
-      -o-linear-gradient(#acd030, #6f9113);
-    background:
-      linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
-      linear-gradient(#acd030, #6f9113);
-  }
-  li:nth-child(6n+4) a {
-    background: #4A8419;
-    background:
-      -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.2)), color-stop(0.5, rgba(255,255,255,0.1)), color-stop(0.501, rgba(255,255,255,0.0)), to(rgba(255,255,255,0.0))),
-      -webkit-gradient(linear, left top, left bottom, from(#58aa00), to(#337100));
-    background:
-      -webkit-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
-      -webkit-linear-gradient(#58aa00, #337100);
-    background:
-      -moz-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
-      -moz-linear-gradient(#58aa00, #337100);
-    background:
-      -ms-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
-      -ms-linear-gradient(#58aa00, #337100);
-    background:
-      -o-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
-      -o-linear-gradient(#58aa00, #337100);
-    background:
-      linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
-      linear-gradient(#58aa00, #337100);
-  }
-  li:nth-child(6n+5) a {
-    background: #18946D;
-    background:
-      -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.2)), color-stop(0.5, rgba(255,255,255,0.1)), color-stop(0.501, rgba(255,255,255,0.0)), to(rgba(255,255,255,0.0))),
-      -webkit-gradient(linear, left top, left bottom, from(#00aa78), to(#05603e));
-    background:
-      -webkit-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
-      -webkit-linear-gradient(#00aa78, #05603e);
-    background:
-      -moz-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
-      -moz-linear-gradient(#00aa78, #05603e);
-    background:
-      -ms-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
-      -ms-linear-gradient(#00aa78, #05603e);
-    background:
-      -o-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
-      -o-linear-gradient(#00aa78, #05603e);
-    background:
-      linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
-      linear-gradient(#00aa78, #05603e);
-  }
-  li:nth-child(6n+6) a {
-    background: #1E577F;
-    background:
-      -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.2)), color-stop(0.5, rgba(255,255,255,0.1)), color-stop(0.501, rgba(255,255,255,0.0)), to(rgba(255,255,255,0.0))),
-      -webkit-gradient(linear, left top, left bottom, from(#0074ae), to(#073c66));
-    background:
-      -webkit-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
-      -webkit-linear-gradient(#0074ae, #073c66);
-    background:
-      -moz-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
-      -moz-linear-gradient(#0074ae, #073c66);
-    background:
-      -ms-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
-      -ms-linear-gradient(#0074ae, #073c66);
-    background:
-      -o-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
-      -o-linear-gradient(#0074ae, #073c66);
-    background:
-      linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)),
-      linear-gradient(#0074ae, #073c66);
-  }
-
-  li a:hover, li a:focus {
-    background:
-      -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.1)), color-stop(0.5, rgba(255,255,255,0.2)), color-stop(0.501, rgba(255,255,255,0.1)), to(rgba(255,255,255,0.1))),
-      -webkit-gradient(linear, left top, left bottom, from(#3a3e40), to(#2a2e30));
-    background:
-      -webkit-linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
-      -webkit-linear-gradient(#3a3e40, #2a2e30);
-    background:
-      -moz-linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
-      -moz-linear-gradient(#3a3e40, #2a2e30);
-    background:
-      -ms-linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
-      -ms-linear-gradient(#3a3e40, #2a2e30);
-    background:
-      -o-linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
-      -o-linear-gradient(#3a3e40, #2a2e30);
-    background:
-      linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
-      linear-gradient(#3a3e40, #2a2e30);
-    text-shadow:0 0 15px rgba(255,255,255,0.4);
-    -moz-box-shadow:0 0 50px rgba(255,255,255,0.15);
-    -webkit-box-shadow:0 0 100px rgba(255,255,255,0.15);
-  }
-  li:nth-child(6n+1) a:hover, li:nth-child(6n+1) a:focus {
-    background:
-      -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.1)), color-stop(0.5, rgba(255,255,255,0.2)), color-stop(0.501, rgba(255,255,255,0.1)), to(rgba(255,255,255,0.1))),
-      -webkit-gradient(linear, left top, left bottom, from(#A839B2), to(#6c1075));
-    background:
-      -webkit-linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
-      -webkit-linear-gradient(#A839B2, #6c1075);
-    background:
-      -moz-linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
-      -moz-linear-gradient(#A839B2, #6c1075);
-    background:
-      -ms-linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
-      -ms-linear-gradient(#A839B2, #6c1075);
-    background:
-      -o-linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
-      -o-linear-gradient(#A839B2, #6c1075);
-    background:
-      linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
-      linear-gradient(#A839B2, #6c1075);
-  }
-  li:nth-child(6n+2) a:hover, li:nth-child(6n+2) a:focus {
-    background:
-      -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.1)), color-stop(0.5, rgba(255,255,255,0.2)), color-stop(0.501, rgba(255,255,255,0.1)), to(rgba(255,255,255,0.1))),
-      -webkit-gradient(linear, left top, left bottom, from(#ff0071), to(#bb0047));
-    background:
-      -webkit-linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
-      -webkit-linear-gradient(#ff0071, #bb0047);
-    background:
-      -moz-linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
-      -moz-linear-gradient(#ff0071, #bb0047);
-    background:
-      -ms-linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
-      -ms-linear-gradient(#ff0071, #bb0047);
-    background:
-      -o-linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
-      -o-linear-gradient(#ff0071, #bb0047);
-    background:
-      linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
-      linear-gradient(#ff0071, #bb0047);
-  }
-  li:nth-child(6n+3) a:hover, li:nth-child(6n+3) a:focus {
-    background:
-      -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.1)), color-stop(0.5, rgba(255,255,255,0.2)), color-stop(0.501, rgba(255,255,255,0.1)), to(rgba(255,255,255,0.1))),
-      -webkit-gradient(linear, left top, left bottom, from(#acd030), to(#6f9113));
-    background:
-      -webkit-linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
-      -webkit-linear-gradient(#acd030, #6f9113);
-    background:
-      -moz-linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
-      -moz-linear-gradient(#acd030, #6f9113);
-    background:
-      -ms-linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
-      -ms-linear-gradient(#acd030, #6f9113);
-    background:
-      -o-linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
-      -o-linear-gradient(#acd030, #6f9113);
-    background:
-      linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
-      linear-gradient(#acd030, #6f9113);
-  }
-  li:nth-child(6n+4) a:hover, li:nth-child(6n+4) a:focus {
-    background:
-      -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.1)), color-stop(0.5, rgba(255,255,255,0.2)), color-stop(0.501, rgba(255,255,255,0.1)), to(rgba(255,255,255,0.1))),
-      -webkit-gradient(linear, left top, left bottom, from(#58aa00), to(#337100));
-    background:
-      -webkit-linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
-      -webkit-linear-gradient(#58aa00, #337100);
-    background:
-      -moz-linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
-      -moz-linear-gradient(#58aa00, #337100);
-    background:
-      -ms-linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
-      -ms-linear-gradient(#58aa00, #337100);
-    background:
-      -o-linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
-      -o-linear-gradient(#58aa00, #337100);
-    background:
-      linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
-      linear-gradient(#58aa00, #337100);
-  }
-  li:nth-child(6n+5) a:hover, li:hover:nth-child(6n+5) a:focus {
-    background:
-      -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.1)), color-stop(0.5, rgba(255,255,255,0.2)), color-stop(0.501, rgba(255,255,255,0.1)), to(rgba(255,255,255,0.1))),
-      -webkit-gradient(linear, left top, left bottom, from(#00aa78), to(#05603e));
-    background:
-      -webkit-linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
-      -webkit-linear-gradient(#00aa78, #05603e);
-    background:
-      -moz-linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
-      -moz-linear-gradient(#00aa78, #05603e);
-    background:
-      -ms-linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
-      -ms-linear-gradient(#00aa78, #05603e);
-    background:
-      -o-linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
-      -o-linear-gradient(#00aa78, #05603e);
-    background:
-      linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
-      linear-gradient(#00aa78, #05603e);
-  }
-  li:nth-child(6n+6) a:hover, li:nth-child(6n+6) a:focus {
-    background:
-      -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.1)), color-stop(0.5, rgba(255,255,255,0.2)), color-stop(0.501, rgba(255,255,255,0.1)), to(rgba(255,255,255,0.1))),
-      -webkit-gradient(linear, left top, left bottom, from(#0074ae), to(#073c66));
-    background:
-      -webkit-linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
-      -webkit-linear-gradient(#0074ae, #073c66);
-    background:
-      -moz-linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
-      -moz-linear-gradient(#0074ae, #073c66);
-    background:
-      -ms-linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
-      -ms-linear-gradient(#0074ae, #073c66);
-    background:
-      -o-linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
-      -o-linear-gradient(#0074ae, #073c66);
-    background:
-      linear-gradient(rgba(0,0,0,0.1), rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50.01%, rgba(255,255,255,0.1)),
-      linear-gradient(#0074ae, #073c66);
-  }
-  li .title {
-    float: left;
-    margin: 0 30px 0 0;
-    border-right: 1px solid rgba(255,255,255,1.0);
-    padding: 0 20px 0 0;
-    height: 60px;
-  }
-  li h3, li h4 {
-    display: inline;
-    line-height: 56px;
-  }
-  li h3 {
-    font-size: 40px;
-  }
-  li h4 {
-    font-size: 32px;
-  }
-  .title .stat {
-    margin-top: -14px;
-    text-align: left;
-    font-size: 11px;
-    font-weight: bold;
-    height: 19px;
-    opacity: 0.5;
-  }
-  .title .stat span {
-    background-image: url("data:image/png;base64,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");
-    background-repeat: no-repeat;
-    background-size: 16px 94px;
-    display: inline-block;
-    padding: 1px 8px 0 24px;
-  }
-  .title .stat .w {
-    background-position: 4px -25px;
-  }
-  .title .stat .f {
-    background-position: 4px -50px;
-  }
-  .title .stat .t {
-    background-position: 4px -75px;
-  }
-  li div.size {
-    float: right;
-    margin: 0 0 0 30px;
-    padding: 0 0 0 20px;
-    line-height: 66px;
-    height: 60px;
-    font-size: 40px;
-    font-weight: normal;
-    -x-border-left: 1px solid rgba(255,255,255,1.0);
-    font-family: 'Maiden Orange', arial, serif;
-    width: 100px;
-    white-space: nowrap;
-  }
-/*  li h3 a, li h4 a {
-    display: inline-block;
-    -webkit-transition: all 0.3s;
-    -webkit-transform: scale(0.9) translate3d(0,0,0);
-  }
-  li h3 a:hover, li h4 a:hover {
-    -webkit-transition: all 0.3s;
-    -webkit-transform: scale(1.0) translate3d(0,0,0);
-  }*/
-  p.footer {
-    width: 450px;
-    padding: 20px 0 40px 0;
-    border-top: 1px solid #58AA00;
-    color: #fff;
-    margin: 0 auto;
-    line-height: 20px;
-  }
-  p.footer strong {
-    font-size: 21px;
-  }
-  p.footer a {
-    color: #fff;
-  }
-  p.footer span.asterisk {
-    color: #00AA78;
-    padding: 0 10px;
-  }
-  p.footer span.links {
-    display: block;
-    color: #fff;
-    margin-top: 8px;
-    font-size: 12px;
-  }
-  .clue {
-    margin-top: 40px;
-    border-top: 1px solid #A839B2;
-    padding: 30px 0;
-    width: 450px;
-    margin: 40px auto;
-  }
-  div.clue p {
-    width: 450px;
-    color: rgb(255,255,255);
-    margin: 10px auto 0 auto;
-    line-height: 20px;
-  }
-  div.clue p strong {
-    font-size: 30px;
-    line-height: 32px;
-    display: block;
-    color: #0074AE;
-  }
-  .clue strong span:nth-child(6n+1) { color: #A839B2; }
-  .clue strong span:nth-child(6n+2) { color: #FF0071; }
-  .clue strong span:nth-child(6n+3) { color: #ACD030; }
-  .clue strong span:nth-child(6n+4) { color: #58AA00; }
-  .clue strong span:nth-child(6n+5) { color: #00AA78; }
-  .clue strong span:nth-child(6n+6) { color: #0074AE; }
-  .clue a {
-    color: #FF0071;
-  }
-  p {
-    -webkit-font-smoothing: antialiased;
-    text-rendering:optimizeLegibility;
-  }
-  p.promotejs {
-    margin: 0 auto 40px auto;
-  }
-  pre {
-    font-size: 8pt;
-    line-height: 100%;
-    text-align: left;
-  }
-  #ineed {
-    margin: 10px auto;
-    font-size: 25px;
-    width: 650px;
-    position: relative;
-  }
-  #ineed > span {
-    display: inline-block;
-    width: 125px;
-  }
-  #ineed_text {
-    border: solid 1px #555;
-    margin: 0 15px 0 0;
-    font-size: 25px;
-    background: black;
-    color: white;
-    padding: 3px;
-    width: 502px;
-  }
-  #ineed_select {
-    position: absolute;
-    right: 15px;
-    overflow-x: hidden;
-    overflow-y: auto;
-    width: 508px;
-    text-align: left;
-    background: #000;
-    border: solid 1px #555;
-    cursor: pointer;
-    z-index: 1;
-  }
-  #ineed_select > div {
-    height: 28px;
-    padding: 4px 6px 0px 6px;
-    line-height: 90%;
-  }
-  #ineed_select > div:hover, #ineed_select > div.selected {
-    background-color: #555;
-  }
-
-  </style>
+  <link rel="stylesheet" href="style.css">
+  <style id="tagVisibility" data-color="">li div.tags{display:none;}</style>
   </head>
   <body>
 
@@ -561,7 +21,12 @@
   </div>
 
   <div id="ineed" style="display: none;">
-    <span>I need ...</span><input type="text" id="ineed_text">
+    <span>I need ...</span>
+    <input type="text" id="ineed_text">
+    <div id="config">
+      <span class="icon tag" title="show/hide tags" onclick="toggleTagVisibility()"> </span>
+      <span class="icon color" title="change colors" onclick="toggleColorMode()"> </span>
+    </div>
     <div id="ineed_select" style="display: none;"></div>
   </div>
 
@@ -604,10 +69,6 @@
       <strong><span>Can't</span> <span>get</span> <span>enough</span><span>?</span></strong>
     </p>
     <p>
-      <a href="http://140byt.es/">140byt.es</a> provides tweet-sized JavaScript goodness!
-    </p>
-
-    <p>
       Special thanks to <a href="http://letsfreckle.com/">Freckle Time Tracking</a>.
     </p>
   </div>
@@ -615,7 +76,7 @@
   <p class="footer">
     <strong>microjs</strong> — a micro-site for micro-frameworks
     <span class="links">
-    © 2011-2014 <a href="//mir.aculo.us/">Thomas Fuchs</a> <span class="asterisk">✻</span>
+    © 2011-2017 <a href="//mir.aculo.us/">Thomas Fuchs</a> <span class="asterisk">✻</span>
     <a href="https://github.com/madrobby/microjs.com">source on GitHub</a> <span class="asterisk">✻</span>
     sizes minified &amp; gzipped
     </span>
@@ -626,10 +87,11 @@
   </p>
 
   <script src="data-min.js"></script>
+  <script src="http://simonwaldherr.github.io/ColorConverter.js/colorconverter.js"></script>
   <script type="text/javascript" id="scr">
 /* Micro-Framework-Listing-Site-Microlib
  * Now with extra-chocolatey easter eggs!
- * Copyright (c) 2011-2013 @madrobby, @rvagg & other contributors
+ * Copyright (c) 2011-2017 @madrobby, @rvagg & other contributors
  * Licenced under the MIT open source licence - http://www.opensource.org/licenses/mit-license.html
  */
 
@@ -641,26 +103,49 @@
     , $results = $('results')
       // micro-templating
     , t = function (s, d){
-        for (var p in d) s = s.replace(new RegExp('{' + p + '}', 'g'), d[p])
-        return s
+        for (var p in d) s = s.replace(new RegExp('{' + p + '}', 'g'), d[p]);
+        return s;
       }
     , render = function (results){
-        var html = [], i = results.length, r
+        var html = [], i = results.length, r, tags;
         while (i--) {
           if (!(r = results[i])._rendered) {
+            tags = '<span>'+results[i].tags.join('</span> <span>')+'</span>';
             r.stat =
                 '<div class="stat">'
-              + (r.ghwatchers ? t('<span class="w">{ghwatchers}</span><span class="f">{ghforks}</span>', r) : '')
-              + (r.tweets ? t('<span class="t">{tweets}</span>', r) : '')
+              + (r.ghwatchers ? t('<span class="w icon">{ghwatchers}</span><span class="f icon">{ghforks}</span>', r) : '')
+              + (r.tweets ? t('<span class="t icon">{tweets}</span>', r) : '')
               + '</div>'
             r.heading = r.name.length < 16 ? 3 : 4;
-            r._rendered = t('<li><a href="{url}"><div class="size">{size}</div><div class="title"><h{heading}>{name}</h{heading}>{stat}</div>{description}</a></li>', r)
+            r._rendered = t('<li><a href="{url}"><div class="size">{size}</div><div class="title"><h{heading}>{name}</h{heading}>{stat}</div>{description}</a><div class="tags">'+tags+'</div></li>', r)
           }
           html.push(results[i]._rendered)
         }
-        $results.innerHTML = html.join('')
+        $results.innerHTML = html.join('');
+        if(document.getElementById('tagVisibility').getAttribute('data-color') === 'true') {
+          toggleColorMode();
+        }
+        var i, j, tagDivs, tagSpans, searchBox, libMatches, changeEvent;
+        tagDivs = document.getElementsByClassName('tags');
+        searchBox = document.getElementById('ineed_text');
+        for(i = 0; i < tagDivs.length; i++) {
+          if(tagDivs[i] !== undefined) {
+            tagSpans = tagDivs[i].getElementsByTagName('span');
+            for(j = 0; j < tagSpans.length; j++) {
+              if(tagSpans[j] !== undefined) {
+                tagSpans[j].onclick = function () {
+                  searchBox.value = this.innerHTML;
+                  window.location.hash = this.innerHTML;
+                  changeEvent = document.createEvent("HTMLEvents");
+                  changeEvent.initEvent("change", false, true);
+                  searchBox.dispatchEvent(changeEvent);
+                  window.scrollTo(0, 100);
+                };
+              }
+            }
+          }
+        }
       }
-
   MicroJS.sort(function () { return 0.5 - Math.random() })
 
 // mini feature-detect for some of the stuff we use with fallback for garbage browsers
@@ -763,21 +248,28 @@
         e && keydownListener({ keyCode: 13 })
       }
     , keydownDelayed = cumulativeDelayed(function () { search() }, 250)
-    , showsearch = function () { showopt(); search() }
+    , showsearch = function () {
+        showopt();
+        search();
+      }
       // make our pseudo-select box work as if it was a real select box
     , keydownListener = function (e) {
         switch (e.keyCode) {
           case 38: //up
-            showsearch(); selectUp()
+            showsearch();
+            selectUp();
             break;
           case 40: //down
-            showsearch(); selectDown()
+            showsearch();
+            selectDown();
             break;
           case 13: //return
-            hideopt(); search()
+            hideopt();
+            search();
             break;
           default:
-            hideopt(); keydownDelayed()
+            hideopt();
+            keydownDelayed();
         }
       }
       // arrow-up
@@ -842,27 +334,63 @@
   $ineedText.addEventListener('click', focusListener, false)
   $ineedText.addEventListener('blur', blurListener, false)
   $ineedText.addEventListener('keydown', keydownListener, false)
+  $ineedText.addEventListener('change', search, false)
   $ineedSelect.addEventListener('click', selectListener, false)
 
   ;(function(kw) {
-    if (!kw) return
+    if (!kw) {
+      return;
+    }
     for (var i = 0; i < options.length; i++) {
       if (kw == options[i].tag) { kw = options[i].label; break; }
     }
-    $ineedText.value = kw
-  }(location.href.split('#')[1]))
+    $ineedText.value = kw;
+  }(location.href.split('#')[1]));
 
-  search()
-  $ineed.style.display = ''
-  $ineedText.focus()
-  window.setTimeout(hideopt,10)
+  search();
+  $ineed.style.display = '';
+  $ineedText.focus();
+  window.setTimeout(hideopt,10);
 
-})() : render(MicroJS) // fallback for old browsers, you don't deserve the sweetness!
+})() : render(MicroJS); // fallback for old browsers, you don't deserve the sweetness!
 
 })();
 
-</script>
+var toggleTagVisibility = function () {
+  var tagStyleElement = document.getElementById('tagVisibility');
+  if(tagStyleElement.innerHTML === '.tags{display:none;}') {
+    tagStyleElement.innerHTML = '.tags{display:block;}';
+  } else {
+    tagStyleElement.innerHTML = '.tags{display:none;}';
+  }
+}
 
+var toggleColorMode = function () {
+  var sint, size, background, i, elements;
+  elements = document.getElementById('results').children;
+  if(elements[0].style.background === '') {
+    for(i = 0; i < elements.length; i++) {
+      size = elements[i].getElementsByClassName('size')[0].innerHTML;
+      sint = (85+parseFloat(size)*60) > 360 ? 360 : 85+parseFloat(size)*60;
+      background = 'background: #'+colorconv.HSL2HEX([sint,80,58])+';'
+      + 'background: -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.2)), color-stop(0.5, rgba(255,255,255,0.1)), color-stop(0.501, rgba(255,255,255,0.0)), to(rgba(255,255,255,0.0))), -webkit-gradient(linear, left top, left bottom, from(#'+colorconv.HSL2HEX([sint,80,58])+'), to(#'+colorconv.HSL2HEX([sint,60,40])+'));'
+      + 'background: -webkit-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)), -webkit-linear-gradient(#'+colorconv.HSL2HEX([sint,80,58])+', #'+colorconv.HSL2HEX([sint,60,40])+');'
+      + 'background: -moz-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)), -moz-linear-gradient(#'+colorconv.HSL2HEX([sint,80,58])+', #'+colorconv.HSL2HEX([sint,60,40])+');'
+      + 'background: -ms-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)), -ms-linear-gradient(#'+colorconv.HSL2HEX([sint,80,58])+', #'+colorconv.HSL2HEX([sint,60,40])+');'
+      + 'background: -o-linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)), -o-linear-gradient(#'+colorconv.HSL2HEX([sint,80,58])+', #'+colorconv.HSL2HEX([sint,60,40])+');'
+      + 'background: linear-gradient(rgba(0,0,0,0.2), rgba(255,255,255,0.1) 50%, rgba(255,255,255,0) 50.01%, rgba(255,255,255,0)), linear-gradient(#'+colorconv.HSL2HEX([sint,80,58])+', #'+colorconv.HSL2HEX([sint,60,40])+');';
+      elements[i].setAttribute("style", background);
+    }
+    document.getElementById('tagVisibility').setAttribute('data-color',true);
+  } else {
+    for(i = 0; i < elements.length; i++) {
+      elements[i].style.background = '';
+      document.getElementById('tagVisibility').setAttribute('data-color',false);
+    }
+  }
+}
+
+</script>
 <script>
   var _gauges = _gauges || [];
   (function() {

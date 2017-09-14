@@ -34,6 +34,10 @@ Want to add your own? Fork this site on GitHub, add your framework to "data.js" 
 To check the minified and compressed size of your library from the command line, either use `./build.js -v` (see below) or run:
 
     $ uglifyjs yourlib.js | gzip -9f | wc -c
+    
+    or
+    
+    $ wget -q -O- https://domain.tld/path/to/file.src | uglifyjs | gzip -9f | wc -c
 
 ### How to add
 
@@ -52,6 +56,18 @@ The builder reads *data.js* and checks the *source* of each entry. It will calcu
 You will see **warnings** where entries need to be checked and **errors** where entries will be excluded.
 
 If you wish to see details of all entries, you can run the `./build -v` command.
+
+
+### Submitting a PR
+
+- Fork repository
+- Clone repository to your local machine
+- Add to `data.js` file the representative attributes listed above
+- **NOTE** add the new files somewhere other than the bottom to make PR merging less conflict-prone
+- Run `npm install` if you haven't already and `npm test`
+- If your added package comes up with a `SUCCESS` message you are good to go, submit the PR
+- To filter on only your package results run `./build.js -v | grep YOUR_PACKAGE_NAME`
+
 
 ## All rights reserved ###
 

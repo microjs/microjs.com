@@ -4448,5 +4448,1013 @@
 		<summary>Small, easy-to-learn and modular JavaScript framework for big</summary>
 	</entry>
 
+	<entry>
+		<title>Trak.js</title>
+		<link href="https://github.com/tmwagency/trak.js" />
+		<id>urn:uuid:d08cec30-ec76-11e4-96f7-b952c497add4</id>
+		<updated>2015-04-27'T'00:46:13+00:00</updated>
+		<summary>Universal analytics event tracking API wrapper</summary>
+	</entry>
+
+	<entry>
+		<title>ease.js</title>
+		<link href="https://github.com/lloydzhou/ease" />
+		<id>urn:uuid:d08d8870-ec76-11e4-96f7-b952c497add4</id>
+		<updated>2015-04-27'T'00:46:13+00:00</updated>
+		<summary>ease component for animation, include 30 ease functions.</summary>
+	</entry>
+
+	<entry>
+		<title>dual-emitter</title>
+		<link href="https://github.com/tunnckoCore/dual-emitter" />
+		<id>urn:uuid:d0a221e0-ec76-11e4-96f7-b952c497add4</id>
+		<updated>2015-04-27'T'00:46:13+00:00</updated>
+		<summary>Cross-browser (and IE8) + node.js event emitter in 35 lines. Invoke custom or DOM event. Useful for two-way data-binding!!</summary>
+	</entry>
+
+	<entry>
+		<title>Tinyscrollbar</title>
+		<link href="https://github.com/wieringen/tinyscrollbar" />
+		<id>urn:uuid:d0a4b9f0-ec76-11e4-96f7-b952c497add4</id>
+		<updated>2015-04-27'T'00:46:13+00:00</updated>
+		<summary>Create pretty scrollbars</summary>
+	</entry>
+
+	<entry>
+		<title>Cquence.js</title>
+		<link href="https://github.com/RamonGebben/Cquence" />
+		<id>urn:uuid:d0cadf90-ec76-11e4-96f7-b952c497add4</id>
+		<updated>2015-04-27'T'00:46:13+00:00</updated>
+		<summary>A Super Tiny JavaScript Animation Library</summary>
+	</entry>
+
+	<entry>
+		<title>imago.js</title>
+		<link href="https://github.com/evandroeisinger/imago.js" />
+		<id>urn:uuid:d13d9e90-ec76-11e4-96f7-b952c497add4</id>
+		<updated>2015-04-27'T'00:46:13+00:00</updated>
+		<summary>It&apos;s a wonderful image library! With the purpose to facilitate the manipulation of images, imago.js enables you to perform trimming and resizing</summary>
+	</entry>
+
+	<entry>
+		<title>Hoverboard</title>
+		<link href="https://github.com/jesseskinner/hoverboard" />
+		<id>urn:uuid:d439c790-ec76-11e4-96f7-b952c497add4</id>
+		<updated>2015-04-27'T'00:46:13+00:00</updated>
+		<summary>A very lightweight (anti-gravity?) data model and Flux store with actions and a state change listener.</summary>
+	</entry>
+
+	<entry>
+		<title>xhr.js</title>
+		<link href="https://github.com/bohwaz/xhr.js" />
+		<id>urn:uuid:d5351780-ec76-11e4-96f7-b952c497add4</id>
+		<updated>2015-04-27'T'00:46:13+00:00</updated>
+		<summary>This is the smallest XmlHttpRequest Javascript micro-library ever. EVER!</summary>
+	</entry>
+
+	<entry>
+		<title>VanillaModal</title>
+		<link href="https://github.com/thephuse/vanilla-modal" />
+		<id>urn:uuid:e55dbfe0-ec76-11e4-96f7-b952c497add4</id>
+		<updated>2015-04-27'T'00:46:13+00:00</updated>
+		<summary>A flexible, dependency-free CSS-powered modal built using ECMAScript 6.</summary>
+	</entry>
+
+	<entry>
+		<title>seedrandom.js</title>
+		<link href="https://github.com/davidbau/seedrandom" />
+		<id>urn:uuid:ed503430-ec76-11e4-96f7-b952c497add4</id>
+		<updated>2015-04-27'T'00:46:13+00:00</updated>
+		<summary>A seeded random number generator. Can override Math.random or return a generator function.</summary>
+	</entry>
+
+	<entry>
+		<title>Eev</title>
+		<link href="https://github.com/chrisdavies/eev" />
+		<id>urn:uuid:f1a7f590-ec76-11e4-96f7-b952c497add4</id>
+		<updated>2015-04-27'T'00:46:13+00:00</updated>
+		<summary>A tiny, fast, zero-dependency event emitter (~500 bytes min + gzip)</summary>
+	</entry>
+
+	<entry>
+		<title>emitonoff</title>
+		<link href="https://github.com/konsumer/emitonoff" />
+		<id>urn:uuid:f24769e0-ec76-11e4-96f7-b952c497add4</id>
+		<updated>2015-04-27'T'00:46:13+00:00</updated>
+		<summary>Extremely simple event emitter for javascript</summary>
+	</entry>
+
+	<entry>
+		<title>resourcetiming-compression.js</title>
+		<link href="https://github.com/nicjansma/resourcetiming-compression.js" />
+		<id>urn:uuid:f726f8e0-ec76-11e4-96f7-b952c497add4</id>
+		<updated>2015-04-27'T'00:46:13+00:00</updated>
+		<summary>ResourceTiming compression and decompression</summary>
+	</entry>
+
+	<entry>
+		<title>VisSense.js</title>
+		<link href="https://github.com/vissense/vissense" />
+		<id>urn:uuid:fba1d2a0-ec76-11e4-96f7-b952c497add4</id>
+		<updated>2015-04-27'T'00:46:13+00:00</updated>
+		<summary>A utility library for observing visibility changes of DOM elements. Immediately know when an element becomes hidden, partly visible or fully visible.</summary>
+	</entry>
+
+	<entry>
+		<title>keycharm</title>
+		<link href="https://github.com/AlexDM0/keycharm" />
+		<id>urn:uuid:fd4c4e50-ec76-11e4-96f7-b952c497add4</id>
+		<updated>2015-04-27'T'00:46:13+00:00</updated>
+		<summary>Simple, lightweight key-binding libw. MIT or Apache 2.0.</summary>
+	</entry>
+
+	<entry>
+		<title>GreinerHormann</title>
+		<link href="http://w8r.github.io/GreinerHormann/" />
+		<id>urn:uuid:fd67eca0-ec76-11e4-96f7-b952c497add4</id>
+		<updated>2015-04-27'T'00:46:13+00:00</updated>
+		<summary>Greiner-Hormann polygon clipping algorithm. Does AND, OR, XOR.</summary>
+	</entry>
+
+	<entry>
+		<title>Core.js</title>
+		<link href="https://github.com/mauriciosoares/core.js" />
+		<id>urn:uuid:fd7a6330-ec76-11e4-96f7-b952c497add4</id>
+		<updated>2015-04-27'T'00:46:13+00:00</updated>
+		<summary>It helps you create scalable applications written in Javascript, giving you some structure and patterns to keep everything separated.</summary>
+	</entry>
+
+	<entry>
+		<title>js-mediator</title>
+		<link href="https://github.com/markmarijnissen/js-mediator" />
+		<id>urn:uuid:fd7dbe90-ec76-11e4-96f7-b952c497add4</id>
+		<updated>2015-04-27'T'00:46:13+00:00</updated>
+		<summary>Design pattern to write clean, reusable, decoupled, standalone Modules that are coupled with Mediators.</summary>
+	</entry>
+
+	<entry>
+		<title>Chop.js</title>
+		<link href="https://github.com/hufyhang/chop" />
+		<id>urn:uuid:a7c534a0-ec77-11e4-8326-efca2ecc2eb7</id>
+		<updated>2015-04-27'T'00:52:15+00:00</updated>
+		<summary>A Super Light-Weight JavaScript Framework</summary>
+	</entry>
+
+	<entry>
+		<title>mailcheck</title>
+		<link href="https://github.com/mailcheck/mailcheck" />
+		<id>urn:uuid:a9768e20-ec77-11e4-8326-efca2ecc2eb7</id>
+		<updated>2015-04-27'T'00:52:15+00:00</updated>
+		<summary>Reduce user-misspelled email addresses in your forms.</summary>
+	</entry>
+
+	<entry>
+		<title>guard</title>
+		<link href="https://github.com/iofjuupasli/guard" />
+		<id>urn:uuid:85ddd7a0-12e4-11e5-b61f-c580d5569985</id>
+		<updated>2015-06-14'T'22:27:15+00:00</updated>
+		<summary>Utility to split opportunities by the account level (free\pro\enterprise\etc.) for frontend and node</summary>
+	</entry>
+
+	<entry>
+		<title>stateman.js</title>
+		<link href="https://github.com/leeluolee/stateman" />
+		<id>urn:uuid:865837c0-12e4-11e5-b61f-c580d5569985</id>
+		<updated>2015-06-14'T'22:27:15+00:00</updated>
+		<summary>A tiny foundation that providing nested state-based routing for complex web application.decodeURI</summary>
+	</entry>
+
+	<entry>
+		<title>selecting</title>
+		<link href="https://github.com/EvandroLG/selecting" />
+		<id>urn:uuid:87e05e60-12e4-11e5-b61f-c580d5569985</id>
+		<updated>2015-06-14'T'22:27:15+00:00</updated>
+		<summary>A library that allows you to access the text selected by the user</summary>
+	</entry>
+
+	<entry>
+		<title>wjs</title>
+		<link href="https://github.com/weeger/wjs" />
+		<id>urn:uuid:afbd7260-12e4-11e5-b61f-c580d5569985</id>
+		<updated>2015-06-14'T'22:27:15+00:00</updated>
+		<summary>A JavaScript / PHP to manage lazy loading from server to client.</summary>
+	</entry>
+
+	<entry>
+		<title>aja.js</title>
+		<link href="http://krampstudio.com/aja.js/" />
+		<id>urn:uuid:afdd0850-12e4-11e5-b61f-c580d5569985</id>
+		<updated>2015-06-14'T'22:27:15+00:00</updated>
+		<summary>Ajax without XML : Asynchronous JavaScript and JavaScript/JSON(P)</summary>
+	</entry>
+
+	<entry>
+		<title>ba.js</title>
+		<link href="http://bajs.io" />
+		<id>urn:uuid:8d1c6c10-1754-11e5-9430-51295632daa1</id>
+		<updated>2015-06-20'T'13:59:18+00:00</updated>
+		<summary>Create and manage CSS3 animations from JavaScript.</summary>
+	</entry>
+
+	<entry>
+		<title>fetchival</title>
+		<link href="https://github.com/typicode/fetchival" />
+		<id>urn:uuid:8d1ce140-1754-11e5-9430-51295632daa1</id>
+		<updated>2015-06-20'T'13:59:18+00:00</updated>
+		<summary>Easy fetch requests</summary>
+	</entry>
+
+	<entry>
+		<title>j2c</title>
+		<link href="http://j2c.py.gy" />
+		<id>urn:uuid:9107fe20-1754-11e5-9430-51295632daa1</id>
+		<updated>2015-06-20'T'13:59:18+00:00</updated>
+		<summary>CSS preprocessor working from JavaScript objects.</summary>
+	</entry>
+
+	<entry>
+		<title>form-to-obj</title>
+		<link href="https://github.com/chrisdavies/form-to-obj" />
+		<id>urn:uuid:91d6e6e0-1754-11e5-9430-51295632daa1</id>
+		<updated>2015-06-20'T'13:59:18+00:00</updated>
+		<summary>A small, zero-dependency form-to-object serialization utility</summary>
+	</entry>
+
+	<entry>
+		<title>HTMLparser</title>
+		<link href="https://github.com/seun40/HTMLparser" />
+		<id>urn:uuid:a7983510-1754-11e5-9430-51295632daa1</id>
+		<updated>2015-06-20'T'13:59:18+00:00</updated>
+		<summary>It parses HTML ¯_(ツ)_/¯</summary>
+	</entry>
+
+	<entry>
+		<title>Telegraph</title>
+		<link href="https://github.com/dubrowgn/telegraph" />
+		<id>urn:uuid:b1bca490-1754-11e5-9430-51295632daa1</id>
+		<updated>2015-06-20'T'13:59:18+00:00</updated>
+		<summary>A very minimal event emitter for browsers, forked from Benjamin Thomas&apos; smokesignals.js, that allows for cancelable events</summary>
+	</entry>
+
+	<entry>
+		<title>StringFormatter</title>
+		<link href="https://github.com/anywhichway/stringformatter" />
+		<id>urn:uuid:b2fc7790-1754-11e5-9430-51295632daa1</id>
+		<updated>2015-06-20'T'13:59:18+00:00</updated>
+		<summary>An extensible, garbage collecting Javascript string formatter that supports objects, currency, date/time, decimals, and more ... goes far beyond sprintf approach.</summary>
+	</entry>
+
+	<entry>
+		<title>justlazy.js</title>
+		<link href="https://github.com/fhopeman/justlazy" />
+		<id>urn:uuid:7e91bb40-1c41-11e5-9d7d-ab96022c5d01</id>
+		<updated>2015-06-26'T'20:25:30+00:00</updated>
+		<summary>Micro javascript library to lazy load responsive images (also with srcset attribute).</summary>
+	</entry>
+
+	<entry>
+		<title>hyphen.js</title>
+		<link href="https://github.com/ytiurin/hyphenjs" />
+		<id>urn:uuid:812b03c0-1c41-11e5-9d7d-ab96022c5d01</id>
+		<updated>2015-06-26'T'20:25:30+00:00</updated>
+		<summary>Frank Liang&apos;s hyphenation beautifier.</summary>
+	</entry>
+
+	<entry>
+		<title>dom-i18n</title>
+		<link href="https://github.com/ruyadorno/dom-i18n" />
+		<id>urn:uuid:acc34b00-1c41-11e5-9d7d-ab96022c5d01</id>
+		<updated>2015-06-26'T'20:25:30+00:00</updated>
+		<summary>Provides a very basic HTML multilingual support using JavaScript</summary>
+	</entry>
+
+	<entry>
+		<title>micro-query</title>
+		<link href="https://github.com/aaron-harvey/micro-query" />
+		<id>urn:uuid:ae524f70-1c41-11e5-9d7d-ab96022c5d01</id>
+		<updated>2015-06-26'T'20:25:30+00:00</updated>
+		<summary>A minimal URL parameter parsing library.</summary>
+	</entry>
+
+	<entry>
+		<title>xflagable</title>
+		<link href="https://github.com/javimosch/xflagable/" />
+		<id>urn:uuid:b9a39ca0-1ea6-11e5-aabd-4d8b9d71a338</id>
+		<updated>2015-06-29'T'21:35:07+00:00</updated>
+		<summary>Create flag promises</summary>
+	</entry>
+
+	<entry>
+		<title>Location Init</title>
+		<link href="https://github.com/tbleckert/location-init" />
+		<id>urn:uuid:b9a411d0-1ea6-11e5-aabd-4d8b9d71a338</id>
+		<updated>2015-06-29'T'21:35:07+00:00</updated>
+		<summary>Simple route callbacks</summary>
+	</entry>
+
+	<entry>
+		<title>geojson2svg</title>
+		<link href="https://github.com/gagan-bansal/geojson2svg" />
+		<id>urn:uuid:b9cc3340-1ea6-11e5-aabd-4d8b9d71a338</id>
+		<updated>2015-06-29'T'21:35:07+00:00</updated>
+		<summary>Converts geojson to svg string given svg viewport size and maps extent. Used for data visulizaton on maps.</summary>
+	</entry>
+
+	<entry>
+		<title>ClassManager</title>
+		<link href="https://github.com/kogarashisan/ClassManager" />
+		<id>urn:uuid:ba0089b0-1ea6-11e5-aabd-4d8b9d71a338</id>
+		<updated>2015-06-29'T'21:35:07+00:00</updated>
+		<summary>One of the fastest and most convenient class systems in the world</summary>
+	</entry>
+
+	<entry>
+		<title>proto</title>
+		<link href="https://github.com/fresheneesz/proto" />
+		<id>urn:uuid:eb4cee00-1ea6-11e5-aabd-4d8b9d71a338</id>
+		<updated>2015-06-29'T'21:35:07+00:00</updated>
+		<summary>A prototype-based inheritance library that makes it easy to create objects and inheritance hierarchies without losing the power of javascript&apos;s prototype system.</summary>
+	</entry>
+
+	<entry>
+		<title>mongo-parse</title>
+		<link href="https://github.com/fresheneesz/mongo-parse" />
+		<id>urn:uuid:eb655800-1ea6-11e5-aabd-4d8b9d71a338</id>
+		<updated>2015-06-29'T'21:35:07+00:00</updated>
+		<summary>A parser for mongo db queries.</summary>
+	</entry>
+
+	<entry>
+		<title>Freezer.js</title>
+		<link href="https://github.com/arqex/freezer" />
+		<id>urn:uuid:cefb9400-2ef4-11e5-84ee-c91d9af0224b</id>
+		<updated>2015-07-20'T'15:34:20+00:00</updated>
+		<summary>An immutable tree data structure that is always updated from the root, making easier to think in a reactive way.</summary>
+	</entry>
+
+	<entry>
+		<title>CSSTemplate</title>
+		<link href="https://github.com/ezakto/CSSTemplate.js" />
+		<id>urn:uuid:e493fd70-2ef4-11e5-84ee-c91d9af0224b</id>
+		<updated>2015-07-20'T'15:34:20+00:00</updated>
+		<summary>Inject and update dynamic CSS using simple js templating</summary>
+	</entry>
+
+	<entry>
+		<title>AtSpy</title>
+		<link href="http://AtSpy.github.io" />
+		<id>urn:uuid:88ab0510-2ef6-11e5-9eba-b591b60222d1</id>
+		<updated>2015-07-20'T'15:46:47+00:00</updated>
+		<summary>A test spy powered by es7 decorators and TypeScript </summary>
+	</entry>
+
+	<entry>
+		<title>InversifyJS</title>
+		<link href="http://inversify.io" />
+		<id>urn:uuid:6ca01b20-2ef7-11e5-91ae-2959308c9406</id>
+		<updated>2015-07-20'T'15:53:09+00:00</updated>
+		<summary>A lightweight IoC container written in TypeScript.</summary>
+	</entry>
+
+	<entry>
+		<title>guardian.js</title>
+		<link href="https://github.com/guardianjs/guardianjs" />
+		<id>urn:uuid:b64e13a0-2efa-11e5-bf95-475a0b9f0fe0</id>
+		<updated>2015-07-20'T'16:15:48+00:00</updated>
+		<summary>Unopinionated JavaScript (unit/integration/whatever) testing library</summary>
+	</entry>
+
+	<entry>
+		<title>lightrouter</title>
+		<link href="https://github.com/garygreen/lightrouter" />
+		<id>urn:uuid:c077b340-2efa-11e5-bf95-475a0b9f0fe0</id>
+		<updated>2015-07-20'T'16:15:48+00:00</updated>
+		<summary>Ultra lightweight javascript routing for traditional and single page apps.</summary>
+	</entry>
+
+	<entry>
+		<title>hash-router</title>
+		<link href="https://github.com/michaelsogos/Hash-Router" />
+		<id>urn:uuid:c0d73860-2efa-11e5-bf95-475a0b9f0fe0</id>
+		<updated>2015-07-20'T'16:15:48+00:00</updated>
+		<summary>Tiny and lightweight browser router library, developed with SPA in mind :)</summary>
+	</entry>
+
+	<entry>
+		<title>JsDic</title>
+		<link href="https://github.com/janmarek/JsDic" />
+		<id>urn:uuid:c0d75f70-2efa-11e5-bf95-475a0b9f0fe0</id>
+		<updated>2015-07-20'T'16:15:48+00:00</updated>
+		<summary>Dependecy injection container inspired by Angular.js.</summary>
+	</entry>
+
+	<entry>
+		<title>router5</title>
+		<link href="http://router5.github.io" />
+		<id>urn:uuid:c174b0e0-2efa-11e5-bf95-475a0b9f0fe0</id>
+		<updated>2015-07-20'T'16:15:48+00:00</updated>
+		<summary>Simple, framework-agnostic, powerful and functional HTML5 routing solution.</summary>
+	</entry>
+
+	<entry>
+		<title>Rat.js</title>
+		<link href="https://github.com/keyten/Rat.js" />
+		<id>urn:uuid:0ef28e50-2fc8-11e5-b855-a7b3cf9a9141</id>
+		<updated>2015-07-21'T'16:46:33+00:00</updated>
+		<summary>Use objects on canvas</summary>
+	</entry>
+
+	<entry>
+		<title>domchanger</title>
+		<link href="https://github.com/creationix/domchanger" />
+		<id>urn:uuid:20c4ef10-2fc8-11e5-b855-a7b3cf9a9141</id>
+		<updated>2015-07-21'T'16:46:33+00:00</updated>
+		<summary>Domchanger calculates diffs between virtual dom trees (JSONML) and applies only the difference to the dom</summary>
+	</entry>
+
+	<entry>
+		<title>msgpack-js</title>
+		<link href="https://github.com/creationix/msgpack-js-browser" />
+		<id>urn:uuid:20ffd530-2fc8-11e5-b855-a7b3cf9a9141</id>
+		<updated>2015-07-21'T'16:46:33+00:00</updated>
+		<summary>A msgpack encoder and decoder using ArrayBuffer and DataView</summary>
+	</entry>
+
+	<entry>
+		<title>type-ahead.js</title>
+		<link href="https://github.com/marcojetson/type-ahead.js" />
+		<id>urn:uuid:391ee980-2fc8-11e5-b855-a7b3cf9a9141</id>
+		<updated>2015-07-21'T'16:46:33+00:00</updated>
+		<summary>A lightweight and extensible type ahead library</summary>
+	</entry>
+
+	<entry>
+		<title>N2O.js</title>
+		<link href="https://github.com/5HT/n2o" />
+		<id>urn:uuid:a6799a20-2fc8-11e5-95bb-a38533bf7909</id>
+		<updated>2015-07-21'T'16:50:50+00:00</updated>
+		<summary>N2O Web Frameowork JavaScript companion library</summary>
+	</entry>
+
+	<entry>
+		<title>Storage.js</title>
+		<link href="https://github.com/lcavadas/Storage.js" />
+		<id>urn:uuid:429c7530-2fc9-11e5-a078-47d1cf2cd721</id>
+		<updated>2015-07-21'T'16:53:59+00:00</updated>
+		<summary>JavaScript Library for Cross Browser Persistence using WebStorage (LocalStorage, SessionStorage, WebSQL and IndexedDB) for all browsers.</summary>
+	</entry>
+
+	<entry>
+		<title>xr</title>
+		<link href="https://github.com/radiosilence/xr" />
+		<id>urn:uuid:429dd4c0-2fc9-11e5-a078-47d1cf2cd721</id>
+		<updated>2015-07-21'T'16:53:59+00:00</updated>
+		<summary>Ultra-simple promise based wrapper around XMLHttpRequest</summary>
+	</entry>
+
+	<entry>
+		<title>MagJS</title>
+		<link href="https://github.com/magnumjs/mag.js" />
+		<id>urn:uuid:48e373e0-6a97-11e5-a5d3-7d0a29c05afa</id>
+		<updated>2015-10-04'T'12:55:59+00:00</updated>
+		<summary>Elegant DOM bindings - Intuitive, tiny, super crazy fast, pure JavaScript 2 HTML component templating library</summary>
+	</entry>
+
+	<entry>
+		<title>mini-signals</title>
+		<link href="https://github.com/Hypercubed/mini-signals" />
+		<id>urn:uuid:6758b1a0-6a97-11e5-a5d3-7d0a29c05afa</id>
+		<updated>2015-10-04'T'12:55:59+00:00</updated>
+		<summary>signals, in JavaScript, fast</summary>
+	</entry>
+
+	<entry>
+		<title>SimpleScrollbar</title>
+		<link href="https://github.com/buzinas/simple-scrollbar" />
+		<id>urn:uuid:7ced98a0-6a97-11e5-a5d3-7d0a29c05afa</id>
+		<updated>2015-10-04'T'12:55:59+00:00</updated>
+		<summary>Very simple vanilla javascript library for creating a custom scrollbar cross-browser and cross-devices</summary>
+	</entry>
+
+	<entry>
+		<title>tplize</title>
+		<link href="https://github.com/alxgutnikov/tplize" />
+		<id>urn:uuid:7cee0dd0-6a97-11e5-a5d3-7d0a29c05afa</id>
+		<updated>2015-10-04'T'12:55:59+00:00</updated>
+		<summary>A ~2kb lib for quickly prototyping templated content</summary>
+	</entry>
+
+	<entry>
+		<title>FinnishSSN</title>
+		<link href="https://github.com/vkomulai/finnish-ssn" />
+		<id>urn:uuid:ee40cf70-6a9e-11e5-a937-4dcdde076cbe</id>
+		<updated>2015-10-04'T'13:50:48+00:00</updated>
+		<summary>Javascript library for validating and creating Finnish social security numbers.</summary>
+	</entry>
+
+	<entry>
+		<title>populate.js</title>
+		<link href="https://github.com/dannyvankooten/populate.js" />
+		<id>urn:uuid:237df5f0-6a9f-11e5-a937-4dcdde076cbe</id>
+		<updated>2015-10-04'T'13:50:48+00:00</updated>
+		<summary>Populate form fields from a JSON object. Extremely small, no dependencies.</summary>
+	</entry>
+
+	<entry>
+		<title>ViaJS</title>
+		<link href="https://github.com/abdi0987/ViaJS" />
+		<id>urn:uuid:c6ccd660-6c73-11e5-afaf-a193ce19c00d</id>
+		<updated>2015-10-06'T'21:46:55+00:00</updated>
+		<summary>Via is a small library that allows you to load content on to a page dynamically</summary>
+	</entry>
+
+	<entry>
+		<title>Soundbox</title>
+		<link href="https://github.com/sbrl/soundbox" />
+		<id>urn:uuid:df148150-6c73-11e5-afaf-a193ce19c00d</id>
+		<updated>2015-10-06'T'21:46:55+00:00</updated>
+		<summary>A super simple JS library for playing sound effects</summary>
+	</entry>
+
+	<entry>
+		<title>offside.js</title>
+		<link href="https://github.com/toomuchdesign/offside" />
+		<id>urn:uuid:f704e480-6c73-11e5-afaf-a193ce19c00d</id>
+		<updated>2015-10-06'T'21:46:55+00:00</updated>
+		<summary>A minimal ~3kb JavaScript kit without library dependencies to push things off-canvas using using just class manipulation.</summary>
+	</entry>
+
+	<entry>
+		<title>html-chain</title>
+		<link href="https://github.com/maael/html-chain" />
+		<id>urn:uuid:f70532a0-6c73-11e5-afaf-a193ce19c00d</id>
+		<updated>2015-10-06'T'21:46:55+00:00</updated>
+		<summary>A small javascript library to build DOM elements by chaining javascript functions</summary>
+	</entry>
+
+	<entry>
+		<title>Peppermint</title>
+		<link href="https://github.com/wilddeer/Peppermint" />
+		<id>urn:uuid:e88d6c40-6dec-11e5-b98d-15d4b4728911</id>
+		<updated>2015-10-08'T'18:45:54+00:00</updated>
+		<summary>Yet another touch slider. Fast, lightweight, extensible, works on everything.</summary>
+	</entry>
+
+	<entry>
+		<title>uniloc</title>
+		<link href="https://github.com/unicorn-standard/uniloc" />
+		<id>urn:uuid:0d9960c0-6f5f-11e5-98b2-9fc4a70bfb5b</id>
+		<updated>2015-10-10'T'14:56:10+00:00</updated>
+		<summary>Uniloc is a utility to match URIs to named routes, and to generate URIs given a route name and options</summary>
+	</entry>
+
+	<entry>
+		<title>GamepadMicro</title>
+		<link href="https://github.com/likethemammal/gamepad-micro/" />
+		<id>urn:uuid:229c40f0-6f5f-11e5-98b2-9fc4a70bfb5b</id>
+		<updated>2015-10-10'T'14:56:10+00:00</updated>
+		<summary>Micro library that interfaces with the HTML5 Gamepad API and publishes gamepad update events.</summary>
+	</entry>
+
+	<entry>
+		<title>hotkeys</title>
+		<link href="http://jaywcjlove.github.io/hotkeys/" />
+		<id>urn:uuid:644e17f0-7593-11e5-8bd6-ade2b909fe30</id>
+		<updated>2015-10-18'T'12:25:56+00:00</updated>
+		<summary>A simple micro-library for defining and dispatching keyboard shortcuts. It has no dependencies.</summary>
+	</entry>
+
+	<entry>
+		<title>MicroLib-Tabs</title>
+		<link href="https://github.com/VizuaaLOG/microlib-tabs" />
+		<id>urn:uuid:66509eb0-7593-11e5-8bd6-ade2b909fe30</id>
+		<updated>2015-10-18'T'12:25:56+00:00</updated>
+		<summary>A small library for easily creating tabbed content. Small markup and a single function.</summary>
+	</entry>
+
+	<entry>
+		<title>Sylvester</title>
+		<link href="http://sylvester.jcoglan.com/" />
+		<id>urn:uuid:e59ce5f0-7595-11e5-949c-cf2fbf48ac77</id>
+		<updated>2015-10-18'T'12:43:13+00:00</updated>
+		<summary>A js library for mathematics with vectors and matrices</summary>
+	</entry>
+
+	<entry>
+		<title>once.js</title>
+		<link href="https://github.com/daniellmb/once.js" />
+		<id>urn:uuid:ff712450-7595-11e5-98c3-41bcab539c09</id>
+		<updated>2015-10-18'T'12:44:34+00:00</updated>
+		<summary>Enforce that a CoffeeScript or JavaScript function can only be executed once.</summary>
+	</entry>
+
+	<entry>
+		<title>class-256.js</title>
+		<link href="https://github.com/koffeine/class-256.js" />
+		<id>urn:uuid:35bd33d0-8a10-11e5-9668-1d2f4314b987</id>
+		<updated>2015-11-13'T'14:08:39+00:00</updated>
+		<summary>Less than 256 byte JavaScript classical inheritance pattern library</summary>
+	</entry>
+
+	<entry>
+		<title>swiss-army-knife.js</title>
+		<link href="https://github.com/imaustink/swiss-army-knife" />
+		<id>urn:uuid:38e32bf0-8a10-11e5-9668-1d2f4314b987</id>
+		<updated>2015-11-13'T'14:08:39+00:00</updated>
+		<summary>Swiss Army Knife is a JavaScript library intended to make client side development a little less painfull.</summary>
+	</entry>
+
+	<entry>
+		<title>wallop.js</title>
+		<link href="https://github.com/peduarte/wallop" />
+		<id>urn:uuid:39133ca0-8a10-11e5-9668-1d2f4314b987</id>
+		<updated>2015-11-13'T'14:08:39+00:00</updated>
+		<summary>A minimal JS library for showing &amp; hiding things.</summary>
+	</entry>
+
+	<entry>
+		<title>isMobileOS.js</title>
+		<link href="https://github.com/RazorfishGermany/es6-module-isMobileOs" />
+		<id>urn:uuid:39242c90-8a10-11e5-9668-1d2f4314b987</id>
+		<updated>2015-11-13'T'14:08:39+00:00</updated>
+		<summary>A simple ECMAScript6 module which checks for mobile operating systems.</summary>
+	</entry>
+
+	<entry>
+		<title>blobcounter.js</title>
+		<link href="https://github.com/amirhkkh/blobcounter.js" />
+		<id>urn:uuid:5455a6c0-afbc-11e5-93a8-75a9cfaf1896</id>
+		<updated>2015-12-31'T'12:45:08+00:00</updated>
+		<summary>blobcounter.js helps you find blobs and shapes in an image</summary>
+	</entry>
+
+	<entry>
+		<title>xion</title>
+		<link href="https://github.com/danristea/xion" />
+		<id>urn:uuid:54572d60-afbc-11e5-93a8-75a9cfaf1896</id>
+		<updated>2015-12-31'T'12:45:08+00:00</updated>
+		<summary>Lightweight client-side MVC framework that uses JsonML syntax and virtual DOM diffing.</summary>
+	</entry>
+
+	<entry>
+		<title>FromNow</title>
+		<link href="https://github.com/lukeed/fromNow" />
+		<id>urn:uuid:5459c570-afbc-11e5-93a8-75a9cfaf1896</id>
+		<updated>2015-12-31'T'12:45:08+00:00</updated>
+		<summary>An extremely lightweight javascript utility for calculating readable time differences from now vs past or future dates.</summary>
+	</entry>
+
+	<entry>
+		<title>WorkerB</title>
+		<link href="https://github.com/lukeschaefer/WorkerB" />
+		<id>urn:uuid:56892890-afbc-11e5-93a8-75a9cfaf1896</id>
+		<updated>2015-12-31'T'12:45:08+00:00</updated>
+		<summary>Extremely simple inline Web Worker for easy multithreading in JS</summary>
+	</entry>
+
+	<entry>
+		<title>Avtomat</title>
+		<link href="https://github.com/Temoto-kun/avtomat" />
+		<id>urn:uuid:596a9da0-afbc-11e5-93a8-75a9cfaf1896</id>
+		<updated>2015-12-31'T'12:45:08+00:00</updated>
+		<summary>Non-deterministic finite state machine (with empty moves) implementation</summary>
+	</entry>
+
+	<entry>
+		<title>earley-parser-js</title>
+		<link href="https://github.com/lagodiuk/earley-parser-js" />
+		<id>urn:uuid:6bb2a390-afbc-11e5-93a8-75a9cfaf1896</id>
+		<updated>2015-12-31'T'12:45:08+00:00</updated>
+		<summary>General purpose context-free languages parser - Earley parser</summary>
+	</entry>
+
+	<entry>
+		<title>rounding.js</title>
+		<link href="https://github.com/top-quark/rounding.js" />
+		<id>urn:uuid:6c4609f0-afbc-11e5-93a8-75a9cfaf1896</id>
+		<updated>2015-12-31'T'12:45:08+00:00</updated>
+		<summary>Exact rounding with a choice of rounding algorithms</summary>
+	</entry>
+
+	<entry>
+		<title>BabelBox</title>
+		<link href="http://javascript-kurse-berlin.de/labs/babelbox.html" />
+		<id>urn:uuid:78a52730-afbc-11e5-93a8-75a9cfaf1896</id>
+		<updated>2015-12-31'T'12:45:08+00:00</updated>
+		<summary>i18n library that allows users to easily support multiple languages and requirejs support</summary>
+	</entry>
+
+	<entry>
+		<title>viiny-dragger</title>
+		<link href="http://giraysam.github.io/viiny-dragger/" />
+		<id>urn:uuid:9ce9ab20-afbc-11e5-93a8-75a9cfaf1896</id>
+		<updated>2015-12-31'T'12:45:08+00:00</updated>
+		<summary>vinny-dragger is a drag and drop plugin for javascript.</summary>
+	</entry>
+
+	<entry>
+		<title>nanoflux.js</title>
+		<link href="https://github.com/ohager/nanoflux" />
+		<id>urn:uuid:9cea9580-afbc-11e5-93a8-75a9cfaf1896</id>
+		<updated>2015-12-31'T'12:45:08+00:00</updated>
+		<summary>A very lightweight and dependency-free Flux implementation</summary>
+	</entry>
+
+	<entry>
+		<title>min.css</title>
+		<link href="https://github.com/w3core/min.css" />
+		<id>urn:uuid:9ceb0ab0-afbc-11e5-93a8-75a9cfaf1896</id>
+		<updated>2015-12-31'T'12:45:08+00:00</updated>
+		<summary>min.css is the tiniest, fastest and efficient JavaScript library for minifying CSS files. It works in node and the browser.</summary>
+	</entry>
+
+	<entry>
+		<title>smoke-signal</title>
+		<link href="https://github.com/StephanHoyer/smoke-signal" />
+		<id>urn:uuid:9ced0680-afbc-11e5-93a8-75a9cfaf1896</id>
+		<updated>2015-12-31'T'12:45:08+00:00</updated>
+		<summary>Simple small functional event observer for the browser and node.</summary>
+	</entry>
+
+	<entry>
+		<title>TinyDatePicker</title>
+		<link href="https://github.com/chrisdavies/tiny-date-picker" />
+		<id>urn:uuid:3804cf60-bf01-11e5-9115-15e2d5b56925</id>
+		<updated>2016-01-19'T'23:05:41+00:00</updated>
+		<summary>Small, zero-dependency date picker (~1500 bytes min+zipped)</summary>
+	</entry>
+
+	<entry>
+		<title>panorama</title>
+		<link href="https://github.com/pyrsmk/panorama" />
+		<id>urn:uuid:42337810-bf01-11e5-9115-15e2d5b56925</id>
+		<updated>2016-01-19'T'23:05:41+00:00</updated>
+		<summary>Lighten background images with Canvas2D</summary>
+	</entry>
+
+	<entry>
+		<title>Tlite</title>
+		<link href="http://chrisdavies.github.io/tlite/" />
+		<id>urn:uuid:5ac32880-bf01-11e5-9115-15e2d5b56925</id>
+		<updated>2016-01-19'T'23:05:41+00:00</updated>
+		<summary>Tooltips with CSS3 transitions (650 bytes of JS min+zipped)</summary>
+	</entry>
+
+	<entry>
+		<title>scriber</title>
+		<link href="https://jccazeaux.github.io/scriber" />
+		<id>urn:uuid:b95e24c0-e54f-11e5-b6dd-3f76bab08c63</id>
+		<updated>2016-03-08'T'17:03:44+00:00</updated>
+		<summary>A simple fluent library to write html DOM elements</summary>
+	</entry>
+
+	<entry>
+		<title>diapason</title>
+		<link href="https://jccazeaux.github.io/diapason" />
+		<id>urn:uuid:b9752f30-e54f-11e5-b6dd-3f76bab08c63</id>
+		<updated>2016-03-08'T'17:03:44+00:00</updated>
+		<summary>Asynchronous dependency injections that works on any promise framework</summary>
+	</entry>
+
+	<entry>
+		<title>window.module</title>
+		<link href="https://github.com/ziolko/window.module" />
+		<id>urn:uuid:b97974f0-e54f-11e5-b6dd-3f76bab08c63</id>
+		<updated>2016-03-08'T'17:03:44+00:00</updated>
+		<summary>Synchronous module system for browsers.</summary>
+	</entry>
+
+	<entry>
+		<title>razax.js</title>
+		<link href="https://github.com/razaibi/razaxjs" />
+		<id>urn:uuid:e475ca50-e54f-11e5-b6dd-3f76bab08c63</id>
+		<updated>2016-03-08'T'17:03:44+00:00</updated>
+		<summary>Simple way to make ajax requests with or without arguments in single line of code. Easy for novice users.</summary>
+	</entry>
+
+	<entry>
+		<title>TinyAnimate</title>
+		<link href="https://github.com/branneman/TinyAnimate" />
+		<id>urn:uuid:f0c820e0-e550-11e5-818c-d50290a56e2b</id>
+		<updated>2016-03-08'T'17:11:19+00:00</updated>
+		<summary>Animation micro library. Vanilla JavaScript.</summary>
+	</entry>
+
+	<entry>
+		<title>mom</title>
+		<link href="http://mom.js.org" />
+		<id>urn:uuid:35495c20-e551-11e5-a6af-15fc9ab4944d</id>
+		<updated>2016-03-08'T'17:13:55+00:00</updated>
+		<summary>Dynamic Loading of Javascript based on DOM elements.</summary>
+	</entry>
+
+	<entry>
+		<title>NodeList.js</title>
+		<link href="https://github.com/eorroe/NodeList.js" />
+		<id>urn:uuid:cce0feb0-71b7-11e6-8328-b1f051b0f177</id>
+		<updated>2016-09-03'T'09:21:27+00:00</updated>
+		<summary>Use the Native DOM APIs as easily as jQuery</summary>
+	</entry>
+
+	<entry>
+		<title>Fuse.js</title>
+		<link href="http://fusejs.io" />
+		<id>urn:uuid:cce40bf0-71b7-11e6-8328-b1f051b0f177</id>
+		<updated>2016-09-03'T'09:21:27+00:00</updated>
+		<summary>Lightweight fuzzy-search library</summary>
+	</entry>
+
+	<entry>
+		<title>xtypejs</title>
+		<link href="http://xtype.js.org" />
+		<id>urn:uuid:cd0f1390-71b7-11e6-8328-b1f051b0f177</id>
+		<updated>2016-09-03'T'09:21:27+00:00</updated>
+		<summary>Elegant, highly efficient data validation for JavaScript Apps</summary>
+	</entry>
+
+	<entry>
+		<title>pastafarian</title>
+		<link href="https://github.com/orbitbot/pastafarian" />
+		<id>urn:uuid:e8243660-71b7-11e6-8328-b1f051b0f177</id>
+		<updated>2016-09-03'T'09:21:27+00:00</updated>
+		<summary>A tiny event emitter-based finite state machine</summary>
+	</entry>
+
+	<entry>
+		<title>Lambda-30</title>
+		<link href="https://github.com/jdarling/lambda-30" />
+		<id>urn:uuid:e91721e0-71b7-11e6-8328-b1f051b0f177</id>
+		<updated>2016-09-03'T'09:21:27+00:00</updated>
+		<summary>A Lambda String implementation for Node.js that supports some ES6 (...rest, ()=&gt;{}, ()=&gt;retval) and a built in JSON encoder.</summary>
+	</entry>
+
+	<entry>
+		<title>henderson</title>
+		<link href="https://github.com/orbitbot/henderson" />
+		<id>urn:uuid:effae550-71b7-11e6-8328-b1f051b0f177</id>
+		<updated>2016-09-03'T'09:21:27+00:00</updated>
+		<summary>A tiny event emitter-based finite state machine with promises</summary>
+	</entry>
+
+	<entry>
+		<title>microTK</title>
+		<link href="https://microtk.io" />
+		<id>urn:uuid:f35a15e0-71b7-11e6-8328-b1f051b0f177</id>
+		<updated>2016-09-03'T'09:21:27+00:00</updated>
+		<summary>A tiny JavaScript framework</summary>
+	</entry>
+
+	<entry>
+		<title>boomerang-cache</title>
+		<link href="http://giraysam.github.io/boomerang-cache/" />
+		<id>urn:uuid:0d9c0bd0-7ffe-11e6-b541-3b275d98da93</id>
+		<updated>2016-09-21'T'13:18:48+00:00</updated>
+		<summary>boomerangCache is a client side caching library based on localStorage and sessionStorage</summary>
+	</entry>
+
+	<entry>
+		<title>Redux</title>
+		<link href="http://redux.js.org/" />
+		<id>urn:uuid:4dc9f470-43fc-11e7-bfb0-a3a6dd36ddcf</id>
+		<updated>2017-05-28'T'23:19:46+00:00</updated>
+		<summary>Predictable state container for JavaScript apps</summary>
+	</entry>
+
+	<entry>
+		<title>Tiny Browser Framework</title>
+		<link href="https://github.com/thedumbterminal/TinyBrowserFramework" />
+		<id>urn:uuid:e65e1720-4483-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>Minimal Client JS Framework</summary>
+	</entry>
+
+	<entry>
+		<title>body-scroll-freezer.js</title>
+		<link href="https://github.com/ramonvictor/body-scroll-freezer" />
+		<id>urn:uuid:e65f2890-4483-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>Dependency-free JS module to freeze body scroll when opening modal box</summary>
+	</entry>
+
+	<entry>
+		<title>Handorgel</title>
+		<link href="https://github.com/oncode/handorgel" />
+		<id>urn:uuid:e7b346e0-4483-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>Accessible W3C conform accordion written in ES6.</summary>
+	</entry>
+
+	<entry>
+		<title>FinnishBusinessIds</title>
+		<link href="https://github.com/vkomulai/finnish-business-ids" />
+		<id>urn:uuid:e963dd10-4483-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>Library for validating and creating Finnish business IDs (Y-tunnus, alv-numero).</summary>
+	</entry>
+
+	<entry>
+		<title>FinnishBankUtils</title>
+		<link href="https://github.com/vkomulai/finnish-bank-utils" />
+		<id>urn:uuid:e967d4b0-4483-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>Library for validating and creating Finnish IBAN bank account numbers and reference numbers.</summary>
+	</entry>
+
+	<entry>
+		<title>hyphen</title>
+		<link href="https://github.com/ytiurin/hyphen" />
+		<id>urn:uuid:e9c4e8d0-4483-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>Franklin M. Liang&apos;s hyphenation algorithm, implemented in Javascript</summary>
+	</entry>
+
+	<entry>
+		<title>EQCSS</title>
+		<link href="https://github.com/eqcss/eqcss/" />
+		<id>urn:uuid:ec254700-4483-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>EQCSS is a CSS reprocessor that introduces Scoped Styles, Element Queries, Container Queries, and new selectors like $parent and $prev and more</summary>
+	</entry>
+
+	<entry>
+		<title>dzt-url-parser</title>
+		<link href="https://github.com/dajbd/dzt-url-parser" />
+		<id>urn:uuid:ee82e610-4483-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>parse the url parameters(or location.search) to an object.</summary>
+	</entry>
+
+	<entry>
+		<title>tiny-mustache</title>
+		<link href="https://github.com/aishikaty/tiny-mustache" />
+		<id>urn:uuid:f3409530-4483-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>The smallest implementation of Mustache logic-less template engine.</summary>
+	</entry>
+
+	<entry>
+		<title>onfontload</title>
+		<link href="https://github.com/eduardomb/onfontload" />
+		<id>urn:uuid:f8e066f0-4483-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>Detects when fonts are loaded.</summary>
+	</entry>
+
+	<entry>
+		<title>displace.js</title>
+		<link href="https://catc.github.io/displace" />
+		<id>urn:uuid:033c8840-4484-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>Minimal javascript library for creating movable DOM elements</summary>
+	</entry>
+
+	<entry>
+		<title>Universal Router</title>
+		<link href="https://www.kriasoft.com/universal-router/" />
+		<id>urn:uuid:0e6b14c0-4484-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>A simple middleware-style router for isomorphic JavaScript web apps</summary>
+	</entry>
+
+	<entry>
+		<title>Prophet.js</title>
+		<link href="https://github.com/binarybaba/prophetjs" />
+		<id>urn:uuid:0ecbf970-4484-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>Vanilla JS library for clean toast notifications</summary>
+	</entry>
+
+	<entry>
+		<title>simple-require-loader</title>
+		<link href="https://github.com/isiahmeadows/simple-require-loader" />
+		<id>urn:uuid:0ee1f270-4484-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>A simple, dynamic, powerful module loader with hot swapping and optional remote loading support.</summary>
+	</entry>
+
+	<entry>
+		<title>microBench</title>
+		<link href="https://github.com/kmpatel/microBench/releases" />
+		<id>urn:uuid:0f6a8360-4484-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>Tiny, simple framework to benchmark your JS functions in browser console</summary>
+	</entry>
+
+	<entry>
+		<title>xPrototype</title>
+		<link href="https://github.com/reduardo7/xPrototype" />
+		<id>urn:uuid:0f6af890-4484-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>xPrototype is a fast, small and feature-rich JavaScript library. It makes things like for loop, for each, time out / interval, data types, sort / order, conversion, clone object, extend object, string manipulation much simpler with an easy-to-use API that works across a multitude of browsers and platforms.</summary>
+	</entry>
+
+	<entry>
+		<title>Animatelo</title>
+		<link href="https://gibbok.github.io/animatelo/" />
+		<id>urn:uuid:0f6af891-4484-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>Animatelo is a bunch of cool, fun, and cross-browser animations for you to use in your projects. This is a porting to Web Animation API of the fabulous animate.css project.</summary>
+	</entry>
+
 
 </feed>
