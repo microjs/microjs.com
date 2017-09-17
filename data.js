@@ -8,6 +8,14 @@
 // See examples below.
 
 module.exports = [
+   {
+    name: "VP PubSub",
+    github: "schubergphilis/vp-pubsub",
+    tags: ["pubsub", "publish", "subscribe", "message", "pub", "sub", "emitter", "event"],
+    description: "VP PubSub is a publish/subscribe library that supports message filtering",
+    url: "https://github.com/schubergphilis/vp-pubsub",
+    source: "https://raw.githubusercontent.com/schubergphilis/vp-pubsub/master/vp-pubsub.js"
+  },
   {
     name: "tinyModal",
     github: "juanbrujo/tinyModal",
@@ -114,32 +122,40 @@ module.exports = [
     description: "Lightweight modern jQuery-like DOM library",
     url: "http://www.bitstorm.org/javascript/miq/",
     source: "http://www.bitstorm.org/javascript/miq/miq.js"
-   },
-   {
+  },
+  {
     name: "RouterX",
     github: "bcoop713/routerx",
     tags: ["router", "frp", "rxjs", "cycle", "rx"],
     description: "A stupid simple functional reactive router built for use with Rx.js apps",
     url: "https://github.com/bcoop713/routerx",
     source: "https://raw.githubusercontent.com/bcoop713/routerx/master/routerx.js"
-   },
-   {
+  },
+  {
     name: "scriber",
     github: "jccazeaux/scriber",
     tags: ["html", "DOM", "builder", "scriber", "writer"],
     description: "A simple fluent library to write html DOM elements",
     url: "https://jccazeaux.github.io/scriber",
     source: "https://raw.githubusercontent.com/jccazeaux/scriber/master/src/scriber.js"
-   },
-   {
+  },
+  {
     name: "xflagable",
     github: "javimosch/xflagable",
     tags: ["flag", "event", "promise"],
     description: "Create flag promises",
     url: "https://github.com/javimosch/xflagable/",
     source: "https://raw.githubusercontent.com/javimosch/xflagable/master/xflagable.js"
-   },
-   {
+  },
+  {
+    name: "data-obs",
+    github: "lmettini/data-obs",
+    tags: ["observer", "events","lightweight"],
+    description: "Simple lightweigh javascript data observer",
+    url: "https://github.com/lmettini/data-obs",
+    source: "https://raw.githubusercontent.com/lmettini/data-obs/master/data-obs.js"
+  },
+  {
     name: "xtypejs",
     github: "lucono/xtypejs",
     tags: ["xtype", "type", "typeof", "data-type", "validation"],
@@ -217,6 +233,14 @@ module.exports = [
     description: "A test spy powered by es7 decorators and TypeScript ",
     url: "http://AtSpy.github.io",
     source: "https://raw.githubusercontent.com/AtSpy/AtSpy/master/dist/atspy.js"
+  },
+  {
+    name: "FrontExpress",
+    github: "camelaissani/frontexpress",
+    tags: ["frontexpress", "router", "routing", "express", "spa", "framework", "front-end", "tiny", "parameters", "querystring", "named", "path", "uri"],
+    description: "An Express.js-Style router for the front-end",
+    url: "https://www.frontexpressjs.com",
+    source: "https://raw.githubusercontent.com/camelaissani/frontexpress/master/frontexpress.js"
   },
   {
     name: "Tinyscrollbar",
@@ -498,6 +522,14 @@ module.exports = [
     description: "A client-side library that work like a Feed Reader, returning all datas of a post - title, text, link, etc",
     url: "https://github.com/evandrolg/Feed",
     source: "https://raw.githubusercontent.com/EvandroLG/Feed/master/src/feed.js"
+  },
+  {
+    name: "Stoor",
+    github: "tiaanduplessis/stoor",
+    tags: ["storage", "local-storage", "session-storage"],
+    description: "Local and Session storage wrapper with support for namespacing and multi get, set and remove",
+    url: "https://github.com/tiaanduplessis/stoor",
+    source: "https://raw.githubusercontent.com/tiaanduplessis/stoor/master/dist/stoor.js"
   },
   {
     name: "Dom.js",
@@ -1411,13 +1443,6 @@ module.exports = [
     description: "A tiny high-performance JavaScript 2D/3D polyline simplification library.",
     url: "http://mourner.github.io/simplify-js/",
     source: "https://raw.githubusercontent.com/mourner/simplify-js/master/simplify.js"
-  },
-  {
-    name: "TinyDOM",
-    tags: ["dom"],
-    description: "A very small DOM manipulation framework",
-    url: "https://github.com/ctult/TinyDOM",
-    source: "https://raw.githubusercontent.com/ctult/TinyDOM/master/tinyDOM.js"
   },
   {
     name: "DOMpteur",
@@ -2825,6 +2850,13 @@ module.exports = [
     source:"https://raw.githubusercontent.com/arextar/Vine/master/vine.js"
   },
   {
+    name: "Speedball",
+    tags: ["di", "ioc", "dependency injection", "inversion of control"],
+    description: "A flexible dependency injection library",
+    url: "https://github.com/cameron-martin/speedball",
+    source: "https://raw.githubusercontent.com/cameron-martin/speedball/master/dist/speedball.js"
+  },
+  {
     name: "micro-selector",
     tags: ["css"],
     description: "A micro, super fast, scope limited, javascript selector engine to be used anywhere",
@@ -3974,6 +4006,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/dciccale/parsy/master/lib/parsy.js"
   },
   {
+    name: "Talker.js",
+    github: "secondstreet/talker.js",
+    tags: ["events", "window.postMessage", "iframe", "promise", "communication", "message"],
+    description: "Simple event delegation library",
+    url: "https://github.com/secondstreet/talker.js",
+    source: "https://raw.githubusercontent.com/secondstreet/talker.js/master/src/talker.js"
+  },
+  {
     name: "Gator",
     github: "ccampbell/gator",
     tags: ["dom", "events", "delegation"],
@@ -4587,6 +4627,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/gamtiq/teo/master/dist/teo.js"
   },
   {
+    name: "simple-slider",
+    tags: ["simple", "carousel", "slider", "gallery", "slideshow", "javascript-carousel"],
+    description: "The 1kb JavaScript Carousel",
+    url: "https://github.com/ruyadorno/simple-slider",
+    source: "https://raw.githubusercontent.com/ruyadorno/simple-slider/master/dist/simpleslider.js"
+  },
+  {
     name: "easter.js",
     tags: ["easter-egg", "keys", "sequence"],
     description: "Easter eggs made easy.",
@@ -5077,6 +5124,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/marcojetson/type-ahead.js/master/type-ahead.js"
   },
   {
+    name: "dont-go",
+    tags: ["favicon", "title"],
+    description: "Change the title and/or favicon of the page when it is inactive.",
+    url: "https://github.com/tiaanduplessis/dont-go",
+    source: "https://raw.githubusercontent.com/tiaanduplessis/dont-go/master/lib/dont-go.js"
+  },
+  {
      name: "Storage.js",
      github: "lcavadas/Storage.js",
      tags: ["IndexedDB", "WebSQL", "localStorage", "sessionStorage", "localStorage", "storage", "database", "object", "store"],
@@ -5091,6 +5145,14 @@ module.exports = [
     description: "Ultra-simple promise based wrapper around XMLHttpRequest",
     url: "https://github.com/radiosilence/xr",
     source: "https://raw.githubusercontent.com/radiosilence/xr/master/src/xr.js"
+  },
+  {
+    name: "nano-markdown",
+    github: "Holixus/nano-markdown",
+    tags: ["markdown", "html", "nano", "micro", "microjs", "small"],
+    description: "A very small Markdown to HTML converter",
+    url: "https://github.com/Holixus/nano-markdown",
+    source: "https://raw.githubusercontent.com/Holixus/nano-markdown/master/index.js"
   },
   {
     name: "SimpleScrollbar",
@@ -5229,12 +5291,36 @@ module.exports = [
     source: "https://raw.githubusercontent.com/branneman/TinyAnimate/master/src/TinyAnimate.js"
   },
   {
+     name: "arenite",
+     github: "arenite/arenite",
+     tags: ["dependency", "inversion", "control", "injection", "ioc", "di", "require", "dependency injection", "provider", "IOC", "microkernel", "module", "framework", "service locator"],
+     description: "Inversion of Control / Dependency Injection Library",
+     url: "https://github.com/arenite/arenite",
+     source: "https://raw.githubusercontent.com/arenite/arenite/master/build/arenite.js"
+  },
+  {
+  	name: "ns.js",
+  	github: "Soldier-B/ns.js",
+  	tags: ["namespace","module","scope","simple","name","space"],
+  	description: "A small and simple Javascript namespace function",
+  	url: "https://github.com/Soldier-B/ns.js",
+  	source: "https://raw.githubusercontent.com/Soldier-B/ns.js/master/ns.js"
+  },
+  {
     name: "microTK",
     github: "microTK/microTK",
     tags:["dom", "events", "query selection"],
     description: "A tiny JavaScript framework",
     url: "https://microtk.io",
     source: "https://cdn.rawgit.com/microTK/microTK/master/dist/microTK.js"
+  },
+  {
+    name: "tinyfade.js",
+    github: "moqmar/tinyfade.js",
+    tags: ["javascript", "slideshow", "slider", "responsive", "fade", "image"],
+    description: "A tiny plain JavaScript library for fully responsive image slideshows.",
+    url: "https://moqmar.github.io/tinyfade.js/",
+    source: "https://raw.githubusercontent.com/moqmar/tinyfade.js/master/tinyfade.js"
   },
   {
     name: "boomerang-cache",
@@ -5314,5 +5400,27 @@ module.exports = [
     description: "xPrototype is a fast, small and feature-rich JavaScript library. It makes things like for loop, for each, time out / interval, data types, sort / order, conversion, clone object, extend object, string manipulation much simpler with an easy-to-use API that works across a multitude of browsers and platforms.",
     url: "https://github.com/reduardo7/xPrototype",
     source: "https://raw.githubusercontent.com/reduardo7/xPrototype/master/xprototype.js"
-  }
+  },
+  {
+    name: "microdi",
+    github: "yavorskiy/microdi",
+    tags: ["dependency", "injection", "di", "es6"],
+    description: "Micro helper for JavaScript dependency injection (DI).",
+    url: "https://github.com/yavorskiy/microdi",
+    source: "https://raw.githubusercontent.com/yavorskiy/microdi/master/index.js"
+  }, {
+    name: "SkateJS",
+    github: "skatejs/skatejs",
+    tags: ["javascript", "web", "component", "components", "custom", "elements", "shadow", "dom", "html", "virtual", "vdom", "jsx", "frp", "functional", "reactive", "programming"],
+    description: "SkateJS is a web component library designed to give you an augmentation of the web component specs focusing on a functional rendering pipeline, clean property / attribute semantics and a small footprint.",
+    url: "https://github.com/skatejs/skatejs",
+    source: "https://unpkg.com/skatejs"
+  }, {
+    name: "aph",
+    github: "kaisermann/aph",
+    tags: ["javascript", "DOM", "jQuery", "Manipulation"],
+    description: "A mini (1.2kb) DOM Manipulation library. A very slim and fast helper.",
+    url: "https://github.com/kaisermann/aph",
+    source: "https://raw.githubusercontent.com/kaisermann/aph/master/dist/aph.js"
+  },
 ];
