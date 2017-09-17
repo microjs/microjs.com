@@ -3360,6 +3360,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/javve/list.js/master/dist/list.js"
   },
   {
+    name: "ppo",
+    tags: ["utils", "tool", "util"],
+    description: "ppo is a super small and useful utils library for JavaScript ",
+    url: "https://a-jie.github.io/ppo/",
+    source: "https://raw.githubusercontent.com/a-jie/ppo/master/ppo.js"
+  },
+  {
     name: "Mediator.js",
     tags: ["utils", "pubsub", "notifications", "events", "async", "callbacks"],
     description: "Flexible pubsub-ish framework for handling namespaced events.",
