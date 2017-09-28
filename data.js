@@ -283,6 +283,22 @@ module.exports = [
     source: "https://raw.githubusercontent.com/lloydzhou/ease/master/ease.js"
   },
   {
+    name: "Nano ID",
+    github: "ai/nanoid",
+    tags: ["id", "uuid", "generator"],
+    description: "Secure URL-friendly unique string ID generator",
+    url: "https://github.com/ai/nanoid",
+    source: "https://raw.githubusercontent.com/ai/nanoid/master/index.js"
+  },
+  {
+    name: "Nano Events",
+    github: "ai/nanoevents",
+    tags: ["events", "EventEmitter", "pub/sub", "emit"],
+    description: "Simple and tiny event emitter library",
+    url: "https://github.com/ai/nanoevents",
+    source: "https://raw.githubusercontent.com/ai/nanoevents/master/index.js"
+  },
+  {
     name: "ClassManager",
     github: "kogarashisan/ClassManager",
     tags: ["language", "class", "inheritance", "multiple", "extend"],
