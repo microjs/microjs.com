@@ -5544,12 +5544,5 @@
 		<summary>Inversion of Control / Dependency Injection Library</summary>
 	</entry>
 
-	<entry>
-		<title>Trkl</title>
-		<link href="https://github.com/jbreckmckye/trkl" />
-		<id>urn:uuid:da4edb30-a505-11e7-99f2-db6499994a80</id>
-		<updated>2017-09-29'T'11:03:36+00:00</updated>
-		<summary>Reactive microlibrary with observables and Knockout-style computeds in 430 bytes</summary>
-	</entry>
 
 </feed>
