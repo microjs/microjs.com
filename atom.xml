@@ -5544,5 +5544,29 @@
 		<summary>Inversion of Control / Dependency Injection Library</summary>
 	</entry>
 
+	<entry>
+		<title>Nano Events</title>
+		<link href="https://github.com/ai/nanoevents" />
+		<id>urn:uuid:7b3977f0-a48c-11e7-9058-0bb159731235</id>
+		<updated>2017-09-28'T'20:34:49+00:00</updated>
+		<summary>Simple and tiny event emitter library</summary>
+	</entry>
+
+	<entry>
+		<title>Nano ID</title>
+		<link href="https://github.com/ai/nanoid" />
+		<id>urn:uuid:7b72d770-a48c-11e7-9058-0bb159731235</id>
+		<updated>2017-09-28'T'20:34:49+00:00</updated>
+		<summary>Secure URL-friendly unique string ID generator</summary>
+	</entry>
+
+	<entry>
+		<title>ppo</title>
+		<link href="https://a-jie.github.io/ppo/" />
+		<id>urn:uuid:9310add0-a48c-11e7-9058-0bb159731235</id>
+		<updated>2017-09-28'T'20:34:49+00:00</updated>
+		<summary>ppo is a super small and useful utils library for JavaScript </summary>
+	</entry>
+
 
 </feed>
