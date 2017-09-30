@@ -219,6 +219,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/lukeed/fromNow/master/fromNow.js"
   },
   {
+    name: "Trkl",
+    github: "jbreckmckye/trkl",
+    tags: ["observable", "frp", "functional reactive", "functional", "state", "knockout", "rx"],
+    description: "Reactive microlibrary with observables and Knockout-style computeds in 430 bytes (minified and gzipped)",
+    url: "https://github.com/jbreckmckye/trkl",
+    source: "https://raw.githubusercontent.com/jbreckmckye/trkl/master/trkl.js"
+  },
+  {
     name: "InversifyJS",
     github: "inversify/InversifyJS",
     tags: ["dependency", "inversion", "inversion", "control"],
