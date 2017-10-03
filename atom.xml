@@ -5568,5 +5568,29 @@
 		<summary>ppo is a super small and useful utils library for JavaScript </summary>
 	</entry>
 
+	<entry>
+		<title>Trkl</title>
+		<link href="https://github.com/jbreckmckye/trkl" />
+		<id>urn:uuid:f05194f0-a883-11e7-b970-050932f4daed</id>
+		<updated>2017-10-03'T'21:43:41+00:00</updated>
+		<summary>Reactive microlibrary with observables and Knockout-style computeds in 430 bytes (minified and gzipped)</summary>
+	</entry>
+
+	<entry>
+		<title>Hover</title>
+		<link href="https://github.com/jesseskinner/hover" />
+		<id>urn:uuid:d3682a80-a887-11e7-a2f8-fd5ee21e37bb</id>
+		<updated>2017-10-03'T'22:11:30+00:00</updated>
+		<summary>A very lightweight (anti-gravity?) data model and Flux store with actions and a state change listener.</summary>
+	</entry>
+
+	<entry>
+		<title>Hyperapp</title>
+		<link href="https://hyperapp.js.org" />
+		<id>urn:uuid:e0bb1da0-a887-11e7-a2f8-fd5ee21e37bb</id>
+		<updated>2017-10-03'T'22:11:30+00:00</updated>
+		<summary>Create scalable browser-based applications using a functional paradigm</summary>
+	</entry>
+
 
 </feed>
