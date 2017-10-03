@@ -72,6 +72,7 @@ module.exports = [
     url: "https://github.com/satrobit/blobcounter.js",
     source: "https://raw.githubusercontent.com/satrobit/blobcounter.js/master/blobcounter.js"
   },
+  /* gzipped file too big, 8.2 kB is not "micro", ignoring
   {
     name: "xion",
     github: "danristea/xion",
@@ -80,6 +81,7 @@ module.exports = [
     url: "https://github.com/danristea/xion",
     source: "https://raw.githubusercontent.com/danristea/xion/master/build/xion.dev.js"
   },
+  */
   {
     name: "uniloc",
     github: "unicorn-standard/uniloc",
@@ -219,6 +221,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/lukeed/fromNow/master/fromNow.js"
   },
   {
+    name: "Trkl",
+    github: "jbreckmckye/trkl",
+    tags: ["observable", "frp", "functional reactive", "functional", "state", "knockout", "rx"],
+    description: "Reactive microlibrary with observables and Knockout-style computeds in 430 bytes (minified and gzipped)",
+    url: "https://github.com/jbreckmckye/trkl",
+    source: "https://raw.githubusercontent.com/jbreckmckye/trkl/master/trkl.js"
+  },
+  {
     name: "InversifyJS",
     github: "inversify/InversifyJS",
     tags: ["dependency", "inversion", "inversion", "control"],
@@ -283,6 +293,22 @@ module.exports = [
     source: "https://raw.githubusercontent.com/lloydzhou/ease/master/ease.js"
   },
   {
+    name: "Nano ID",
+    github: "ai/nanoid",
+    tags: ["id", "uuid", "generator"],
+    description: "Secure URL-friendly unique string ID generator",
+    url: "https://github.com/ai/nanoid",
+    source: "https://raw.githubusercontent.com/ai/nanoid/master/index.js"
+  },
+  {
+    name: "Nano Events",
+    github: "ai/nanoevents",
+    tags: ["events", "EventEmitter", "pub/sub", "emit"],
+    description: "Simple and tiny event emitter library",
+    url: "https://github.com/ai/nanoevents",
+    source: "https://raw.githubusercontent.com/ai/nanoevents/master/index.js"
+  },
+  {
     name: "ClassManager",
     github: "kogarashisan/ClassManager",
     tags: ["language", "class", "inheritance", "multiple", "extend"],
@@ -328,7 +354,7 @@ module.exports = [
   },
   {
     name: "dual-emitter",
-    github: "tunnckoCore/dual-emitter",
+    github: "charlike/dual-emitter",
     tags: [
       "browser",
       "chrome",
@@ -359,8 +385,8 @@ module.exports = [
       "data binding"
     ],
     description: "Cross-browser (and IE8) + node.js event emitter in 35 lines. Invoke custom or DOM event. Useful for two-way data-binding!!",
-    url: "https://github.com/tunnckoCore/dual-emitter",
-    source: "https://raw.githubusercontent.com/tunnckoCore/dual-emitter/master/dist/dual-emitter.js"
+    url: "https://github.com/charlike/dual-emitter",
+    source: "https://raw.githubusercontent.com/charlike/dual-emitter/master/dist/dual-emitter.js"
   },
   {
     name: "Muject",
@@ -408,11 +434,11 @@ module.exports = [
   },
   {
     name: "VanillaMasker",
-    github: "BankFacil/vanilla-masker",
+    github: "vanilla-masker/vanilla-masker",
     tags: ["mask input", "mask", "vanilla"],
     description: "VanillaMasker is a pure javascript mask input",
-    url: "http://bankfacil.github.io/vanilla-masker/",
-    source: "https://raw.githubusercontent.com/BankFacil/vanilla-masker/master/lib/vanilla-masker.js"
+    url: "http://vanilla-masker.github.io/vanilla-masker/",
+    source: "https://raw.githubusercontent.com/vanilla-masker/vanilla-masker/master/lib/vanilla-masker.js"
   },
   {
     name: "once.js",
@@ -797,8 +823,8 @@ module.exports = [
     source: "https://raw.githubusercontent.com/brophdawg11/Automator.js/master/automator.js"
   },
   {
-    name: "Hoverboard",
-    github: "jesseskinner/hoverboard",
+    name: "Hover",
+    github: "jesseskinner/hover",
     tags: ["Hoverboard", "Flux", "React", "store", "model", "data", "listener"],
     description: "A very lightweight (anti-gravity?) data model and Flux store with actions and a state change listener.",
     url: "https://github.com/jesseskinner/hover",
@@ -1024,11 +1050,11 @@ module.exports = [
   },
   {
     name: "remove.js",
-    github: "scrapmac/snippets",
+    github: "grssam/snippets",
     tags: ["string", "remove", "cleanup", "redundant", "gibberish", "trim"],
     description: "Small but powerful string cleanup and reduction library.",
-    url: "https://github.com/scrapmac/snippets/tree/master/remove.js",
-    source: "https://raw.githubusercontent.com/scrapmac/snippets/master/remove.js/remove.js"
+    url: "https://github.com/grssam/snippets/tree/master/remove.js",
+    source: "https://raw.githubusercontent.com/grssam/snippets/master/remove.js/remove.js"
   },
   {
     name: "Taggle.js",
@@ -1056,7 +1082,7 @@ module.exports = [
   },
   {
     name: "OneDollar.js",
-    github: "nok/onedollar-coffeescript",
+    github: "nok/onedollar-unistroke-coffee",
     tags: ["gesture", "recognition", "recognizer", "multitouch", "interactive", "input", "jquery"],
     description: "A JavaScript implementation of the &dollar;1 Gesture Recognizer, a two-dimensional template based gesture recognition",
     url: "https://github.com/nok/onedollar-unistroke-coffee",
@@ -2471,10 +2497,11 @@ module.exports = [
   },
   {
     name: "VanillaModal",
+    github: "benceg/vanilla-modal",
     tags: ["modal", "es6"],
     description: "A flexible, dependency-free CSS-powered modal built using ECMAScript 6.",
-    url: "https://github.com/thephuse/vanilla-modal",
-    source: "https://raw.githubusercontent.com/thephuse/vanilla-modal/master/dist/vanilla-modal.js"
+    url: "https://github.com/benceg/vanilla-modal",
+    source: "https://raw.githubusercontent.com/benceg/vanilla-modal/master/dist/vanilla-modal.js"
   },
   {
     name: "functional.js",
@@ -2638,7 +2665,7 @@ module.exports = [
   },
   {
     name: "Metamorph.js",
-    gitub: "tomhuda/metamorph.js",
+    github: "tomhuda/metamorph.js",
     tags: ["string", "HTML", "DOM"],
     description: "Metamorph.js is a library that allows you to create a string of HTML, insert it into the DOM, and update the contents later.",
     url: "https://github.com/tomhuda/metamorph.js",
@@ -2674,10 +2701,11 @@ module.exports = [
   },
   {
     name: "Optiscroll",
+    github: "albertogasparin/Optiscroll",
     tags: ["scroll", "ui", "event", "touch", "scrollbar"],
     description: "Custom scrollbars for modern webapps. Supercharge the native scroll",
-    url: "https://github.com/wilsonfletcher/Optiscroll",
-    source: "https://raw.githubusercontent.com/wilsonfletcher/Optiscroll/master/dist/optiscroll.js"
+    url: "https://github.com/albertogasparin/Optiscroll",
+    source: "https://raw.githubusercontent.com/albertogasparin/Optiscroll/master/dist/optiscroll.js"
   },
   {
     name: "Transe.js",
@@ -3054,10 +3082,11 @@ module.exports = [
   },
   {
     name: "Cookie Monster",
+    github: "firstandthird/cookie-monster",
     tags: ["cookies", "data", "store"],
     description: "A lightweight cookie library",
-    url: "https://github.com/jgallen23/cookie-monster",
-    source: "https://raw.githubusercontent.com/jgallen23/cookie-monster/master/dist/cookie-monster.js"
+    url: "https://github.com/firstandthird/cookie-monster",
+    source: "https://raw.githubusercontent.com/firstandthird/cookie-monster/master/dist/cookie-monster.js"
   },
   {
     name: "EditrJS",
@@ -3170,6 +3199,14 @@ module.exports = [
      source: "https://raw.githubusercontent.com/Hypercubed/mini-signals/master/browser.js"
   },
   {
+     name: "Hyperapp",
+     github: "hyperapp/hyperapp",
+     tags: ["dom", "framework", "elm"],
+     description: "Create scalable browser-based applications using a functional paradigm",
+     url: "https://hyperapp.js.org",
+     source: "https://cdn.jsdelivr.net/npm/hyperapp@latest/dist/hyperapp.js"
+  },
+  {
     name: "html5tooltips.js",
     tags: ["ui", "tooltips", "hints", "html5", "css3", "animation"],
     description: "Light and clean tooltips with CSS3 animation",
@@ -3193,10 +3230,11 @@ module.exports = [
   },
   {
     name: "aug",
+    github: "firstandthird/aug",
     tags: ["extend", "augment"],
     description: "A object extend utility",
-    url: "https://github.com/jgallen23/aug",
-    source: "https://raw.githubusercontent.com/jgallen23/aug/master/dist/aug.js"
+    url: "https://github.com/firstandthird/aug",
+    source: "https://raw.githubusercontent.com/firstandthird/aug/master/index.js"
   },
   {
     name: "path.js",
@@ -3358,6 +3396,13 @@ module.exports = [
     description: "Add search, sort and flexibility to plain HTML lists (div, ul, table, everything!).",
     url: "http://listjs.com",
     source: "https://raw.githubusercontent.com/javve/list.js/master/dist/list.js"
+  },
+  {
+    name: "ppo",
+    tags: ["utils", "tool", "util"],
+    description: "ppo is a super small and useful utils library for JavaScript ",
+    url: "https://a-jie.github.io/ppo/",
+    source: "https://raw.githubusercontent.com/a-jie/ppo/master/ppo.js"
   },
   {
     name: "Mediator.js",
@@ -3595,8 +3640,8 @@ module.exports = [
     name: "lostorage.js",
     tags: ["storage", "localStorage", "sessionStorage"],
     description: "Client-side storage the way it should be - using the HTML5 localStorage API. lostorage.js allows you to save any kind of data.",
-    url: "https://github.com/florian/lostorage.js",
-    source: "https://raw.githubusercontent.com/florian/loStorage.js/master/src/loStorage.js"
+    url: "https://github.com/florian/xStore",
+    source: "https://raw.githubusercontent.com/florian/xStore/master/src/xStore.js"
   },
   {
     name: "guggenheim.js",
@@ -4142,10 +4187,11 @@ module.exports = [
   },
   {
     name: "Anim",
+    github: "relay-zz/anim",
     tags: ["css", "animation"],
     description: "A bare bones animation library",
-    url: "https://github.com/relay/anim",
-    source: "https://raw.githubusercontent.com/relay/anim/master/anim.js"
+    url: "https://github.com/relay-zz/anim",
+    source: "https://raw.githubusercontent.com/relay-zz/anim/master/anim.js"
   },
   {
     name: "Check.js",
@@ -4656,17 +4702,18 @@ module.exports = [
   },
   {
     name: "trier.js",
+    github: "philbooth/tryer",
     tags: ["repeat", "retry", "predicate", "conditional", "invocation"],
     description: "Because everyone loves a trier! Conditional and repeated task invocation for node and browser.",
-    url: "https://github.com/philbooth/trier.js",
-    source: "https://raw.githubusercontent.com/philbooth/trier.js/master/src/trier.js"
+    url: "https://github.com/philbooth/tryer",
+    source: "https://raw.githubusercontent.com/philbooth/tryer/master/src/trier.js"
   },
   {
     name: "gameloop.js",
     tags: ["games"],
     description: "Very simple library to create game loop.",
-    url: "https://github.com/t4pczan/gameloop.js",
-    source: "https://raw.githubusercontent.com/t4pczan/gameloop.js/master/gameloop.js"
+    url: "https://github.com/rkamil/gameloop.js",
+    source: "https://raw.githubusercontent.com/rkamil/gameloop.js/master/gameloop.js"
   },
   {
     name: "FastActive",
@@ -4759,8 +4806,8 @@ module.exports = [
     name: "Grapnel.js",
     tags: ["grapnel", "route", "routing", "router", "hash", "anchor", "tiny", "require", "named", "parameters"],
     description: "The smallest (1100 bytes gzipped!) JavaScript Router with Named Parameters",
-    url: "https://github.com/bytecipher/grapnel",
-    source: "https://raw.githubusercontent.com/bytecipher/grapnel/master/src/grapnel.js"
+    url: "https://github.com/baseprime/grapnel",
+    source: "https://raw.githubusercontent.com/baseprime/grapnel/master/src/grapnel.js"
   },
   {
     name: "Nerve",
@@ -4916,10 +4963,11 @@ module.exports = [
   },
   {
      name: "clone",
+     github: "pvorb/clone",
      tags: ["clone", "copy", "duplicate"],
      description: "Clones/copies arbitrary objects recursively",
-     url: "https://github.com/pvorb/node-clone",
-     source: "https://raw.githubusercontent.com/pvorb/node-clone/master/clone.js"
+     url: "https://github.com/pvorb/clone",
+     source: "https://raw.githubusercontent.com/pvorb/clone/master/clone.js"
   },
   {
      name: "tag",
@@ -5164,11 +5212,11 @@ module.exports = [
   },
   {
     name: "tplize",
-    github: "alxgutnikov/tplize",
+    github: "gutnikov/tplize",
     tags: ["templates"],
     description: "A ~2kb lib for quickly prototyping templated content",
-    url: "https://github.com/alxgutnikov/tplize",
-    source: "https://raw.githubusercontent.com/alxgutnikov/tplize/master/index.js"
+    url: "https://github.com/gutnikov/tplize",
+    source: "https://raw.githubusercontent.com/gutnikov/tplize/master/index.js"
   },
   {
     name: "populate.js",
