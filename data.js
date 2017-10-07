@@ -8,6 +8,14 @@
 // See examples below.
 
 module.exports = [
+    {
+    name: "sprites.js",
+    github: "wisniewski94/sprites.js",
+    tags: ["sprite", "canvas", "sprites.js", "requestAnimationFrame", "raf", "front-end", "frontend", "javascript"],
+    description: "Sprites.js is simple canvas sprites animation library. No setTimeout() or setInterval(). Just rAF.",
+    url: "https://github.com/wisniewski94/sprites.js",
+    source: "https://raw.githubusercontent.com/wisniewski94/sprites.js/master/sprites.js"
+  },
    {
     name: "VP PubSub",
     github: "schubergphilis/vp-pubsub",
