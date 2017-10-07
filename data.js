@@ -8,6 +8,14 @@
 // See examples below.
 
 module.exports = [
+  {
+    name: "Combo.js",
+    github: "combojs/combo-js",
+    tags: ["component", "framework", "ui", "templating"],
+    description: "A lightweight library for building user interfaces",
+    url: "https://combojs.com/",
+    source: "https://github.com/combojs/combo-js/blob/master/dist/combo.full.js"
+  },	
    {
     name: "VP PubSub",
     github: "schubergphilis/vp-pubsub",
