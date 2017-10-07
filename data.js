@@ -5470,5 +5470,12 @@ module.exports = [
     description: "A mini (1.2kb) DOM Manipulation library. A very slim and fast helper.",
     url: "https://github.com/kaisermann/aph",
     source: "https://raw.githubusercontent.com/kaisermann/aph/master/dist/aph.js"
+  }, {
+    name: "tiv",
+    github: "kucukharf/tiv",
+    tags: ["javascript", "Validation"],
+    description: "1kb JavaScript Identify Number Validater.",
+    url: "https://github.com/kucukharf/tiv",
+    source: "https://github.com/kucukharf/tiv/blob/master/tiv.min.js"
   },
 ];
