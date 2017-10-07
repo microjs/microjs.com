@@ -5478,4 +5478,12 @@ module.exports = [
     url: "https://github.com/kucukharf/tiv",
     source: "https://github.com/kucukharf/tiv/blob/master/tiv.min.js"
   },
+  {
+    name: "tplite",
+    github: "lloyd/tplite",
+    tags: ["component", "template", "event"],
+    description: "Component based on micro javascript template engine without dependency.",
+    url: "https://github.com/lloydzhou/tplite",
+    source: "https://github.com/lloydzhou/tplite/blob/master/lib/tplite-all.js"
+  }
 ];
