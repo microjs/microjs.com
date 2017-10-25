@@ -205,6 +205,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/tbleckert/location-init/master/index.js"
   },
   {
+    name: "indent.js",
+    github: "zebzhao/indent.js",
+    tags: ["indent", "autoindent", "indentation", "jsbeautify"],
+    description: "Pure indentation of JS, CSS, HTML code and nothing extra.",
+    url: "https://github.com/zebzhao/indent.js",
+    source: "https://raw.githubusercontent.com/zebzhao/indent.js/master/lib/indent.js"
+  },
+  {
     name: "Handorgel",
     github: "oncode/handorgel",
     tags: ["handorgel", "accordion", "tabs", "toggle", "collapse"],
