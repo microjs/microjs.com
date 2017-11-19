@@ -550,6 +550,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/VizuaaLOG/microlib-tabs/master/dist/tabs.microlib-latest.js"
   },
   {
+    name: "Chaintastic",
+    tags: ["data", "functional", "chain"],
+    description: "Create chainable sync/async APIs easily",
+    url: "https://github.com/ezakto/chaintastic",
+    source: "https://raw.githubusercontent.com/ezakto/chaintastic/master/lib/chaintastic.js"
+  },
+  {
     name: "Feed",
     github: "evandrolg/Feed",
     tags: ["feed", "rss", "feed reader", "client-side"],
