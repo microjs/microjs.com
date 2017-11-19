@@ -33,12 +33,12 @@ module.exports = [
     source: "https://github.com/juanbrujo/tinyModal/blob/master/src/tinyModal.js"
   },
   {
-  	name: "NodeList.js",
-  	github: "eorroe/NodeList.js",
-  	tags: ["DOM", "NodeList"],
-  	description: "Use the Native DOM APIs as easily as jQuery",
-  	url: "https://github.com/eorroe/NodeList.js",
-  	source: "https://raw.githubusercontent.com/eorroe/NodeList.js/master/NodeList.js"
+      name: "NodeList.js",
+      github: "eorroe/NodeList.js",
+      tags: ["DOM", "NodeList"],
+      description: "Use the Native DOM APIs as easily as jQuery",
+      url: "https://github.com/eorroe/NodeList.js",
+      source: "https://raw.githubusercontent.com/eorroe/NodeList.js/master/NodeList.js"
   },
   {
     name: "Dragula",
@@ -910,12 +910,12 @@ module.exports = [
     source: "https://raw.githubusercontent.com/EvandroLG/selecting/master/src/selecting.js"
   },
   {
-	name: "Avtomat",
-	github: "Temoto-kun/avtomat",
-	tags: ["automaton", "finite-state", "machine", "deterministic","non-deterministic", "input", "event"],
-	description: "Non-deterministic finite state machine (with empty moves) implementation",
-	url: "https://github.com/Temoto-kun/avtomat",
-	source: "https://raw.githubusercontent.com/Temoto-kun/avtomat/master/src/avtomat.js"
+    name: "Avtomat",
+    github: "Temoto-kun/avtomat",
+    tags: ["automaton", "finite-state", "machine", "deterministic","non-deterministic", "input", "event"],
+    description: "Non-deterministic finite state machine (with empty moves) implementation",
+    url: "https://github.com/Temoto-kun/avtomat",
+    source: "https://raw.githubusercontent.com/Temoto-kun/avtomat/master/src/avtomat.js"
   },
   {
     name: "store",
@@ -2717,10 +2717,10 @@ module.exports = [
   },
   {
     name: "Soundbox",
-	tags: ["sound", "audio", "play", "media"],
-	description: "A super simple JS library for playing sound effects",
-	url: "https://github.com/sbrl/soundbox",
-	source: "https://raw.githubusercontent.com/sbrl/soundbox/master/soundbox.js"
+    tags: ["sound", "audio", "play", "media"],
+    description: "A super simple JS library for playing sound effects",
+    url: "https://github.com/sbrl/soundbox",
+    source: "https://raw.githubusercontent.com/sbrl/soundbox/master/soundbox.js"
   },
   {
     name: "Optiscroll",
@@ -5015,6 +5015,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/kylepaulsen/NanoModal/master/nanomodal.js"
   },
   {
+    name: "pure-dialog",
+    github: "john-doherty/pure-dialog",
+    tags: ["modal", "dialog", "popup", "pop under", "alert"],
+    description: "Pure JavaScript modal dialog designed to simplify the creation of dialogs in Web and Hybrid Mobile apps",
+    url: "https://github.com/john-doherty/pure-dialog",
+    source: "https://raw.githubusercontent.com/john-doherty/pure-dialog/master/dist/pure-dialog.min.js"
+  },
+  {
     name: "dom-i18n",
     github: "ruyadorno/dom-i18n",
     tags: ["i18n", "dom", "translation", "multilingual", "html", "language", "internationalization"],
@@ -5370,12 +5378,12 @@ module.exports = [
      source: "https://raw.githubusercontent.com/arenite/arenite/master/build/arenite.js"
   },
   {
-  	name: "ns.js",
-  	github: "Soldier-B/ns.js",
-  	tags: ["namespace","module","scope","simple","name","space"],
-  	description: "A small and simple Javascript namespace function",
-  	url: "https://github.com/Soldier-B/ns.js",
-  	source: "https://raw.githubusercontent.com/Soldier-B/ns.js/master/ns.js"
+      name: "ns.js",
+      github: "Soldier-B/ns.js",
+      tags: ["namespace","module","scope","simple","name","space"],
+      description: "A small and simple Javascript namespace function",
+      url: "https://github.com/Soldier-B/ns.js",
+      source: "https://raw.githubusercontent.com/Soldier-B/ns.js/master/ns.js"
   },
   {
     name: "microTK",
