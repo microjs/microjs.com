@@ -5020,7 +5020,7 @@ module.exports = [
     tags: ["modal", "dialog", "popup", "pop under", "alert"],
     description: "Pure JavaScript modal dialog designed to simplify the creation of dialogs in Web and Hybrid Mobile apps",
     url: "https://github.com/john-doherty/pure-dialog",
-    source: "https://raw.githubusercontent.com/john-doherty/pure-dialog/master/dist/pure-dialog.min.js"
+    source: "https://raw.githubusercontent.com/john-doherty/pure-dialog/master/src/pure-dialog.js"
   },
   {
     name: "dom-i18n",
