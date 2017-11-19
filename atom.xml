@@ -5592,5 +5592,37 @@
 		<summary>Create scalable browser-based applications using a functional paradigm</summary>
 	</entry>
 
+	<entry>
+		<title>sprites.js</title>
+		<link href="https://github.com/wisniewski94/sprites.js" />
+		<id>urn:uuid:d8ba3a50-cd3a-11e7-b438-f3dc260fbf29</id>
+		<updated>2017-11-19'T'15:03:37+00:00</updated>
+		<summary>Sprites.js is simple canvas sprites animation library. No setTimeout() or setInterval(). Just rAF.</summary>
+	</entry>
+
+	<entry>
+		<title>indent.js</title>
+		<link href="https://github.com/zebzhao/indent.js" />
+		<id>urn:uuid:da178060-cd3a-11e7-b438-f3dc260fbf29</id>
+		<updated>2017-11-19'T'15:03:37+00:00</updated>
+		<summary>Pure indentation of JS, CSS, HTML code and nothing extra.</summary>
+	</entry>
+
+	<entry>
+		<title>Chaintastic</title>
+		<link href="https://github.com/ezakto/chaintastic" />
+		<id>urn:uuid:dc1e4ce0-cd3a-11e7-b438-f3dc260fbf29</id>
+		<updated>2017-11-19'T'15:03:37+00:00</updated>
+		<summary>Create chainable sync/async APIs easily</summary>
+	</entry>
+
+	<entry>
+		<title>pure-dialog</title>
+		<link href="https://github.com/john-doherty/pure-dialog" />
+		<id>urn:uuid:f84b9670-cd3a-11e7-b438-f3dc260fbf29</id>
+		<updated>2017-11-19'T'15:03:37+00:00</updated>
+		<summary>Pure JavaScript modal dialog designed to simplify the creation of dialogs in Web and Hybrid Mobile apps</summary>
+	</entry>
+
 
 </feed>
