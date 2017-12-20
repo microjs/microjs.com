@@ -7,6 +7,14 @@
 // also be just the raw JS if it's small enough, an array of source files or a ZIP file.
 // See examples below.
 module.exports = [{
+    name: "WebsocketPromisify",
+    github: "houd1ni/WebsocketPromisify",
+    tags: ["WebSockets", "WS", "Promise", "Socket", "REST", "Ajax", "Easy", "realtime", "Middleware", "Data", "transport", "API", "async"],
+    description: "Makes it easier to handle different data via WebSockets.",
+    url: "https://www.npmjs.com/package/wspromisify",
+    source: "https://raw.githubusercontent.com/houd1ni/WebsocketPromisify/master/dist/ws.esm.js"
+  },
+  {
     name: "sprites.js",
     github: "wisniewski94/sprites.js",
     tags: ["sprite", "canvas", "sprites.js", "requestAnimationFrame", "raf", "front-end", "frontend", "javascript"],
