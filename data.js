@@ -2693,5 +2693,13 @@ var MicroJS = [
     description: "A micro javascript library for managing an undo/redo history.",
     url: "http://chronology.wout.co.uk",
     source: "https://raw.github.com/wout/chronology.js/master/chronology.js"
+  },
+  {
+    name: "dollar-sign.js",
+    github: "wout/dollar-sign.js",
+    tags: ["ajax", "DOM", "event", "serialize", "classes", "vanilla"],
+    description: "A micro library eliminating the need for jQuery for most common tasks.",
+    url: "https://github.com/wout/dollar-sign.js",
+    source: "https://raw.githubusercontent.com/wout/dollar-sign.js/master/dollar-sign.js"
   }
 ];
