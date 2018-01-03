@@ -218,7 +218,7 @@ module.exports = [{
     tags: ["handorgel", "accordion", "tabs", "toggle", "collapse"],
     description: "Accessible W3C conform accordion written in ES6.",
     url: "https://github.com/oncode/handorgel",
-    source: "https://raw.githubusercontent.com/oncode/handorgel/master/lib/handorgel.js"
+    source: "https://raw.githubusercontent.com/oncode/handorgel/master/lib/js/umd/handorgel.js"
   },
   {
     name: "Freezer.js",
