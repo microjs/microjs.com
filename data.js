@@ -5517,5 +5517,13 @@ module.exports = [{
     description: "1kb JavaScript Identify Number Validater.",
     url: "https://github.com/kucukharf/tiv",
     source: "https://github.com/kucukharf/tiv/blob/master/tiv.min.js"
+  },
+  {
+    name: "JOSH",
+    github: "bikossor/JOSH",
+    tags: ["javascript", "css", "style", "stylesheet", "parse", "parser"],
+    description: "A vanilla JavaScript helper to parse JSON into CSS.",
+    url: "https://github.com/Bikossor/JOSH",
+    source: "https://github.com/Bikossor/JOSH/blob/master/dist/JOSH.min.js"
   }
 ];
