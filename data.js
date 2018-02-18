@@ -5533,5 +5533,13 @@ module.exports = [{
     description: "A vanilla javascript library for handling dates.",
     url: "https://github.com/Bikossor/RefinedDate",
     source: "https://github.com/Bikossor/RefinedDate/blob/master/dist/RefinedDate.min.js"
+  },
+  {
+    name: "PrismaJS",
+    github: "bikossor/PrismaJS",
+    tags: ["javascript", "color", "prisma"],
+    description: "A vanilla javascript color library.",
+    url: "https://github.com/Bikossor/PrismaJS",
+    source: "https://github.com/Bikossor/PrismaJS/blob/master/dist/Prisma.min.js"
   }
 ];
