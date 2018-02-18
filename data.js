@@ -5525,5 +5525,13 @@ module.exports = [{
     description: "A vanilla JavaScript helper to parse JSON into CSS.",
     url: "https://github.com/Bikossor/JOSH",
     source: "https://github.com/Bikossor/JOSH/blob/master/dist/JOSH.min.js"
+  },
+  {
+    name: "RefinedDate",
+    github: "bikossor/RefinedDate",
+    tags: ["javascript", "date", "refined", "time"],
+    description: "A vanilla javascript library for handling dates.",
+    url: "https://github.com/Bikossor/RefinedDate",
+    source: "https://github.com/Bikossor/RefinedDate/blob/master/dist/RefinedDate.min.js"
   }
 ];
