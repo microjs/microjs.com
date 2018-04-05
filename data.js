@@ -5511,6 +5511,14 @@ module.exports = [{
     source: "https://raw.githubusercontent.com/kaisermann/aph/master/dist/aph.js"
   },
   {
+    name: "FlexSearch",
+    github: "nextapps-de/flexsearch",
+    tags: ["javascript", "search engine", "full-text search", "elastic search"],
+    description: "Next-Generation full text search library with zero dependencies.",
+    url: "https://github.com/nextapps-de/flexsearch",
+    source: "https://cdn.rawgit.com/nextapps-de/flexsearch/master/flexsearch.min.js"
+  },
+  {
     name: "tiv",
     github: "kucukharf/tiv",
     tags: ["javascript", "Validation"],
