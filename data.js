@@ -15,6 +15,16 @@ module.exports = [{
     source: "https://raw.githubusercontent.com/wisniewski94/sprites.js/master/sprites.js"
   },
   {
+    name: "States.js",
+    github: "LightScale-Apps/StatesJS",
+    tags: ["DOM", "events", "easy", "CSS", "style", "handling"],
+      description: "States.ks is a small but powerful JS framework for easily handling DOM events",
+      url:
+      source:
+      
+      
+  },
+  {
     name: "VP PubSub",
     github: "schubergphilis/vp-pubsub",
     tags: ["pubsub", "publish", "subscribe", "message", "pub", "sub", "emitter", "event"],
