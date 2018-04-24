@@ -18,11 +18,9 @@ module.exports = [{
     name: "States.js",
     github: "LightScale-Apps/StatesJS",
     tags: ["DOM", "events", "easy", "CSS", "style", "handling"],
-      description: "States.ks is a small but powerful JS framework for easily handling DOM events",
-      url:
-      source:
-      
-      
+    description: "States.ks is a small but powerful JS framework for easily handling DOM events",
+    url: "https://github.com/LightScale-Apps/StatesJS",
+    source: "https://raw.githubusercontent.com/LightScale-Apps/StatesJS/master/States.min.js"  
   },
   {
     name: "VP PubSub",
