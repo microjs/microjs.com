@@ -1395,6 +1395,14 @@ module.exports = [{
     source: "https://raw.githubusercontent.com/Cedriking/is.js/master/is.js"
   },
   {
+    name: "wavyjs",
+    github: "northeastnerd/wavyjs",
+    tags: ["audio", "wav", "sound", "html5", "RIFF"],
+    description: "Zero dependency javascript RIFF Wav file manipulation routines.",
+    url: "https://github.com/northeastnerd/wavyjs",
+    source: "https://raw.githubusercontent.com/northeastnerd/wavyjs/master/wavyjs.min.js"
+  },                  
+  {
     name: "jBone",
     github: "kupriyanenko/jbone",
     tags: ["base", "events", "html", "performance", "backbone", "jquery", "attributes", "manipulations", "dom", "mobile"],
