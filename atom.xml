@@ -5248,5 +5248,381 @@
 		<summary>Dynamic Loading of Javascript based on DOM elements.</summary>
 	</entry>
 
+	<entry>
+		<title>NodeList.js</title>
+		<link href="https://github.com/eorroe/NodeList.js" />
+		<id>urn:uuid:cce0feb0-71b7-11e6-8328-b1f051b0f177</id>
+		<updated>2016-09-03'T'09:21:27+00:00</updated>
+		<summary>Use the Native DOM APIs as easily as jQuery</summary>
+	</entry>
+
+	<entry>
+		<title>Fuse.js</title>
+		<link href="http://fusejs.io" />
+		<id>urn:uuid:cce40bf0-71b7-11e6-8328-b1f051b0f177</id>
+		<updated>2016-09-03'T'09:21:27+00:00</updated>
+		<summary>Lightweight fuzzy-search library</summary>
+	</entry>
+
+	<entry>
+		<title>xtypejs</title>
+		<link href="http://xtype.js.org" />
+		<id>urn:uuid:cd0f1390-71b7-11e6-8328-b1f051b0f177</id>
+		<updated>2016-09-03'T'09:21:27+00:00</updated>
+		<summary>Elegant, highly efficient data validation for JavaScript Apps</summary>
+	</entry>
+
+	<entry>
+		<title>pastafarian</title>
+		<link href="https://github.com/orbitbot/pastafarian" />
+		<id>urn:uuid:e8243660-71b7-11e6-8328-b1f051b0f177</id>
+		<updated>2016-09-03'T'09:21:27+00:00</updated>
+		<summary>A tiny event emitter-based finite state machine</summary>
+	</entry>
+
+	<entry>
+		<title>Lambda-30</title>
+		<link href="https://github.com/jdarling/lambda-30" />
+		<id>urn:uuid:e91721e0-71b7-11e6-8328-b1f051b0f177</id>
+		<updated>2016-09-03'T'09:21:27+00:00</updated>
+		<summary>A Lambda String implementation for Node.js that supports some ES6 (...rest, ()=&gt;{}, ()=&gt;retval) and a built in JSON encoder.</summary>
+	</entry>
+
+	<entry>
+		<title>henderson</title>
+		<link href="https://github.com/orbitbot/henderson" />
+		<id>urn:uuid:effae550-71b7-11e6-8328-b1f051b0f177</id>
+		<updated>2016-09-03'T'09:21:27+00:00</updated>
+		<summary>A tiny event emitter-based finite state machine with promises</summary>
+	</entry>
+
+	<entry>
+		<title>microTK</title>
+		<link href="https://microtk.io" />
+		<id>urn:uuid:f35a15e0-71b7-11e6-8328-b1f051b0f177</id>
+		<updated>2016-09-03'T'09:21:27+00:00</updated>
+		<summary>A tiny JavaScript framework</summary>
+	</entry>
+
+	<entry>
+		<title>boomerang-cache</title>
+		<link href="http://giraysam.github.io/boomerang-cache/" />
+		<id>urn:uuid:0d9c0bd0-7ffe-11e6-b541-3b275d98da93</id>
+		<updated>2016-09-21'T'13:18:48+00:00</updated>
+		<summary>boomerangCache is a client side caching library based on localStorage and sessionStorage</summary>
+	</entry>
+
+	<entry>
+		<title>Redux</title>
+		<link href="http://redux.js.org/" />
+		<id>urn:uuid:4dc9f470-43fc-11e7-bfb0-a3a6dd36ddcf</id>
+		<updated>2017-05-28'T'23:19:46+00:00</updated>
+		<summary>Predictable state container for JavaScript apps</summary>
+	</entry>
+
+	<entry>
+		<title>Tiny Browser Framework</title>
+		<link href="https://github.com/thedumbterminal/TinyBrowserFramework" />
+		<id>urn:uuid:e65e1720-4483-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>Minimal Client JS Framework</summary>
+	</entry>
+
+	<entry>
+		<title>body-scroll-freezer.js</title>
+		<link href="https://github.com/ramonvictor/body-scroll-freezer" />
+		<id>urn:uuid:e65f2890-4483-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>Dependency-free JS module to freeze body scroll when opening modal box</summary>
+	</entry>
+
+	<entry>
+		<title>Handorgel</title>
+		<link href="https://github.com/oncode/handorgel" />
+		<id>urn:uuid:e7b346e0-4483-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>Accessible W3C conform accordion written in ES6.</summary>
+	</entry>
+
+	<entry>
+		<title>FinnishBusinessIds</title>
+		<link href="https://github.com/vkomulai/finnish-business-ids" />
+		<id>urn:uuid:e963dd10-4483-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>Library for validating and creating Finnish business IDs (Y-tunnus, alv-numero).</summary>
+	</entry>
+
+	<entry>
+		<title>FinnishBankUtils</title>
+		<link href="https://github.com/vkomulai/finnish-bank-utils" />
+		<id>urn:uuid:e967d4b0-4483-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>Library for validating and creating Finnish IBAN bank account numbers and reference numbers.</summary>
+	</entry>
+
+	<entry>
+		<title>hyphen</title>
+		<link href="https://github.com/ytiurin/hyphen" />
+		<id>urn:uuid:e9c4e8d0-4483-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>Franklin M. Liang&apos;s hyphenation algorithm, implemented in Javascript</summary>
+	</entry>
+
+	<entry>
+		<title>EQCSS</title>
+		<link href="https://github.com/eqcss/eqcss/" />
+		<id>urn:uuid:ec254700-4483-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>EQCSS is a CSS reprocessor that introduces Scoped Styles, Element Queries, Container Queries, and new selectors like $parent and $prev and more</summary>
+	</entry>
+
+	<entry>
+		<title>dzt-url-parser</title>
+		<link href="https://github.com/dajbd/dzt-url-parser" />
+		<id>urn:uuid:ee82e610-4483-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>parse the url parameters(or location.search) to an object.</summary>
+	</entry>
+
+	<entry>
+		<title>tiny-mustache</title>
+		<link href="https://github.com/aishikaty/tiny-mustache" />
+		<id>urn:uuid:f3409530-4483-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>The smallest implementation of Mustache logic-less template engine.</summary>
+	</entry>
+
+	<entry>
+		<title>onfontload</title>
+		<link href="https://github.com/eduardomb/onfontload" />
+		<id>urn:uuid:f8e066f0-4483-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>Detects when fonts are loaded.</summary>
+	</entry>
+
+	<entry>
+		<title>displace.js</title>
+		<link href="https://catc.github.io/displace" />
+		<id>urn:uuid:033c8840-4484-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>Minimal javascript library for creating movable DOM elements</summary>
+	</entry>
+
+	<entry>
+		<title>Universal Router</title>
+		<link href="https://www.kriasoft.com/universal-router/" />
+		<id>urn:uuid:0e6b14c0-4484-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>A simple middleware-style router for isomorphic JavaScript web apps</summary>
+	</entry>
+
+	<entry>
+		<title>Prophet.js</title>
+		<link href="https://github.com/binarybaba/prophetjs" />
+		<id>urn:uuid:0ecbf970-4484-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>Vanilla JS library for clean toast notifications</summary>
+	</entry>
+
+	<entry>
+		<title>simple-require-loader</title>
+		<link href="https://github.com/isiahmeadows/simple-require-loader" />
+		<id>urn:uuid:0ee1f270-4484-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>A simple, dynamic, powerful module loader with hot swapping and optional remote loading support.</summary>
+	</entry>
+
+	<entry>
+		<title>microBench</title>
+		<link href="https://github.com/kmpatel/microBench/releases" />
+		<id>urn:uuid:0f6a8360-4484-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>Tiny, simple framework to benchmark your JS functions in browser console</summary>
+	</entry>
+
+	<entry>
+		<title>xPrototype</title>
+		<link href="https://github.com/reduardo7/xPrototype" />
+		<id>urn:uuid:0f6af890-4484-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>xPrototype is a fast, small and feature-rich JavaScript library. It makes things like for loop, for each, time out / interval, data types, sort / order, conversion, clone object, extend object, string manipulation much simpler with an easy-to-use API that works across a multitude of browsers and platforms.</summary>
+	</entry>
+
+	<entry>
+		<title>Animatelo</title>
+		<link href="https://gibbok.github.io/animatelo/" />
+		<id>urn:uuid:0f6af891-4484-11e7-8478-fdff023c7791</id>
+		<updated>2017-05-29'T'15:31:34+00:00</updated>
+		<summary>Animatelo is a bunch of cool, fun, and cross-browser animations for you to use in your projects. This is a porting to Web Animation API of the fabulous animate.css project.</summary>
+	</entry>
+
+	<entry>
+		<title>VP PubSub</title>
+		<link href="https://github.com/schubergphilis/vp-pubsub" />
+		<id>urn:uuid:0f9d7650-9bd0-11e7-8eb9-7ff79cd92384</id>
+		<updated>2017-09-17'T'17:45:23+00:00</updated>
+		<summary>VP PubSub is a publish/subscribe library that supports message filtering</summary>
+	</entry>
+
+	<entry>
+		<title>data-obs</title>
+		<link href="https://github.com/lmettini/data-obs" />
+		<id>urn:uuid:10960720-9bd0-11e7-8eb9-7ff79cd92384</id>
+		<updated>2017-09-17'T'17:45:23+00:00</updated>
+		<summary>Simple lightweigh javascript data observer</summary>
+	</entry>
+
+	<entry>
+		<title>FrontExpress</title>
+		<link href="https://www.frontexpressjs.com" />
+		<id>urn:uuid:10ea68b0-9bd0-11e7-8eb9-7ff79cd92384</id>
+		<updated>2017-09-17'T'17:45:23+00:00</updated>
+		<summary>An Express.js-Style router for the front-end</summary>
+	</entry>
+
+	<entry>
+		<title>Stoor</title>
+		<link href="https://github.com/tiaanduplessis/stoor" />
+		<id>urn:uuid:145495c0-9bd0-11e7-8eb9-7ff79cd92384</id>
+		<updated>2017-09-17'T'17:45:23+00:00</updated>
+		<summary>Local and Session storage wrapper with support for namespacing and multi get, set and remove</summary>
+	</entry>
+
+	<entry>
+		<title>Speedball</title>
+		<link href="https://github.com/cameron-martin/speedball" />
+		<id>urn:uuid:2d073780-9bd0-11e7-8eb9-7ff79cd92384</id>
+		<updated>2017-09-17'T'17:45:23+00:00</updated>
+		<summary>A flexible dependency injection library</summary>
+	</entry>
+
+	<entry>
+		<title>Talker.js</title>
+		<link href="https://github.com/secondstreet/talker.js" />
+		<id>urn:uuid:3a83aba0-9bd0-11e7-8eb9-7ff79cd92384</id>
+		<updated>2017-09-17'T'17:45:23+00:00</updated>
+		<summary>Simple event delegation library</summary>
+	</entry>
+
+	<entry>
+		<title>simple-slider</title>
+		<link href="https://github.com/ruyadorno/simple-slider" />
+		<id>urn:uuid:421143a0-9bd0-11e7-8eb9-7ff79cd92384</id>
+		<updated>2017-09-17'T'17:45:23+00:00</updated>
+		<summary>The 1kb JavaScript Carousel</summary>
+	</entry>
+
+	<entry>
+		<title>nano-markdown</title>
+		<link href="https://github.com/Holixus/nano-markdown" />
+		<id>urn:uuid:47852360-9bd0-11e7-8eb9-7ff79cd92384</id>
+		<updated>2017-09-17'T'17:45:23+00:00</updated>
+		<summary>A very small Markdown to HTML converter</summary>
+	</entry>
+
+	<entry>
+		<title>dont-go</title>
+		<link href="https://github.com/tiaanduplessis/dont-go" />
+		<id>urn:uuid:47c5aed0-9bd0-11e7-8eb9-7ff79cd92384</id>
+		<updated>2017-09-17'T'17:45:23+00:00</updated>
+		<summary>Change the title and/or favicon of the page when it is inactive.</summary>
+	</entry>
+
+	<entry>
+		<title>ns.js</title>
+		<link href="https://github.com/Soldier-B/ns.js" />
+		<id>urn:uuid:491a4250-9bd0-11e7-8eb9-7ff79cd92384</id>
+		<updated>2017-09-17'T'17:45:23+00:00</updated>
+		<summary>A small and simple Javascript namespace function</summary>
+	</entry>
+
+	<entry>
+		<title>arenite</title>
+		<link href="https://github.com/arenite/arenite" />
+		<id>urn:uuid:49fbefc0-9bd0-11e7-8eb9-7ff79cd92384</id>
+		<updated>2017-09-17'T'17:45:23+00:00</updated>
+		<summary>Inversion of Control / Dependency Injection Library</summary>
+	</entry>
+
+	<entry>
+		<title>Nano Events</title>
+		<link href="https://github.com/ai/nanoevents" />
+		<id>urn:uuid:7b3977f0-a48c-11e7-9058-0bb159731235</id>
+		<updated>2017-09-28'T'20:34:49+00:00</updated>
+		<summary>Simple and tiny event emitter library</summary>
+	</entry>
+
+	<entry>
+		<title>Nano ID</title>
+		<link href="https://github.com/ai/nanoid" />
+		<id>urn:uuid:7b72d770-a48c-11e7-9058-0bb159731235</id>
+		<updated>2017-09-28'T'20:34:49+00:00</updated>
+		<summary>Secure URL-friendly unique string ID generator</summary>
+	</entry>
+
+	<entry>
+		<title>ppo</title>
+		<link href="https://a-jie.github.io/ppo/" />
+		<id>urn:uuid:9310add0-a48c-11e7-9058-0bb159731235</id>
+		<updated>2017-09-28'T'20:34:49+00:00</updated>
+		<summary>ppo is a super small and useful utils library for JavaScript </summary>
+	</entry>
+
+	<entry>
+		<title>Trkl</title>
+		<link href="https://github.com/jbreckmckye/trkl" />
+		<id>urn:uuid:f05194f0-a883-11e7-b970-050932f4daed</id>
+		<updated>2017-10-03'T'21:43:41+00:00</updated>
+		<summary>Reactive microlibrary with observables and Knockout-style computeds in 430 bytes (minified and gzipped)</summary>
+	</entry>
+
+	<entry>
+		<title>Hover</title>
+		<link href="https://github.com/jesseskinner/hover" />
+		<id>urn:uuid:d3682a80-a887-11e7-a2f8-fd5ee21e37bb</id>
+		<updated>2017-10-03'T'22:11:30+00:00</updated>
+		<summary>A very lightweight (anti-gravity?) data model and Flux store with actions and a state change listener.</summary>
+	</entry>
+
+	<entry>
+		<title>Hyperapp</title>
+		<link href="https://hyperapp.js.org" />
+		<id>urn:uuid:e0bb1da0-a887-11e7-a2f8-fd5ee21e37bb</id>
+		<updated>2017-10-03'T'22:11:30+00:00</updated>
+		<summary>Create scalable browser-based applications using a functional paradigm</summary>
+	</entry>
+
+	<entry>
+		<title>sprites.js</title>
+		<link href="https://github.com/wisniewski94/sprites.js" />
+		<id>urn:uuid:d8ba3a50-cd3a-11e7-b438-f3dc260fbf29</id>
+		<updated>2017-11-19'T'15:03:37+00:00</updated>
+		<summary>Sprites.js is simple canvas sprites animation library. No setTimeout() or setInterval(). Just rAF.</summary>
+	</entry>
+
+	<entry>
+		<title>indent.js</title>
+		<link href="https://github.com/zebzhao/indent.js" />
+		<id>urn:uuid:da178060-cd3a-11e7-b438-f3dc260fbf29</id>
+		<updated>2017-11-19'T'15:03:37+00:00</updated>
+		<summary>Pure indentation of JS, CSS, HTML code and nothing extra.</summary>
+	</entry>
+
+	<entry>
+		<title>Chaintastic</title>
+		<link href="https://github.com/ezakto/chaintastic" />
+		<id>urn:uuid:dc1e4ce0-cd3a-11e7-b438-f3dc260fbf29</id>
+		<updated>2017-11-19'T'15:03:37+00:00</updated>
+		<summary>Create chainable sync/async APIs easily</summary>
+	</entry>
+
+	<entry>
+		<title>pure-dialog</title>
+		<link href="https://github.com/john-doherty/pure-dialog" />
+		<id>urn:uuid:f84b9670-cd3a-11e7-b438-f3dc260fbf29</id>
+		<updated>2017-11-19'T'15:03:37+00:00</updated>
+		<summary>Pure JavaScript modal dialog designed to simplify the creation of dialogs in Web and Hybrid Mobile apps</summary>
+	</entry>
+
 
 </feed>

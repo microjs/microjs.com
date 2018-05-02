@@ -6,32 +6,96 @@
 // As per the README, the source should be a link to your unminified, raw, source. It can
 // also be just the raw JS if it's small enough, an array of source files or a ZIP file.
 // See examples below.
-
-module.exports = [
+module.exports = [{
+    name: "sprites.js",
+    github: "wisniewski94/sprites.js",
+    tags: ["sprite", "canvas", "sprites.js", "requestAnimationFrame", "raf", "front-end", "frontend", "javascript"],
+    description: "Sprites.js is simple canvas sprites animation library. No setTimeout() or setInterval(). Just rAF.",
+    url: "https://github.com/wisniewski94/sprites.js",
+    source: "https://raw.githubusercontent.com/wisniewski94/sprites.js/master/sprites.js"
+  },
   {
-  	name: "NodeList.js",
-  	github: "eorroe/NodeList.js",
-  	tags: ["DOM", "NodeList"],
-  	description: "Use the Native DOM APIs as easily as jQuery",
-  	url: "https://github.com/eorroe/NodeList.js",
-  	source: "https://github.com/eorroe/NodeList.js/blob/master/NodeList.js"
+    name: "VP PubSub",
+    github: "schubergphilis/vp-pubsub",
+    tags: ["pubsub", "publish", "subscribe", "message", "pub", "sub", "emitter", "event"],
+    description: "VP PubSub is a publish/subscribe library that supports message filtering",
+    url: "https://github.com/schubergphilis/vp-pubsub",
+    source: "https://raw.githubusercontent.com/schubergphilis/vp-pubsub/master/vp-pubsub.js"
+  },
+  {
+    name: "tinyModal",
+    github: "juanbrujo/tinyModal",
+    tags: ["modal", "javascript", "vanilla", "simple"],
+    description: "Clean, Fast, Modular and customizable Modal Window controller",
+    url: "http://juanbrujo.github.io/tinyModal/",
+    source: "https://github.com/juanbrujo/tinyModal/blob/master/src/tinyModal.js"
+  },
+  {
+    name: "NodeList.js",
+    github: "eorroe/NodeList.js",
+    tags: ["DOM", "NodeList"],
+    description: "Use the Native DOM APIs as easily as jQuery",
+    url: "https://github.com/eorroe/NodeList.js",
+    source: "https://raw.githubusercontent.com/eorroe/NodeList.js/master/NodeList.js"
+  },
+  {
+    name: "Dragula",
+    github: "bevacqua/dragula",
+    tags: ["Drag and Drop", "simple", "Library"],
+    description: "Drag and drop so simple it hurts",
+    url: "https://bevacqua.github.io/dragula/",
+    source: "https://github.com/bevacqua/dragula/blob/master/dragula.js"
+  },
+  {
+    name: "fuzzysearch",
+    github: "bevacqua/fuzzysearch",
+    tags: ["Lightweight", "Tiny", "fast", "fuzzy", "fuzzy-search", "search"],
+    description: "Tiny and blazing-fast fuzzy search in JavaScript",
+    url: "https://github.com/bevacqua/fuzzysearch",
+    source: "https://github.com/bevacqua/fuzzysearch/blob/master/index.js"
+  },
+  {
+    name: "Fuse.js",
+    github: "krisk/fuse",
+    tags: ["Lightweight", "fuzzy", "fuzzy-search", "search"],
+    description: "Lightweight fuzzy-search library",
+    url: "http://fusejs.io",
+    source: "https://raw.githubusercontent.com/krisk/Fuse/master/src/fuse.js"
+  },
+  {
+    name: "Tiny Browser Framework",
+    github: "thedumbterminal/TinyBrowserFramework",
+    tags: ["framework", "web", "websocket", "browser"],
+    description: "Minimal Client JS Framework",
+    url: "https://github.com/thedumbterminal/TinyBrowserFramework",
+    source: "https://raw.githubusercontent.com/thedumbterminal/TinyBrowserFramework/master/src/index.js"
+  },
+  {
+    name: "syrupjs",
+    github: "ahmed-musallam/syrupjs",
+    tags: ["pubsub", "component-interaction", "event", "jquery"],
+    description: "A tiny pub/sub jQuery micro-framework for distant component interaction",
+    url: "https://github.com/ahmed-musallam/syrupjs",
+    source: ["https://github.com/ahmed-musallam/syrupjs/blob/master/vendor/tiny-pub-sub.js","https://github.com/ahmed-musallam/syrupjs/blob/master/index.js"]
   },
   {
     name: "blobcounter.js",
-    github: "amirhkkh/blobcounter.js",
+    github: "satrobit/blobcounter.js",
     tags: ["blob", "image", "canvas", "processing", "2D", "blobcounter"],
     description: "blobcounter.js helps you find blobs and shapes in an image",
-    url: "https://github.com/amirhkkh/blobcounter.js",
-    source: "https://raw.githubusercontent.com/amirhkkh/blobcounter.js/master/blobcounter.js"
+    url: "https://github.com/satrobit/blobcounter.js",
+    source: "https://raw.githubusercontent.com/satrobit/blobcounter.js/master/blobcounter.js"
   },
+  /* gzipped file too big, 8.2 kB is not "micro", ignoring
   {
     name: "xion",
     github: "danristea/xion",
     tags: ["MVC", "JsonML", "diff", "DOM", "vtree"],
     description: "Lightweight client-side MVC framework that uses JsonML syntax and virtual DOM diffing.",
     url: "https://github.com/danristea/xion",
-    source: "https://raw.githubusercontent.com/danristea/xion/master/xion.js"
+    source: "https://raw.githubusercontent.com/danristea/xion/master/build/xion.dev.js"
   },
+  */
   {
     name: "uniloc",
     github: "unicorn-standard/uniloc",
@@ -41,23 +105,40 @@ module.exports = [
     source: "https://raw.githubusercontent.com/unicorn-standard/uniloc/master/uniloc.js"
   },
   {
+    name: "body-scroll-freezer.js",
+    github: "ramonvictor/body-scroll-freezer",
+    tags: ["scroll", "freeze", "modal", "scrolling", "lightbox", "performance"],
+    description: "Dependency-free JS module to freeze body scroll when opening modal box",
+    url: "https://github.com/ramonvictor/body-scroll-freezer",
+    source: "https://raw.githubusercontent.com/ramonvictor/body-scroll-freezer/master/src/body-scroll-freezer.js"
+  },
+  {
     name: "MagJS",
     github: "magnumjs/mag.js",
     tags: ["mvc framework", "mvc", "framework", "templating", "library", "component", "fast", "simple", "clean"],
     description: "Elegant DOM bindings - Intuitive, tiny, super crazy fast, pure JavaScript 2 HTML component templating library",
     url: "https://github.com/magnumjs/mag.js",
-     source: [ "https://raw.githubusercontent.com/magnumjs/mag.js/master/src/fill.js",
-              "https://raw.githubusercontent.com/magnumjs/mag.js/master/src/module.js",
-              "https://raw.githubusercontent.com/magnumjs/mag.js/master/src/render.js",
-              "https://raw.githubusercontent.com/magnumjs/mag.js/master/src/mag.js"]
+    source: ["https://raw.githubusercontent.com/magnumjs/mag.js/master/src/fill.js",
+      "https://raw.githubusercontent.com/magnumjs/mag.js/master/src/module.js",
+      "https://raw.githubusercontent.com/magnumjs/mag.js/master/src/render.js",
+      "https://raw.githubusercontent.com/magnumjs/mag.js/master/src/mag.js"
+    ]
   },
   {
     name: "ViaJS",
     github: "abdi0987/ViaJS",
-    tags: ["content","load","route","dynamic","browser","page","html"],
+    tags: ["content", "load", "route", "dynamic", "browser", "page", "html"],
     description: "Via is a small library that allows you to load content on to a page dynamically",
     url: "https://github.com/abdi0987/ViaJS",
     source: "https://raw.githubusercontent.com/abdi0987/ViaJS/master/lib/app.js"
+  },
+  {
+    name: "miq",
+    github: "edwinm/miq",
+    tags: ["jquery", "dom", "ajax"],
+    description: "Lightweight modern jQuery-like DOM library",
+    url: "http://www.bitstorm.org/javascript/miq/",
+    source: "http://www.bitstorm.org/javascript/miq/miq.js"
   },
   {
     name: "RouterX",
@@ -66,22 +147,38 @@ module.exports = [
     description: "A stupid simple functional reactive router built for use with Rx.js apps",
     url: "https://github.com/bcoop713/routerx",
     source: "https://raw.githubusercontent.com/bcoop713/routerx/master/routerx.js"
-   },
-   {
+  },
+  {
     name: "scriber",
     github: "jccazeaux/scriber",
     tags: ["html", "DOM", "builder", "scriber", "writer"],
     description: "A simple fluent library to write html DOM elements",
     url: "https://jccazeaux.github.io/scriber",
     source: "https://raw.githubusercontent.com/jccazeaux/scriber/master/src/scriber.js"
-   },
-   {
+  },
+  {
     name: "xflagable",
     github: "javimosch/xflagable",
     tags: ["flag", "event", "promise"],
     description: "Create flag promises",
     url: "https://github.com/javimosch/xflagable/",
     source: "https://raw.githubusercontent.com/javimosch/xflagable/master/xflagable.js"
+  },
+  {
+    name: "data-obs",
+    github: "lmettini/data-obs",
+    tags: ["observer", "events", "lightweight"],
+    description: "Simple lightweigh javascript data observer",
+    url: "https://github.com/lmettini/data-obs",
+    source: "https://raw.githubusercontent.com/lmettini/data-obs/master/data-obs.js"
+  },
+  {
+    name: "xtypejs",
+    github: "lucono/xtypejs",
+    tags: ["xtype", "type", "typeof", "data-type", "validation"],
+    description: "Elegant, highly efficient data validation for JavaScript",
+    url: "http://xtype.js.org",
+    source: "https://raw.githubusercontent.com/lucono/xtypejs/master/project/xtypejs/xtype.js"
   },
   {
     name: "diapason",
@@ -98,7 +195,8 @@ module.exports = [
     description: "A simple micro-library for defining and dispatching keyboard shortcuts. It has no dependencies.",
     url: "http://jaywcjlove.github.io/hotkeys/",
     source: "https://raw.githubusercontent.com/jaywcjlove/hotkeys/master/src/hotkeys.js"
-  },{
+  },
+  {
     name: "window.module",
     github: "ziolko/window.module",
     tags: ["di", "dependency", "injection", "container", "module", "require"],
@@ -113,6 +211,22 @@ module.exports = [
     description: "Simple route callbacks",
     url: "https://github.com/tbleckert/location-init",
     source: "https://raw.githubusercontent.com/tbleckert/location-init/master/index.js"
+  },
+  {
+    name: "indent.js",
+    github: "zebzhao/indent.js",
+    tags: ["indent", "autoindent", "indentation", "jsbeautify"],
+    description: "Pure indentation of JS, CSS, HTML code and nothing extra.",
+    url: "https://github.com/zebzhao/indent.js",
+    source: "https://raw.githubusercontent.com/zebzhao/indent.js/master/lib/indent.js"
+  },
+  {
+    name: "Handorgel",
+    github: "oncode/handorgel",
+    tags: ["handorgel", "accordion", "tabs", "toggle", "collapse"],
+    description: "Accessible W3C conform accordion written in ES6.",
+    url: "https://github.com/oncode/handorgel",
+    source: "https://raw.githubusercontent.com/oncode/handorgel/master/lib/js/umd/handorgel.js"
   },
   {
     name: "Freezer.js",
@@ -131,6 +245,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/lukeed/fromNow/master/fromNow.js"
   },
   {
+    name: "Trkl",
+    github: "jbreckmckye/trkl",
+    tags: ["observable", "frp", "functional reactive", "functional", "state", "knockout", "rx"],
+    description: "Reactive microlibrary with observables and Knockout-style computeds in 430 bytes (minified and gzipped)",
+    url: "https://github.com/jbreckmckye/trkl",
+    source: "https://raw.githubusercontent.com/jbreckmckye/trkl/master/trkl.js"
+  },
+  {
     name: "InversifyJS",
     github: "inversify/InversifyJS",
     tags: ["dependency", "inversion", "inversion", "control"],
@@ -141,10 +263,28 @@ module.exports = [
   {
     name: "AtSpy",
     github: "AtSpy/AtSpy",
-    tags: ["decorator", "test", "spy", "angular", "typescript" ],
+    tags: ["decorator", "test", "spy", "angular", "typescript"],
     description: "A test spy powered by es7 decorators and TypeScript ",
     url: "http://AtSpy.github.io",
     source: "https://raw.githubusercontent.com/AtSpy/AtSpy/master/dist/atspy.js"
+  },
+  {
+    name: "Canary",
+    github: "Mapita/Canary",
+    tags: ["javascript", "test", "tests", "testing", "unit test", "unit tests", "unit testing", "automated test", "automated tests", "automated testing"],
+    description: "Write and run unit tests.",
+    url: "https://github.com/Mapita/Canary",
+    package: "canary-test",
+    documentation: "http://canary.readthedocs.io/en/stable/",
+    source: "https://github.com/Mapita/Canary/blob/master/canary.js"
+  },
+  {
+    name: "FrontExpress",
+    github: "camelaissani/frontexpress",
+    tags: ["frontexpress", "router", "routing", "express", "spa", "framework", "front-end", "tiny", "parameters", "querystring", "named", "path", "uri"],
+    description: "An Express.js-Style router for the front-end",
+    url: "https://www.frontexpressjs.com",
+    source: "https://raw.githubusercontent.com/camelaissani/frontexpress/master/frontexpress.js"
   },
   {
     name: "Tinyscrollbar",
@@ -157,7 +297,7 @@ module.exports = [
   {
     name: "ba.js",
     github: "Arood/bajs",
-    tags: ["animation","animations","css","css3"],
+    tags: ["animation", "animations", "css", "css3"],
     description: "Create and manage CSS3 animations from JavaScript.",
     url: "http://bajs.io",
     source: "https://raw.githubusercontent.com/Arood/bajs/master/ba.js"
@@ -187,6 +327,22 @@ module.exports = [
     source: "https://raw.githubusercontent.com/lloydzhou/ease/master/ease.js"
   },
   {
+    name: "Nano ID",
+    github: "ai/nanoid",
+    tags: ["id", "uuid", "generator"],
+    description: "Secure URL-friendly unique string ID generator",
+    url: "https://github.com/ai/nanoid",
+    source: "https://raw.githubusercontent.com/ai/nanoid/master/index.js"
+  },
+  {
+    name: "Nano Events",
+    github: "ai/nanoevents",
+    tags: ["events", "EventEmitter", "pub/sub", "emit"],
+    description: "Simple and tiny event emitter library",
+    url: "https://github.com/ai/nanoevents",
+    source: "https://raw.githubusercontent.com/ai/nanoevents/master/index.js"
+  },
+  {
     name: "ClassManager",
     github: "kogarashisan/ClassManager",
     tags: ["language", "class", "inheritance", "multiple", "extend"],
@@ -209,10 +365,11 @@ module.exports = [
     description: "Robust binary WebSocket channels, templates, UTF-8 and validation for Erlang N2O Server.",
     url: "https://github.com/synrc/n2o",
     source: ["https://raw.githubusercontent.com/synrc/n2o/master/priv/bert.js",
-             "https://raw.githubusercontent.com/synrc/n2o/master/priv/n2o.js",
-             "https://raw.githubusercontent.com/synrc/n2o/master/priv/template.js",
-             "https://raw.githubusercontent.com/synrc/n2o/master/priv/utf8.js",
-             "https://raw.githubusercontent.com/synrc/n2o/master/priv/validation.js"]
+      "https://raw.githubusercontent.com/synrc/n2o/master/priv/n2o.js",
+      "https://raw.githubusercontent.com/synrc/n2o/master/priv/template.js",
+      "https://raw.githubusercontent.com/synrc/n2o/master/priv/utf8.js",
+      "https://raw.githubusercontent.com/synrc/n2o/master/priv/validation.js"
+    ]
   },
   {
     name: "Rat.js",
@@ -232,7 +389,7 @@ module.exports = [
   },
   {
     name: "dual-emitter",
-    github: "tunnckoCore/dual-emitter",
+    github: "charlike/dual-emitter",
     tags: [
       "browser",
       "chrome",
@@ -263,8 +420,8 @@ module.exports = [
       "data binding"
     ],
     description: "Cross-browser (and IE8) + node.js event emitter in 35 lines. Invoke custom or DOM event. Useful for two-way data-binding!!",
-    url: "https://github.com/tunnckoCore/dual-emitter",
-    source: "https://raw.githubusercontent.com/tunnckoCore/dual-emitter/master/dist/dual-emitter.js"
+    url: "https://github.com/charlike/dual-emitter",
+    source: "https://raw.githubusercontent.com/charlike/dual-emitter/master/dist/dual-emitter.js"
   },
   {
     name: "Muject",
@@ -312,22 +469,22 @@ module.exports = [
   },
   {
     name: "VanillaMasker",
-    github: "BankFacil/vanilla-masker",
+    github: "vanilla-masker/vanilla-masker",
     tags: ["mask input", "mask", "vanilla"],
     description: "VanillaMasker is a pure javascript mask input",
-    url: "http://bankfacil.github.io/vanilla-masker/",
-    source: "https://raw.githubusercontent.com/BankFacil/vanilla-masker/master/lib/vanilla-masker.js"
+    url: "http://vanilla-masker.github.io/vanilla-masker/",
+    source: "https://raw.githubusercontent.com/vanilla-masker/vanilla-masker/master/lib/vanilla-masker.js"
   },
   {
     name: "once.js",
-    tags: ["called","once","function","one","single","coffeescript","javascript","amd","node","web"],
+    tags: ["called", "once", "function", "one", "single", "coffeescript", "javascript", "amd", "node", "web"],
     description: "Enforce that a CoffeeScript or JavaScript function can only be executed once.",
     url: "https://github.com/daniellmb/once.js",
     source: "https://raw.githubusercontent.com/daniellmb/once.js/master/once.js"
   },
   {
     name: "micro-events",
-    tags: ["event","performance","event emitter","listener","handler","eventing","amd","node","web"],
+    tags: ["event", "performance", "event emitter", "listener", "handler", "eventing", "amd", "node", "web"],
     description: "A minimal event emitter implementation",
     url: "https://github.com/alexanderGugel/micro-events",
     source: "https://raw.githubusercontent.com/alexanderGugel/micro-events/master/index.js"
@@ -350,14 +507,14 @@ module.exports = [
   },
   {
     name: "Euclid",
-    tags: ["euclid","algorithm","greatest","common","divisor","gcd"],
+    tags: ["euclid", "algorithm", "greatest", "common", "divisor", "gcd"],
     description: "Recursive Euclidean algorithm for finding the greatest common divisor of two numbers.",
     url: "https://github.com/daniellmb/Euclids-algorithm",
     source: "https://raw.githubusercontent.com/daniellmb/Euclids-algorithm/master/gcd.src.js"
   },
   {
     name: "VidBG",
-    tags: ["video","background","embed"],
+    tags: ["video", "background", "embed"],
     description: "micro-library for embedding video backgrounds into web pages",
     url: "https://github.com/daniellmb/VidBG",
     source: "https://raw.githubusercontent.com/daniellmb/VidBG/master/vidbg.js"
@@ -371,21 +528,21 @@ module.exports = [
   },
   {
     name: "aop.js",
-    tags: ["aspect","oriented","programming","aop", "functional"],
+    tags: ["aspect", "oriented", "programming", "aop", "functional"],
     description: "Aspect Oriented Programming Micro Library.",
     url: "https://github.com/daniellmb/aop.js",
     source: "https://raw.githubusercontent.com/daniellmb/aop.js/master/aop.js"
   },
   {
     name: "di.js",
-    tags: ["dependency","injection","di"],
+    tags: ["dependency", "injection", "di"],
     description: "Dependency Injection Micro Library.",
     url: "https://github.com/daniellmb/di.js",
     source: "https://raw.githubusercontent.com/daniellmb/di.js/master/di.js"
   },
   {
     name: "ab.js",
-    tags: ["ab test","a/b test","split test", "testing"],
+    tags: ["ab test", "a/b test", "split test", "testing"],
     description: "A/B/n Testing Micro Library.",
     url: "https://github.com/daniellmb/ab.js",
     source: "https://raw.githubusercontent.com/daniellmb/ab.js/master/ab.src.js"
@@ -400,7 +557,7 @@ module.exports = [
   },
   {
     name: "vanillatree",
-    tags: ["jstree","jquery","interactive trees","vanilla", "pure", "native"],
+    tags: ["jstree", "jquery", "interactive trees", "vanilla", "pure", "native"],
     description: "Tiny replacement of jQuery jstree (\"interactive trees\") with no dependencies.",
     url: "https://github.com/finom/vanillatree",
     source: "https://raw.githubusercontent.com/finom/vanillatree/master/vanillatree.js"
@@ -420,6 +577,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/VizuaaLOG/microlib-tabs/master/dist/tabs.microlib-latest.js"
   },
   {
+    name: "Chaintastic",
+    tags: ["data", "functional", "chain"],
+    description: "Create chainable sync/async APIs easily",
+    url: "https://github.com/ezakto/chaintastic",
+    source: "https://raw.githubusercontent.com/ezakto/chaintastic/master/lib/chaintastic.js"
+  },
+  {
     name: "Feed",
     github: "evandrolg/Feed",
     tags: ["feed", "rss", "feed reader", "client-side"],
@@ -428,15 +592,23 @@ module.exports = [
     source: "https://raw.githubusercontent.com/EvandroLG/Feed/master/src/feed.js"
   },
   {
+    name: "Stoor",
+    github: "tiaanduplessis/stoor",
+    tags: ["storage", "local-storage", "session-storage"],
+    description: "Local and Session storage wrapper with support for namespacing and multi get, set and remove",
+    url: "https://github.com/tiaanduplessis/stoor",
+    source: "https://raw.githubusercontent.com/tiaanduplessis/stoor/master/dist/stoor.js"
+  },
+  {
     name: "Dom.js",
-    tags: ["dom", "dom manipulation", "dom traversal", "dom events", "crossbrowser", "event", "traversal"," manipulation"],
+    tags: ["dom", "dom manipulation", "dom traversal", "dom events", "crossbrowser", "event", "traversal", " manipulation"],
     description: "DOM.js is a lightweight, fast and cross browser library for DOM traversal, manipulation and event handling.",
     url: "https://github.com/dkraczkowski/dom.js",
     source: "https://raw.githubusercontent.com/dkraczkowski/dom.js/master/src/dom.js"
   },
   {
     name: "Collection.js",
-    tags: ["localStorage", "database", "db", "simple", "crossbrowser", "query", "collection","entity"],
+    tags: ["localStorage", "database", "db", "simple", "crossbrowser", "query", "collection", "entity"],
     description: "Collection.js is small but yet powerfull local database build on top of the localstorage.",
     url: "https://github.com/dkraczkowski/collection.js",
     source: "https://raw.githubusercontent.com/dkraczkowski/collection.js/master/src/collection.js"
@@ -457,11 +629,35 @@ module.exports = [
     source: "https://raw.githubusercontent.com/typicode/pegasus/master/dist/pegasus.js"
   },
   {
+    name: "FinnishBankUtils",
+    github: "vkomulai/finnish-bank-utils",
+    tags: ["Finnish", "IBAN", "Validation", "Viitenumero", "Reference number"],
+    description: "Library for validating and creating Finnish IBAN bank account numbers and reference numbers.",
+    url: "https://github.com/vkomulai/finnish-bank-utils",
+    source: "https://raw.githubusercontent.com/vkomulai/finnish-bank-utils/master/dist/finnish-bank-utils.js"
+  },
+  {
+    name: "FinnishBusinessIds",
+    github: "vkomulai/finnish-business-ids",
+    tags: ["Finnish", "Y-tunnus", "alv-tunnus", "vat number", "Business ID", "Validation"],
+    description: "Library for validating and creating Finnish business IDs (Y-tunnus, alv-numero).",
+    url: "https://github.com/vkomulai/finnish-business-ids",
+    source: "https://raw.githubusercontent.com/vkomulai/finnish-business-ids/master/dist/finnish-business-ids.js"
+  },
+  {
     name: "PerfNow.js",
     tags: ["performance", "benchmark", "polyfill", "high", "resolution", "timer", "now"],
     description: "A high resolution performance benchmarking polyfill",
     url: "https://github.com/daniellmb/perfnow.js",
     source: "https://raw.githubusercontent.com/daniellmb/perfnow.js/master/perfnow.js"
+  },
+  {
+    name: "GraphicsJS",
+    github: "anychart/graphicsjs",
+    tags: ["svg", "vml", "graphics", "drawing", "animation", "visualization", "charts", "data visualization", "api"],
+    description: "A powerful lightweight JavaScript drawing library for graphics and animation, based on SVG/VML, with intuitive API",
+    url: "http://www.graphicsjs.org",
+    source: "https://github.com/AnyChart/GraphicsJS/blob/master/dist/graphics.js"
   },
   {
     name: "SaVaGe.js",
@@ -479,11 +675,11 @@ module.exports = [
     source: "https://raw.githubusercontent.com/dhilipsiva/style.js/master/src/js/style.js"
   },
   {
-    name: "hyphen.js",
+    name: "hyphen",
     tags: ["text", "hyphenation", "hyphen", "liang"],
-    description: "Frank Liang's hyphenation beautifier.",
-    url: "https://github.com/ytiurin/hyphenjs",
-    source: "https://raw.githubusercontent.com/ytiurin/hyphenjs/master/versions/hyphen.0.1.js"
+    description: "Franklin M. Liang's hyphenation algorithm, implemented in Javascript",
+    url: "https://github.com/ytiurin/hyphen",
+    source: "https://raw.githubusercontent.com/ytiurin/hyphen/master/hyphen.js"
   },
   {
     name: "Smart Select",
@@ -503,7 +699,7 @@ module.exports = [
   },
   {
     name: "CRC32",
-    tags: ["crc", "crc-32", "checksum", "check", "verify", "error", "hash" ],
+    tags: ["crc", "crc-32", "checksum", "check", "verify", "error", "hash"],
     description: "Blazing fast CRC-32 checksum algorithm for binary and Unicode data.",
     url: "https://github.com/SheetJS/js-crc32",
     source: "https://raw.githubusercontent.com/SheetJS/js-crc32/master/crc32.js"
@@ -547,7 +743,7 @@ module.exports = [
     description: "Reduce user-misspelled email addresses in your forms.",
     url: "https://github.com/mailcheck/mailcheck",
     source: "https://raw.githubusercontent.com/mailcheck/mailcheck/master/src/mailcheck.js"
- },
+  },
   {
     name: "P",
     github: "evandrolg/p",
@@ -555,16 +751,16 @@ module.exports = [
     description: "It's an agnostic, cross-browser and very lightweight library to help you to work with Promise in JavaScript.",
     url: "https://github.com/evandrolg/p",
     source: "https://raw.githubusercontent.com/EvandroLG/P/master/src/p.js"
- },
- {
+  },
+  {
     name: "MoaJS",
     github: "Pencroff/MoaJs",
     tags: ["class", "classes", "extend", "inheritance", "oop", "mixins"],
     description: "ExtJs syntax for declaration object inheritance, mixins, static methods / properties / mixins, singleton declaration out of the box and less then 2kB minified JavaScript code.",
     url: "https://github.com/Pencroff/MoaJs",
     source: "https://raw.githubusercontent.com/Pencroff/MoaJs/master/moa.dev.js"
- },
- {
+  },
+  {
     name: "state.js",
     github: "steelbreeze/state.js",
     tags: ["finite", "state", "machine"],
@@ -669,12 +865,12 @@ module.exports = [
     source: "https://raw.githubusercontent.com/brophdawg11/Automator.js/master/automator.js"
   },
   {
-    name: "Hoverboard",
-    github: "jesseskinner/hoverboard",
+    name: "Hover",
+    github: "jesseskinner/hover",
     tags: ["Hoverboard", "Flux", "React", "store", "model", "data", "listener"],
     description: "A very lightweight (anti-gravity?) data model and Flux store with actions and a state change listener.",
-    url: "https://github.com/jesseskinner/hoverboard",
-    source: "https://raw.githubusercontent.com/jesseskinner/hoverboard/master/dist/hoverboard.js"
+    url: "https://github.com/jesseskinner/hover",
+    source: "https://raw.githubusercontent.com/jesseskinner/hover/master/src/index.js"
   },
   {
     name: "j2c",
@@ -733,12 +929,12 @@ module.exports = [
     source: "https://raw.githubusercontent.com/EvandroLG/selecting/master/src/selecting.js"
   },
   {
-	name: "Avtomat",
-	github: "Temoto-kun/avtomat",
-	tags: ["automaton", "finite-state", "machine", "deterministic","non-deterministic", "input", "event"],
-	description: "Non-deterministic finite state machine (with empty moves) implementation",
-	url: "https://github.com/Temoto-kun/avtomat",
-	source: "https://raw.githubusercontent.com/Temoto-kun/avtomat/master/src/avtomat.js"
+    name: "Avtomat",
+    github: "Temoto-kun/avtomat",
+    tags: ["automaton", "finite-state", "machine", "deterministic", "non-deterministic", "input", "event"],
+    description: "Non-deterministic finite state machine (with empty moves) implementation",
+    url: "https://github.com/Temoto-kun/avtomat",
+    source: "https://raw.githubusercontent.com/Temoto-kun/avtomat/master/src/avtomat.js"
   },
   {
     name: "store",
@@ -749,6 +945,22 @@ module.exports = [
     source: "https://raw.githubusercontent.com/nbubna/store/master/dist/store2.js"
   },
   {
+    name: "Popper.js",
+    github: "FezVrasta/popper.js",
+    tags: ["positioning", "tooltip", "popover", "dropdown", "customizable", "extensible"],
+    description: "A kickass library to manage your poppers.",
+    url: "https://fezvrasta.github.io/popper.js",
+    source: "https://raw.githubusercontent.com/FezVrasta/popper.js/master/build/popper.js"
+  },
+  {
+    name: "EQCSS",
+    github: "eqcss/eqcss",
+    tags: ["element", "queries", "container", "query", "css", "reprocessor", "rwd", "scoped", "styles", "parent", "selector"],
+    description: "EQCSS is a CSS reprocessor that introduces Scoped Styles, Element Queries, Container Queries, and new selectors like $parent and $prev and more",
+    url: "https://github.com/eqcss/eqcss/",
+    source: "https://raw.githubusercontent.com/eqcss/eqcss/gh-pages/EQCSS.js"
+  },
+  {
     name: "Oboe.js",
     github: "jimhigson/oboe.js",
     tags: ["ajax", "streaming", "download", "json", "parser", "sax", "jsonpath", "http"],
@@ -756,7 +968,7 @@ module.exports = [
     url: "http://oboejs.com",
     source: "https://raw.githubusercontent.com/jimhigson/oboe.js/master/dist/oboe-browser.js"
   },
-    {
+  {
     name: "webSqlSync.js",
     github: "orbitaloop/WebSqlSync",
     tags: ["websql", "sqlite", "synchronization", "sync", "sql", "web-sql", "database", "server"],
@@ -844,7 +1056,8 @@ module.exports = [
     description: "Detect the indentation of code.",
     url: "https://github.com/sindresorhus/detect-indent",
     source: ["https://raw.githubusercontent.com/sindresorhus/detect-indent/master/index.js",
-    "https://raw.githubusercontent.com/sindresorhus/detect-indent/master/cli.js"]
+      "https://raw.githubusercontent.com/sindresorhus/detect-indent/master/cli.js"
+    ]
   },
   {
     name: "Tempreites",
@@ -880,11 +1093,11 @@ module.exports = [
   },
   {
     name: "remove.js",
-    github: "scrapmac/snippets",
+    github: "grssam/snippets",
     tags: ["string", "remove", "cleanup", "redundant", "gibberish", "trim"],
     description: "Small but powerful string cleanup and reduction library.",
-    url: "https://github.com/scrapmac/snippets/tree/master/remove.js",
-    source: "https://raw.githubusercontent.com/scrapmac/snippets/master/remove.js/remove.js"
+    url: "https://github.com/grssam/snippets/tree/master/remove.js",
+    source: "https://raw.githubusercontent.com/grssam/snippets/master/remove.js/remove.js"
   },
   {
     name: "Taggle.js",
@@ -912,11 +1125,11 @@ module.exports = [
   },
   {
     name: "OneDollar.js",
-    github: "nok/onedollar-coffeescript",
+    github: "nok/onedollar-unistroke-coffee",
     tags: ["gesture", "recognition", "recognizer", "multitouch", "interactive", "input", "jquery"],
     description: "A JavaScript implementation of the &dollar;1 Gesture Recognizer, a two-dimensional template based gesture recognition",
-    url: "https://github.com/nok/onedollar-coffeescript",
-    source: "https://raw.githubusercontent.com/nok/onedollar-coffeescript/master/lib/onedollar.js"
+    url: "https://github.com/nok/onedollar-unistroke-coffee",
+    source: "https://raw.githubusercontent.com/nok/onedollar-unistroke-coffee/master/lib/onedollar.js"
   },
   {
     name: "LocalDB.js",
@@ -933,14 +1146,6 @@ module.exports = [
     description: "Countable is a JavaScript function to add live paragraph-, word- and character-counting to an HTML element.",
     url: "http://radlikewhoa.github.io/Countable",
     source: "https://raw.githubusercontent.com/RadLikeWhoa/Countable/master/Countable.js"
-  },
-  {
-    name: "iugo.js",
-    github: "chrismichaelscott/iugo",
-    tags: ["MVVC", "data binding", "template"],
-    description: "An extremely lightweight one-way data-binding tool without the bloat of a full framework. Makes separating markup from content easy.",
-    url: "http://iugojs.com",
-    source: "https://raw.githubusercontent.com/chrismichaelscott/iugo/master/iugo.js"
   },
   {
     name: "Colors.js",
@@ -999,6 +1204,14 @@ module.exports = [
     description: "An AMD-compatible natural extension-based class and event model, fully compatible with prototypal inheritance.",
     url: "http://zoejs.org",
     source: "https://raw.githubusercontent.com/zestjs/zoe/master/zoe.js"
+  },
+  {
+    name: "dzt-url-parser",
+    github: "dajbd/dzt-url-parser",
+    tags: ["URL", "parse", "getParameters", "parser", "param"],
+    description: "parse the url parameters(or location.search) to an object.",
+    url: "https://github.com/dajbd/dzt-url-parser",
+    source: "https://raw.githubusercontent.com/dajbd/dzt-url-parser/master/dzt-url-parser.js"
   },
   {
     name: "atom.js",
@@ -1078,15 +1291,15 @@ module.exports = [
     url: "https://github.com/scottjehl/Respond",
     source: "https://raw.githubusercontent.com/scottjehl/Respond/master/dest/respond.src.js"
   },
- {
+  {
     name: "miuri.js",
     github: "radmen/miuri.js",
     tags: ["client", "server", "util", "parser", "uri"],
     description: "Simple URI parser/builder",
     url: "https://github.com/radmen/miuri.js",
     source: "https://raw.githubusercontent.com/radmen/miuri.js/master/lib/miuri.js"
- },
- {
+  },
+  {
     name: "RSVP.js",
     github: "tildeio/rsvp.js",
     tags: ["Promises/A+", "asynchronous"],
@@ -1094,7 +1307,7 @@ module.exports = [
     url: "https://github.com/tildeio/rsvp.js",
     source: "http://rsvpjs-builds.s3.amazonaws.com/rsvp-latest.js"
   },
- {
+  {
     name: "Chibi",
     github: "kylebarrow/chibi",
     tags: ["chibi", "framework"],
@@ -1129,7 +1342,7 @@ module.exports = [
   {
     name: "kebab.js",
     github: "thlorenz/kebab",
-    tags: [ "pubsub", "queue" ],
+    tags: ["pubsub", "queue"],
     description: "Half queue half pubsub. Super small and simple queue that supports subscribers",
     url: "https://github.com/thlorenz/kebab",
     source: "https://raw.githubusercontent.com/thlorenz/kebab/master/kebab.js"
@@ -1199,6 +1412,14 @@ module.exports = [
     url: "https://github.com/Cedriking/is.js",
     source: "https://raw.githubusercontent.com/Cedriking/is.js/master/is.js"
   },
+  {
+    name: "wavyjs",
+    github: "northeastnerd/wavyjs",
+    tags: ["audio", "wav", "sound", "html5", "RIFF"],
+    description: "Zero dependency javascript RIFF Wav file manipulation routines.",
+    url: "https://github.com/northeastnerd/wavyjs",
+    source: "https://raw.githubusercontent.com/northeastnerd/wavyjs/master/wavyjs.min.js"
+  },                  
   {
     name: "jBone",
     github: "kupriyanenko/jbone",
@@ -1301,13 +1522,6 @@ module.exports = [
     source: "https://raw.githubusercontent.com/mourner/simplify-js/master/simplify.js"
   },
   {
-    name: "TinyDOM",
-    tags: ["dom"],
-    description: "A very small DOM manipulation framework",
-    url: "https://github.com/ctult/TinyDOM",
-    source: "https://raw.githubusercontent.com/ctult/TinyDOM/master/tinyDOM.js"
-  },
-  {
     name: "DOMpteur",
     github: "SimonWaldherr/DOMpteur",
     tags: ["dom", "ready", "html", "getElement", "selector"],
@@ -1338,7 +1552,7 @@ module.exports = [
   },
   {
     name: "TinyCore.js",
-    tags: ["architecture","module","scalable","spa"],
+    tags: ["architecture", "module", "scalable", "spa"],
     description: "A tiny JavaScript modular architecture library.",
     url: "https://github.com/mawrkus/tinycore",
     source: "https://raw.githubusercontent.com/mawrkus/tinycore/master/build/TinyCore.js"
@@ -1402,11 +1616,11 @@ module.exports = [
     source: "https://raw.githubusercontent.com/bemson/GSet/master/src/gset.js"
   },
   {
-      name: "nTh",
-      tags: ["string", "numbers", "formatting", "language","text"],
-      description: "A micro-library to return ordinal suffixes from integers (ie: 1st, 2nd, 3rd, 7th of 9)",
-      url: "https://github.com/dperish/nTh.js",
-      source: "https://raw.githubusercontent.com/dperish/nTh.js/master/nTh.js"
+    name: "nTh",
+    tags: ["string", "numbers", "formatting", "language", "text"],
+    description: "A micro-library to return ordinal suffixes from integers (ie: 1st, 2nd, 3rd, 7th of 9)",
+    url: "https://github.com/dperish/nTh.js",
+    source: "https://raw.githubusercontent.com/dperish/nTh.js/master/nTh.js"
   },
   {
     name: "Slang",
@@ -1459,7 +1673,7 @@ module.exports = [
     url: "https://github.com/daniellmb/HEX-RGB-Conversion",
     source: "https://raw.githubusercontent.com/daniellmb/HEX-RGB-Conversion/master/hex-rgb.src.js",
     tinyminify: true // this source has a ton of comments so the minified version is tiny compared to raw, so
-                     // we overrule the sanity-check that compares the sizes and would otherwise reject this
+    // we overrule the sanity-check that compares the sizes and would otherwise reject this
   },
   {
     name: "server2.js",
@@ -1467,17 +1681,18 @@ module.exports = [
     description: "Transfer data objects from server to javascript on page load",
     url: "https://github.com/thanpolas/server2js",
     source: ["https://raw.githubusercontent.com/thanpolas/server2js/master/src/server2.js",
-             "https://raw.githubusercontent.com/thanpolas/server2js/master/src/server2js.export.js",
-             "https://raw.githubusercontent.com/thanpolas/server2js/master/lib/goog.string.js",
-             "https://raw.githubusercontent.com/thanpolas/server2js/master/lib/server2js.node.js"]
+      "https://raw.githubusercontent.com/thanpolas/server2js/master/src/server2js.export.js",
+      "https://raw.githubusercontent.com/thanpolas/server2js/master/lib/goog.string.js",
+      "https://raw.githubusercontent.com/thanpolas/server2js/master/lib/server2js.node.js"
+    ]
   },
   {
-    name : "smoke-pure.js",
-    github : "agamemnus/smoke-pure.js",
-    tags : ["modal library", "simple modal library", "modal", "simple modal", "alert", "confirm", "prompt"],
-    description : "A simple modal library for JS.",
-    url : "https://github.com/agamemnus/smoke-pure.js",
-    source : "https://raw.githubusercontent.com/agamemnus/smoke-pure.js/gh-pages/smoke-pure.js"
+    name: "smoke-pure.js",
+    github: "agamemnus/smoke-pure.js",
+    tags: ["modal library", "simple modal library", "modal", "simple modal", "alert", "confirm", "prompt"],
+    description: "A simple modal library for JS.",
+    url: "https://github.com/agamemnus/smoke-pure.js",
+    source: "https://raw.githubusercontent.com/agamemnus/smoke-pure.js/gh-pages/smoke-pure.js"
   },
   {
     name: "ready.js",
@@ -1525,16 +1740,6 @@ module.exports = [
     source: "https://raw.githubusercontent.com/madrobby/zepto/master/src/zepto.js"
   },
   {
-    name: "xui",
-    github: "xui/xui",
-    tags: ["base", "dom", "mobile", "ajax", "events", "webkit", "animation"],
-    description: "DOM library for authoring HTML5 mobile web applications, works cross-device and cross-platform.",
-    url: "http://xuijs.com",
-    source: ["https://raw.githubusercontent.com/xui/xui/master/src/header.js",
-             "https://raw.githubusercontent.com/xui/xui/master/src/base.js",
-             "https://raw.githubusercontent.com/xui/xui/master/src/footer.js"]
-  },
-  {
     name: "Underscore",
     github: "jashkenas/underscore",
     tags: ["functional", "language", "data"],
@@ -1563,6 +1768,14 @@ module.exports = [
     description: "Minimal, logic-less templating with {{mustaches}}. Great for server- or client-side templating.",
     url: "http://mustache.github.io/",
     source: "https://raw.githubusercontent.com/janl/mustache.js/master/mustache.js"
+  },
+  {
+    name: "tiny-mustache",
+    github: "aishikaty/tiny-mustache",
+    tags: ["templating", "template", "tiny"],
+    description: "The smallest implementation of Mustache logic-less template engine.",
+    url: "https://github.com/aishikaty/tiny-mustache",
+    source: "https://raw.githubusercontent.com/aishikaty/tiny-mustache/master/mustache.js"
   },
   {
     name: "LABjs",
@@ -1608,7 +1821,7 @@ module.exports = [
   {
     name: "Composer.js",
     github: "jtenner/Composer.js",
-    tags: ["oo", "prototype","object", "composition", "mixin"],
+    tags: ["oo", "prototype", "object", "composition", "mixin"],
     description: "Compose objects with the flavor of musical functions. Simply include Composer.js on your page.",
     url: "https://github.com/jtenner/Composer.js",
     source: "https://raw.githubusercontent.com/jtenner/Composer.js/master/Composer.js"
@@ -1964,6 +2177,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/rgrove/lazyload/master/lazyload.js"
   },
   {
+    name: "SUL.js",
+    tags: ["dom", "lightweight", "shorthand", "ajax"],
+    description: "Small library for DOM and AJAX operations (jQuery function style).",
+    url: "https://github.com/MrOnlineCoder/sul.js",
+    source: "https://github.com/MrOnlineCoder/sul.js/blob/master/src/sul.js"
+  },
+  {
     name: "Valentine",
     tags: ["functional", "language", "data"],
     description: "JavaScripts functional sister providing iterators, type checking, and basic utils",
@@ -2119,9 +2339,10 @@ module.exports = [
     tags: ["data", "storage"],
     description: "Artemia is a clientside document store, inspired by Lawnchair.",
     url: "https://github.com/js-experiments/artemia",
-    source: [ "https://raw.githubusercontent.com/js-experiments/artemia/master/js/artemia.js",
-              "https://raw.githubusercontent.com/js-experiments/artemia/master/js/adaptors.plugins/artemia.storage.js",
-              "https://raw.githubusercontent.com/js-experiments/artemia/master/js/adaptors.plugins/artemia.sqlite.storage.js" ]
+    source: ["https://raw.githubusercontent.com/js-experiments/artemia/master/js/artemia.js",
+      "https://raw.githubusercontent.com/js-experiments/artemia/master/js/adaptors.plugins/artemia.storage.js",
+      "https://raw.githubusercontent.com/js-experiments/artemia/master/js/adaptors.plugins/artemia.sqlite.storage.js"
+    ]
   },
   {
     name: "js.class",
@@ -2244,6 +2465,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/creationix/domchanger/master/domchanger.js"
   },
   {
+    name: "onfontload",
+    tags: ["font", "load", "webfont", "font-face", "FOUT"],
+    description: "Detects when fonts are loaded.",
+    url: "https://github.com/eduardomb/onfontload",
+    source: "https://raw.githubusercontent.com/eduardomb/onfontload/master/onfontload.js"
+  },
+  {
     name: "msgpack-js",
     tags: ["msgpack", "json", "format", "encoder", "decoder", ],
     description: "A msgpack encoder and decoder using ArrayBuffer and DataView",
@@ -2322,10 +2550,11 @@ module.exports = [
   },
   {
     name: "VanillaModal",
+    github: "benceg/vanilla-modal",
     tags: ["modal", "es6"],
     description: "A flexible, dependency-free CSS-powered modal built using ECMAScript 6.",
-    url: "https://github.com/thephuse/vanilla-modal",
-    source: "https://raw.githubusercontent.com/thephuse/vanilla-modal/master/dist/vanilla-modal.js"
+    url: "https://github.com/benceg/vanilla-modal",
+    source: "https://raw.githubusercontent.com/benceg/vanilla-modal/master/dist/vanilla-modal.js"
   },
   {
     name: "functional.js",
@@ -2337,7 +2566,7 @@ module.exports = [
   },
   {
     name: "imagine",
-    tags: ["loader","async"],
+    tags: ["loader", "async"],
     description: "An image (pre)loader with promises",
     url: "https://github.com/pyrsmk/imagine",
     source: "https://raw.githubusercontent.com/pyrsmk/imagine/master/src/imagine.js",
@@ -2345,7 +2574,7 @@ module.exports = [
   },
   {
     name: "RIP",
-    tags: ["loader","ajax"],
+    tags: ["loader", "ajax"],
     description: "Make REST requests without using synchroneous ajax requests",
     url: "https://github.com/pyrsmk/RIP",
     source: "https://raw.githubusercontent.com/pyrsmk/RIP/master/src/RIP.js",
@@ -2353,7 +2582,7 @@ module.exports = [
   },
   {
     name: "panorama",
-    tags: ["canvas","responsive"],
+    tags: ["canvas", "responsive"],
     description: "Lighten background images with Canvas2D",
     url: "https://github.com/pyrsmk/panorama",
     source: "https://raw.githubusercontent.com/pyrsmk/panorama/master/src/panorama.js",
@@ -2361,7 +2590,7 @@ module.exports = [
   },
   {
     name: "CSSTemplate",
-    tags: ["css","templates","global","client","browser","util"],
+    tags: ["css", "templates", "global", "client", "browser", "util"],
     description: "Inject and update dynamic CSS using simple js templating",
     url: "https://github.com/ezakto/CSSTemplate.js",
     source: "https://raw.githubusercontent.com/ezakto/CSSTemplate.js/master/CSSTemplate.js"
@@ -2424,7 +2653,7 @@ module.exports = [
   },
   {
     name: "qwest",
-    tags: ["ajax","async"],
+    tags: ["ajax", "async"],
     description: "Ajax library with promises and XHR2 support",
     url: "https://github.com/pyrsmk/qwest",
     source: "https://raw.githubusercontent.com/pyrsmk/qwest/master/src/qwest.js",
@@ -2432,7 +2661,7 @@ module.exports = [
   },
   {
     name: "quark",
-    tags: ["base","compose"],
+    tags: ["base", "compose"],
     description: "Build your own framework from scratch",
     url: "https://github.com/pyrsmk/quark",
     source: "https://raw.githubusercontent.com/pyrsmk/quark/master/src/quark.js"
@@ -2472,12 +2701,12 @@ module.exports = [
     description: "Reduced Google's original analytics snippet by one third, with better performance.",
     url: "http://mathiasbynens.be/notes/async-analytics-snippet",
     source: "var _gaq = [['_setAccount', 'UA-XXXXX-X'], ['_trackPageview']];" +
-            "(function(d, t) {" +
-            "var g = d.createElement(t)," +
-            "s = d.getElementsByTagName(t)[0];" +
-            "g.src = '//www.google-analytics.com/ga.js';" +
-            "s.parentNode.insertBefore(g, s);" +
-            "}(document, 'script'));"
+      "(function(d, t) {" +
+      "var g = d.createElement(t)," +
+      "s = d.getElementsByTagName(t)[0];" +
+      "g.src = '//www.google-analytics.com/ga.js';" +
+      "s.parentNode.insertBefore(g, s);" +
+      "}(document, 'script'));"
   },
   {
     name: "JSONSelect",
@@ -2489,7 +2718,7 @@ module.exports = [
   },
   {
     name: "Metamorph.js",
-    gitub: "tomhuda/metamorph.js",
+    github: "tomhuda/metamorph.js",
     tags: ["string", "HTML", "DOM"],
     description: "Metamorph.js is a library that allows you to create a string of HTML, insert it into the DOM, and update the contents later.",
     url: "https://github.com/tomhuda/metamorph.js",
@@ -2518,17 +2747,18 @@ module.exports = [
   },
   {
     name: "Soundbox",
-	tags: ["sound", "audio", "play", "media"],
-	description: "A super simple JS library for playing sound effects",
-	url: "https://github.com/sbrl/soundbox",
-	source: "https://raw.githubusercontent.com/sbrl/soundbox/master/soundbox.js"
+    tags: ["sound", "audio", "play", "media"],
+    description: "A super simple JS library for playing sound effects",
+    url: "https://github.com/sbrl/soundbox",
+    source: "https://raw.githubusercontent.com/sbrl/soundbox/master/soundbox.js"
   },
   {
     name: "Optiscroll",
+    github: "albertogasparin/Optiscroll",
     tags: ["scroll", "ui", "event", "touch", "scrollbar"],
     description: "Custom scrollbars for modern webapps. Supercharge the native scroll",
-    url: "https://github.com/wilsonfletcher/Optiscroll",
-    source: "https://raw.githubusercontent.com/wilsonfletcher/Optiscroll/master/dist/optiscroll.js"
+    url: "https://github.com/albertogasparin/Optiscroll",
+    source: "https://raw.githubusercontent.com/albertogasparin/Optiscroll/master/dist/optiscroll.js"
   },
   {
     name: "Transe.js",
@@ -2576,7 +2806,7 @@ module.exports = [
   },
   {
     name: "HTMLparser",
-    tags: ["html", "dom","manipulation","json","parser","htmlparser"],
+    tags: ["html", "dom", "manipulation", "json", "parser", "htmlparser"],
     description: "It parses HTML ¯\\_(ツ)_/¯",
     url: "https://github.com/ogewan/HTMLparser",
     source: "https://raw.githubusercontent.com/ogewan/HTMLparser/master/HTMLparser.js"
@@ -2694,11 +2924,18 @@ module.exports = [
     source: "http://tinyjs.sourceforge.net/tiny.js"
   },
   {
-    name:"Vine",
-    tags:["events"],
-    description:"An events library that supports binding, unbinding, and triggering events on DOM elements or JavaScript Objects",
-    url:"https://github.com/arextar/Vine",
-    source:"https://raw.githubusercontent.com/arextar/Vine/master/vine.js"
+    name: "Vine",
+    tags: ["events"],
+    description: "An events library that supports binding, unbinding, and triggering events on DOM elements or JavaScript Objects",
+    url: "https://github.com/arextar/Vine",
+    source: "https://raw.githubusercontent.com/arextar/Vine/master/vine.js"
+  },
+  {
+    name: "Speedball",
+    tags: ["di", "ioc", "dependency injection", "inversion of control"],
+    description: "A flexible dependency injection library",
+    url: "https://github.com/cameron-martin/speedball",
+    source: "https://raw.githubusercontent.com/cameron-martin/speedball/master/dist/speedball.js"
   },
   {
     name: "micro-selector",
@@ -2742,15 +2979,16 @@ module.exports = [
     description: "A js library for mathematics with vectors and matrices",
     url: "http://sylvester.jcoglan.com/",
     source: ["https://raw.githubusercontent.com/jcoglan/sylvester/master/src/exports.js",
-             "https://raw.githubusercontent.com/jcoglan/sylvester/master/src/line.js",
-             "https://raw.githubusercontent.com/jcoglan/sylvester/master/src/line.segment.js",
-             "https://raw.githubusercontent.com/jcoglan/sylvester/master/src/linkedlist.js",
-             "https://raw.githubusercontent.com/jcoglan/sylvester/master/src/matrix.js",
-             "https://raw.githubusercontent.com/jcoglan/sylvester/master/src/plane.js",
-             "https://raw.githubusercontent.com/jcoglan/sylvester/master/src/polygon.js",
-             "https://raw.githubusercontent.com/jcoglan/sylvester/master/src/polygon.vertex.js",
-             "https://raw.githubusercontent.com/jcoglan/sylvester/master/src/sylvester.js",
-             "https://raw.githubusercontent.com/jcoglan/sylvester/master/src/vector.js"]
+      "https://raw.githubusercontent.com/jcoglan/sylvester/master/src/line.js",
+      "https://raw.githubusercontent.com/jcoglan/sylvester/master/src/line.segment.js",
+      "https://raw.githubusercontent.com/jcoglan/sylvester/master/src/linkedlist.js",
+      "https://raw.githubusercontent.com/jcoglan/sylvester/master/src/matrix.js",
+      "https://raw.githubusercontent.com/jcoglan/sylvester/master/src/plane.js",
+      "https://raw.githubusercontent.com/jcoglan/sylvester/master/src/polygon.js",
+      "https://raw.githubusercontent.com/jcoglan/sylvester/master/src/polygon.vertex.js",
+      "https://raw.githubusercontent.com/jcoglan/sylvester/master/src/sylvester.js",
+      "https://raw.githubusercontent.com/jcoglan/sylvester/master/src/vector.js"
+    ]
   },
   {
     name: "Include.js",
@@ -2793,13 +3031,14 @@ module.exports = [
     description: "A JavaScript work-around for hardware accelerated CSS3 transitions with custom easing functions.",
     url: "https://github.com/joelambert/morf",
     source: ["https://raw.githubusercontent.com/joelambert/morf/master/js/src/morf.js",
-             "https://raw.githubusercontent.com/joelambert/morf/master/js/src/morf.utils.js",
-             "https://raw.githubusercontent.com/joelambert/morf/master/js/src/WebkitCSSMatrix.ext.js",
-             "https://raw.githubusercontent.com/joelambert/morf/master/js/src/shifty.fn.scripty2.js"]
+      "https://raw.githubusercontent.com/joelambert/morf/master/js/src/morf.utils.js",
+      "https://raw.githubusercontent.com/joelambert/morf/master/js/src/WebkitCSSMatrix.ext.js",
+      "https://raw.githubusercontent.com/joelambert/morf/master/js/src/shifty.fn.scripty2.js"
+    ]
   },
   {
     name: "youarei.js",
-    tags: ["client", "server", "util", "parser", "uri", "url", "query", "parameters","queryparams"],
+    tags: ["client", "server", "util", "parser", "uri", "url", "query", "parameters", "queryparams"],
     description: "URL parsing library with sane parameter handling",
     url: "https://github.com/purge/youarei.js",
     source: "https://raw.githubusercontent.com/purge/youarei.js/master/src/youarei.js"
@@ -2870,7 +3109,7 @@ module.exports = [
   },
   {
     name: "Happen",
-    tags: ["events" ],
+    tags: ["events"],
     description: "General purpose event triggering",
     url: "https://github.com/tmcw/happen",
     source: "https://raw.githubusercontent.com/tmcw/happen/master/happen.js"
@@ -2898,10 +3137,11 @@ module.exports = [
   },
   {
     name: "Cookie Monster",
+    github: "firstandthird/cookie-monster",
     tags: ["cookies", "data", "store"],
     description: "A lightweight cookie library",
-    url: "https://github.com/jgallen23/cookie-monster",
-    source: "https://raw.githubusercontent.com/jgallen23/cookie-monster/master/dist/cookie-monster.js"
+    url: "https://github.com/firstandthird/cookie-monster",
+    source: "https://raw.githubusercontent.com/firstandthird/cookie-monster/master/dist/cookie-monster.js"
   },
   {
     name: "EditrJS",
@@ -2918,6 +3158,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/e-/hsi.js/master/hsi.js"
   },
   {
+    name: "jacks",
+    github: "jccazeaux/jacks",
+    tags: ["ajax", "xhr", "rest", "fluent", "XMLHttpRequest"],
+    description: "Fluent, extensible, easy-to-use ajax Framework.",
+    url: "http://jccazeaux.github.io/jacks/",
+    source: "https://github.com/jccazeaux/jacks/blob/master/src/jacks.js"
+  },
+  {
     name: "colorspaces.js",
     tags: ["color"],
     description: "Convert between RGB and several CIE color spaces for smarter color manipulation.",
@@ -2928,8 +3176,8 @@ module.exports = [
     name: "husl",
     tags: ["color"],
     description: "A human-friendly alternative to the HSL color space.",
-    url: "http://boronine.github.io/husl",
-    source: "https://raw.githubusercontent.com/boronine/husl/master/husl.js"
+    url: "http://www.husl-colors.org/",
+    source: "https://raw.githubusercontent.com/husl-colors/husl/master/husl.coffee"
   },
   {
     name: "Fayer",
@@ -2998,12 +3246,20 @@ module.exports = [
     source: "https://raw.githubusercontent.com/rvagg/traversty/master/traversty.js"
   },
   {
-     name: "mini-signals",
-     github: "Hypercubed/mini-signals",
-     tags: ["events", "signals", "fast"],
-     description: "signals, in JavaScript, fast",
-     url: "https://github.com/Hypercubed/mini-signals",
-     source: "https://raw.githubusercontent.com/Hypercubed/mini-signals/master/browser.js"
+    name: "mini-signals",
+    github: "Hypercubed/mini-signals",
+    tags: ["events", "signals", "fast"],
+    description: "signals, in JavaScript, fast",
+    url: "https://github.com/Hypercubed/mini-signals",
+    source: "https://raw.githubusercontent.com/Hypercubed/mini-signals/master/browser.js"
+  },
+  {
+    name: "Hyperapp",
+    github: "hyperapp/hyperapp",
+    tags: ["dom", "framework", "elm"],
+    description: "Create scalable browser-based applications using a functional paradigm",
+    url: "https://hyperapp.js.org",
+    source: "https://cdn.jsdelivr.net/npm/hyperapp@latest/dist/hyperapp.js"
   },
   {
     name: "html5tooltips.js",
@@ -3029,10 +3285,11 @@ module.exports = [
   },
   {
     name: "aug",
+    github: "firstandthird/aug",
     tags: ["extend", "augment"],
     description: "A object extend utility",
-    url: "https://github.com/jgallen23/aug",
-    source: "https://raw.githubusercontent.com/jgallen23/aug/master/dist/aug.js"
+    url: "https://github.com/firstandthird/aug",
+    source: "https://raw.githubusercontent.com/firstandthird/aug/master/index.js"
   },
   {
     name: "path.js",
@@ -3183,7 +3440,7 @@ module.exports = [
   },
   {
     name: "Telegraph",
-    tags: ["events" ],
+    tags: ["events"],
     description: "A very minimal event emitter for browsers, forked from Benjamin Thomas' smokesignals.js, that allows for cancelable events",
     url: "https://github.com/dubrowgn/telegraph",
     source: "https://raw.githubusercontent.com/dubrowgn/telegraph/master/telegraph.js"
@@ -3194,6 +3451,13 @@ module.exports = [
     description: "Add search, sort and flexibility to plain HTML lists (div, ul, table, everything!).",
     url: "http://listjs.com",
     source: "https://raw.githubusercontent.com/javve/list.js/master/dist/list.js"
+  },
+  {
+    name: "ppo",
+    tags: ["utils", "tool", "util"],
+    description: "ppo is a super small and useful utils library for JavaScript ",
+    url: "https://a-jie.github.io/ppo/",
+    source: "https://raw.githubusercontent.com/a-jie/ppo/master/ppo.js"
   },
   {
     name: "Mediator.js",
@@ -3218,14 +3482,14 @@ module.exports = [
   },
   {
     name: "Smoke Signals",
-    tags: ["events" ],
+    tags: ["events"],
     description: "Really, really lightweight event emitting",
     url: "https://bitbucket.org/bentomas/smokesignals.js",
     source: "https://bitbucket.org/bentomas/smokesignals.js/raw/master/smokesignals.unminified.js"
   },
   {
     name: "CSSClass",
-    tags: ["css" ],
+    tags: ["css"],
     description: "Adds the functions .hasClass, .addClass, .removeClass and .toggleClass to the Element prototype.",
     url: "https://github.com/EarMaster/CSSClass",
     source: "https://raw.githubusercontent.com/EarMaster/CSSClass/master/CSSClass.js"
@@ -3242,14 +3506,14 @@ module.exports = [
   {
     name: "impress.js",
     github: "impress/impress.js",
-    tags: ["animation", "jsanimation", "css", "css3" ],
+    tags: ["animation", "jsanimation", "css", "css3"],
     description: "A presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.",
     url: "https://github.com/impress/impress.js",
     source: "https://raw.githubusercontent.com/impress/impress.js/master/js/impress.js"
   },
   {
     name: "Jwerty",
-    tags: ["events" ],
+    tags: ["events"],
     description: "Bind, fire and assert on keyboard events, with easy to use keyboard selector combos",
     url: "https://github.com/keithamus/jwerty",
     source: "https://raw.githubusercontent.com/keithamus/jwerty/master/jwerty.js"
@@ -3303,7 +3567,7 @@ module.exports = [
   {
     name: "StringFormatter",
     github: "anywhichway/stringformatter",
-    tags: ["formatting","ui","text","string"],
+    tags: ["formatting", "ui", "text", "string"],
     description: "An extensible, garbage collecting Javascript string formatter that supports objects, currency, date/time, decimals, and more ... goes far beyond sprintf approach.",
     url: "https://github.com/anywhichway/stringformatter",
     source: "https://raw.githubusercontent.com/anywhichway/stringformatter/master/StringFormatter.js"
@@ -3358,7 +3622,7 @@ module.exports = [
   },
   {
     name: "Ordering.js",
-    github : "bbaliguet/ordering",
+    github: "bbaliguet/ordering",
     tags: ["sort", "sorting", "ordering", "arrays"],
     description: "Helper to build sorting functions for array.sort()",
     url: "https://github.com/bbaliguet/ordering",
@@ -3431,8 +3695,8 @@ module.exports = [
     name: "lostorage.js",
     tags: ["storage", "localStorage", "sessionStorage"],
     description: "Client-side storage the way it should be - using the HTML5 localStorage API. lostorage.js allows you to save any kind of data.",
-    url: "https://github.com/florian/lostorage.js",
-    source: "https://raw.githubusercontent.com/florian/loStorage.js/master/src/loStorage.js"
+    url: "https://github.com/florian/xStore",
+    source: "https://raw.githubusercontent.com/florian/xStore/master/src/xStore.js"
   },
   {
     name: "guggenheim.js",
@@ -3480,6 +3744,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/federico-lox/pubsub.js/master/src/pubsub.js"
   },
   {
+    name: "pastafarian",
+    tags: ["statemachine", "state", "fsm", "event", "finite", "state", "machine"],
+    description: "A tiny event emitter-based finite state machine",
+    url: "https://github.com/orbitbot/pastafarian",
+    source: "https://raw.githubusercontent.com/orbitbot/pastafarian/master/pastafarian.js"
+  },
+  {
     name: "Pjs",
     github: "jneen/pjs",
     url: "https://github.com/jneen/pjs",
@@ -3496,7 +3767,7 @@ module.exports = [
   },
   {
     name: "D.js",
-    tags: ["Promises","async","promises/A+"],
+    tags: ["Promises", "async", "promises/A+"],
     description: "A tiny implementation of the Promises/A+ spec for Node.js and the browser, with some extensions to the spec ",
     url: "http://malko.github.io/D.js/",
     source: "https://raw.githubusercontent.com/malko/D.js/master/lib/D.js"
@@ -3575,6 +3846,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/jasonmoo/t.js/master/t.js"
   },
   {
+    name: "displace.js",
+    github: "catc/displace",
+    tags: ["move", "dom", "drag", "tiny", "mouse", "touch"],
+    description: "Minimal javascript library for creating movable DOM elements",
+    url: "https://catc.github.io/displace",
+    source: "https://raw.githubusercontent.com/catc/displace/master/dist/displace.js"
+  },
+  {
     name: "statelet",
     tags: ["events"],
     description: "Little state objects",
@@ -3588,6 +3867,14 @@ module.exports = [
     description: "A tiny, fast, zero-dependency event emitter (~500 bytes min + gzip)",
     url: "https://github.com/chrisdavies/eev",
     source: "https://raw.githubusercontent.com/chrisdavies/eev/master/eev.js"
+  },
+  {
+    name: "tiptext.js",
+    github: "agamemnus/tiptext.js",
+    tags: ["ui", "hints", "html5", "css3", "animation", "mutation observers", "pretty", "dom", "tool tip", "tooltip", "tooltips", "tool tips", "floating tooltip", "floating tool tips"],
+    description: "A floating tooltip function, using mutation observers. Has 6 customizable callbacks!",
+    url: "https://github.com/agamemnus/tiptext.js",
+    source: "https://raw.github.com/agamemnus/tiptext.js/gh-pages/tiptext-1.0.js"
   },
   {
     name: "guardian.js",
@@ -3702,7 +3989,7 @@ module.exports = [
   */
   {
     name: "Mouse",
-    tags: [ "mouse", "mousebind", "bind", "events", "input", "buttons", "mice" ],
+    tags: ["mouse", "mousebind", "bind", "events", "input", "buttons", "mice"],
     description: "A high quality library that treats the mouse as a first class object citizen.",
     url: "http://benvie.github.io/Mouse",
     source: "https://raw.githubusercontent.com/Benvie/Mouse/master/Mouse.js"
@@ -3742,14 +4029,6 @@ module.exports = [
     description: "A self-contained modal popup library",
     url: "https://github.com/Nycto/PicoModal",
     source: "https://raw.githubusercontent.com/Nycto/PicoModal/master/src/picoModal.js"
-  },
-  {
-    name: "nwt",
-    github: "nwtjs/nwt",
-    tags: ["framework", "base", "dom", "webkit", "ajax", "events", "mobile", "animation", "transitions"],
-    description: "Small JS framework that ships with ajax, anim, dom, and event methods. Several plugins available.",
-    url: "http://nwtjs.github.io/nwt/",
-    source: "https://raw.githubusercontent.com/nwtjs/nwt/master/nwt.js"
   },
   {
     name: "microphone",
@@ -3825,6 +4104,14 @@ module.exports = [
     description: "Tiny command line options parser for node.js in CoffeeScript",
     url: "https://github.com/dciccale/parsy",
     source: "https://raw.githubusercontent.com/dciccale/parsy/master/lib/parsy.js"
+  },
+  {
+    name: "Talker.js",
+    github: "secondstreet/talker.js",
+    tags: ["events", "window.postMessage", "iframe", "promise", "communication", "message"],
+    description: "Simple event delegation library",
+    url: "https://github.com/secondstreet/talker.js",
+    source: "https://raw.githubusercontent.com/secondstreet/talker.js/master/src/talker.js"
   },
   {
     name: "Gator",
@@ -3955,10 +4242,19 @@ module.exports = [
   },
   {
     name: "Anim",
+    github: "relay-zz/anim",
     tags: ["css", "animation"],
     description: "A bare bones animation library",
-    url: "https://github.com/relay/anim",
-    source: "https://raw.githubusercontent.com/relay/anim/master/anim.js"
+    url: "https://github.com/relay-zz/anim",
+    source: "https://raw.githubusercontent.com/relay-zz/anim/master/anim.js"
+  },
+  {
+    name: "Check.js",
+    github: "Morklympious/check.js",
+    tags: ["type checking", "verification", "utility", "library"],
+    description: "A tiny library for type and sanity checking",
+    url: "https://github.com/Morklympious/check.js",
+    source: "https://raw.githubusercontent.com/Morklympious/check.js/master/dist/check.min.js"
   },
   {
     name: "Relay",
@@ -4159,7 +4455,7 @@ module.exports = [
   },
   {
     name: "vivi.js",
-    tags: ["animation", "animate", "css", "css3", "keyframe", "defined" ],
+    tags: ["animation", "animate", "css", "css3", "keyframe", "defined"],
     description: "Tiny wrapper for CSS Defined Animations (@keyframes).",
     url: "https://github.com/musictheory/vivi.js",
     source: "https://raw.githubusercontent.com/musictheory/vivi.js/master/src/vivi.js"
@@ -4329,7 +4625,7 @@ module.exports = [
   },
   {
     name: "Lie",
-    tags: ["promise", "deferred","async"],
+    tags: ["promise", "deferred", "async"],
     description: "A very small library for promises",
     url: "https://github.com/calvinmetcalf/lie",
     source: "https://raw.githubusercontent.com/calvinmetcalf/lie/master/dist/lie.js"
@@ -4432,6 +4728,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/gamtiq/teo/master/dist/teo.js"
   },
   {
+    name: "simple-slider",
+    tags: ["simple", "carousel", "slider", "gallery", "slideshow", "javascript-carousel"],
+    description: "The 1kb JavaScript Carousel",
+    url: "https://github.com/ruyadorno/simple-slider",
+    source: "https://raw.githubusercontent.com/ruyadorno/simple-slider/master/dist/simpleslider.js"
+  },
+  {
     name: "easter.js",
     tags: ["easter-egg", "keys", "sequence"],
     description: "Easter eggs made easy.",
@@ -4454,17 +4757,18 @@ module.exports = [
   },
   {
     name: "trier.js",
+    github: "philbooth/tryer",
     tags: ["repeat", "retry", "predicate", "conditional", "invocation"],
     description: "Because everyone loves a trier! Conditional and repeated task invocation for node and browser.",
-    url: "https://github.com/philbooth/trier.js",
-    source: "https://raw.githubusercontent.com/philbooth/trier.js/master/src/trier.js"
+    url: "https://github.com/philbooth/tryer",
+    source: "https://raw.githubusercontent.com/philbooth/tryer/master/src/trier.js"
   },
   {
     name: "gameloop.js",
     tags: ["games"],
     description: "Very simple library to create game loop.",
-    url: "https://github.com/t4pczan/gameloop.js",
-    source: "https://raw.githubusercontent.com/t4pczan/gameloop.js/master/gameloop.js"
+    url: "https://github.com/rkamil/gameloop.js",
+    source: "https://raw.githubusercontent.com/rkamil/gameloop.js/master/gameloop.js"
   },
   {
     name: "FastActive",
@@ -4557,8 +4861,8 @@ module.exports = [
     name: "Grapnel.js",
     tags: ["grapnel", "route", "routing", "router", "hash", "anchor", "tiny", "require", "named", "parameters"],
     description: "The smallest (1100 bytes gzipped!) JavaScript Router with Named Parameters",
-    url: "https://github.com/bytecipher/grapnel",
-    source: "https://raw.githubusercontent.com/bytecipher/grapnel/master/src/grapnel.js"
+    url: "https://github.com/baseprime/grapnel",
+    source: "https://raw.githubusercontent.com/baseprime/grapnel/master/src/grapnel.js"
   },
   {
     name: "Nerve",
@@ -4616,6 +4920,13 @@ module.exports = [
     description: "The tiniest debugger in the world",
     url: "https://github.com/krasimir/deb.js",
     source: "https://raw.githubusercontent.com/krasimir/deb.js/master/lib/deb.js"
+  },
+  {
+    name: "henderson",
+    tags: ["statemachine", "state", "fsm", "event", "finite", "state", "machine", "promise", "promises"],
+    description: "A tiny event emitter-based finite state machine with promises",
+    url: "https://github.com/orbitbot/henderson",
+    source: "https://raw.githubusercontent.com/orbitbot/henderson/master/henderson.js"
   },
   {
     name: "Balalaika",
@@ -4699,25 +5010,26 @@ module.exports = [
     source: "https://raw.githubusercontent.com/ern0/kolorwheel.js/master/KolorWheel.js"
   },
   {
-     name: "SimplyJS",
-     tags: ["simplyjs", "simply", "simple", "easy", "DOM", "events", "async", "asynchronous", "native", "prototype", "CSS"],
-     description: "Provides support for manipulating with DOM and events handling. Easy for use, optimized for performance, native browser's support first.",
-     url: "https://github.com/janelznic/simplyjs",
-     source: "https://raw.githubusercontent.com/janelznic/simplyjs/master/lib/simply.js"
+    name: "SimplyJS",
+    tags: ["simplyjs", "simply", "simple", "easy", "DOM", "events", "async", "asynchronous", "native", "prototype", "CSS"],
+    description: "Provides support for manipulating with DOM and events handling. Easy for use, optimized for performance, native browser's support first.",
+    url: "https://github.com/janelznic/simplyjs",
+    source: "https://raw.githubusercontent.com/janelznic/simplyjs/master/lib/simply.js"
   },
   {
-     name: "clone",
-     tags: ["clone", "copy", "duplicate"],
-     description: "Clones/copies arbitrary objects recursively",
-     url: "https://github.com/pvorb/node-clone",
-     source: "https://raw.githubusercontent.com/pvorb/node-clone/master/clone.js"
+    name: "clone",
+    github: "pvorb/clone",
+    tags: ["clone", "copy", "duplicate"],
+    description: "Clones/copies arbitrary objects recursively",
+    url: "https://github.com/pvorb/clone",
+    source: "https://raw.githubusercontent.com/pvorb/clone/master/clone.js"
   },
   {
-     name: "tag",
-     tags: ["dom", "dom-elements"],
-     description: "Small utility for creating DOM elements",
-     url: "https://github.com/a-tarasyuk/tag",
-     source: "https://raw.githubusercontent.com/a-tarasyuk/tag/master/lib/tag.js"
+    name: "tag",
+    tags: ["dom", "dom-elements"],
+    description: "Small utility for creating DOM elements",
+    url: "https://github.com/a-tarasyuk/tag",
+    source: "https://raw.githubusercontent.com/a-tarasyuk/tag/master/lib/tag.js"
   },
   {
     name: "mutant.js",
@@ -4735,6 +5047,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/kylepaulsen/NanoModal/master/nanomodal.js"
   },
   {
+    name: "pure-dialog",
+    github: "john-doherty/pure-dialog",
+    tags: ["modal", "dialog", "popup", "pop under", "alert"],
+    description: "Pure JavaScript modal dialog designed to simplify the creation of dialogs in Web and Hybrid Mobile apps",
+    url: "https://github.com/john-doherty/pure-dialog",
+    source: "https://raw.githubusercontent.com/john-doherty/pure-dialog/master/src/pure-dialog.js"
+  },
+  {
     name: "dom-i18n",
     github: "ruyadorno/dom-i18n",
     tags: ["i18n", "dom", "translation", "multilingual", "html", "language", "internationalization"],
@@ -4743,25 +5063,25 @@ module.exports = [
     source: "https://raw.githubusercontent.com/ruyadorno/dom-i18n/master/src/dom-i18n.js"
   },
   {
-     name: "Rlite",
-     tags: ["rlite", "route", "routing", "router", "hash", "querystring", "named", "parameters"],
-     description: "Tiny, simple, light-weight routing",
-     url: "https://github.com/chrisdavies/rlite",
-     source: "https://raw.githubusercontent.com/chrisdavies/rlite/master/rlite.js"
+    name: "Rlite",
+    tags: ["rlite", "route", "routing", "router", "hash", "querystring", "named", "parameters"],
+    description: "Tiny, simple, light-weight routing",
+    url: "https://github.com/chrisdavies/rlite",
+    source: "https://raw.githubusercontent.com/chrisdavies/rlite/master/rlite.js"
   },
   {
-     name: "nanoajax",
-     tags: ["ajax","http"],
-     description: "Very basic cross-browser AJAX",
-     url: "https://github.com/yanatan16/nanoajax",
-     source: "https://raw.githubusercontent.com/yanatan16/nanoajax/master/index.js"
+    name: "nanoajax",
+    tags: ["ajax", "http"],
+    description: "Very basic cross-browser AJAX",
+    url: "https://github.com/yanatan16/nanoajax",
+    source: "https://raw.githubusercontent.com/yanatan16/nanoajax/master/index.js"
   },
   {
-     name: "stupid-lib",
-     tags: ["light-weight", "helpers", "jquery-like", "simple"],
-     description: "browser-javascript, jquery-like lib",
-     url: "https://github.com/nighca/lib",
-     source: "https://raw.githubusercontent.com/nighca/lib/master/dist/lib.js"
+    name: "stupid-lib",
+    tags: ["light-weight", "helpers", "jquery-like", "simple"],
+    description: "browser-javascript, jquery-like lib",
+    url: "https://github.com/nighca/lib",
+    source: "https://raw.githubusercontent.com/nighca/lib/master/dist/lib.js"
   },
   /*
   {
@@ -4773,95 +5093,95 @@ module.exports = [
   },
   */
   {
-     name: "universal-diff",
-     tags: ["diff", "compare", "string", "array", "queue"],
-     description: "diff & merge algorithm realized with Javascript.",
-     url: "https://github.com/nighca/universal-diff",
-     source: "https://raw.githubusercontent.com/nighca/universal-diff/master/dist/diff.js"
+    name: "universal-diff",
+    tags: ["diff", "compare", "string", "array", "queue"],
+    description: "diff & merge algorithm realized with Javascript.",
+    url: "https://github.com/nighca/universal-diff",
+    source: "https://raw.githubusercontent.com/nighca/universal-diff/master/dist/diff.js"
   },
   {
-     name: "lightrouter",
-     tags: ["lightrouter", "route", "routing", "router", "hash", "querystring", "named", "parameters"],
-     description: "Ultra lightweight javascript routing for traditional and single page apps.",
-     url: "https://github.com/garygreen/lightrouter",
-     source: "https://raw.githubusercontent.com/garygreen/lightrouter/master/dist/lightrouter.js"
+    name: "lightrouter",
+    tags: ["lightrouter", "route", "routing", "router", "hash", "querystring", "named", "parameters"],
+    description: "Ultra lightweight javascript routing for traditional and single page apps.",
+    url: "https://github.com/garygreen/lightrouter",
+    source: "https://raw.githubusercontent.com/garygreen/lightrouter/master/dist/lightrouter.js"
   },
   {
-     name: "ListOf",
-     tags: ["list", "collection", "array", "library", "c#"],
-     description: "A JavaScript implementation of the C# List<T> object.",
-     url: "https://github.com/joelalejandro/stuff",
-     source: "https://raw.githubusercontent.com/joelalejandro/stuff/master/ListOf.js"
+    name: "ListOf",
+    tags: ["list", "collection", "array", "library", "c#"],
+    description: "A JavaScript implementation of the C# List<T> object.",
+    url: "https://github.com/joelalejandro/stuff",
+    source: "https://raw.githubusercontent.com/joelalejandro/stuff/master/ListOf.js"
   },
   {
-     name: "EventoJS",
-     tags: ["dom events", "event", "evento"],
-     description: "An easy way to manipulate events on DOM.",
-     url: "https://github.com/gustavohenrique/eventojs",
-     source: "https://raw.githubusercontent.com/gustavohenrique/eventojs/master/src/evento.js"
+    name: "EventoJS",
+    tags: ["dom events", "event", "evento"],
+    description: "An easy way to manipulate events on DOM.",
+    url: "https://github.com/gustavohenrique/eventojs",
+    source: "https://raw.githubusercontent.com/gustavohenrique/eventojs/master/src/evento.js"
   },
   {
-     name: "Carpet.js",
-     github: "mateuszgachowski/Carpet.js",
-     tags: ["module", "simple", "autoload", "context", "settings", "module pattern", "advice"],
-     description: "Small, easy-to-learn and modular JavaScript framework for big",
-     url: "https://github.com/mateuszgachowski/Carpet.js",
-     source: "https://raw.githubusercontent.com/mateuszgachowski/Carpet.js/master/src/carpet.js"
+    name: "Carpet.js",
+    github: "mateuszgachowski/Carpet.js",
+    tags: ["module", "simple", "autoload", "context", "settings", "module pattern", "advice"],
+    description: "Small, easy-to-learn and modular JavaScript framework for big",
+    url: "https://github.com/mateuszgachowski/Carpet.js",
+    source: "https://raw.githubusercontent.com/mateuszgachowski/Carpet.js/master/src/carpet.js"
   },
   {
-     name: "keycharm",
-     tags: ["keyboard"],
-     description: "Simple, lightweight key-binding libw. MIT or Apache 2.0.",
-     url: "https://github.com/AlexDM0/keycharm",
-     source: "https://raw.githubusercontent.com/AlexDM0/keycharm/master/keycharm.js"
+    name: "keycharm",
+    tags: ["keyboard"],
+    description: "Simple, lightweight key-binding libw. MIT or Apache 2.0.",
+    url: "https://github.com/AlexDM0/keycharm",
+    source: "https://raw.githubusercontent.com/AlexDM0/keycharm/master/keycharm.js"
   },
   {
-     name: "hash-router",
-     tags: ["hash", "path", "route", "router"],
-     description: "Tiny and lightweight browser router library, developed with SPA in mind :)",
-     url: "https://github.com/michaelsogos/Hash-Router",
-     source: "https://raw.githubusercontent.com/michaelsogos/Hash-Router/master/src/hash-router.js"
+    name: "hash-router",
+    tags: ["hash", "path", "route", "router"],
+    description: "Tiny and lightweight browser router library, developed with SPA in mind :)",
+    url: "https://github.com/michaelsogos/Hash-Router",
+    source: "https://raw.githubusercontent.com/michaelsogos/Hash-Router/master/src/hash-router.js"
   },
   {
-     name: "JsDic",
-     tags: ["dependency", "injection", "container", "di", "dic"],
-     description: "Dependecy injection container inspired by Angular.js.",
-     url: "https://github.com/janmarek/JsDic",
-     source: "https://raw.githubusercontent.com/janmarek/JsDic/master/jsdic.js"
+    name: "JsDic",
+    tags: ["dependency", "injection", "container", "di", "dic"],
+    description: "Dependecy injection container inspired by Angular.js.",
+    url: "https://github.com/janmarek/JsDic",
+    source: "https://raw.githubusercontent.com/janmarek/JsDic/master/jsdic.js"
   },
   {
-     name: "GreinerHormann",
-     tags: ["math", "geometry", "polygon", "clipping", "polyline"],
-     description: "Greiner-Hormann polygon clipping algorithm. Does AND, OR, XOR.",
-     url: "http://w8r.github.io/GreinerHormann/",
-     source: "https://raw.githubusercontent.com/w8r/GreinerHormann/master/dist/greiner-hormann.js"
+    name: "GreinerHormann",
+    tags: ["math", "geometry", "polygon", "clipping", "polyline"],
+    description: "Greiner-Hormann polygon clipping algorithm. Does AND, OR, XOR.",
+    url: "http://w8r.github.io/GreinerHormann/",
+    source: "https://raw.githubusercontent.com/w8r/GreinerHormann/master/dist/greiner-hormann.js"
   },
   {
-     name: "Core.js",
-     github: "mauriciosoares/microjs.com",
-     tags: ["framework", "lightweight", "scalable", "modular", "sandbox"],
-     description: "It helps you create scalable applications written in Javascript, giving you some structure and patterns to keep everything separated.",
-     url: "https://github.com/mauriciosoares/core.js",
-     source: "https://raw.githubusercontent.com/mauriciosoares/core.js/master/dist/core.js"
+    name: "Core.js",
+    github: "mauriciosoares/microjs.com",
+    tags: ["framework", "lightweight", "scalable", "modular", "sandbox"],
+    description: "It helps you create scalable applications written in Javascript, giving you some structure and patterns to keep everything separated.",
+    url: "https://github.com/mauriciosoares/core.js",
+    source: "https://raw.githubusercontent.com/mauriciosoares/core.js/master/dist/core.js"
   },
   {
-     name: "js-mediator",
-     github: "markmarijnissen/js-mediator",
-     tags: ["mediator","module","design pattern","MVC"],
-     description: "Design pattern to write clean, reusable, decoupled, standalone Modules that are coupled with Mediators.",
-     url: "https://github.com/markmarijnissen/js-mediator",
-     source: "https://raw.githubusercontent.com/markmarijnissen/js-mediator/master/mediator.js"
+    name: "js-mediator",
+    github: "markmarijnissen/js-mediator",
+    tags: ["mediator", "module", "design pattern", "MVC"],
+    description: "Design pattern to write clean, reusable, decoupled, standalone Modules that are coupled with Mediators.",
+    url: "https://github.com/markmarijnissen/js-mediator",
+    source: "https://raw.githubusercontent.com/markmarijnissen/js-mediator/master/mediator.js"
   },
   {
-     name: "wjs",
-     tags: ["ajax", "lazy", "loading", "remote", "package"],
-     description: "A JavaScript / PHP to manage lazy loading from server to client.",
-     url: "https://github.com/weeger/wjs",
-     source: "https://raw.githubusercontent.com/weeger/wjs/master/src/wjs.js"
+    name: "wjs",
+    tags: ["ajax", "lazy", "loading", "remote", "package"],
+    description: "A JavaScript / PHP to manage lazy loading from server to client.",
+    url: "https://github.com/weeger/wjs",
+    source: "https://raw.githubusercontent.com/weeger/wjs/master/src/wjs.js"
   },
   {
     name: "micro-query",
-    tags: ["uri", "url", "query", "queryparams", "parameters", "parsing", "querystring" ],
+    tags: ["uri", "url", "query", "queryparams", "parameters", "parsing", "querystring"],
     description: "A minimal URL parameter parsing library.",
     url: "https://github.com/aaron-harvey/micro-query",
     source: "https://raw.githubusercontent.com/aaron-harvey/micro-query/master/micro-query.js"
@@ -4883,20 +5203,20 @@ module.exports = [
     source: "https://raw.githubusercontent.com/krampstudio/aja.js/master/src/aja.js"
   },
   {
-     name: "proto",
-     github: "fresheneesz/proto",
-     tags: ["class", "inheritance", "prototype", "javascript", "superclass", "parent", "child", "inherit"],
-     description: "A prototype-based inheritance library that makes it easy to create objects and inheritance hierarchies without losing the power of javascript's prototype system.",
-     url: "https://github.com/fresheneesz/proto",
-     source: "https://raw.githubusercontent.com/fresheneesz/proto/master/proto.js"
+    name: "proto",
+    github: "fresheneesz/proto",
+    tags: ["class", "inheritance", "prototype", "javascript", "superclass", "parent", "child", "inherit"],
+    description: "A prototype-based inheritance library that makes it easy to create objects and inheritance hierarchies without losing the power of javascript's prototype system.",
+    url: "https://github.com/fresheneesz/proto",
+    source: "https://raw.githubusercontent.com/fresheneesz/proto/master/proto.js"
   },
   {
-     name: "mongo-parse",
-     github: "fresheneesz/mongo-parse",
-     tags: ["mongo", "mongodb", "mongo db", "parse", "parser"],
-     description: "A parser for mongo db queries.",
-     url: "https://github.com/fresheneesz/mongo-parse",
-     source: "https://raw.githubusercontent.com/fresheneesz/mongo-parse/master/mongoParse.js"
+    name: "mongo-parse",
+    github: "fresheneesz/mongo-parse",
+    tags: ["mongo", "mongodb", "mongo db", "parse", "parser"],
+    description: "A parser for mongo db queries.",
+    url: "https://github.com/fresheneesz/mongo-parse",
+    source: "https://raw.githubusercontent.com/fresheneesz/mongo-parse/master/mongoParse.js"
   },
   {
     name: "router5",
@@ -4915,12 +5235,19 @@ module.exports = [
     source: "https://raw.githubusercontent.com/marcojetson/type-ahead.js/master/type-ahead.js"
   },
   {
-     name: "Storage.js",
-     github: "lcavadas/Storage.js",
-     tags: ["IndexedDB", "WebSQL", "localStorage", "sessionStorage", "localStorage", "storage", "database", "object", "store"],
-     description: "JavaScript Library for Cross Browser Persistence using WebStorage (LocalStorage, SessionStorage, WebSQL and IndexedDB) for all browsers.",
-     url: "https://github.com/lcavadas/Storage.js",
-     source: "https://raw.githubusercontent.com/lcavadas/Storage.js/master/build/storage.js"
+    name: "dont-go",
+    tags: ["favicon", "title"],
+    description: "Change the title and/or favicon of the page when it is inactive.",
+    url: "https://github.com/tiaanduplessis/dont-go",
+    source: "https://raw.githubusercontent.com/tiaanduplessis/dont-go/master/lib/dont-go.js"
+  },
+  {
+    name: "Storage.js",
+    github: "lcavadas/Storage.js",
+    tags: ["IndexedDB", "WebSQL", "localStorage", "sessionStorage", "localStorage", "storage", "database", "object", "store"],
+    description: "JavaScript Library for Cross Browser Persistence using WebStorage (LocalStorage, SessionStorage, WebSQL and IndexedDB) for all browsers.",
+    url: "https://github.com/lcavadas/Storage.js",
+    source: "https://raw.githubusercontent.com/lcavadas/Storage.js/master/build/storage.js"
   },
   {
     name: "xr",
@@ -4929,6 +5256,14 @@ module.exports = [
     description: "Ultra-simple promise based wrapper around XMLHttpRequest",
     url: "https://github.com/radiosilence/xr",
     source: "https://raw.githubusercontent.com/radiosilence/xr/master/src/xr.js"
+  },
+  {
+    name: "nano-markdown",
+    github: "Holixus/nano-markdown",
+    tags: ["markdown", "html", "nano", "micro", "microjs", "small"],
+    description: "A very small Markdown to HTML converter",
+    url: "https://github.com/Holixus/nano-markdown",
+    source: "https://raw.githubusercontent.com/Holixus/nano-markdown/master/index.js"
   },
   {
     name: "SimpleScrollbar",
@@ -4940,11 +5275,11 @@ module.exports = [
   },
   {
     name: "tplize",
-    github: "alxgutnikov/tplize",
+    github: "gutnikov/tplize",
     tags: ["templates"],
     description: "A ~2kb lib for quickly prototyping templated content",
-    url: "https://github.com/alxgutnikov/tplize",
-    source: "https://raw.githubusercontent.com/alxgutnikov/tplize/master/index.js"
+    url: "https://github.com/gutnikov/tplize",
+    source: "https://raw.githubusercontent.com/gutnikov/tplize/master/index.js"
   },
   {
     name: "populate.js",
@@ -4957,7 +5292,7 @@ module.exports = [
   {
     name: "offside.js",
     github: "toomuchdesign/offside",
-    tags: ["menu", "navigation", "responsive", "off-canvas","offcanvas", "off", "canvas"],
+    tags: ["menu", "navigation", "responsive", "off-canvas", "offcanvas", "off", "canvas"],
     description: "A minimal ~3kb JavaScript kit without library dependencies to push things off-canvas using using just class manipulation.",
     url: "https://github.com/toomuchdesign/offside",
     source: "https://raw.githubusercontent.com/toomuchdesign/offside/master/dist/offside.js"
@@ -4965,7 +5300,7 @@ module.exports = [
   {
     name: "html-chain",
     github: "maael/html-chain",
-    tags: ["html", "lightweight","dom", "dom-builder", "templating", "chain"],
+    tags: ["html", "lightweight", "dom", "dom-builder", "templating", "chain"],
     description: "A small javascript library to build DOM elements by chaining javascript functions",
     url: "https://github.com/maael/html-chain",
     source: "https://raw.githubusercontent.com/maael/html-chain/master/html.js"
@@ -4987,6 +5322,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/peduarte/wallop/master/js/Wallop.js"
   },
   {
+    name: "Universal Router",
+    github: "kriasoft/universal-router",
+    tags: ["react", "reactjs", "react-component", "route", "routes", "router", "routing", "flux"],
+    description: "A simple middleware-style router for isomorphic JavaScript web apps",
+    url: "https://www.kriasoft.com/universal-router/",
+    source: "https://raw.githubusercontent.com/kriasoft/universal-router/master/dist/universal-router.js"
+  },
+  {
     name: "isMobileOS.js",
     github: "RazorfishGermany/es6-module-isMobileOs",
     tags: ["helper", "lightweight", "mobile", "detection", "user agent string", "ES6", "UMD"],
@@ -4994,19 +5337,19 @@ module.exports = [
     url: "https://github.com/RazorfishGermany/es6-module-isMobileOs",
     source: "https://raw.githubusercontent.com/RazorfishGermany/es6-module-isMobileOs/master/dist/main.js"
   },
-    {
-        name: "nanoflux.js",
-        github: "ohager/nanoflux",
-        tags: ["flux", "lightweight", "full flux", "tiny", "micro"],
-        description: "A very lightweight and dependency-free Flux implementation",
-        url: "https://github.com/ohager/nanoflux",
-        source: "https://raw.githubusercontent.com/ohager/nanoflux/master/dist/nanoflux.js"
-    },
-    {
+  {
+    name: "nanoflux.js",
+    github: "ohager/nanoflux",
+    tags: ["flux", "lightweight", "full flux", "tiny", "micro"],
+    description: "A very lightweight and dependency-free Flux implementation",
+    url: "https://github.com/ohager/nanoflux",
+    source: "https://raw.githubusercontent.com/ohager/nanoflux/master/dist/nanoflux.js"
+  },
+  {
     name: "preact",
     github: "developit/preact",
-    tags: ["dom", "templating"],
-    description: "Tiny & fast Component-based Virtual DOM framework.",
+    tags: ["dom", "diff", "templating", "react", "components"],
+    description: "Preact is a fast, 3kB alternative to React, with the same ES2015 API",
     url: "https://github.com/developit/preact",
     source: "https://raw.githubusercontent.com/developit/preact/master/src/preact.js"
   },
@@ -5057,5 +5400,148 @@ module.exports = [
     description: "Animation micro library. Vanilla JavaScript.",
     url: "https://github.com/branneman/TinyAnimate",
     source: "https://raw.githubusercontent.com/branneman/TinyAnimate/master/src/TinyAnimate.js"
+  },
+  {
+    name: "arenite",
+    github: "arenite/arenite",
+    tags: ["dependency", "inversion", "control", "injection", "ioc", "di", "require", "dependency injection", "provider", "IOC", "microkernel", "module", "framework", "service locator"],
+    description: "Inversion of Control / Dependency Injection Library",
+    url: "https://github.com/arenite/arenite",
+    source: "https://raw.githubusercontent.com/arenite/arenite/master/build/arenite.js"
+  },
+  {
+    name: "ns.js",
+    github: "Soldier-B/ns.js",
+    tags: ["namespace", "module", "scope", "simple", "name", "space"],
+    description: "A small and simple Javascript namespace function",
+    url: "https://github.com/Soldier-B/ns.js",
+    source: "https://raw.githubusercontent.com/Soldier-B/ns.js/master/ns.js"
+  },
+  {
+    name: "microTK",
+    github: "microTK/microTK",
+    tags: ["dom", "events", "query selection"],
+    description: "A tiny JavaScript framework",
+    url: "https://microtk.io",
+    source: "https://cdn.rawgit.com/microTK/microTK/master/dist/microTK.js"
+  },
+  {
+    name: "tinyfade.js",
+    github: "moqmar/tinyfade.js",
+    tags: ["javascript", "slideshow", "slider", "responsive", "fade", "image"],
+    description: "A tiny plain JavaScript library for fully responsive image slideshows.",
+    url: "https://moqmar.github.io/tinyfade.js/",
+    source: "https://raw.githubusercontent.com/moqmar/tinyfade.js/master/tinyfade.js"
+  },
+  {
+    name: "boomerang-cache",
+    github: "giraysam/boomerang-cache",
+    tags: ["boomerang", "boomerang-cache", "localStorage", "sessionStorage", "javascript cache"],
+    description: "boomerangCache is a client side caching library based on localStorage and sessionStorage",
+    url: "http://giraysam.github.io/boomerang-cache/",
+    source: "https://raw.githubusercontent.com/giraysam/boomerang-cache/master/src/boomerang-cache.js"
+  },
+  {
+    name: "Qoob",
+    github: "enzyme/qoob",
+    tags: ["DOM", "manipulation", "events", "css", "query selection", "data", "traversal", "es2015", "js:next", "functional"],
+    description: "A lightweight DOM manipulation library",
+    url: "https://github.com/enzyme/qoob",
+    source: "https://github.com/enzyme/qoob/blob/master/src/qoob.js"
+  },
+  {
+    name: "Prophet.js",
+    github: "binarybaba/prophetjs",
+    tags: ["toast", "notification", "growl", "snarl", "alert", "flash", "messages", "vanilla"],
+    description: "Vanilla JS library for clean toast notifications",
+    url: "https://github.com/binarybaba/prophetjs",
+    source: "https://raw.githubusercontent.com/binarybaba/prophetjs/master/dist/js/prophet.js"
+  },
+  {
+    name: "simple-require-loader",
+    tags: ["loader", "spa", "cross-platform"],
+    description: "A simple, dynamic, powerful module loader with hot swapping and optional remote loading support.",
+    url: "https://github.com/isiahmeadows/simple-require-loader",
+    source: "https://cdn.rawgit.com/isiahmeadows/simple-require-loader/v0.1.0/r.js"
+  },
+  {
+    name: "Redux",
+    github: "reactjs/redux",
+    tags: ["data", "functional"],
+    description: "Predictable state container for JavaScript apps",
+    url: "http://redux.js.org/",
+    source: "https://unpkg.com/redux@3.6.0/dist/redux.js"
+  },
+  {
+    name: "Maybe",
+    github: "alexanderjarvis/maybes",
+    tags: ["maybe", "functional"],
+    description: "Maybe is a type that wraps optional values",
+    url: "https://github.com/alexanderjarvis/maybe",
+    source: "https://raw.githubusercontent.com/alexanderjarvis/maybe/master/src/maybe.js"
+  },
+  {
+    name: "microBench",
+    github: "kmpatel/microBench",
+    tags: ["performance", "benchmark"],
+    description: "Tiny, simple framework to benchmark your JS functions in browser console",
+    url: "https://github.com/kmpatel/microBench/releases",
+    source: "https://raw.githubusercontent.com/kmpatel/microBench/v0.9/ubenchmark.js"
+  },
+  {
+    name: "Animatelo",
+    github: "gibbok/animatelo",
+    tags: ["animation", "animate", "web animation"],
+    description: "Animatelo is a bunch of cool, fun, and cross-browser animations for you to use in your projects. This is a porting to Web Animation API of the fabulous animate.css project.",
+    url: "https://gibbok.github.io/animatelo/",
+    source: "https://raw.githubusercontent.com/gibbok/animatelo/master/dist/animatelo.min.js"
+  },
+  {
+    name: "Picodom",
+    github: "picodom/picodom",
+    tags: ["virtual", "dom", "templating"],
+    description: "1kb JavaScript Virtual DOM builder and patch algorithm.",
+    url: "https://github.com/picodom/picodom",
+    source: "https://unpkg.com/picodom"
+  },
+  {
+    name: "xPrototype",
+    github: "reduardo7/xPrototype",
+    tags: ["javascript", "prototype", "extend", "object", "quick", "simple", "nojquery", "loop", "browser", "chrome", "firefox"],
+    description: "xPrototype is a fast, small and feature-rich JavaScript library. It makes things like for loop, for each, time out / interval, data types, sort / order, conversion, clone object, extend object, string manipulation much simpler with an easy-to-use API that works across a multitude of browsers and platforms.",
+    url: "https://github.com/reduardo7/xPrototype",
+    source: "https://raw.githubusercontent.com/reduardo7/xPrototype/master/xprototype.js"
+  },
+  {
+    name: "microdi",
+    github: "yavorskiy/microdi",
+    tags: ["dependency", "injection", "di", "es6"],
+    description: "Micro helper for JavaScript dependency injection (DI).",
+    url: "https://github.com/yavorskiy/microdi",
+    source: "https://raw.githubusercontent.com/yavorskiy/microdi/master/index.js"
+  },
+  {
+    name: "SkateJS",
+    github: "skatejs/skatejs",
+    tags: ["javascript", "web", "component", "components", "custom", "elements", "shadow", "dom", "html", "virtual", "vdom", "jsx", "frp", "functional", "reactive", "programming"],
+    description: "SkateJS is a web component library designed to give you an augmentation of the web component specs focusing on a functional rendering pipeline, clean property / attribute semantics and a small footprint.",
+    url: "https://github.com/skatejs/skatejs",
+    source: "https://unpkg.com/skatejs"
+  },
+  {
+    name: "aph",
+    github: "kaisermann/aph",
+    tags: ["javascript", "DOM", "jQuery", "Manipulation"],
+    description: "A mini (1.2kb) DOM Manipulation library. A very slim and fast helper.",
+    url: "https://github.com/kaisermann/aph",
+    source: "https://raw.githubusercontent.com/kaisermann/aph/master/dist/aph.js"
+  },
+  {
+    name: "tiv",
+    github: "kucukharf/tiv",
+    tags: ["javascript", "Validation"],
+    description: "1kb JavaScript Identify Number Validater.",
+    url: "https://github.com/kucukharf/tiv",
+    source: "https://github.com/kucukharf/tiv/blob/master/tiv.min.js"
   }
 ];
