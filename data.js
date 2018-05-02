@@ -71,6 +71,14 @@ module.exports = [{
     source: "https://raw.githubusercontent.com/thedumbterminal/TinyBrowserFramework/master/src/index.js"
   },
   {
+    name: "syrupjs",
+    github: "ahmed-musallam/syrupjs",
+    tags: ["pubsub", "component-interaction", "event", "jquery"],
+    description: "A tiny pub/sub jQuery micro-framework for distant component interaction",
+    url: "https://github.com/ahmed-musallam/syrupjs",
+    source: ["https://github.com/ahmed-musallam/syrupjs/blob/master/vendor/tiny-pub-sub.js","https://github.com/ahmed-musallam/syrupjs/blob/master/index.js"]
+  },
+  {
     name: "blobcounter.js",
     github: "satrobit/blobcounter.js",
     tags: ["blob", "image", "canvas", "processing", "2D", "blobcounter"],
