@@ -3126,6 +3126,13 @@ module.exports = [{
     source: "https://raw.githubusercontent.com/hoxton-one/babelbox/master/dist/babelbox.js"
   },
   {
+    name: "Peppermint",
+    tags: ["mobile", "slider", "touch", "carousel", "slideshow"],
+    description: "Yet another touch slider. Fast, lightweight, extensible, works on everything.",
+    url: "https://github.com/wilddeer/Peppermint",
+    source: "https://raw.github.com/wilddeer/Peppermint/master/peppermint.js"
+  },
+  {
     name: "Cookie Monster",
     github: "firstandthird/cookie-monster",
     tags: ["cookies", "data", "store"],
