@@ -269,6 +269,16 @@ module.exports = [{
     source: "https://raw.githubusercontent.com/AtSpy/AtSpy/master/dist/atspy.js"
   },
   {
+    name: "Canary",
+    github: "Mapita/Canary",
+    tags: ["javascript", "test", "tests", "testing", "unit test", "unit tests", "unit testing", "automated test", "automated tests", "automated testing"],
+    description: "Write and run unit tests.",
+    url: "https://github.com/Mapita/Canary",
+    package: "canary-test",
+    documentation: "http://canary.readthedocs.io/en/stable/",
+    source: "https://github.com/Mapita/Canary/blob/master/canary.js"
+  },
+  {
     name: "FrontExpress",
     github: "camelaissani/frontexpress",
     tags: ["frontexpress", "router", "routing", "express", "spa", "framework", "front-end", "tiny", "parameters", "querystring", "named", "path", "uri"],
