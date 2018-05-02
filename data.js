@@ -341,6 +341,14 @@ module.exports = [{
     source: "https://raw.githubusercontent.com/kogarashisan/ClassManager/master/lib/class_manager.js"
   },
   {
+    name: "FloatSidebar.js",
+    github: "vursen/FloatSidebar.js",
+    tags: ["sticky", "float", "sidebar"],
+    description: "Make your sidebar floating",
+    url: "https://github.com/vursen/FloatSidebar.js",
+    source: "https://raw.githubusercontent.com/vursen/FloatSidebar.js/master/dist/float-sidebar.js"
+  },
+  {
     name: "geojson2svg",
     github: "gagan-bansal/geojson2svg",
     tags: ["maps", "geojson", "svg"],

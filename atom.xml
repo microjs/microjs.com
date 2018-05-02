@@ -5624,5 +5624,13 @@
 		<summary>Pure JavaScript modal dialog designed to simplify the creation of dialogs in Web and Hybrid Mobile apps</summary>
 	</entry>
 
+	<entry>
+		<title>FloatSidebar.js</title>
+		<link href="https://github.com/vursen/FloatSidebar.js" />
+		<id>urn:uuid:f731f6d0-f931-11e7-a33d-e1af2acda3fe</id>
+		<updated>2018-01-14'T'13:51:01+00:00</updated>
+		<summary>Make your sidebar floating</summary>
+	</entry>
+
 
 </feed>
