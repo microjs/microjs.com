@@ -3619,6 +3619,14 @@ module.exports = [{
     source: "https://raw.githubusercontent.com/bbaliguet/ordering/master/ordering.js"
   },
   {
+    name: "fast-sort",
+    github : "snovakovic/js-flock",
+    tags: ["sort", "sorting", "fastSort", "quickSort", "order", "ordering", "arrays"],
+    description: "Blazing fast array sorting that outperforms lodash sorting by ~2x",
+    url: "https://www.npmjs.com/package/fast-sort",
+    source: "https://raw.githubusercontent.com/snovakovic/fast-sort/master/dist/sort.js"
+  },
+  {
     name: "Byda.js",
     tags: ["HTML5", "imports", "xhr", "ajax", "swapping"],
     description: "HTML content swapping via HTML5 imports or XHR (Ajax).",
