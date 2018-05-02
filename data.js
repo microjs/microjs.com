@@ -5402,6 +5402,14 @@ module.exports = [{
     source: "https://raw.githubusercontent.com/branneman/TinyAnimate/master/src/TinyAnimate.js"
   },
   {
+    name: "sjsClass",
+    github: "reduardo7/sjsClass",
+    tags: ["class", "node", "npm", "javascript", "nojquery", "browser", "chrome"],
+    description: "Simple JavaScript Class. Create your advanced JavaScript Class!",
+    url: "https://github.com/reduardo7/sjsClass",
+    source: "https://raw.githubusercontent.com/reduardo7/sjsClass/master/lib/sjsclass.js"
+  },
+  {
     name: "arenite",
     github: "arenite/arenite",
     tags: ["dependency", "inversion", "control", "injection", "ioc", "di", "require", "dependency injection", "provider", "IOC", "microkernel", "module", "framework", "service locator"],
