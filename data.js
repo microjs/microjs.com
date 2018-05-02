@@ -5533,5 +5533,29 @@ module.exports = [{
     description: "1kb JavaScript Identify Number Validater.",
     url: "https://github.com/kucukharf/tiv",
     source: "https://github.com/kucukharf/tiv/blob/master/tiv.min.js"
+  },
+  {
+    name: "JOSH",
+    github: "bikossor/JOSH",
+    tags: ["javascript", "css", "style", "stylesheet", "parse", "parser"],
+    description: "A vanilla JavaScript helper to parse JSON into CSS.",
+    url: "https://github.com/Bikossor/JOSH",
+    source: "https://github.com/Bikossor/JOSH/blob/master/dist/JOSH.min.js"
+  },
+  {
+    name: "RefinedDate",
+    github: "bikossor/RefinedDate",
+    tags: ["javascript", "date", "refined", "time"],
+    description: "A vanilla javascript library for handling dates.",
+    url: "https://github.com/Bikossor/RefinedDate",
+    source: "https://github.com/Bikossor/RefinedDate/blob/master/dist/RefinedDate.min.js"
+  },
+  {
+    name: "PrismaJS",
+    github: "bikossor/PrismaJS",
+    tags: ["javascript", "color", "prisma"],
+    description: "A vanilla javascript color library.",
+    url: "https://github.com/Bikossor/PrismaJS",
+    source: "https://github.com/Bikossor/PrismaJS/blob/master/dist/Prisma.min.js"
   }
 ];
