@@ -55,6 +55,14 @@ module.exports = [{
     source: "https://github.com/bevacqua/fuzzysearch/blob/master/index.js"
   },
   {
+    name: "Horsey",
+    github: "bevacqua/horsey",
+    tags: ["autocomplete", "Progressive", "fuzzy", "fuzzy-search", "search"],
+    description: "Progressive and customizable autocomplete component",
+    url: "https://bevacqua.github.io/horsey/",
+    source: "https://github.com/bevacqua/horsey/blob/master/horsey.js"
+  },
+  {
     name: "Fuse.js",
     github: "krisk/fuse",
     tags: ["Lightweight", "fuzzy", "fuzzy-search", "search"],
