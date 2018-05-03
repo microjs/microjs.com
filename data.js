@@ -5489,6 +5489,13 @@ module.exports = [{
     source: "https://unpkg.com/redux@3.6.0/dist/redux.js"
   },
   {
+    name: "responsive-modals",
+    tags: ["modals", "css", "popup", "image", "lightbox"],
+    description: "Plain CSS modals and a lightbox with minimal JS",
+    url: "https://gist.github.com/moqmar/3f85da818f8369f429d180e30299dd7d",
+    source: "https://gist.githubusercontent.com/moqmar/3f85da818f8369f429d180e30299dd7d/raw/modal.css"
+  },
+  {
     name: "Maybe",
     github: "alexanderjarvis/maybes",
     tags: ["maybe", "functional"],
