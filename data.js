@@ -2057,7 +2057,7 @@ module.exports = [{
     name: "ICanHaz",
     tags: ["templating"],
     description: "Simple & powerful client-side templating for jQuery or Zepto.js.",
-    url: "http://icanhazjs.com/",
+    url: "https://github.com/HenrikJoreteg/ICanHaz.js",
     source: "https://raw.githubusercontent.com/HenrikJoreteg/ICanHaz.js/master/ICanHaz.js"
   },
   {
