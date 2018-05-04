@@ -28,7 +28,7 @@ module.exports = [{
     tags: ["modal", "javascript", "vanilla", "simple"],
     description: "Clean, Fast, Modular and customizable Modal Window controller",
     url: "http://juanbrujo.github.io/tinyModal/",
-    source: "https://raw.githubusercontent.com/juanbrujo/tinyModal/blob/master/src/tinyModal.js"
+    source: "https://raw.githubusercontent.com/juanbrujo/tinyModal/master/src/tinyModal.js"
   },
   {
     name: "NodeList.js",
@@ -44,7 +44,7 @@ module.exports = [{
     tags: ["Drag and Drop", "simple", "Library"],
     description: "Drag and drop so simple it hurts",
     url: "https://bevacqua.github.io/dragula/",
-    source: "https://raw.githubusercontent.com/bevacqua/dragula/blob/master/dragula.js"
+    source: "https://raw.githubusercontent.com/bevacqua/dragula/master/dragula.js"
   },
   {
     name: "fuzzysearch",
@@ -52,7 +52,7 @@ module.exports = [{
     tags: ["Lightweight", "Tiny", "fast", "fuzzy", "fuzzy-search", "search"],
     description: "Tiny and blazing-fast fuzzy search in JavaScript",
     url: "https://github.com/bevacqua/fuzzysearch",
-    source: "https://raw.githubusercontent.com/bevacqua/fuzzysearch/blob/master/index.js"
+    source: "https://raw.githubusercontent.com/bevacqua/fuzzysearch/master/index.js"
   },
   {
     name: "Fuse.js",
@@ -76,7 +76,7 @@ module.exports = [{
     tags: ["pubsub", "component-interaction", "event", "jquery"],
     description: "A tiny pub/sub jQuery micro-framework for distant component interaction",
     url: "https://github.com/ahmed-musallam/syrupjs",
-    source: ["https://raw.githubusercontent.com/ahmed-musallam/syrupjs/blob/master/vendor/tiny-pub-sub.js","https://raw.githubusercontent.com/ahmed-musallam/syrupjs/blob/master/index.js"]
+    source: ["https://raw.githubusercontent.com/ahmed-musallam/syrupjs/master/vendor/tiny-pub-sub.js","https://raw.githubusercontent.com/ahmed-musallam/syrupjs/blob/master/index.js"]
   },
   {
     name: "blobcounter.js",
@@ -276,7 +276,7 @@ module.exports = [{
     url: "https://github.com/Mapita/Canary",
     package: "canary-test",
     documentation: "http://canary.readthedocs.io/en/stable/",
-    source: "https://raw.githubusercontent.com/Mapita/Canary/blob/master/canary.js"
+    source: "https://raw.githubusercontent.com/Mapita/Canary/master/canary.js"
   },
   {
     name: "FrontExpress",
@@ -657,7 +657,7 @@ module.exports = [{
     tags: ["svg", "vml", "graphics", "drawing", "animation", "visualization", "charts", "data visualization", "api"],
     description: "A powerful lightweight JavaScript drawing library for graphics and animation, based on SVG/VML, with intuitive API",
     url: "http://www.graphicsjs.org",
-    source: "https://raw.githubusercontent.com/AnyChart/GraphicsJS/blob/master/dist/graphics.js"
+    source: "https://raw.githubusercontent.com/AnyChart/GraphicsJS/master/dist/graphics.js"
   },
   {
     name: "SaVaGe.js",
@@ -2181,7 +2181,7 @@ module.exports = [{
     tags: ["dom", "lightweight", "shorthand", "ajax"],
     description: "Small library for DOM and AJAX operations (jQuery function style).",
     url: "https://github.com/MrOnlineCoder/sul.js",
-    source: "https://raw.githubusercontent.com/MrOnlineCoder/sul.js/blob/master/src/sul.js"
+    source: "https://raw.githubusercontent.com/MrOnlineCoder/sul.js/master/src/sul.js"
   },
   {
     name: "Valentine",
@@ -3163,7 +3163,7 @@ module.exports = [{
     tags: ["ajax", "xhr", "rest", "fluent", "XMLHttpRequest"],
     description: "Fluent, extensible, easy-to-use ajax Framework.",
     url: "http://jccazeaux.github.io/jacks/",
-    source: "https://raw.githubusercontent.com/jccazeaux/jacks/blob/master/src/jacks.js"
+    source: "https://raw.githubusercontent.com/jccazeaux/jacks/master/src/jacks.js"
   },
   {
     name: "colorspaces.js",
@@ -5463,7 +5463,7 @@ module.exports = [{
     tags: ["DOM", "manipulation", "events", "css", "query selection", "data", "traversal", "es2015", "js:next", "functional"],
     description: "A lightweight DOM manipulation library",
     url: "https://github.com/enzyme/qoob",
-    source: "https://raw.githubusercontent.com/enzyme/qoob/blob/master/src/qoob.js"
+    source: "https://raw.githubusercontent.com/enzyme/qoob/master/src/qoob.js"
   },
   {
     name: "Prophet.js",
@@ -5566,6 +5566,6 @@ module.exports = [{
     tags: ["javascript", "Validation"],
     description: "1kb JavaScript Identify Number Validater.",
     url: "https://github.com/kucukharf/tiv",
-    source: "https://raw.githubusercontent.com/kucukharf/tiv/blob/master/tiv.min.js"
+    source: "https://raw.githubusercontent.com/kucukharf/tiv/master/tiv.min.js"
   }
 ];
