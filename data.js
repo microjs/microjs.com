@@ -76,7 +76,7 @@ module.exports = [{
     tags: ["pubsub", "component-interaction", "event", "jquery"],
     description: "A tiny pub/sub jQuery micro-framework for distant component interaction",
     url: "https://github.com/ahmed-musallam/syrupjs",
-    source: ["https://raw.githubusercontent.com/ahmed-musallam/syrupjs/master/vendor/tiny-pub-sub.js","https://raw.githubusercontent.com/ahmed-musallam/syrupjs/blob/master/index.js"]
+    source: ["https://raw.githubusercontent.com/ahmed-musallam/syrupjs/master/vendor/tiny-pub-sub.js","https://raw.githubusercontent.com/ahmed-musallam/syrupjs/master/index.js"]
   },
   {
     name: "blobcounter.js",
