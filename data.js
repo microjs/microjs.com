@@ -55,6 +55,14 @@ module.exports = [{
     source: "https://github.com/bevacqua/fuzzysearch/blob/master/index.js"
   },
   {
+    name: "riotjs",
+    github: "riot/riot",
+    tags: ["React Like", "UI Library", "UI", "micro Library"],
+    description: "A React-like user interface micro-library",
+    url: "http://riotjs.com",
+    source: "https://github.com/riot/riot/blob/master/riot.js"
+  },
+  {
     name: "Fuse.js",
     github: "krisk/fuse",
     tags: ["Lightweight", "fuzzy", "fuzzy-search", "search"],
