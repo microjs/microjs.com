@@ -1140,6 +1140,14 @@ module.exports = [{
     source: "https://raw.githubusercontent.com/Agnostic/LocalDB.js/master/src/LocalDB.js"
   },
   {
+    name: "mess-js",
+    github: "graciano/mess",
+    tags: ["message", "toast", "toasts", "android", "dialog", "info"],
+    description: "mess - Messages Extremely Simple Script: dialog 'android toast' like messages.",
+    url: "https://github.com/graciano/mess",
+    source: "https://raw.githubusercontent.com/graciano/mess/gh-pages/src/mess.js"
+  },
+  {
     name: "Countable",
     github: "RadLikeWhoa/Countable",
     tags: ["paragraphs", "words", "characters", "counting", "live", "text"],
@@ -1419,7 +1427,7 @@ module.exports = [{
     description: "Zero dependency javascript RIFF Wav file manipulation routines.",
     url: "https://github.com/northeastnerd/wavyjs",
     source: "https://raw.githubusercontent.com/northeastnerd/wavyjs/master/wavyjs.min.js"
-  },                  
+  },
   {
     name: "jBone",
     github: "kupriyanenko/jbone",
