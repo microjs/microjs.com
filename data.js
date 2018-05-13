@@ -4758,6 +4758,13 @@ module.exports = [{
     source: "https://raw.githubusercontent.com/rkrupinski/easter.js/master/dist/easter.js"
   },
   {
+    name: "overflow-color",
+    tags: ["overflow", "color", "DOM", "css"],
+    description: "Automatically switch css html background color.",
+    url: "https://github.com/dimitrinicolas/overflow-color",
+    source: "https://raw.githubusercontent.com/dimitrinicolas/overflow-color/master/dist/overflow-color.umd.js"
+  },
+  {
     name: "henka",
     tags: ["responsive", "respond", "media", "query", "media-query", "queries"],
     description: "Light weight, portable, single purpose responsive javascript library.",
