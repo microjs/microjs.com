@@ -1,0 +1,27 @@
+{
+  "name": "microjs.com",
+  "author": "",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "after": "^0.8.2",
+    "async-memo": "0.0.1",
+    "colors": "~0.6.2",
+    "errno": "^0.1.7",
+    "map-async": "~0.1.1",
+    "mkdirp": "~0.3.5",
+    "moment": "~2.19.3",
+    "node-uuid": "~1.4.1",
+    "read": "~1.0.5",
+    "request": "^2.85.0",
+    "uglify-es": "^3.3.10",
+    "xtend": "~2.1.1",
+    "zip": "~1.1.1"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {
+    "test": "./build.js -v"
+  }
+}

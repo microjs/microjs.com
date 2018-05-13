@@ -5624,5 +5624,197 @@
 		<summary>Pure JavaScript modal dialog designed to simplify the creation of dialogs in Web and Hybrid Mobile apps</summary>
 	</entry>
 
+	<entry>
+		<title>sjsClass</title>
+		<link href="https://github.com/reduardo7/sjsClass" />
+		<id>urn:uuid:79f83470-4f69-11e8-91e0-9b6c52de0f09</id>
+		<updated>2018-05-04'T'07:02:23+00:00</updated>
+		<summary>Simple JavaScript Class. Create your advanced JavaScript Class!</summary>
+	</entry>
+
+	<entry>
+		<title>XPopUp</title>
+		<link href="https://github.com/reduardo7/xpopup" />
+		<id>urn:uuid:79f88290-4f69-11e8-91e0-9b6c52de0f09</id>
+		<updated>2018-05-04'T'07:02:23+00:00</updated>
+		<summary>Full control over JavaScript PopUp&apos;s.</summary>
+	</entry>
+
+	<entry>
+		<title>FlexSearch</title>
+		<link href="https://github.com/nextapps-de/flexsearch" />
+		<id>urn:uuid:7b3cc260-4f69-11e8-91e0-9b6c52de0f09</id>
+		<updated>2018-05-04'T'07:02:23+00:00</updated>
+		<summary>Next-Generation full text search library with zero dependencies.</summary>
+	</entry>
+
+	<entry>
+		<title>RouterX</title>
+		<link href="https://github.com/bcoop713/routerx" />
+		<id>urn:uuid:05e5b8c0-4f71-11e8-8383-23682d06a6eb</id>
+		<updated>2018-05-04'T'07:59:07+00:00</updated>
+		<summary>A stupid simple functional reactive router built for use with Rx.js apps</summary>
+	</entry>
+
+	<entry>
+		<title>miq</title>
+		<link href="http://www.bitstorm.org/javascript/miq/" />
+		<id>urn:uuid:05e5dfd0-4f71-11e8-8383-23682d06a6eb</id>
+		<updated>2018-05-04'T'07:59:07+00:00</updated>
+		<summary>Lightweight modern jQuery-like DOM library</summary>
+	</entry>
+
+	<entry>
+		<title>tinyModal</title>
+		<link href="http://juanbrujo.github.io/tinyModal/" />
+		<id>urn:uuid:06349c10-4f71-11e8-8383-23682d06a6eb</id>
+		<updated>2018-05-04'T'07:59:07+00:00</updated>
+		<summary>Clean, Fast, Modular and customizable Modal Window controller</summary>
+	</entry>
+
+	<entry>
+		<title>fuzzysearch</title>
+		<link href="https://github.com/bevacqua/fuzzysearch" />
+		<id>urn:uuid:0634ea30-4f71-11e8-8383-23682d06a6eb</id>
+		<updated>2018-05-04'T'07:59:07+00:00</updated>
+		<summary>Tiny and blazing-fast fuzzy search in JavaScript</summary>
+	</entry>
+
+	<entry>
+		<title>syrupjs</title>
+		<link href="https://github.com/ahmed-musallam/syrupjs" />
+		<id>urn:uuid:0635fba0-4f71-11e8-8383-23682d06a6eb</id>
+		<updated>2018-05-04'T'07:59:07+00:00</updated>
+		<summary>A tiny pub/sub jQuery micro-framework for distant component interaction</summary>
+	</entry>
+
+	<entry>
+		<title>Dragula</title>
+		<link href="https://bevacqua.github.io/dragula/" />
+		<id>urn:uuid:06395700-4f71-11e8-8383-23682d06a6eb</id>
+		<updated>2018-05-04'T'07:59:07+00:00</updated>
+		<summary>Drag and drop so simple it hurts</summary>
+	</entry>
+
+	<entry>
+		<title>Canary</title>
+		<link href="https://github.com/Mapita/Canary" />
+		<id>urn:uuid:0702e890-4f71-11e8-8383-23682d06a6eb</id>
+		<updated>2018-05-04'T'07:59:07+00:00</updated>
+		<summary>Write and run unit tests.</summary>
+	</entry>
+
+	<entry>
+		<title>Euclid</title>
+		<link href="https://github.com/daniellmb/Euclids-algorithm" />
+		<id>urn:uuid:074e2260-4f71-11e8-8383-23682d06a6eb</id>
+		<updated>2018-05-04'T'07:59:07+00:00</updated>
+		<summary>Recursive Euclidean algorithm for finding the greatest common divisor of two numbers.</summary>
+	</entry>
+
+	<entry>
+		<title>Smart Select</title>
+		<link href="https://github.com/davidecantoni/smart-select" />
+		<id>urn:uuid:07f2c6d0-4f71-11e8-8383-23682d06a6eb</id>
+		<updated>2018-05-04'T'07:59:07+00:00</updated>
+		<summary>Smart select is replacing and beautifying standard selects while keeping them async.</summary>
+	</entry>
+
+	<entry>
+		<title>GraphicsJS</title>
+		<link href="http://www.graphicsjs.org" />
+		<id>urn:uuid:0869f2a0-4f71-11e8-8383-23682d06a6eb</id>
+		<updated>2018-05-04'T'07:59:07+00:00</updated>
+		<summary>A powerful lightweight JavaScript drawing library for graphics and animation, based on SVG/VML, with intuitive API</summary>
+	</entry>
+
+	<entry>
+		<title>Popper.js</title>
+		<link href="https://fezvrasta.github.io/popper.js" />
+		<id>urn:uuid:097d5e70-4f71-11e8-8383-23682d06a6eb</id>
+		<updated>2018-05-04'T'07:59:07+00:00</updated>
+		<summary>A kickass library to manage your poppers.</summary>
+	</entry>
+
+	<entry>
+		<title>wavyjs</title>
+		<link href="https://github.com/northeastnerd/wavyjs" />
+		<id>urn:uuid:0b9c46d0-4f71-11e8-8383-23682d06a6eb</id>
+		<updated>2018-05-04'T'07:59:07+00:00</updated>
+		<summary>Zero dependency javascript RIFF Wav file manipulation routines.</summary>
+	</entry>
+
+	<entry>
+		<title>SUL.js</title>
+		<link href="https://github.com/MrOnlineCoder/sul.js" />
+		<id>urn:uuid:0f274250-4f71-11e8-8383-23682d06a6eb</id>
+		<updated>2018-05-04'T'07:59:07+00:00</updated>
+		<summary>Small library for DOM and AJAX operations (jQuery function style).</summary>
+	</entry>
+
+	<entry>
+		<title>jacks</title>
+		<link href="http://jccazeaux.github.io/jacks/" />
+		<id>urn:uuid:6875f910-4f75-11e8-a51a-1f2dcd6f42af</id>
+		<updated>2018-05-04'T'08:30:02+00:00</updated>
+		<summary>Fluent, extensible, easy-to-use ajax Framework.</summary>
+	</entry>
+
+	<entry>
+		<title>tiptext.js</title>
+		<link href="https://github.com/agamemnus/tiptext.js" />
+		<id>urn:uuid:6bbdf820-4f75-11e8-a51a-1f2dcd6f42af</id>
+		<updated>2018-05-04'T'08:30:02+00:00</updated>
+		<summary>A floating tooltip function, using mutation observers. Has 6 customizable callbacks!</summary>
+	</entry>
+
+	<entry>
+		<title>Check.js</title>
+		<link href="https://github.com/Morklympious/check.js" />
+		<id>urn:uuid:6e1136f0-4f75-11e8-a51a-1f2dcd6f42af</id>
+		<updated>2018-05-04'T'08:30:02+00:00</updated>
+		<summary>A tiny library for type and sanity checking</summary>
+	</entry>
+
+	<entry>
+		<title>tinyfade.js</title>
+		<link href="https://moqmar.github.io/tinyfade.js/" />
+		<id>urn:uuid:723e17c0-4f75-11e8-a51a-1f2dcd6f42af</id>
+		<updated>2018-05-04'T'08:30:02+00:00</updated>
+		<summary>A tiny plain JavaScript library for fully responsive image slideshows.</summary>
+	</entry>
+
+	<entry>
+		<title>microdi</title>
+		<link href="https://github.com/yavorskiy/microdi" />
+		<id>urn:uuid:72e75010-4f75-11e8-a51a-1f2dcd6f42af</id>
+		<updated>2018-05-04'T'08:30:02+00:00</updated>
+		<summary>Micro helper for JavaScript dependency injection (DI).</summary>
+	</entry>
+
+	<entry>
+		<title>aph</title>
+		<link href="https://github.com/kaisermann/aph" />
+		<id>urn:uuid:72e99a00-4f75-11e8-a51a-1f2dcd6f42af</id>
+		<updated>2018-05-04'T'08:30:02+00:00</updated>
+		<summary>A mini (1.2kb) DOM Manipulation library. A very slim and fast helper.</summary>
+	</entry>
+
+	<entry>
+		<title>FloatSidebar.js</title>
+		<link href="https://github.com/vursen/FloatSidebar.js" />
+		<id>urn:uuid:5c5bfb20-56c8-11e8-be16-21f9ce92cdb3</id>
+		<updated>2018-05-13'T'16:11:50+00:00</updated>
+		<summary>Make your sidebar floating</summary>
+	</entry>
+
+	<entry>
+		<title>mess-js</title>
+		<link href="https://github.com/graciano/mess" />
+		<id>urn:uuid:62407700-56c8-11e8-be16-21f9ce92cdb3</id>
+		<updated>2018-05-13'T'16:11:50+00:00</updated>
+		<summary>mess - Messages Extremely Simple Script: dialog &apos;android toast&apos; like messages.</summary>
+	</entry>
+
 
 </feed>

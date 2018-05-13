@@ -28,7 +28,7 @@ module.exports = [{
     tags: ["modal", "javascript", "vanilla", "simple"],
     description: "Clean, Fast, Modular and customizable Modal Window controller",
     url: "http://juanbrujo.github.io/tinyModal/",
-    source: "https://github.com/juanbrujo/tinyModal/blob/master/src/tinyModal.js"
+    source: "https://raw.githubusercontent.com/juanbrujo/tinyModal/master/src/tinyModal.js"
   },
   {
     name: "NodeList.js",
@@ -44,7 +44,7 @@ module.exports = [{
     tags: ["Drag and Drop", "simple", "Library"],
     description: "Drag and drop so simple it hurts",
     url: "https://bevacqua.github.io/dragula/",
-    source: "https://github.com/bevacqua/dragula/blob/master/dragula.js"
+    source: "https://raw.githubusercontent.com/bevacqua/dragula/master/dragula.js"
   },
   {
     name: "fuzzysearch",
@@ -52,7 +52,7 @@ module.exports = [{
     tags: ["Lightweight", "Tiny", "fast", "fuzzy", "fuzzy-search", "search"],
     description: "Tiny and blazing-fast fuzzy search in JavaScript",
     url: "https://github.com/bevacqua/fuzzysearch",
-    source: "https://github.com/bevacqua/fuzzysearch/blob/master/index.js"
+    source: "https://raw.githubusercontent.com/bevacqua/fuzzysearch/master/index.js"
   },
   {
     name: "Fuse.js",
@@ -69,6 +69,14 @@ module.exports = [{
     description: "Minimal Client JS Framework",
     url: "https://github.com/thedumbterminal/TinyBrowserFramework",
     source: "https://raw.githubusercontent.com/thedumbterminal/TinyBrowserFramework/master/src/index.js"
+  },
+  {
+    name: "syrupjs",
+    github: "ahmed-musallam/syrupjs",
+    tags: ["pubsub", "component-interaction", "event", "jquery"],
+    description: "A tiny pub/sub jQuery micro-framework for distant component interaction",
+    url: "https://github.com/ahmed-musallam/syrupjs",
+    source: ["https://raw.githubusercontent.com/ahmed-musallam/syrupjs/master/vendor/tiny-pub-sub.js","https://raw.githubusercontent.com/ahmed-musallam/syrupjs/master/index.js"]
   },
   {
     name: "blobcounter.js",
@@ -130,7 +138,7 @@ module.exports = [{
     tags: ["jquery", "dom", "ajax"],
     description: "Lightweight modern jQuery-like DOM library",
     url: "http://www.bitstorm.org/javascript/miq/",
-    source: "http://www.bitstorm.org/javascript/miq/miq.js"
+    source: "https://raw.githubusercontent.com/edwinm/miq/master/miq.js"
   },
   {
     name: "RouterX",
@@ -218,7 +226,7 @@ module.exports = [{
     tags: ["handorgel", "accordion", "tabs", "toggle", "collapse"],
     description: "Accessible W3C conform accordion written in ES6.",
     url: "https://github.com/oncode/handorgel",
-    source: "https://raw.githubusercontent.com/oncode/handorgel/master/lib/handorgel.js"
+    source: "https://raw.githubusercontent.com/oncode/handorgel/master/lib/js/umd/handorgel.js"
   },
   {
     name: "Freezer.js",
@@ -259,6 +267,16 @@ module.exports = [{
     description: "A test spy powered by es7 decorators and TypeScript ",
     url: "http://AtSpy.github.io",
     source: "https://raw.githubusercontent.com/AtSpy/AtSpy/master/dist/atspy.js"
+  },
+  {
+    name: "Canary",
+    github: "Mapita/Canary",
+    tags: ["javascript", "test", "tests", "testing", "unit test", "unit tests", "unit testing", "automated test", "automated tests", "automated testing"],
+    description: "Write and run unit tests.",
+    url: "https://github.com/Mapita/Canary",
+    package: "canary-test",
+    documentation: "http://canary.readthedocs.io/en/stable/",
+    source: "https://raw.githubusercontent.com/Mapita/Canary/master/canary.js"
   },
   {
     name: "FrontExpress",
@@ -331,6 +349,14 @@ module.exports = [{
     description: "One of the fastest and most convenient class systems in the world",
     url: "https://github.com/kogarashisan/ClassManager",
     source: "https://raw.githubusercontent.com/kogarashisan/ClassManager/master/lib/class_manager.js"
+  },
+  {
+    name: "FloatSidebar.js",
+    github: "vursen/FloatSidebar.js",
+    tags: ["sticky", "float", "sidebar"],
+    description: "Make your sidebar floating",
+    url: "https://github.com/vursen/FloatSidebar.js",
+    source: "https://raw.githubusercontent.com/vursen/FloatSidebar.js/master/dist/float-sidebar.js"
   },
   {
     name: "geojson2svg",
@@ -639,7 +665,7 @@ module.exports = [{
     tags: ["svg", "vml", "graphics", "drawing", "animation", "visualization", "charts", "data visualization", "api"],
     description: "A powerful lightweight JavaScript drawing library for graphics and animation, based on SVG/VML, with intuitive API",
     url: "http://www.graphicsjs.org",
-    source: "https://github.com/AnyChart/GraphicsJS/blob/master/dist/graphics.js"
+    source: "https://raw.githubusercontent.com/AnyChart/GraphicsJS/master/dist/graphics.js"
   },
   {
     name: "SaVaGe.js",
@@ -1122,6 +1148,14 @@ module.exports = [{
     source: "https://raw.githubusercontent.com/Agnostic/LocalDB.js/master/src/LocalDB.js"
   },
   {
+    name: "mess-js",
+    github: "graciano/mess",
+    tags: ["message", "toast", "toasts", "android", "dialog", "info"],
+    description: "mess - Messages Extremely Simple Script: dialog 'android toast' like messages.",
+    url: "https://github.com/graciano/mess",
+    source: "https://raw.githubusercontent.com/graciano/mess/gh-pages/src/mess.js"
+  },
+  {
     name: "Countable",
     github: "RadLikeWhoa/Countable",
     tags: ["paragraphs", "words", "characters", "counting", "live", "text"],
@@ -1393,6 +1427,14 @@ module.exports = [{
     description: "Micro javascript library that allows you to do conditions faster.",
     url: "https://github.com/Cedriking/is.js",
     source: "https://raw.githubusercontent.com/Cedriking/is.js/master/is.js"
+  },
+  {
+    name: "wavyjs",
+    github: "northeastnerd/wavyjs",
+    tags: ["audio", "wav", "sound", "html5", "RIFF"],
+    description: "Zero dependency javascript RIFF Wav file manipulation routines.",
+    url: "https://github.com/northeastnerd/wavyjs",
+    source: "https://raw.githubusercontent.com/northeastnerd/wavyjs/master/wavyjs.min.js"
   },
   {
     name: "jBone",
@@ -2031,7 +2073,7 @@ module.exports = [{
     name: "ICanHaz",
     tags: ["templating"],
     description: "Simple & powerful client-side templating for jQuery or Zepto.js.",
-    url: "http://icanhazjs.com/",
+    url: "https://github.com/HenrikJoreteg/ICanHaz.js",
     source: "https://raw.githubusercontent.com/HenrikJoreteg/ICanHaz.js/master/ICanHaz.js"
   },
   {
@@ -2155,7 +2197,7 @@ module.exports = [{
     tags: ["dom", "lightweight", "shorthand", "ajax"],
     description: "Small library for DOM and AJAX operations (jQuery function style).",
     url: "https://github.com/MrOnlineCoder/sul.js",
-    source: "https://github.com/MrOnlineCoder/sul.js/blob/master/src/sul.js"
+    source: "https://raw.githubusercontent.com/MrOnlineCoder/sul.js/master/src/sul.js"
   },
   {
     name: "Valentine",
@@ -3137,7 +3179,7 @@ module.exports = [{
     tags: ["ajax", "xhr", "rest", "fluent", "XMLHttpRequest"],
     description: "Fluent, extensible, easy-to-use ajax Framework.",
     url: "http://jccazeaux.github.io/jacks/",
-    source: "https://github.com/jccazeaux/jacks/blob/master/src/jacks.js"
+    source: "https://raw.githubusercontent.com/jccazeaux/jacks/master/src/jacks.js"
   },
   {
     name: "colorspaces.js",
@@ -5376,6 +5418,22 @@ module.exports = [{
     source: "https://raw.githubusercontent.com/branneman/TinyAnimate/master/src/TinyAnimate.js"
   },
   {
+    name: "XPopUp",
+    github: "reduardo7/xpopup",
+    tags: ["popup", "window.open", "javascript", "browser", "callback", "nojquer", "simple", "easy", "events", "chrome", "firefox"],
+    description: "Full control over JavaScript PopUp's.",
+    url: "https://github.com/reduardo7/xpopup",
+    source: "https://raw.githubusercontent.com/reduardo7/xpopup/master/xpopup.js"
+  },
+  {
+    name: "sjsClass",
+    github: "reduardo7/sjsClass",
+    tags: ["class", "node", "npm", "javascript", "nojquery", "browser", "chrome"],
+    description: "Simple JavaScript Class. Create your advanced JavaScript Class!",
+    url: "https://github.com/reduardo7/sjsClass",
+    source: "https://raw.githubusercontent.com/reduardo7/sjsClass/master/lib/sjsclass.js"
+  },
+  {
     name: "arenite",
     github: "arenite/arenite",
     tags: ["dependency", "inversion", "control", "injection", "ioc", "di", "require", "dependency injection", "provider", "IOC", "microkernel", "module", "framework", "service locator"],
@@ -5421,7 +5479,7 @@ module.exports = [{
     tags: ["DOM", "manipulation", "events", "css", "query selection", "data", "traversal", "es2015", "js:next", "functional"],
     description: "A lightweight DOM manipulation library",
     url: "https://github.com/enzyme/qoob",
-    source: "https://github.com/enzyme/qoob/blob/master/src/qoob.js"
+    source: "https://raw.githubusercontent.com/enzyme/qoob/master/src/qoob.js"
   },
   {
     name: "Prophet.js",
@@ -5511,11 +5569,19 @@ module.exports = [{
     source: "https://raw.githubusercontent.com/kaisermann/aph/master/dist/aph.js"
   },
   {
+    name: "FlexSearch",
+    github: "nextapps-de/flexsearch",
+    tags: ["javascript", "search engine", "full-text search", "elastic search"],
+    description: "Next-Generation full text search library with zero dependencies.",
+    url: "https://github.com/nextapps-de/flexsearch",
+    source: "https://cdn.rawgit.com/nextapps-de/flexsearch/master/flexsearch.compact.js"
+  },
+  {
     name: "tiv",
     github: "kucukharf/tiv",
     tags: ["javascript", "Validation"],
     description: "1kb JavaScript Identify Number Validater.",
     url: "https://github.com/kucukharf/tiv",
-    source: "https://github.com/kucukharf/tiv/blob/master/tiv.min.js"
+    source: "https://raw.githubusercontent.com/kucukharf/tiv/master/tiv.min.js"
   }
 ];
