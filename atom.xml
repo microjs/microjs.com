@@ -5800,5 +5800,21 @@
 		<summary>A mini (1.2kb) DOM Manipulation library. A very slim and fast helper.</summary>
 	</entry>
 
+	<entry>
+		<title>FloatSidebar.js</title>
+		<link href="https://github.com/vursen/FloatSidebar.js" />
+		<id>urn:uuid:5c5bfb20-56c8-11e8-be16-21f9ce92cdb3</id>
+		<updated>2018-05-13'T'16:11:50+00:00</updated>
+		<summary>Make your sidebar floating</summary>
+	</entry>
+
+	<entry>
+		<title>mess-js</title>
+		<link href="https://github.com/graciano/mess" />
+		<id>urn:uuid:62407700-56c8-11e8-be16-21f9ce92cdb3</id>
+		<updated>2018-05-13'T'16:11:50+00:00</updated>
+		<summary>mess - Messages Extremely Simple Script: dialog &apos;android toast&apos; like messages.</summary>
+	</entry>
+
 
 </feed>
