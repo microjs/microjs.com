@@ -55,7 +55,7 @@ The builder reads *data.js* and checks the *source* of each entry. It will calcu
 
 You will see **warnings** where entries need to be checked and **errors** where entries will be excluded.
 
-If you wish to see details of all entries, you can run the `./build -v` command.
+If you wish to see details of all entries, you can run the `./build.js -v` command.
 
 
 ### Submitting a PR
