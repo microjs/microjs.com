@@ -1434,7 +1434,7 @@ module.exports = [{
     tags: ["audio", "wav", "sound", "html5", "RIFF"],
     description: "Zero dependency javascript RIFF Wav file manipulation routines.",
     url: "https://github.com/northeastnerd/wavyjs",
-    source: "https://raw.githubusercontent.com/northeastnerd/wavyjs/master/wavyjs.min.js"
+    source: "https://raw.githubusercontent.com/northeastnerd/wavyjs/master/wavyjs.js"
   },
   {
     name: "jBone",
