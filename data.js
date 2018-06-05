@@ -5590,5 +5590,13 @@ module.exports = [{
     description: "1kb JavaScript Identify Number Validater.",
     url: "https://github.com/kucukharf/tiv",
     source: "https://raw.githubusercontent.com/kucukharf/tiv/master/tiv.min.js"
+  },
+  {
+    name: "classies",
+    github: "StephanHoyer/classies",
+    tags: ["css", "classes"],
+    description: "Small and fast conditional css class builder",
+    url: "https://github.com/StephanHoyer/classies",
+    source: "https://github.com/StephanHoyer/classies/blob/master/index.js"
   }
 ];
