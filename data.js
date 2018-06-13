@@ -1434,7 +1434,7 @@ module.exports = [{
     tags: ["audio", "wav", "sound", "html5", "RIFF"],
     description: "Zero dependency javascript RIFF Wav file manipulation routines.",
     url: "https://github.com/northeastnerd/wavyjs",
-    source: "https://raw.githubusercontent.com/northeastnerd/wavyjs/master/wavyjs.min.js"
+    source: "https://raw.githubusercontent.com/northeastnerd/wavyjs/master/wavyjs.js"
   },
   {
     name: "jBone",
@@ -4758,6 +4758,13 @@ module.exports = [{
     source: "https://raw.githubusercontent.com/rkrupinski/easter.js/master/dist/easter.js"
   },
   {
+    name: "overflow-color",
+    tags: ["overflow", "color", "DOM", "css"],
+    description: "Automatically switch css html background color.",
+    url: "https://github.com/dimitrinicolas/overflow-color",
+    source: "https://raw.githubusercontent.com/dimitrinicolas/overflow-color/master/dist/overflow-color.umd.js"
+  },
+  {
     name: "henka",
     tags: ["responsive", "respond", "media", "query", "media-query", "queries"],
     description: "Light weight, portable, single purpose responsive javascript library.",
@@ -5583,5 +5590,13 @@ module.exports = [{
     description: "1kb JavaScript Identify Number Validater.",
     url: "https://github.com/kucukharf/tiv",
     source: "https://raw.githubusercontent.com/kucukharf/tiv/master/tiv.min.js"
+  },
+  {
+    name: "classies",
+    github: "StephanHoyer/classies",
+    tags: ["css", "classes"],
+    description: "Small and fast conditional css class builder",
+    url: "https://github.com/StephanHoyer/classies",
+    source: "https://github.com/StephanHoyer/classies/blob/master/index.js"
   }
 ];
