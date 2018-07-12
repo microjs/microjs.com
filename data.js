@@ -600,6 +600,14 @@ module.exports = [{
     source: "https://raw.githubusercontent.com/EvandroLG/Feed/master/src/feed.js"
   },
   {
+    name: "Holen",
+    github: "RickStanley/Holen",
+    tags: ["xhr", "ajax", "nojquery", "xmlhttprequest", "x-requested-with", "http", "simple", "minimal", "german", "deutsch", "angular"],
+    description: "Simple and standalone AJAX library for modern browsers. Inspired by Angular's $http method.",
+    url: "https://github.com/RickStanley/Holen",
+    source: "https://raw.githubusercontent.com/RickStanley/Holen/master/index.js"
+  },
+  {
     name: "Stoor",
     github: "tiaanduplessis/stoor",
     tags: ["storage", "local-storage", "session-storage"],
