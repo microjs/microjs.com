@@ -5606,5 +5606,13 @@ module.exports = [{
     description: "Small and fast conditional css class builder",
     url: "https://github.com/StephanHoyer/classies",
     source: "https://github.com/StephanHoyer/classies/blob/master/index.js"
+  },
+  {
+    name: "counter.js",
+    github: "morita657/counter.js",
+    tags: ["javascript", "object", "simple"],
+    description: "A small, fast and easy to use library for counting the number of hashable objects.",
+    url: "https://github.com/morita657/counter.js",
+    source: "https://cdn.rawgit.com/morita657/counter.js/33b53566/counter.js"
   }
 ];
