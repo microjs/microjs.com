@@ -5606,5 +5606,13 @@ module.exports = [{
     description: "Small and fast conditional css class builder",
     url: "https://github.com/StephanHoyer/classies",
     source: "https://github.com/StephanHoyer/classies/blob/master/index.js"
-  }
+  },
+  {
+    name: "Excellent.js",
+    github: "vitaly-t/excellent",
+    tags: ["DOM", "manipulation", "framework"],
+    description: "DOM-Manipulation Framework",
+    url: "https://github.com/vitaly-t/excellent",
+    source: "https://raw.githubusercontent.com/vitaly-t/excellent/master/src/excellent.js"
+  }                  
 ];
