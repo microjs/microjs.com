@@ -2164,6 +2164,14 @@ module.exports = [{
     description: "CommonJS implementation of the observer design pattern",
     url: "https://github.com/azer/observer",
     source: "https://raw.githubusercontent.com/azer/observer/master/lib/observer.js"
+  },              
+  {
+    name: "almy.js",
+    github: "tomas2387/almy",
+    tags: ["state", "state-management", "centralized", "management"],
+    description: "Fast & simple centralized state management library",
+    url: "https://github.com/tomas2387/almy",
+    source: "https://raw.githubusercontent.com/tomas2387/almy/master/almy.js"
   },
   {
     name: "JsDefer",
@@ -5614,5 +5622,5 @@ module.exports = [{
     description: "DOM-Manipulation Framework",
     url: "https://github.com/vitaly-t/excellent",
     source: "https://raw.githubusercontent.com/vitaly-t/excellent/master/src/excellent.js"
-  }                  
+  }
 ];
