@@ -5622,5 +5622,5 @@ module.exports = [{
     description: "DOM-Manipulation Framework",
     url: "https://github.com/vitaly-t/excellent",
     source: "https://raw.githubusercontent.com/vitaly-t/excellent/master/src/excellent.js"
-  }
+  }                  
 ];
