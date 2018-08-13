@@ -4000,7 +4000,7 @@ module.exports = [{
     github: "webpro/DOMtastic",
     tags: ["DOM", "events", "selector", "modern", "modular", "es6"],
     description: "Small and fast DOM and event library for modern browsers. It has the same familiar API as jQuery, and is lean & mean with small, optional modules.",
-    url: "http://webpro.github.io/DOMtastic/",
+    url: "https://domtastic.js.org",
     source: "https://cdn.jsdelivr.net/npm/domtastic@latest/dist/domtastic.js"
   },
   {
