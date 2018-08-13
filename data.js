@@ -44,7 +44,10 @@ module.exports = [{
     tags: ["rating", "stars", "star-rating"],
     description: "Transforms a SELECT element into a dynamic star rating control",
     url: "https://geminilabs.github.io/star-rating.js/",
-    source: "https://raw.githubusercontent.com/geminilabs/star-rating.js/master/src/star-rating.js"
+    source: [
+      "https://raw.githubusercontent.com/geminilabs/star-rating.js/master/src/star-rating.js",
+      "https://raw.githubusercontent.com/geminilabs/star-rating.js/master/dist/star-rating.css"
+    ]
   },
   {
     name: "Dragula",
