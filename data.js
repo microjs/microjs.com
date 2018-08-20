@@ -256,6 +256,14 @@ module.exports = [{
     source: "https://raw.githubusercontent.com/lukeed/fromNow/master/fromNow.js"
   },
   {
+    name: "is.js",
+    github: "jackens/nnn",
+    tags: ["is", "type", "test", "testing"],
+    description: "Type testing library. Works in both Node.js and the browser.",
+    url: "https://github.com/jackens/nnn",
+    source: "https://raw.githubusercontent.com/jackens/nnn/master/is.js"
+  },
+  {
     name: "Trkl",
     github: "jbreckmckye/trkl",
     tags: ["observable", "frp", "functional reactive", "functional", "state", "knockout", "rx"],
@@ -2175,7 +2183,7 @@ module.exports = [{
     description: "CommonJS implementation of the observer design pattern",
     url: "https://github.com/azer/observer",
     source: "https://raw.githubusercontent.com/azer/observer/master/lib/observer.js"
-  },              
+  },
   {
     name: "almy.js",
     github: "tomas2387/almy",
@@ -5633,5 +5641,5 @@ module.exports = [{
     description: "DOM-Manipulation Framework",
     url: "https://github.com/vitaly-t/excellent",
     source: "https://raw.githubusercontent.com/vitaly-t/excellent/master/src/excellent.js"
-  }                  
+  }
 ];
