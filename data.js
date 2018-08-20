@@ -108,6 +108,14 @@ module.exports = [{
   },
   */
   {
+    name: "cli.js",
+    github: "jackens/nnn",
+    tags: ["cli"],
+    description: "CLI helper. Works in both Node.js and the browser ;)",
+    url: "https://github.com/jackens/nnn",
+    source: "https://raw.githubusercontent.com/jackens/nnn/master/cli.js"
+  },
+  {
     name: "uniloc",
     github: "unicorn-standard/uniloc",
     tags: ["router", "routing", "query", "parser", "parsing", "parameters", "uri"],
@@ -2175,7 +2183,7 @@ module.exports = [{
     description: "CommonJS implementation of the observer design pattern",
     url: "https://github.com/azer/observer",
     source: "https://raw.githubusercontent.com/azer/observer/master/lib/observer.js"
-  },              
+  },
   {
     name: "almy.js",
     github: "tomas2387/almy",
@@ -5633,5 +5641,5 @@ module.exports = [{
     description: "DOM-Manipulation Framework",
     url: "https://github.com/vitaly-t/excellent",
     source: "https://raw.githubusercontent.com/vitaly-t/excellent/master/src/excellent.js"
-  }                  
+  }
 ];
