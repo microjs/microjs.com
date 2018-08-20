@@ -2175,7 +2175,7 @@ module.exports = [{
     description: "CommonJS implementation of the observer design pattern",
     url: "https://github.com/azer/observer",
     source: "https://raw.githubusercontent.com/azer/observer/master/lib/observer.js"
-  },              
+  },
   {
     name: "almy.js",
     github: "tomas2387/almy",
@@ -2520,6 +2520,14 @@ module.exports = [{
     description: "A msgpack encoder and decoder using ArrayBuffer and DataView",
     url: "https://github.com/creationix/msgpack-js-browser",
     source: "https://raw.githubusercontent.com/creationix/msgpack-js-browser/master/msgpack.js"
+  },
+  {
+    name: "format-xml.js",
+    github: "jackens/nnn",
+    tags: ["html", "xml", "formatter"],
+    description: "XML formatter. Works in both Node.js and the browser.",
+    url: "https://github.com/jackens/nnn",
+    source: "https://raw.githubusercontent.com/jackens/nnn/master/format-xml.js"
   },
   {
     name: "my.class.js",
@@ -5633,5 +5641,5 @@ module.exports = [{
     description: "DOM-Manipulation Framework",
     url: "https://github.com/vitaly-t/excellent",
     source: "https://raw.githubusercontent.com/vitaly-t/excellent/master/src/excellent.js"
-  }                  
+  }
 ];
