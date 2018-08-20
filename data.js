@@ -2175,7 +2175,7 @@ module.exports = [{
     description: "CommonJS implementation of the observer design pattern",
     url: "https://github.com/azer/observer",
     source: "https://raw.githubusercontent.com/azer/observer/master/lib/observer.js"
-  },              
+  },
   {
     name: "almy.js",
     github: "tomas2387/almy",
@@ -3273,6 +3273,14 @@ module.exports = [{
     description: "RFC-4122 Compliant Random (v4) UUID Generator",
     url: "https://github.com/makeable/uuid-v4.js",
     source: "https://raw.githubusercontent.com/makeable/uuid-v4.js/master/uuid-v4.js"
+  },
+  {
+    name: "uuidv1.js",
+    github: "jackens/nnn",
+    tags: ["uuid", "uuidv1", "unique", "identifier"],
+    description: "UUID v1 (with timestamp) generator. Works in both Node.js and the browser.",
+    url: "https://github.com/jackens/nnn",
+    source: "https://raw.githubusercontent.com/jackens/nnn/master/uuidv1.js"
   },
   {
     name: "notificon.js",
@@ -5633,5 +5641,5 @@ module.exports = [{
     description: "DOM-Manipulation Framework",
     url: "https://github.com/vitaly-t/excellent",
     source: "https://raw.githubusercontent.com/vitaly-t/excellent/master/src/excellent.js"
-  }                  
+  }
 ];
