@@ -2175,7 +2175,7 @@ module.exports = [{
     description: "CommonJS implementation of the observer design pattern",
     url: "https://github.com/azer/observer",
     source: "https://raw.githubusercontent.com/azer/observer/master/lib/observer.js"
-  },              
+  },
   {
     name: "almy.js",
     github: "tomas2387/almy",
@@ -4121,6 +4121,14 @@ module.exports = [{
     source: "https://raw.githubusercontent.com/ccampbell/rainbow/master/js/rainbow.js"
   },
   {
+    name: "nanolight.js",
+    github: "jackens/nnn",
+    tags: ["syntax", "code", "highlighter"],
+    description: "Super-lightweight code highlighter. Works in both Node.js and the browser.",
+    url: "https://github.com/jackens/nnn",
+    source: "https://raw.githubusercontent.com/jackens/nnn/master/nanolight.js"
+  },
+  {
     name: "switcher",
     tags: ["switch", "regexp"],
     description: "Function to provide a similar syntax to a switch statement but with regex as cases.",
@@ -5633,5 +5641,5 @@ module.exports = [{
     description: "DOM-Manipulation Framework",
     url: "https://github.com/vitaly-t/excellent",
     source: "https://raw.githubusercontent.com/vitaly-t/excellent/master/src/excellent.js"
-  }                  
+  }
 ];
