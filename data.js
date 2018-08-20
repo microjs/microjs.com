@@ -1711,6 +1711,14 @@ module.exports = [{
     // we overrule the sanity-check that compares the sizes and would otherwise reject this
   },
   {
+    name: "sanitize-xml.js",
+    github: "jackens/nnn",
+    tags: ["sanitize", "sanitizer", "xml", "html"],
+    description: "XML sanitizer. Works in both Node.js and the browser.",
+    url: "https://github.com/jackens/nnn",
+    source: "https://raw.githubusercontent.com/jackens/nnn/master/sanitize-xml.js"
+  },
+  {
     name: "server2.js",
     tags: ["server", "pubsub", "events", "base"],
     description: "Transfer data objects from server to javascript on page load",
@@ -2175,7 +2183,7 @@ module.exports = [{
     description: "CommonJS implementation of the observer design pattern",
     url: "https://github.com/azer/observer",
     source: "https://raw.githubusercontent.com/azer/observer/master/lib/observer.js"
-  },              
+  },
   {
     name: "almy.js",
     github: "tomas2387/almy",
@@ -5633,5 +5641,5 @@ module.exports = [{
     description: "DOM-Manipulation Framework",
     url: "https://github.com/vitaly-t/excellent",
     source: "https://raw.githubusercontent.com/vitaly-t/excellent/master/src/excellent.js"
-  }                  
+  }
 ];
