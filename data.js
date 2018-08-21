@@ -3299,6 +3299,14 @@ module.exports = [{
     source: "https://raw.githubusercontent.com/makeable/uuid-v4.js/master/uuid-v4.js"
   },
   {
+    name: "uuidv1.js",
+    github: "jackens/nnn",
+    tags: ["uuid", "uuidv1", "unique", "identifier"],
+    description: "UUID v1 (with timestamp) generator. Works in both Node.js and the browser.",
+    url: "https://github.com/jackens/nnn",
+    source: "https://raw.githubusercontent.com/jackens/nnn/master/uuidv1.js"
+  },
+  {
     name: "notificon.js",
     tags: ["notification", "alert", "browser", "canvas", "tab"],
     description: "Dynamic tab favicon notifications/alerts",
