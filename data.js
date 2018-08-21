@@ -1028,6 +1028,14 @@ module.exports = [{
     source: "https://raw.githubusercontent.com/chrisdavies/form-to-obj/master/form-to-obj.js"
   },
   {
+    name: "js2txt.js",
+    github: "jackens/nnn",
+    tags: ["js2txt", "json", "serializer"],
+    description: "Object serializer that supports functions. Works in both Node.js and the browser.",
+    url: "https://github.com/jackens/nnn",
+    source: "https://raw.githubusercontent.com/jackens/nnn/master/js2txt.js"
+  },
+  {
     name: "goo.js",
     github: "johnrobinsn/goo.js",
     tags: ["HTML5", "canvas"],
