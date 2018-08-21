@@ -256,6 +256,14 @@ module.exports = [{
     source: "https://raw.githubusercontent.com/lukeed/fromNow/master/fromNow.js"
   },
   {
+    name: "is.js",
+    github: "jackens/nnn",
+    tags: ["is", "type", "test", "testing"],
+    description: "Type testing library. Works in both Node.js and the browser.",
+    url: "https://github.com/jackens/nnn",
+    source: "https://raw.githubusercontent.com/jackens/nnn/master/is.js"
+  },
+  {
     name: "Trkl",
     github: "jbreckmckye/trkl",
     tags: ["observable", "frp", "functional reactive", "functional", "state", "knockout", "rx"],
