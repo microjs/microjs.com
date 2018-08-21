@@ -3263,6 +3263,14 @@ module.exports = [{
     source: "https://raw.githubusercontent.com/chjj/marked/master/lib/marked.js"
   },
   {
+    name: "md2json.js",
+    github: "jackens/nnn",
+    tags: ["md2json", "markdown", "json", "jsonml"],
+    description: "Markdown to JSON. Works in both Node.js and the browser.",
+    url: "https://github.com/jackens/nnn",
+    source: "https://raw.githubusercontent.com/jackens/nnn/master/md2json.js"
+  },
+  {
     name: "tinyOSF.js",
     tags: ["osf", "markup", "parser", "html", "shownotes", "mp4chaps", "podcast"],
     description: "a few lines of code to convert OSF to HTML.",
