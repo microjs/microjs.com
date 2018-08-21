@@ -4145,6 +4145,14 @@ module.exports = [{
     source: "https://raw.githubusercontent.com/ccampbell/rainbow/master/js/rainbow.js"
   },
   {
+    name: "nanolight.js",
+    github: "jackens/nnn",
+    tags: ["syntax", "code", "highlighter"],
+    description: "Super-lightweight code highlighter. Works in both Node.js and the browser.",
+    url: "https://github.com/jackens/nnn",
+    source: "https://raw.githubusercontent.com/jackens/nnn/master/nanolight.js"
+  },
+  {
     name: "switcher",
     tags: ["switch", "regexp"],
     description: "Function to provide a similar syntax to a switch statement but with regex as cases.",
