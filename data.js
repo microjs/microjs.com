@@ -1719,6 +1719,14 @@ module.exports = [{
     // we overrule the sanity-check that compares the sizes and would otherwise reject this
   },
   {
+    name: "sanitize-xml.js",
+    github: "jackens/nnn",
+    tags: ["sanitize", "sanitizer", "xml", "html"],
+    description: "XML sanitizer. Works in both Node.js and the browser.",
+    url: "https://github.com/jackens/nnn",
+    source: "https://raw.githubusercontent.com/jackens/nnn/master/sanitize-xml.js"
+  },
+  {
     name: "server2.js",
     tags: ["server", "pubsub", "events", "base"],
     description: "Transfer data objects from server to javascript on page load",
