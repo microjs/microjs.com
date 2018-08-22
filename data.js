@@ -5657,5 +5657,13 @@ module.exports = [{
     description: "DOM-Manipulation Framework",
     url: "https://github.com/vitaly-t/excellent",
     source: "https://raw.githubusercontent.com/vitaly-t/excellent/master/src/excellent.js"
+  },
+  {
+    name: "Beedle",
+    github: "hankchizljaw/beedle",
+    tags: ["state", "data", "functional"],
+    description: "A tiny library inspired by Redux & Vuex to help you manage state in your JavaScript apps",
+    url: "https://github.com/hankchizljaw/beedle",
+    source: "https://raw.githubusercontent.com/hankchizljaw/beedle/master/src/beedle.js"
   }
 ];
