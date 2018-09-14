@@ -1685,7 +1685,14 @@ module.exports = [{
     tags: ["date", "calendar", "picker", "datepicker"],
     description: "Small, zero-dependency date picker (~1500 bytes min+zipped)",
     url: "https://github.com/chrisdavies/tiny-date-picker",
-    source: "https://raw.githubusercontent.com/chrisdavies/tiny-date-picker/master/tiny-date-picker.js"
+    source: "https://raw.githubusercontent.com/chrisdavies/tiny-date-picker/master/dist/tiny-date-picker.js"
+  },
+  {
+    name: "vanilla-picker-mini",
+    tags: ["ux", "ui", "color", "colour", "picker", "color picker", "color-picker", "colorpicker", "rgb", "rgba", "hsl", "hsla", "hex", "alpha"],
+    description: "A simple, easy to use color picker with alpha selection.",
+    url: "https://github.com/Sphinxxxx/vanilla-picker-mini",
+    source: "https://raw.githubusercontent.com/Sphinxxxx/vanilla-picker-mini/master/dist/vanilla-picker-mini.js"
   },
   {
     name: "Backbone",
