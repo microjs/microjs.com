@@ -5658,6 +5658,14 @@ module.exports = [{
     source: "https://github.com/StephanHoyer/classies/blob/master/index.js"
   },
   {
+    name: "Spck-Embed",
+    github: "spckio/spck-embed",
+    tags: ["embeddable", "code", "editor"],
+    description: "Small embeddable online code editor for demos.",
+    url: "https://github.com/spckio/spck-embed",
+    source: "https://raw.githubusercontent.com/spckio/spck-embed/master/dist/spck-embed.min.js"
+  },
+  {
     name: "Excellent.js",
     github: "vitaly-t/excellent",
     tags: ["DOM", "manipulation", "framework"],
