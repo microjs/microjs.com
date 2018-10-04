@@ -5663,7 +5663,7 @@ module.exports = [{
     tags: ["embeddable", "code", "editor"],
     description: "Small embeddable online code editor for demos.",
     url: "https://github.com/spckio/spck-embed",
-    source: "https://raw.githubusercontent.com/spckio/spck-embed/master/dist/spck-embed.min.js"
+    source: "https://raw.githubusercontent.com/spckio/spck-embed/master/dist/spck-embed.js"
   },
   {
     name: "Excellent.js",
