@@ -5128,6 +5128,17 @@ module.exports = [{
     source: "https://raw.githubusercontent.com/kylepaulsen/NanoModal/master/nanomodal.js"
   },
   {
+    name: "tutorial.js",
+    github: "xxxmatko/tutorial.js",
+    tags: ["tutorial", "intro", "tooltip", "dialog", "popup", "message"],
+    description: "The best step-by-step feature introduction for your web sites, that's a promise!",
+    url: "https://github.com/xxxmatko/tutorial.js",
+    source: [
+      "https://github.com/xxxmatko/tutorial.js/blob/master/wwwroot/js/tutorial.js",
+      "https://github.com/xxxmatko/tutorial.js/blob/master/wwwroot/css/tutorial.css"
+    ]	
+  },  
+  {
     name: "pure-dialog",
     github: "john-doherty/pure-dialog",
     tags: ["modal", "dialog", "popup", "pop under", "alert"],
