@@ -5334,12 +5334,12 @@ module.exports = [{
     source: "https://raw.githubusercontent.com/tiaanduplessis/dont-go/master/lib/dont-go.js"
   },
   {
-    name: "Storage.js",
-    github: "lcavadas/Storage.js",
+    name: "Browser Storage JS",
+    github: "lcavadas/browser-storage-js",
     tags: ["IndexedDB", "WebSQL", "localStorage", "sessionStorage", "localStorage", "storage", "database", "object", "store"],
     description: "JavaScript Library for Cross Browser Persistence using WebStorage (LocalStorage, SessionStorage, WebSQL and IndexedDB) for all browsers.",
-    url: "https://github.com/lcavadas/Storage.js",
-    source: "https://raw.githubusercontent.com/lcavadas/Storage.js/master/build/storage.js"
+    url: "https://github.com/lcavadas/browser-storage-js",
+    source: "https://raw.githubusercontent.com/lcavadas/browser-storage-js/master/build/storage.js"
   },
   {
     name: "xr",
