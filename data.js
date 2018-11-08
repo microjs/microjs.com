@@ -6,7 +6,24 @@
 // As per the README, the source should be a link to your unminified, raw, source. It can
 // also be just the raw JS if it's small enough, an array of source files or a ZIP file.
 // See examples below.
-module.exports = [{
+module.exports = [
+  {
+    name: "Wirup",
+    github: "razaibi/Wirup",
+    tags: ["nano-framework", "single-page-application","fast", "routing", "wirup", "frontend", "javascript"],
+    description: "Lightweight nano framework for Single Page Applications (SPAs) on the web.",
+    url: "https://github.com/razaibi/Wirup",
+    source: "https://raw.githubusercontent.com/razaibi/Wirup/master/js/Wirup.js"
+  },
+  {
+    name: "WirupExpress",
+    github: "razaibi/WirupExpress",
+    tags: ["nano-framework", "data-binding", "lightweight","fast","wirupexpress", "frontend", "javascript"],
+    description: "The Ultra Lightweight version of Wirup.",
+    url: "https://github.com/razaibi/WirupExpress",
+    source: "https://raw.githubusercontent.com/razaibi/WirupExpress/master/js/WirupExpress.js"
+  },
+  {
     name: "sprites.js",
     github: "wisniewski94/sprites.js",
     tags: ["sprite", "canvas", "sprites.js", "requestAnimationFrame", "raf", "front-end", "frontend", "javascript"],
