@@ -378,6 +378,14 @@ module.exports = [{
     source: "https://raw.githubusercontent.com/gagan-bansal/geojson2svg/master/dist/geojson2svg.js"
   },
   {
+    name: "simple-type-check",
+    github: "RaphaelHaettich/simple-type-check",
+    tags: ["type", "check", "type-check", "prop", "types"],
+    description: "Simple and very small JavaScript library to check types and instanceof.",
+    url: "https://github.com/RaphaelHaettich/simple-type-check",
+    source: "https://github.com/RaphaelHaettich/simple-type-check/blob/master/dist/simpleTypeCheck.min.js"
+  },
+  {
     name: "N2O.js",
     github: "synrc/n2o",
     tags: ["web", "framework", "bert", "binary", "ws", "websocket", "templat", "utf", "validation", "erlang"],
