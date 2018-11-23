@@ -383,7 +383,7 @@ module.exports = [{
     tags: ["type", "check", "type-check", "prop", "types"],
     description: "Simple and very small JavaScript library to check types and instanceof.",
     url: "https://github.com/RaphaelHaettich/simple-type-check",
-    source: "https://github.com/RaphaelHaettich/simple-type-check/blob/master/dist/simpleTypeCheck.min.js"
+    source: "https://raw.githubusercontent.com/RaphaelHaettich/simple-type-check/master/src/index.js"
   },
   {
     name: "N2O.js",
