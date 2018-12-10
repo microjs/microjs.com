@@ -5824,5 +5824,69 @@
 		<summary>Automatically switch css html background color.</summary>
 	</entry>
 
+	<entry>
+		<title>Holen</title>
+		<link href="https://github.com/RickStanley/Holen" />
+		<id>urn:uuid:8c45a2c0-fc2a-11e8-945f-dffc44ce4b2a</id>
+		<updated>2018-12-10'T'03:19:50+00:00</updated>
+		<summary>Simple and standalone AJAX library for modern browsers. Inspired by Angular&apos;s $http method.</summary>
+	</entry>
+
+	<entry>
+		<title>esfetch</title>
+		<link href="https://github.com/jhpratt/esfetch" />
+		<id>urn:uuid:9226c340-fc2a-11e8-945f-dffc44ce4b2a</id>
+		<updated>2018-12-10'T'03:19:50+00:00</updated>
+		<summary>Tiny wrapper around `fetch` that automatically parses JSON responses and throws on non-200 status codes.</summary>
+	</entry>
+
+	<entry>
+		<title>vanilla-picker-mini</title>
+		<link href="https://github.com/Sphinxxxx/vanilla-picker-mini" />
+		<id>urn:uuid:93ab4060-fc2a-11e8-945f-dffc44ce4b2a</id>
+		<updated>2018-12-10'T'03:19:50+00:00</updated>
+		<summary>A simple, easy to use color picker with alpha selection.</summary>
+	</entry>
+
+	<entry>
+		<title>almy.js</title>
+		<link href="https://github.com/tomas2387/almy" />
+		<id>urn:uuid:96702cc0-fc2a-11e8-945f-dffc44ce4b2a</id>
+		<updated>2018-12-10'T'03:19:50+00:00</updated>
+		<summary>Fast &amp; simple centralized state management library</summary>
+	</entry>
+
+	<entry>
+		<title>Browser Storage JS</title>
+		<link href="https://github.com/lcavadas/browser-storage-js" />
+		<id>urn:uuid:a3e43c70-fc2a-11e8-945f-dffc44ce4b2a</id>
+		<updated>2018-12-10'T'03:19:50+00:00</updated>
+		<summary>JavaScript Library for Cross Browser Persistence using WebStorage (LocalStorage, SessionStorage, WebSQL and IndexedDB) for all browsers.</summary>
+	</entry>
+
+	<entry>
+		<title>Spck-Embed</title>
+		<link href="https://github.com/spckio/spck-embed" />
+		<id>urn:uuid:a54441a0-fc2a-11e8-945f-dffc44ce4b2a</id>
+		<updated>2018-12-10'T'03:19:50+00:00</updated>
+		<summary>Small embeddable online code editor for demos.</summary>
+	</entry>
+
+	<entry>
+		<title>Beedle</title>
+		<link href="https://github.com/hankchizljaw/beedle" />
+		<id>urn:uuid:a54468b0-fc2a-11e8-945f-dffc44ce4b2a</id>
+		<updated>2018-12-10'T'03:19:50+00:00</updated>
+		<summary>A tiny library inspired by Redux &amp; Vuex to help you manage state in your JavaScript apps</summary>
+	</entry>
+
+	<entry>
+		<title>Excellent.js</title>
+		<link href="https://github.com/vitaly-t/excellent" />
+		<id>urn:uuid:a5448fc0-fc2a-11e8-945f-dffc44ce4b2a</id>
+		<updated>2018-12-10'T'03:19:50+00:00</updated>
+		<summary>DOM-Manipulation Framework</summary>
+	</entry>
+
 
 </feed>

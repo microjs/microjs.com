@@ -1343,6 +1343,14 @@ module.exports = [{
     source: "https://raw.githubusercontent.com/radmen/miuri.js/master/lib/miuri.js"
   },
   {
+    name: "esfetch",
+    github: "jhpratt/esfetch",
+    tags: ["fetch", "promise", "json", "rest", "types", "modules"],
+    description: "Tiny wrapper around `fetch` that automatically parses JSON responses and throws on non-200 status codes.",
+    url: "https://github.com/jhpratt/esfetch",
+    source: "https://unpkg.com/esfetch@0.1.2/index.js"
+  },
+  {
     name: "RSVP.js",
     github: "tildeio/rsvp.js",
     tags: ["Promises/A+", "asynchronous"],
