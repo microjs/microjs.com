@@ -15,6 +15,14 @@ module.exports = [{
     source: "https://raw.githubusercontent.com/wisniewski94/sprites.js/master/sprites.js"
   },
   {
+    name: "ShadowQuery",
+    github: "schrotie/shadow-query",
+    tags: ["web-components"],
+    description: "Micro-library for writing vanilla web components",
+    url: "https://github.com/schrotie/shadow-query",
+    source: "https://raw.githubusercontent.com/schrotie/shadow-query/master/shadowQuery.mjs"
+  },
+  {
     name: "VP PubSub",
     github: "schubergphilis/vp-pubsub",
     tags: ["pubsub", "publish", "subscribe", "message", "pub", "sub", "emitter", "event"],
