@@ -5144,8 +5144,8 @@ module.exports = [{
     source: [
       "https://github.com/xxxmatko/tutorial.js/blob/master/wwwroot/js/tutorial.js",
       "https://github.com/xxxmatko/tutorial.js/blob/master/wwwroot/css/tutorial.css"
-    ]	
-  },  
+    ]
+  },
   {
     name: "pure-dialog",
     github: "john-doherty/pure-dialog",
@@ -5691,6 +5691,14 @@ module.exports = [{
     description: "DOM-Manipulation Framework",
     url: "https://github.com/vitaly-t/excellent",
     source: "https://raw.githubusercontent.com/vitaly-t/excellent/master/src/excellent.js"
+  },
+  {
+    name: "easyrouter",
+    github: "aMarCruz/easyrouter",
+    tags: ["html5", "router", "routes", "browser", "location", "history", "hash"],
+    description: "Tiny, fast, easy, yet powerful hash router in JavaScript",
+    url: "https://github.com/aMarCruz/easyrouter",
+    source: "https://raw.githubusercontent.com/aMarCruz/easyrouter/master/dist/easyrouter.js"
   },
   {
     name: "Beedle",
