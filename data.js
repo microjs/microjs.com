@@ -5710,6 +5710,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/vitaly-t/excellent/master/src/excellent.js"
   },
   {
+    name: "gradstop",
+    github: "Siddharth11/gradstop",
+    tags: ["colors", "palette", "gradient", "hex", "rgb", "hsl"],
+    description: "JavaScript micro library to generate gradient color stops",
+    url: "https://github.com/Siddharth11/gradstop",
+    source: "https://raw.githubusercontent.com/Siddharth11/gradstop/master/gradstopUMD.js",
+  },
+  {
     name: "easyrouter",
     github: "aMarCruz/easyrouter",
     tags: ["html5", "router", "routes", "browser", "location", "history", "hash"],
