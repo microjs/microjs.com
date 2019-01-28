@@ -3689,6 +3689,14 @@ module.exports = [
   },
   */
   {
+    name: "Day.js",
+    github: "iamkun/dayjs",
+    tags: ["date", "time", "moment", "dayjs", "immutable", "parse", "format", "fromnow"],
+    description: "parses, validates, manipulates, and displays dates, 2KB immutable alternative to Moment.js",
+    url: "https://github.com/iamkun/dayjs",
+    source: "https://unpkg.com/dayjs"
+  },
+  {
     name: "swiftcore.js",
     tags: ["IOC", "dependency injection", "microkernel"],
     description: "A lightweight and flexible microkernel/IOC container which helps to build testable decoupled systems",
