@@ -3694,7 +3694,7 @@ module.exports = [
     tags: ["date", "time", "moment", "dayjs", "immutable", "parse", "format", "fromnow"],
     description: "parses, validates, manipulates, and displays dates, 2KB immutable alternative to Moment.js",
     url: "https://github.com/iamkun/dayjs",
-    source: "https://unpkg.com/dayjs"
+    source: "https://raw.githubusercontent.com/iamkun/dayjs/master/src/index.js"
   },
   {
     name: "swiftcore.js",
