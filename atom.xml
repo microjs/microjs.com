@@ -5824,5 +5824,101 @@
 		<summary>Automatically switch css html background color.</summary>
 	</entry>
 
+	<entry>
+		<title>Wirup</title>
+		<link href="https://github.com/razaibi/Wirup" />
+		<id>urn:uuid:fa4fca70-2ad3-11e9-8dd8-d7f984047675</id>
+		<updated>2019-02-07'T'12:29:12+00:00</updated>
+		<summary>Lightweight nano framework for Single Page Applications (SPAs) on the web.</summary>
+	</entry>
+
+	<entry>
+		<title>WirupExpress</title>
+		<link href="https://github.com/razaibi/WirupExpress" />
+		<id>urn:uuid:fa50dbe0-2ad3-11e9-8dd8-d7f984047675</id>
+		<updated>2019-02-07'T'12:29:12+00:00</updated>
+		<summary>The Ultra Lightweight version of Wirup.</summary>
+	</entry>
+
+	<entry>
+		<title>ShadowQuery</title>
+		<link href="https://github.com/schrotie/shadow-query" />
+		<id>urn:uuid:fa8f1d60-2ad3-11e9-8dd8-d7f984047675</id>
+		<updated>2019-02-07'T'12:29:12+00:00</updated>
+		<summary>Micro-library for writing vanilla web components</summary>
+	</entry>
+
+	<entry>
+		<title>Holen</title>
+		<link href="https://github.com/RickStanley/Holen" />
+		<id>urn:uuid:fc03bc00-2ad3-11e9-8dd8-d7f984047675</id>
+		<updated>2019-02-07'T'12:29:12+00:00</updated>
+		<summary>Simple and standalone AJAX library for modern browsers. Inspired by Angular&apos;s $http method.</summary>
+	</entry>
+
+	<entry>
+		<title>vanilla-picker-mini</title>
+		<link href="https://github.com/Sphinxxxx/vanilla-picker-mini" />
+		<id>urn:uuid:022540e0-2ad4-11e9-8dd8-d7f984047675</id>
+		<updated>2019-02-07'T'12:29:12+00:00</updated>
+		<summary>A simple, easy to use color picker with alpha selection.</summary>
+	</entry>
+
+	<entry>
+		<title>almy.js</title>
+		<link href="https://github.com/tomas2387/almy" />
+		<id>urn:uuid:048b4460-2ad4-11e9-8dd8-d7f984047675</id>
+		<updated>2019-02-07'T'12:29:12+00:00</updated>
+		<summary>Fast &amp; simple centralized state management library</summary>
+	</entry>
+
+	<entry>
+		<title>Browser Storage JS</title>
+		<link href="https://github.com/lcavadas/browser-storage-js" />
+		<id>urn:uuid:1164e8d0-2ad4-11e9-8dd8-d7f984047675</id>
+		<updated>2019-02-07'T'12:29:12+00:00</updated>
+		<summary>JavaScript Library for Cross Browser Persistence using WebStorage (LocalStorage, SessionStorage, WebSQL and IndexedDB) for all browsers.</summary>
+	</entry>
+
+	<entry>
+		<title>Excellent.js</title>
+		<link href="https://github.com/vitaly-t/excellent" />
+		<id>urn:uuid:12f8a830-2ad4-11e9-8dd8-d7f984047675</id>
+		<updated>2019-02-07'T'12:29:12+00:00</updated>
+		<summary>DOM-Manipulation Framework</summary>
+	</entry>
+
+	<entry>
+		<title>Spck-Embed</title>
+		<link href="https://github.com/spckio/spck-embed" />
+		<id>urn:uuid:130b6ce0-2ad4-11e9-8dd8-d7f984047675</id>
+		<updated>2019-02-07'T'12:29:12+00:00</updated>
+		<summary>Small embeddable online code editor for demos.</summary>
+	</entry>
+
+	<entry>
+		<title>gradstop</title>
+		<link href="https://github.com/Siddharth11/gradstop" />
+		<id>urn:uuid:130c0920-2ad4-11e9-8dd8-d7f984047675</id>
+		<updated>2019-02-07'T'12:29:12+00:00</updated>
+		<summary>JavaScript micro library to generate gradient color stops</summary>
+	</entry>
+
+	<entry>
+		<title>easyrouter</title>
+		<link href="https://github.com/aMarCruz/easyrouter" />
+		<id>urn:uuid:130e2c00-2ad4-11e9-8dd8-d7f984047675</id>
+		<updated>2019-02-07'T'12:29:12+00:00</updated>
+		<summary>Tiny, fast, easy, yet powerful hash router in JavaScript</summary>
+	</entry>
+
+	<entry>
+		<title>Beedle</title>
+		<link href="https://github.com/hankchizljaw/beedle" />
+		<id>urn:uuid:135bd6d0-2ad4-11e9-8dd8-d7f984047675</id>
+		<updated>2019-02-07'T'12:29:12+00:00</updated>
+		<summary>A tiny library inspired by Redux &amp; Vuex to help you manage state in your JavaScript apps</summary>
+	</entry>
+
 
 </feed>
