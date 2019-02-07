@@ -6,13 +6,38 @@
 // As per the README, the source should be a link to your unminified, raw, source. It can
 // also be just the raw JS if it's small enough, an array of source files or a ZIP file.
 // See examples below.
-module.exports = [{
+module.exports = [
+  {
+    name: "Wirup",
+    github: "razaibi/Wirup",
+    tags: ["nano-framework", "single-page-application","fast", "routing", "wirup", "frontend", "javascript"],
+    description: "Lightweight nano framework for Single Page Applications (SPAs) on the web.",
+    url: "https://github.com/razaibi/Wirup",
+    source: "https://raw.githubusercontent.com/razaibi/Wirup/master/js/Wirup.js"
+  },
+  {
+    name: "WirupExpress",
+    github: "razaibi/WirupExpress",
+    tags: ["nano-framework", "data-binding", "lightweight","fast","wirupexpress", "frontend", "javascript"],
+    description: "The Ultra Lightweight version of Wirup.",
+    url: "https://github.com/razaibi/WirupExpress",
+    source: "https://raw.githubusercontent.com/razaibi/WirupExpress/master/js/WirupExpress.js"
+  },
+  {
     name: "sprites.js",
     github: "wisniewski94/sprites.js",
     tags: ["sprite", "canvas", "sprites.js", "requestAnimationFrame", "raf", "front-end", "frontend", "javascript"],
     description: "Sprites.js is simple canvas sprites animation library. No setTimeout() or setInterval(). Just rAF.",
     url: "https://github.com/wisniewski94/sprites.js",
     source: "https://raw.githubusercontent.com/wisniewski94/sprites.js/master/sprites.js"
+  },
+  {
+    name: "ShadowQuery",
+    github: "schrotie/shadow-query",
+    tags: ["web-components"],
+    description: "Micro-library for writing vanilla web components",
+    url: "https://github.com/schrotie/shadow-query",
+    source: "https://raw.githubusercontent.com/schrotie/shadow-query/master/shadowQuery.mjs"
   },
   {
     name: "VP PubSub",
@@ -37,6 +62,17 @@ module.exports = [{
     description: "Use the Native DOM APIs as easily as jQuery",
     url: "https://github.com/eorroe/NodeList.js",
     source: "https://raw.githubusercontent.com/eorroe/NodeList.js/master/NodeList.js"
+  },
+  {
+    name: "Star Rating",
+    github: "geminilabs/star-rating.js",
+    tags: ["rating", "stars", "star-rating"],
+    description: "Transforms a SELECT element into a dynamic star rating control",
+    url: "https://geminilabs.github.io/star-rating.js/",
+    source: [
+      "https://raw.githubusercontent.com/geminilabs/star-rating.js/master/src/star-rating.js",
+      "https://raw.githubusercontent.com/geminilabs/star-rating.js/master/dist/star-rating.css"
+    ]
   },
   {
     name: "Dragula",
@@ -600,6 +636,14 @@ module.exports = [{
     source: "https://raw.githubusercontent.com/EvandroLG/Feed/master/src/feed.js"
   },
   {
+    name: "Holen",
+    github: "RickStanley/Holen",
+    tags: ["xhr", "ajax", "nojquery", "xmlhttprequest", "x-requested-with", "http", "simple", "minimal", "german", "deutsch", "angular"],
+    description: "Simple and standalone AJAX library for modern browsers. Inspired by Angular's $http method.",
+    url: "https://github.com/RickStanley/Holen",
+    source: "https://raw.githubusercontent.com/RickStanley/Holen/master/index.js"
+  },
+  {
     name: "Stoor",
     github: "tiaanduplessis/stoor",
     tags: ["storage", "local-storage", "session-storage"],
@@ -1007,6 +1051,14 @@ module.exports = [{
     description: "A small, zero-dependency form-to-object serialization utility",
     url: "https://github.com/chrisdavies/form-to-obj",
     source: "https://raw.githubusercontent.com/chrisdavies/form-to-obj/master/form-to-obj.js"
+  },
+  {
+    name: "js2txt.js",
+    github: "jackens/nnn",
+    tags: ["js2txt", "json", "serializer"],
+    description: "Object serializer that supports functions. Works in both Node.js and the browser.",
+    url: "https://github.com/jackens/nnn",
+    source: "https://raw.githubusercontent.com/jackens/nnn/master/js2txt.js"
   },
   {
     name: "goo.js",
@@ -1658,7 +1710,14 @@ module.exports = [{
     tags: ["date", "calendar", "picker", "datepicker"],
     description: "Small, zero-dependency date picker (~1500 bytes min+zipped)",
     url: "https://github.com/chrisdavies/tiny-date-picker",
-    source: "https://raw.githubusercontent.com/chrisdavies/tiny-date-picker/master/tiny-date-picker.js"
+    source: "https://raw.githubusercontent.com/chrisdavies/tiny-date-picker/master/dist/tiny-date-picker.js"
+  },
+  {
+    name: "vanilla-picker-mini",
+    tags: ["ux", "ui", "color", "colour", "picker", "color picker", "color-picker", "colorpicker", "rgb", "rgba", "hsl", "hsla", "hex", "alpha"],
+    description: "A simple, easy to use color picker with alpha selection.",
+    url: "https://github.com/Sphinxxxx/vanilla-picker-mini",
+    source: "https://raw.githubusercontent.com/Sphinxxxx/vanilla-picker-mini/master/dist/vanilla-picker-mini.js"
   },
   {
     name: "Backbone",
@@ -1690,6 +1749,14 @@ module.exports = [{
     source: "https://raw.githubusercontent.com/daniellmb/HEX-RGB-Conversion/master/hex-rgb.src.js",
     tinyminify: true // this source has a ton of comments so the minified version is tiny compared to raw, so
     // we overrule the sanity-check that compares the sizes and would otherwise reject this
+  },
+  {
+    name: "sanitize-xml.js",
+    github: "jackens/nnn",
+    tags: ["sanitize", "sanitizer", "xml", "html"],
+    description: "XML sanitizer. Works in both Node.js and the browser.",
+    url: "https://github.com/jackens/nnn",
+    source: "https://raw.githubusercontent.com/jackens/nnn/master/sanitize-xml.js"
   },
   {
     name: "server2.js",
@@ -2158,6 +2225,14 @@ module.exports = [{
     source: "https://raw.githubusercontent.com/azer/observer/master/lib/observer.js"
   },
   {
+    name: "almy.js",
+    github: "tomas2387/almy",
+    tags: ["state", "state-management", "centralized", "management"],
+    description: "Fast & simple centralized state management library",
+    url: "https://github.com/tomas2387/almy",
+    source: "https://raw.githubusercontent.com/tomas2387/almy/master/almy.js"
+  },
+  {
     name: "JsDefer",
     tags: ["loader"],
     description: "Script loader, using the 'Deferred' pattern for async operations.",
@@ -2493,6 +2568,14 @@ module.exports = [{
     description: "A msgpack encoder and decoder using ArrayBuffer and DataView",
     url: "https://github.com/creationix/msgpack-js-browser",
     source: "https://raw.githubusercontent.com/creationix/msgpack-js-browser/master/msgpack.js"
+  },
+  {
+    name: "format-xml.js",
+    github: "jackens/nnn",
+    tags: ["html", "xml", "formatter"],
+    description: "XML formatter. Works in both Node.js and the browser.",
+    url: "https://github.com/jackens/nnn",
+    source: "https://raw.githubusercontent.com/jackens/nnn/master/format-xml.js"
   },
   {
     name: "my.class.js",
@@ -3984,8 +4067,8 @@ module.exports = [{
     github: "webpro/DOMtastic",
     tags: ["DOM", "events", "selector", "modern", "modular", "es6"],
     description: "Small and fast DOM and event library for modern browsers. It has the same familiar API as jQuery, and is lean & mean with small, optional modules.",
-    url: "http://webpro.github.io/DOMtastic/",
-    source: "https://raw.githubusercontent.com/webpro/DOMtastic/gh-pages/dist/domtastic.js"
+    url: "https://domtastic.js.org",
+    source: "https://cdn.jsdelivr.net/npm/domtastic@latest/dist/domtastic.js"
   },
   {
     name: "Timer.js",
@@ -5070,6 +5153,17 @@ module.exports = [{
     source: "https://raw.githubusercontent.com/kylepaulsen/NanoModal/master/nanomodal.js"
   },
   {
+    name: "tutorial.js",
+    github: "xxxmatko/tutorial.js",
+    tags: ["tutorial", "intro", "tooltip", "dialog", "popup", "message"],
+    description: "The best step-by-step feature introduction for your web sites, that's a promise!",
+    url: "https://github.com/xxxmatko/tutorial.js",
+    source: [
+      "https://github.com/xxxmatko/tutorial.js/blob/master/wwwroot/js/tutorial.js",
+      "https://github.com/xxxmatko/tutorial.js/blob/master/wwwroot/css/tutorial.css"
+    ]
+  },
+  {
     name: "pure-dialog",
     github: "john-doherty/pure-dialog",
     tags: ["modal", "dialog", "popup", "pop under", "alert"],
@@ -5265,12 +5359,12 @@ module.exports = [{
     source: "https://raw.githubusercontent.com/tiaanduplessis/dont-go/master/lib/dont-go.js"
   },
   {
-    name: "Storage.js",
-    github: "lcavadas/Storage.js",
+    name: "Browser Storage JS",
+    github: "lcavadas/browser-storage-js",
     tags: ["IndexedDB", "WebSQL", "localStorage", "sessionStorage", "localStorage", "storage", "database", "object", "store"],
     description: "JavaScript Library for Cross Browser Persistence using WebStorage (LocalStorage, SessionStorage, WebSQL and IndexedDB) for all browsers.",
-    url: "https://github.com/lcavadas/Storage.js",
-    source: "https://raw.githubusercontent.com/lcavadas/Storage.js/master/build/storage.js"
+    url: "https://github.com/lcavadas/browser-storage-js",
+    source: "https://raw.githubusercontent.com/lcavadas/browser-storage-js/master/build/storage.js"
   },
   {
     name: "xr",
@@ -5598,5 +5692,45 @@ module.exports = [{
     description: "Small and fast conditional css class builder",
     url: "https://github.com/StephanHoyer/classies",
     source: "https://github.com/StephanHoyer/classies/blob/master/index.js"
+  },
+  {
+    name: "Spck-Embed",
+    github: "spckio/spck-embed",
+    tags: ["embeddable", "code", "editor"],
+    description: "Small embeddable online code editor for demos.",
+    url: "https://github.com/spckio/spck-embed",
+    source: "https://raw.githubusercontent.com/spckio/spck-embed/master/dist/spck-embed.js"
+  },
+  {
+    name: "Excellent.js",
+    github: "vitaly-t/excellent",
+    tags: ["DOM", "manipulation", "framework"],
+    description: "DOM-Manipulation Framework",
+    url: "https://github.com/vitaly-t/excellent",
+    source: "https://raw.githubusercontent.com/vitaly-t/excellent/master/src/excellent.js"
+  },
+  {
+    name: "gradstop",
+    github: "Siddharth11/gradstop",
+    tags: ["colors", "palette", "gradient", "hex", "rgb", "hsl"],
+    description: "JavaScript micro library to generate gradient color stops",
+    url: "https://github.com/Siddharth11/gradstop",
+    source: "https://raw.githubusercontent.com/Siddharth11/gradstop/master/gradstopUMD.js",
+  },
+  {
+    name: "easyrouter",
+    github: "aMarCruz/easyrouter",
+    tags: ["html5", "router", "routes", "browser", "location", "history", "hash"],
+    description: "Tiny, fast, easy, yet powerful hash router in JavaScript",
+    url: "https://github.com/aMarCruz/easyrouter",
+    source: "https://raw.githubusercontent.com/aMarCruz/easyrouter/master/dist/easyrouter.js"
+  },
+  {
+    name: "Beedle",
+    github: "hankchizljaw/beedle",
+    tags: ["state", "data", "functional"],
+    description: "A tiny library inspired by Redux & Vuex to help you manage state in your JavaScript apps",
+    url: "https://github.com/hankchizljaw/beedle",
+    source: "https://raw.githubusercontent.com/hankchizljaw/beedle/master/src/beedle.js"
   }
 ];
