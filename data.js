@@ -249,6 +249,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/tbleckert/location-init/master/index.js"
   },
   {
+    name: "event-e3",
+    github: "GrosSacASac/event-e3",
+    tags: ["browser", "node.js", "universal", "publish", "subscribe", "listen", "message", "sender", "receiver", "observer", "push", "distribution", "event", "emitter", "3"],
+    description: "Universal light Event Emitter",
+    url: "https://github.com/GrosSacASac/event-e3",
+    source: "https://raw.githubusercontent.com/GrosSacASac/event-e3/master/EventEmitter3.mjs"
+  },
+  {
     name: "indent.js",
     github: "zebzhao/indent.js",
     tags: ["indent", "autoindent", "indentation", "jsbeautify"],
