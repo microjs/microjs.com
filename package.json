@@ -22,6 +22,6 @@
     "node": "*"
   },
   "scripts": {
-    "test": "./build.js -v"
+    "test": "node ./build.js -v"
   }
 }
