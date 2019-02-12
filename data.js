@@ -40,6 +40,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/schrotie/shadow-query/master/shadowQuery.mjs"
   },
   {
+    name: "Fun Hooks",
+    github: "snapwich/fun-hooks",
+    tags: ["hooks", "before", "after", "pre", "post", "wrapper", "plugins"],
+    description: "A generalized and simple hooking API for adding extensibility to your applications",
+    url: "https://github.com/snapwich/fun-hooks",
+    source: "https://unpkg.com/fun-hooks@latest"
+  },
+  {
     name: "VP PubSub",
     github: "schubergphilis/vp-pubsub",
     tags: ["pubsub", "publish", "subscribe", "message", "pub", "sub", "emitter", "event"],
