@@ -45,7 +45,7 @@ module.exports = [
     tags: ["hooks", "before", "after", "pre", "post", "wrapper", "plugins"],
     description: "A generalized and simple hooking API for adding extensibility to your applications",
     url: "https://github.com/snapwich/fun-hooks",
-    source: "https://unpkg.com/fun-hooks@latest"
+    source: "http://unpkg.com/fun-hooks@latest/index.js"
   },
   {
     name: "VP PubSub",
