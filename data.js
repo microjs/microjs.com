@@ -1240,6 +1240,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/SGrondin/bottleneck/master/bottleneck.js"
   },
   {
+    name: "sqroll",
+    tags: ["scroll", "scrolling", "trigger", "parallax"],
+    description: "A scrolling library with a simple api and a small overhead",
+    url: "https://github.com/ezakto/sqroll",
+    source: "https://raw.githubusercontent.com/ezakto/sqroll/master/dist/sqroll.js"
+  },
+  {
     name: "accounting.js",
     github: "openexchangerates/accounting.js",
     tags: ["math", "number", "money", "currency parsing", "currency formatting"],
