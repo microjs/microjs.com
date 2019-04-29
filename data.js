@@ -2412,6 +2412,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/millermedeiros/js-signals/master/dist/signals.js"
   },
   {
+    name: "Dragonbinder",
+    github: "Masquerade-Circus/dragonbinder",
+    tags: ["store", "state", "state management", "reactive", "vuex", "redux", "flux", "manager"],
+    description: "1kb progressive state management library inspired by Vuex.",
+    url: "https://github.com/Masquerade-Circus/dragonbinder",
+    source: "https://raw.githubusercontent.com/Masquerade-Circus/dragonbinder/master/lib/index.js"
+  },
+  {
     name: "Crossroads.js",
     tags: ["route", "events", "spa"],
     description: "Powerful JavaScript URL routing/dispatch for server-side and client-side applications.",
