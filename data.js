@@ -4122,6 +4122,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/MikeMcl/big.js/master/big.js"
   },
   {
+    name: "FAT",
+    github: "nextapps-de/fat",
+    tags: ["fast", "animation", "tool", "tween", "transform", "transition", "filter", "effect", "slide", "animate"],
+    description: "Web's fastest and most lightweight animation tool. This is a compact version including: Animation, Easing, Bezier, Transform, Colors.",
+    url: "https://github.com/nextapps-de/fat",
+    source: "https://raw.githubusercontent.com/nextapps-de/fat/0.6.71/dist/microjs/fat.compact.js"
+  },
+  {
     name: "PicoModal",
     github: "Nycto/PicoModal",
     tags: ["modal", "popup", "message"],
