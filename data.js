@@ -5771,5 +5771,13 @@ module.exports = [
     description: "A tiny library inspired by Redux & Vuex to help you manage state in your JavaScript apps",
     url: "https://github.com/hankchizljaw/beedle",
     source: "https://raw.githubusercontent.com/hankchizljaw/beedle/master/src/beedle.js"
+  },
+  {
+    name: "JS-Entity-Component-System",
+    github: "Stuhl/javascript-entity-component-system",
+    tags: ["simple", "games", "entity", "component", "system"],
+    description: "A small entity-component-system library written in JS",
+    url: "https://github.com/Stuhl/javascript-entity-component-system",
+    source: "https://raw.githubusercontent.com/Stuhl/javascript-entity-component-system/master/dist/index.js"
   }
 ];
