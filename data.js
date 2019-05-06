@@ -5771,5 +5771,13 @@ module.exports = [
     description: "A tiny library inspired by Redux & Vuex to help you manage state in your JavaScript apps",
     url: "https://github.com/hankchizljaw/beedle",
     source: "https://raw.githubusercontent.com/hankchizljaw/beedle/master/src/beedle.js"
+  },
+  {
+    name: "GradJS",
+    github: "owhs/GradJS",
+    tags: ["color", "colour", "colors", "generator", "tool", "palette", "grad", "hex", "rgb", "gradient", "multigradient"],
+    description: "Lightweight (<1kb) colour gradient generator",
+    url: "https://github.com/owhs/GradJS",
+    source: "https://raw.githubusercontent.com/owhs/GradJS/master/index.js"
   }
 ];
