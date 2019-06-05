@@ -8,6 +8,14 @@
 // See examples below.
 module.exports = [
   {
+    name: "HashParser",
+    github: "rvanbaalen/hashparser",
+    tags: ["library","fast", "frontend", "javascript"],
+    description: "Super tiny library to set and get (encoded/decoded) parameters in the hash of your URL.",
+    url: "https://github.com/rvanbaalen/hashparser",
+    source: "https://raw.githubusercontent.com/rvanbaalen/hashparser/master/src/hashparser.js"
+  },
+  {
     name: "Wirup",
     github: "razaibi/Wirup",
     tags: ["nano-framework", "single-page-application","fast", "routing", "wirup", "frontend", "javascript"],
