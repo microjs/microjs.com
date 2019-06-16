@@ -40,6 +40,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/schrotie/shadow-query/master/shadowQuery.mjs"
   },
   {
+    name: "ToolsJS",
+    github: "https://github.com/gabordemooij/toolsjs",
+    tags: ["library", "nano-framework", "vanilla", "javascript", "tools"],
+    description: "Library for Vanilla JavaScript Minimalists.",
+    url: "https://gabordemooij.com/toolsjs/",
+    source: "https://gabordemooij.com/toolsjs/toolsjs/tools.js"
+  },
+  {
     name: "Fun Hooks",
     github: "snapwich/fun-hooks",
     tags: ["hooks", "before", "after", "pre", "post", "wrapper", "plugins"],
