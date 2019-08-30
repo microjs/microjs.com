@@ -8,6 +8,24 @@
 // See examples below.
 module.exports = [
   {
+    name: "curry",
+    github: "LPVua/curry",
+    tags: [
+      "FP",
+      "curry",
+      "currying",
+      "Functional Programming",
+      "node",
+      "frontend",
+      "browser",
+      "cross-platform",
+      "javascript"
+    ],
+    description: "Tiny function which returns curried equivalent of provided function",
+    url: "https://github.com/LPVua/curry",
+    source: "https://unpkg.com/@lpvua/curry@1.0.1/dist/main.cjs.js"
+  },
+  {
     name: "Wirup",
     github: "razaibi/Wirup",
     tags: ["nano-framework", "single-page-application","fast", "routing", "wirup", "frontend", "javascript"],
