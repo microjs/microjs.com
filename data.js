@@ -23,7 +23,7 @@ module.exports = [
     ],
     description: "Tiny function which returns curried equivalent of provided function",
     url: "https://github.com/LPVua/curry",
-    source: "https://unpkg.com/@lpvua/curry@1.0.1/dist/main.cjs.js"
+    source: "https://unpkg.com/@lpvua/curry@1.0.2/dist/main.cjs.js"
   },
   {
     name: "Wirup",
