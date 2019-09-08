@@ -5778,6 +5778,6 @@ module.exports = [
     tags: ["simple", "games", "entity", "component", "system"],
     description: "A small entity-component-system library written in JS",
     url: "https://github.com/Stuhl/javascript-entity-component-system",
-    source: "https://raw.githubusercontent.com/Stuhl/javascript-entity-component-system/master/dist/index.js"
+    source: "https://raw.githubusercontent.com/Stuhl/javascript-entity-component-system/master/src/index.js"
   }
 ];
