@@ -254,7 +254,7 @@ module.exports = [
     tags: ["browser", "node.js", "universal", "publish", "subscribe", "listen", "message", "sender", "receiver", "observer", "push", "distribution", "event", "emitter", "3"],
     description: "Universal light Event Emitter",
     url: "https://github.com/GrosSacASac/event-e3",
-    source: "https://raw.githubusercontent.com/GrosSacASac/event-e3/master/EventEmitter3.mjs"
+    source: "https://raw.githubusercontent.com/GrosSacASac/event-e3/master/event-e3.js"
   },
   {
     name: "indent.js",
