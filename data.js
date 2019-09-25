@@ -32,6 +32,15 @@ module.exports = [
     source: "https://raw.githubusercontent.com/razaibi/WirupExpress/master/js/WirupExpress.js"
   },
   {
+    name: "dom99",
+    github: "GrosSacASac/DOM99",
+    tags: ["html", "javascript", "dom", "declarative", "custom", "elements", "web",
+    "component", "framework", "library", "reactive", "data-attributes", "light", "browser"],
+    description: "Extend html with directives",
+    url: "https://dom99.now.sh/",
+    source: "https://github.com/GrosSacASac/DOM99/tree/master/source"
+  },
+  {
     name: "sprites.js",
     github: "wisniewski94/sprites.js",
     tags: ["sprite", "canvas", "sprites.js", "requestAnimationFrame", "raf", "front-end", "frontend", "javascript"],
