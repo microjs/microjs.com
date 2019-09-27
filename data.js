@@ -1224,6 +1224,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/Agnostic/LocalDB.js/master/src/LocalDB.js"
   },
   {
+    name: "ColonJs",
+    github: "nesovera/colonjs",
+    tags: ["frontend","front","dom", "diff", "templating", "framework", "components"],
+    description: "ColonJs Front End Micro Framework",
+    url: "https://github.com/nesovera/colonjs",
+    source: "https://raw.githubusercontent.com/nesovera/colonjs/master/dist/colon.js"
+  },
+  {
     name: "mess-js",
     github: "graciano/mess",
     tags: ["message", "toast", "toasts", "android", "dialog", "info"],
