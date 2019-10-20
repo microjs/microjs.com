@@ -116,10 +116,9 @@ module.exports = [
   },
   {
     name: "JShorthand",
-    github: "skarukas/JShorthand",
     tags: ["chaining", "object", "syntax", "shorthand", "wrapper"],
     description: "Perform an aggregate of method calls upon an object in only one statement",
-    url: "https://github.com/skarukas/JShorthand/wiki",
+    url: "https://github.com/skarukas/JShorthand",
     source: "https://raw.githubusercontent.com/skarukas/JShorthand/master/jshorthand.js"
   },
   {
