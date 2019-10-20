@@ -115,6 +115,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/krisk/Fuse/master/src/fuse.js"
   },
   {
+    name: "JShorthand",
+    github: "skarukas/JShorthand",
+    tags: ["chaining", "object", "syntax", "shorthand", "wrapper"],
+    description: "Perform an aggregate of method calls upon an object in only one statement",
+    url: "https://github.com/skarukas/JShorthand/wiki",
+    source: "https://raw.githubusercontent.com/skarukas/JShorthand/master/jshorthand.js"
+  },
+  {
     name: "Tiny Browser Framework",
     github: "thedumbterminal/TinyBrowserFramework",
     tags: ["framework", "web", "websocket", "browser"],
