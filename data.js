@@ -8,6 +8,14 @@
 // See examples below.
 module.exports = [
   {
+    name: "eo-locale",
+    github: "ibitcy/eo-locale",
+    tags: ["tiny","react", "intl", "localization", "translation", "icu", "i18next", "internationalization", "preact"],
+    description: "Internationalize React apps. Elegant lightweight(2kB) library based on Internationalization API.",
+    url: "https://github.com/ibitcy/eo-locale",
+    source: "https://github.com/ibitcy/eo-locale/tree/master/src"
+  },
+  {
     name: "HashParser",
     github: "rvanbaalen/hashparser",
     tags: ["library","fast", "frontend", "javascript"],
