@@ -3891,6 +3891,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/shiftyp/hypo/master/dist/hypo.src.js"
   },
   {
+    name: "Spotlight",
+    tags: ["image", "images", "responsive", "photo", "slideshow", "carousel", "gallery", "slider", "lightbox"],
+    description: "A cross-browser responsive image gallery without dependencies.",
+    url: "https://github.com/nextapps-de/spotlight",
+    source: "https://raw.githubusercontent.com/nextapps-de/spotlight/0.6.3/dist/spotlight.micro.js"
+  },
+  {
     name: "pubsub.js",
     tags: ["events", "pubsub", "publish", "subscribe", "node", "rhino", "amd", "commonjs", "titanium"],
     description: "A tiny, optimized, tested, standalone and robust pubsub implementation supporting different javascript environments",
