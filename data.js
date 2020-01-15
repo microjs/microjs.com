@@ -40,6 +40,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/wisniewski94/sprites.js/master/sprites.js"
   },
   {
+    name: "apt.js",
+    github: "frqnck/apt.js",
+    tags: ["browser", "embeddable", "loader", "base", "dom", "micro", "framework", "require"],
+    description: "Minimalist, fast, rather-slim and pretty concise framework/library. Provides the flavour of both jQuery and RequireJS without the payload. Small enough to be embedded in any first-byte.",
+    url: "https://github.com/frqnck/apt.js",
+    source: "https://github.com/frqnck/apt.js/blob/master/src/apt-core.js"
+  },
+  {
     name: "ShadowQuery",
     github: "schrotie/shadow-query",
     tags: ["web-components"],
