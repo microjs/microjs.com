@@ -1431,6 +1431,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/philbooth/check-types.js/master/src/check-types.js"
   },
   {
+    name: "ColonJs",
+    github: "nesovera/colonjs",
+    tags: ["frontend","front","dom", "diff", "templating", "framework", "components"],
+    description: "ColonJs Front End Micro Framework",
+    url: "https://colonjs.org",
+    source: "https://raw.githubusercontent.com/nesovera/colonjs/master/dist/colon.js"
+  },
+  {
     name: "augment",
     github: "javascript/augment",
     tags: ["augment", "augments", "augmentation", "extend", "extends", "extension", "prototype", "prototypal", "class", "classical", "object", "inheritance", "uber", "super", "constructor", "oop"],
