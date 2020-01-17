@@ -4141,6 +4141,86 @@ module.exports = [
     source: "https://cdn.jsdelivr.net/npm/domtastic@latest/dist/domtastic.js"
   },
   {
+    name: "FastestSmallestTextEncoderDecoder",
+    github: "anonyco/FastestSmallestTextEncoderDecoder",
+    tags: ["utf-8", "encoding", "decoding", "browser", "node-js", "polyfill"],
+    description: "The fastest smallest Javascript polyfill for the encode of TextEncoder and decode of TextDecoder for UTF-8 only",
+    url: "https://anonyco.github.io/FastestSmallestTextEncoderDecoder/gh-pages/",
+    source: "https://raw.githubusercontent.com/anonyco/FastestSmallestTextEncoderDecoder/master/EncoderDecoderTogether.src.js"
+  },
+  {
+    name: "BestBase64EncoderDecoder",
+    github: "anonyco/BestBase64EncoderDecoder",
+    tags: ["btoa", "atob", "utf-8", "browser", "node-js"],
+    description: "The most standard, most cross-browser, most compact, and fastest possible btoa and atob solution for unicode strings with high code points",
+    url: "https://anonyco.github.io/BestBase64EncoderDecoder/demo.html",
+    source: "https://raw.githubusercontent.com/anonyco/BestBase64EncoderDecoder/master/atobAndBtoaTogether.src.js"
+  },
+  {
+    name: "Fast Map, WeakMap, Set, and WeakSet Polyfill",
+    github: "anonyco/Javascript-Fast-Light-Map-WeakMap-Set-And-WeakSet-JS-Polyfill",
+    tags: ["polyfill", "map", "weakmap-polyfill", "map-polyfill", "weakset-polyfill", "set-polyfill", "es6", "browser"],
+    description: "A fast, lightweight, Javascript Map and WeakMap polyfill",
+    url: "https://github.com/anonyco/Javascript-Fast-Light-Map-WeakMap-Set-And-WeakSet-JS-Polyfill",
+    source: "https://raw.githubusercontent.com/anonyco/Javascript-Fast-Light-Map-WeakMap-Set-And-WeakSet-JS-Polyfill/master/mapPolyfill.src.js"
+  },
+  {
+    name: "SuperSimpleExtensibleSmallXMLHttpRequestWrapper",
+    github: "anonyco/SuperSimpleExtensibleSmallXMLHttpRequestWrapper",
+    tags: ["xmlhttprequest", "http", "xmlhttprequest-wrapper", "browser"],
+    description: "A 338-byte super small, simple, light, fast, XMLHttpRequest wrapper",
+    url: "https://github.com/anonyco/SuperSimpleExtensibleSmallXMLHttpRequestWrapper",
+    source: "https://raw.githubusercontent.com/anonyco/SuperSimpleExtensibleSmallXMLHttpRequestWrapper/master/superxhr.src.js"
+  },
+  {
+    name: "Force DOM reflow JS",
+    github: "anonyco/Force-DOM-reflow-JS",
+    tags: ["dom-reflow", "css-transitions", "browser"],
+    description: "The cross-browser force DOM reflow library that will work in all current and future browsers",
+    url: "https://github.com/anonyco/Force-DOM-reflow-JS",
+    source: "https://anonyco.github.io/Force-DOM-reflow-JS/forceReflow.src.js"
+  },
+  {
+    name: "DeferStackJS",
+    github: "anonyco/DeferStackJS",
+    tags: ["deferred-tasks", "trampoline", "node-js", "browser"],
+    description: "A small fast library that solves the 'Maximum Stack Call Exceeded' error",
+    url: "https://github.com/anonyco/DeferStackJS",
+    source: "https://anonyco.github.io/DeferStackJS/DeferStack.src.js"
+  },
+  {
+    name: "AsyncGlobalEvalFunction",
+    github: "anonyco/AsynchronousEvalFunction",
+    tags: ["eval", "asynchronous", "global", "node-js", "browser"],
+    description: "A simple way to asynchronously defer execution of code stored in a string to prevent execution thread blockage",
+    url: "https://github.com/anonyco/AsynchronousEvalFunction",
+    source: "https://raw.githubusercontent.com/anonyco/AsynchronousEvalFunction/master/AsyncGlobalEvalFunction.src.js"
+  },
+  {
+    name: "SPromiseMeSpeed",
+    github: "anonyco/SPromiseMeSpeedJS",
+    tags: ["speed-polyfill", "polyfill", "promise", "Promises/A+", "asynchronous", "es6", "node-js", "browser"],
+    description: "The javascript library that promises you the fastest ES6 promises",
+    url: "https://github.com/anonyco/SPromiseMeSpeedJS",
+    source: "https://anonyco.github.io/SPromiseMeSpeedJS/SPromiseMeSpeed.src.js"
+  },
+  {
+    name: "Highlighter-JS",
+    github: "anonyco/Highlighter-JS",
+    tags: ["functional", "es6", "node-js", "browser"],
+    description: "Simple, small, fast, multilingual text highlighter in javascript.",
+    url: "https://github.com/anonyco/Highlighter-JS",
+    source: "https://raw.githubusercontent.com/anonyco/Highlighter-JS/master/highlighter.src.js"
+  },
+  {
+    name: "IDL-Property-Observer",
+    github: "anonyco/IDL-Property-Observer",
+    tags: ["mutation-observer", "evil", "es6", "browser"],
+    description: "Plug changes like HTMLInputElement.value into MutationObservers in 766 bytes. Framework agnostic!.",
+    url: "https://github.com/anonyco/IDL-Property-Observer",
+    source: "https://raw.githubusercontent.com/anonyco/IDL-Property-Observer/master/IDLPropertyObserver.src.js"
+  },
+  {
     name: "Timer.js",
     tags: ["interval", "timeout", "timer", "periodic"],
     description: "Timer.js is a periodic timer for Node.js and the browser.",
