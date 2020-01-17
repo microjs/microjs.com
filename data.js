@@ -4162,7 +4162,7 @@ module.exports = [
     github: "anonyco/SPromiseMeSpeedJS",
     tags: ["speed-polyfill", "polyfill", "promise", "Promises/A+", "asynchronous", "es6", "node-js", "browser"],
     description: "The javascript library that promises you the fastest ES6 promises",
-    url: "https://anonyco.github.io/SPromiseMeSpeedJS/PromiseMeSpeed.test.html",
+    url: "https://github.com/anonyco/SPromiseMeSpeedJS",
     source: "https://anonyco.github.io/SPromiseMeSpeedJS/SPromiseMeSpeed.src.js"
   },
   {
@@ -4178,7 +4178,7 @@ module.exports = [
     github: "anonyco/IDL-Property-Observer",
     tags: ["mutation-observer", "evil", "es6", "browser"],
     description: "Plug changes like HTMLInputElement.value into MutationObservers in 766 bytes. Framework agnostic!.",
-    url: "https://github.com/anonyco/anonyco/IDL-Property-Observer",
+    url: "https://github.com/anonyco/IDL-Property-Observer",
     source: "https://raw.githubusercontent.com/anonyco/IDL-Property-Observer/master/IDLPropertyObserver.src.js"
   },
   {
