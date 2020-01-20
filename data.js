@@ -38,7 +38,7 @@ module.exports = [
     "component", "framework", "library", "reactive", "data-attributes", "light", "browser"],
     description: "Extend html with directives",
     url: "https://dom99.now.sh/",
-    source: "https://github.com/GrosSacASac/DOM99/tree/master/source"
+    source: "https://unpkg.com/dom99/built/dom99.es.js"
   },
   {
     name: "sprites.js",
