@@ -5907,5 +5907,13 @@ module.exports = [
     description: "A small entity-component-system library written in JS",
     url: "https://github.com/Stuhl/javascript-entity-component-system",
     source: "https://raw.githubusercontent.com/Stuhl/javascript-entity-component-system/master/src/index.js"
-  }
+  },
+    {
+    name: "Zed.js",
+    github: "Paul-Browne/Zed-framework",
+    tags: ["micro", "micro framework", "single-page-application", "spa", "fast", "zed", "zedjs", "frontend", "javascript", "mvc", "mvc framework", "component"],
+    description: "Zed.js is a templateless micro frontend framework. It handles the rendering, updating and state management of your html components in only 854 bytes",
+    url: "https://zed.js.org",
+    source: "https://raw.githubusercontent.com/Paul-Browne/Zed-framework/master/Z.min.js"
+  },
 ];
