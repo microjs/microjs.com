@@ -13,7 +13,7 @@ module.exports = [
     tags: ["micro", "micro framework", "single-page-application", "spa", "fast", "zed", "zedjs", "frontend", "javascript", "mvc", "mvc framework", "component"],
     description: "Zed.js is a templateless micro frontend framework. It handles the rendering, updating and state management of your html components in only 854 bytes",
     url: "https://zed.js.org",
-    source: "https://raw.githubusercontent.com/Paul-Browne/Zed-framework/master/Z.min.js"
+    source: "https://raw.githubusercontent.com/Paul-Browne/Zed-framework/master/Z.js"
   },
   {
     name: "HashParser",

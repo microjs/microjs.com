@@ -6064,5 +6064,21 @@
 		<summary>JavaScript micro library to generate gradient color stops</summary>
 	</entry>
 
+	<entry>
+		<title>Zed.js</title>
+		<link href="https://zed.js.org" />
+		<id>urn:uuid:5df2efd0-4658-11ea-80f2-e17f650fed23</id>
+		<updated>2020-02-03'T'07:39:29+00:00</updated>
+		<summary>Zed.js is a templateless micro frontend framework. It handles the rendering, updating and state management of your html components in only 854 bytes</summary>
+	</entry>
+
+	<entry>
+		<title>Fun Hooks</title>
+		<link href="https://github.com/snapwich/fun-hooks" />
+		<id>urn:uuid:5eb10fb0-4658-11ea-80f2-e17f650fed23</id>
+		<updated>2020-02-03'T'07:39:29+00:00</updated>
+		<summary>A generalized and simple hooking API for adding extensibility to your applications</summary>
+	</entry>
+
 
 </feed>
