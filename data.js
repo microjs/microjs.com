@@ -480,6 +480,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/sbstjn/timesheet.js/master/source/javascripts/timesheet.js"
   },
   {
+    name: "Zed.js",
+    github: "Paul-Browne/Zed-framework",
+    tags: ["micro", "micro framework", "single-page-application", "spa", "fast", "zed", "zedjs", "frontend", "javascript", "mvc", "mvc framework", "component"],
+    description: "Zed.js is a templateless micro frontend framework. It handles the rendering, updating and state management of your html components in only 854 bytes",
+    url: "https://zed.js.org",
+    source: "https://raw.githubusercontent.com/Paul-Browne/Zed-framework/master/Z.js"
+  },
+  {
     name: "dual-emitter",
     github: "charlike/dual-emitter",
     tags: [
