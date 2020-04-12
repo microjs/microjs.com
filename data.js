@@ -13,7 +13,7 @@ module.exports = [
     tags: ["templating", "fast", "dom", "node"],
     description: "200 bytes js templating engine for browser and node",
     url: "https://github.com/Modi34/microbe",
-    source: "https://raw.githubusercontent.com/Modi34/microbe/master/microbe.min.js"
+    source: "https://raw.githubusercontent.com/Modi34/microbe/master/microbe.js"
   },
   {
     name: "HashParser",
