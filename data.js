@@ -24,6 +24,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/razaibi/Wirup/master/js/Wirup.js"
   },
   {
+    name: "Shopping Cart - localStorage",
+    github: "peet86/cart-localstorage",
+    tags: ["nano-framework", "shopping cart", "cart", "localstorage", "shop", "store", "javascript"],
+    description: "Lightweight, simple and flexible shopping cart micro library on top of localStorage",
+    url: "https://github.com/peet86/cart-localstorage",
+    source: ["https://raw.githubusercontent.com/peet86/cart-localstorage/master/index.js","https://github.com/peet86/cart-localstorage/blob/master/utils/localstorage.js"]
+  },
+  {
     name: "WirupExpress",
     github: "razaibi/WirupExpress",
     tags: ["nano-framework", "data-binding", "lightweight","fast","wirupexpress", "frontend", "javascript"],
