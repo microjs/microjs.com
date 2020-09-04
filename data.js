@@ -379,6 +379,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/wieringen/tinyscrollbar/master/lib/tinyscrollbar.js"
   },
   {
+    name: "HollyDates",
+    github: "eko3alpha/hollydates",
+    tags: ["holiday", "holidays", "date", "dates", "date checker"],
+    description: "Determine if a date is a holiday or falls on custom dates. Add custom and recurring dates",
+    url: "https://github.com/eko3alpha/hollydates",
+    source: "https://raw.githubusercontent.com/eko3alpha/hollydates/master/hollydates.js"
+  },
+  {
     name: "ba.js",
     github: "Arood/bajs",
     tags: ["animation", "animations", "css", "css3"],
