@@ -16,6 +16,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/rvanbaalen/hashparser/master/src/hashparser.js"
   },
   {
+    name: "Carbonium",
+    github: "edwinm/carbonium",
+    tags: ["dom", "qsa", "jquery", "frontend", "javascript", "typescript"],
+    description: "One kilobyte library for easy manipulation of the DOM.",
+    url: "https://github.com/edwinm/carbonium",
+    source: "https://raw.githubusercontent.com/edwinm/carbonium/master/src/carbonium.ts"
+  },
+  {
     name: "Wirup",
     github: "razaibi/Wirup",
     tags: ["nano-framework", "single-page-application","fast", "routing", "wirup", "frontend", "javascript"],
