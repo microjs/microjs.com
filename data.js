@@ -5929,6 +5929,6 @@ module.exports = [
     tags: ["html5", "router", "routes", "browser", "location", "history", "hash", "component"],
     description: "Lightweight standalone client-side router that supports history and hash routing plus web components",
     url: "https://router.ficusjs.org",
-    source: "https://raw.githubusercontent.com/ducksoupdev/ficusjs-router/master/dist/router.js"
+    source: "https://raw.githubusercontent.com/ducksoupdev/ficusjs-router/master/src/router.js"
   }
 ];
