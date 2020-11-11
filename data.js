@@ -5922,5 +5922,13 @@ module.exports = [
     description: "A small entity-component-system library written in JS",
     url: "https://github.com/Stuhl/javascript-entity-component-system",
     source: "https://raw.githubusercontent.com/Stuhl/javascript-entity-component-system/master/src/index.js"
+  },
+  {
+    name: "Alerter",
+    github: "gosukiwi/alerter",
+    tags: ["alert", "notifications", "toast", "flash", "messages"],
+    description: "Easy and fully customizable stackable alert system",
+    url: "https://github.com/gosukiwi/alerter",
+    source: "https://raw.githubusercontent.com/gosukiwi/alerter/master/dist/alerter.min.js"
   }
 ];
