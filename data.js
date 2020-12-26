@@ -965,6 +965,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/organic-scholar/http.js/master/dist/http.js"
   },
   {
+    name: "pico-ajax",
+    github: "udivankin/pico-ajax",
+    tags: ["fetch", "promise", "json", "xhr", "ajax", "rest", "http", "axios", "https"],
+    description: "Universal (browser and NodeJS), very tiny (browser version is ~1kb uncompressed) yet fully functional AJAX library with zero dependencies. Gives control over body and headers.",
+    url: "https://github.com/udivankin/pico-ajax",
+    source: "https://raw.githubusercontent.com/udivankin/pico-ajax/master/dist/browser/picoajax.min.js"
+  },
+  {
     name: "Automator.js",
     github: "brophdawg11/Automator.js",
     tags: ["Automation", "Unit testing", "Sequence", "User interaction"],
