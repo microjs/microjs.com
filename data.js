@@ -1629,7 +1629,7 @@ module.exports = [
     tags: ["spreadsheet", "fast", "dom", "templating", "website"],
     description: "Render website sections with data from Google Spreadsheets",
     url: "https://websheet.js.org",
-    source: "https://raw.githubusercontent.com/pierreavn/websheetjs/master/dist/websheet.min.js"
+    source: "https://raw.githubusercontent.com/pierreavn/websheetjs/master/dist/websheet.js"
   },
   {
     name: "Panzer",
