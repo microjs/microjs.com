@@ -1624,6 +1624,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/gigafied/minion/master/dist/minion-latest.js"
   },
   {
+    name: "websheet.js",
+    github: "pierreavn/websheetjs",
+    tags: ["spreadsheet", "fast", "dom", "templating", "website"],
+    description: "Render website sections with data from Google Spreadsheets",
+    url: "https://websheet.js.org",
+    source: "https://raw.githubusercontent.com/pierreavn/websheetjs/master/dist/websheet.min.js"
+  },
+  {
     name: "Panzer",
     tags: ["data"],
     description: "A comprehensive node-tree solution, for smart data",
