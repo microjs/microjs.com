@@ -8,6 +8,14 @@
 // See examples below.
 module.exports = [
   {
+    name: "defer.js",
+    github: "shinsenter/defer.js",
+    tags:  ["deferjs", "defer loading", "lazy loading js", "lazyloader", "lazyload", "native", "scroll reveal", "scroll monitor", "intersection observer"],
+    description: "🥇 A super small, super efficient library that helps you lazy load everything like images, video, audio, iframes as well as stylesheets, and JavaScript.",
+    url: "https://github.com/shinsenter/defer.js",
+    source: "https://raw.githubusercontent.com/shinsenter/defer.js/master/src/defer.js"
+  },
+  {
     name: "HashParser",
     github: "rvanbaalen/hashparser",
     tags: ["library","fast", "frontend", "javascript"],
