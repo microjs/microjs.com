@@ -1232,6 +1232,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/erf/imageflip/master/imageflip.js"
   },
   {
+    name: "z-data",
+    github: "funlang/z-data",
+    tags: ["lightweight", "framework", "embedded", "template-engine", "js", "frontend", "minimal", "zero-dependency", "zero-configuration"],
+    description: "Z-data is an extremely lightweight zero configuration embedded front-end js framework.",
+    url: "https://github.com/Funlang/z-data",
+    source: "https://raw.githubusercontent.com/Funlang/z-data/main/src/z-data.js"
+  },
+  {
     name: "safemap.js",
     github: "philbooth/safemap.js",
     tags: ["map", "dictionary", "associative array", "data structure"],
