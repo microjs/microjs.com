@@ -5332,7 +5332,7 @@ module.exports = [
     tags: ["svelte3", "inline-styles", "svelte-action"],
     description: "Efficiently apply inline styles to Svelte components.",
     url: "https://github.com/rozek/svelte-inline-style",
-    source: "https://raw.githubusercontent.com/rozek/svelte-inline-style/main/src/svelte-inline-style.ts"
+    source: "https://github.com/rozek/svelte-inline-style/releases/download/0.1.0/svelte-inline-style.ts"
   },
   {
     name: "NanoModal",
