@@ -5327,6 +5327,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/gitterHQ/mutant.js/master/public/assets/mutant.js"
   },
   {
+    name: "svelte-inline-style",
+    github: "rozek/svelte-inline-style",
+    tags: ["svelte3", "inline-styles", "svelte-action"],
+    description: "Efficiently apply inline styles to Svelte components.",
+    url: "https://github.com/rozek/svelte-inline-style",
+    source: "https://raw.githubusercontent.com/rozek/svelte-inline-style/main/src/svelte-inline-style.ts"
+  },
+  {
     name: "NanoModal",
     github: "kylepaulsen/NanoModal",
     tags: ["modal", "dialog", "popup", "message"],
