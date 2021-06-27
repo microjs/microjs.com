@@ -634,6 +634,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/daniellmb/aop.js/master/aop.js"
   },
   {
+    name: "svelte-system-info",
+    github: "rozek/svelte-system-info",
+    tags: ["browser-detection", "os-detection"],
+    description: "determines name and version of underlying browser and operating system (not only for Svelte)",
+    url: "https://github.com/rozek/svelte-system-info",
+    source: "https://raw.githubusercontent.com/rozek/svelte-system-info/main/src/svelte-system-info.ts"
+  },
+  {
     name: "di.js",
     tags: ["dependency", "injection", "di"],
     description: "Dependency Injection Micro Library.",
