@@ -159,7 +159,7 @@ module.exports = [
     github: "spectjs/subscript",
     tags: ["dsl", "language", "expression", "evaluator", "calculator", "arithmetic", "math"],
     description: "Microlanguage with common syntax subset of JS/C++/Python/Rust/Go, for custom DSL/expression evaluations/templates etc.",
-    url: https://www.npmjs.com/package/subscript",
+    url: "https://github.com/spectjs/subscript",
     source: ["https://unpkg.com/subscript@1.0.2/subscript.js"]
   },
   {
