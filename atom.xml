@@ -5824,5 +5824,301 @@
 		<summary>Automatically switch css html background color.</summary>
 	</entry>
 
+	<entry>
+		<title>subscript</title>
+		<link href="https://github.com/spectjs/subscript" />
+		<id>urn:uuid:1f198ad0-3e31-11ec-aad0-5958422550ca</id>
+		<updated>2021-11-05'T'12:08:37+00:00</updated>
+		<summary>Microlanguage with common syntax subset of JS/C++/Python/Rust/Go, for custom DSL/expression evaluations/templates etc. Also provides justin lang - JSON with expressions.</summary>
+	</entry>
+
+	<entry>
+		<title>WirupExpress</title>
+		<link href="https://github.com/razaibi/WirupExpress" />
+		<id>urn:uuid:1f3c7c20-3e31-11ec-aad0-5958422550ca</id>
+		<updated>2021-11-05'T'12:08:37+00:00</updated>
+		<summary>The Ultra Lightweight version of Wirup.</summary>
+	</entry>
+
+	<entry>
+		<title>HashParser</title>
+		<link href="https://github.com/rvanbaalen/hashparser" />
+		<id>urn:uuid:1f747c10-3e31-11ec-aad0-5958422550ca</id>
+		<updated>2021-11-05'T'12:08:37+00:00</updated>
+		<summary>Super tiny library to set and get (encoded/decoded) parameters in the hash of your URL.</summary>
+	</entry>
+
+	<entry>
+		<title>Wirup</title>
+		<link href="https://github.com/razaibi/Wirup" />
+		<id>urn:uuid:1f74a320-3e31-11ec-aad0-5958422550ca</id>
+		<updated>2021-11-05'T'12:08:37+00:00</updated>
+		<summary>Lightweight nano framework for Single Page Applications (SPAs) on the web.</summary>
+	</entry>
+
+	<entry>
+		<title>ShadowQuery</title>
+		<link href="https://github.com/schrotie/shadow-query" />
+		<id>urn:uuid:1f756670-3e31-11ec-aad0-5958422550ca</id>
+		<updated>2021-11-05'T'12:08:37+00:00</updated>
+		<summary>Micro-library for writing vanilla web components</summary>
+	</entry>
+
+	<entry>
+		<title>JShorthand</title>
+		<link href="https://github.com/skarukas/JShorthand" />
+		<id>urn:uuid:1f758d80-3e31-11ec-aad0-5958422550ca</id>
+		<updated>2021-11-05'T'12:08:37+00:00</updated>
+		<summary>Perform an aggregate of method calls upon an object in only one statement</summary>
+	</entry>
+
+	<entry>
+		<title>event-e3</title>
+		<link href="https://github.com/GrosSacASac/event-e3" />
+		<id>urn:uuid:201c54d0-3e31-11ec-aad0-5958422550ca</id>
+		<updated>2021-11-05'T'12:08:37+00:00</updated>
+		<summary>Universal light Event Emitter</summary>
+	</entry>
+
+	<entry>
+		<title>Fun Hooks</title>
+		<link href="https://github.com/snapwich/fun-hooks" />
+		<id>urn:uuid:20244410-3e31-11ec-aad0-5958422550ca</id>
+		<updated>2021-11-05'T'12:08:37+00:00</updated>
+		<summary>A generalized and simple hooking API for adding extensibility to your applications</summary>
+	</entry>
+
+	<entry>
+		<title>dom99</title>
+		<link href="https://dom99.now.sh/" />
+		<id>urn:uuid:20333830-3e31-11ec-aad0-5958422550ca</id>
+		<updated>2021-11-05'T'12:08:37+00:00</updated>
+		<summary>Extend html with directives</summary>
+	</entry>
+
+	<entry>
+		<title>samd</title>
+		<link href="https://github.com/morris/samd" />
+		<id>urn:uuid:235b5330-3e31-11ec-aad0-5958422550ca</id>
+		<updated>2021-11-05'T'12:08:37+00:00</updated>
+		<summary>A tiny, static AMD API implementation. Combine with TypeScript to replace Webpack.</summary>
+	</entry>
+
+	<entry>
+		<title>sqroll</title>
+		<link href="https://github.com/ezakto/sqroll" />
+		<id>urn:uuid:24b0d110-3e31-11ec-aad0-5958422550ca</id>
+		<updated>2021-11-05'T'12:08:37+00:00</updated>
+		<summary>A scrolling library with a simple api and a small overhead</summary>
+	</entry>
+
+	<entry>
+		<title>ColonJs</title>
+		<link href="https://colonjs.org" />
+		<id>urn:uuid:24b45380-3e31-11ec-aad0-5958422550ca</id>
+		<updated>2021-11-05'T'12:08:37+00:00</updated>
+		<summary>ColonJs Front End Micro Framework</summary>
+	</entry>
+
+	<entry>
+		<title>z-data</title>
+		<link href="https://github.com/Funlang/z-data" />
+		<id>urn:uuid:24b47a90-3e31-11ec-aad0-5958422550ca</id>
+		<updated>2021-11-05'T'12:08:37+00:00</updated>
+		<summary>Z-data is an extremely lightweight zero configuration embedded front-end js framework.</summary>
+	</entry>
+
+	<entry>
+		<title>websheet.js</title>
+		<link href="https://websheet.js.org" />
+		<id>urn:uuid:25572330-3e31-11ec-aad0-5958422550ca</id>
+		<updated>2021-11-05'T'12:08:37+00:00</updated>
+		<summary>Render website sections with data from Google Spreadsheets</summary>
+	</entry>
+
+	<entry>
+		<title>vanilla-picker-mini</title>
+		<link href="https://github.com/Sphinxxxx/vanilla-picker-mini" />
+		<id>urn:uuid:25d35810-3e31-11ec-aad0-5958422550ca</id>
+		<updated>2021-11-05'T'12:08:37+00:00</updated>
+		<summary>A simple, easy to use color picker with alpha selection.</summary>
+	</entry>
+
+	<entry>
+		<title>almy.js</title>
+		<link href="https://github.com/tomas2387/almy" />
+		<id>urn:uuid:273f4420-3e31-11ec-aad0-5958422550ca</id>
+		<updated>2021-11-05'T'12:08:37+00:00</updated>
+		<summary>Fast &amp; simple centralized state management library</summary>
+	</entry>
+
+	<entry>
+		<title>Dragonbinder</title>
+		<link href="https://github.com/Masquerade-Circus/dragonbinder" />
+		<id>urn:uuid:27f797a0-3e31-11ec-aad0-5958422550ca</id>
+		<updated>2021-11-05'T'12:08:37+00:00</updated>
+		<summary>1kb progressive state management library inspired by Vuex.</summary>
+	</entry>
+
+	<entry>
+		<title>pqm</title>
+		<link href="https://github.com/GhostWrench/pqm" />
+		<id>urn:uuid:2a477b10-3e31-11ec-aad0-5958422550ca</id>
+		<updated>2021-11-05'T'12:08:37+00:00</updated>
+		<summary>Physical Quantities and Measures (PQM) is a Node and browser package for dealing with numbers with units</summary>
+	</entry>
+
+	<entry>
+		<title>Minidenticons</title>
+		<link href="https://github.com/laurentpayot/minidenticons" />
+		<id>urn:uuid:2b7bdc60-3e31-11ec-aad0-5958422550ca</id>
+		<updated>2021-11-05'T'12:08:37+00:00</updated>
+		<summary>Super lightweight svg identicon (avatar) generator for your site. Try the online demo 😃</summary>
+	</entry>
+
+	<entry>
+		<title>Spotlight</title>
+		<link href="https://github.com/nextapps-de/spotlight" />
+		<id>urn:uuid:2c129e20-3e31-11ec-aad0-5958422550ca</id>
+		<updated>2021-11-05'T'12:08:37+00:00</updated>
+		<summary>A cross-browser responsive image gallery without dependencies.</summary>
+	</entry>
+
+	<entry>
+		<title>Force DOM reflow JS</title>
+		<link href="https://github.com/anonyco/Force-DOM-reflow-JS" />
+		<id>urn:uuid:2c8c8910-3e31-11ec-aad0-5958422550ca</id>
+		<updated>2021-11-05'T'12:08:37+00:00</updated>
+		<summary>The cross-browser force DOM reflow library that will work in all current and future browsers</summary>
+	</entry>
+
+	<entry>
+		<title>BestBase64EncoderDecoder</title>
+		<link href="https://anonyco.github.io/BestBase64EncoderDecoder/demo.html" />
+		<id>urn:uuid:2c8cb020-3e31-11ec-aad0-5958422550ca</id>
+		<updated>2021-11-05'T'12:08:37+00:00</updated>
+		<summary>The most standard, most cross-browser, most compact, and fastest possible btoa and atob solution for unicode strings with high code points</summary>
+	</entry>
+
+	<entry>
+		<title>Fast Map, WeakMap, Set, and WeakSet Polyfill</title>
+		<link href="https://github.com/anonyco/Javascript-Fast-Light-Map-WeakMap-Set-And-WeakSet-JS-Polyfill" />
+		<id>urn:uuid:2c8cb021-3e31-11ec-aad0-5958422550ca</id>
+		<updated>2021-11-05'T'12:08:37+00:00</updated>
+		<summary>A fast, lightweight, Javascript Map and WeakMap polyfill</summary>
+	</entry>
+
+	<entry>
+		<title>FastestSmallestTextEncoderDecoder</title>
+		<link href="https://anonyco.github.io/FastestSmallestTextEncoderDecoder/gh-pages/" />
+		<id>urn:uuid:2c8cd730-3e31-11ec-aad0-5958422550ca</id>
+		<updated>2021-11-05'T'12:08:37+00:00</updated>
+		<summary>The fastest smallest Javascript polyfill for the encode of TextEncoder and decode of TextDecoder for UTF-8 only</summary>
+	</entry>
+
+	<entry>
+		<title>SuperSimpleExtensibleSmallXMLHttpRequestWrapper</title>
+		<link href="https://github.com/anonyco/SuperSimpleExtensibleSmallXMLHttpRequestWrapper" />
+		<id>urn:uuid:2c8cd731-3e31-11ec-aad0-5958422550ca</id>
+		<updated>2021-11-05'T'12:08:37+00:00</updated>
+		<summary>A 338-byte super small, simple, light, fast, XMLHttpRequest wrapper</summary>
+	</entry>
+
+	<entry>
+		<title>DeferStackJS</title>
+		<link href="https://github.com/anonyco/DeferStackJS" />
+		<id>urn:uuid:2cacbb40-3e31-11ec-aad0-5958422550ca</id>
+		<updated>2021-11-05'T'12:08:37+00:00</updated>
+		<summary>A small fast library that solves the &apos;Maximum Stack Call Exceeded&apos; error</summary>
+	</entry>
+
+	<entry>
+		<title>AsyncGlobalEvalFunction</title>
+		<link href="https://github.com/anonyco/AsynchronousEvalFunction" />
+		<id>urn:uuid:2d08bdf0-3e31-11ec-aad0-5958422550ca</id>
+		<updated>2021-11-05'T'12:08:37+00:00</updated>
+		<summary>A simple way to asynchronously defer execution of code stored in a string to prevent execution thread blockage</summary>
+	</entry>
+
+	<entry>
+		<title>IDL-Property-Observer</title>
+		<link href="https://github.com/anonyco/IDL-Property-Observer" />
+		<id>urn:uuid:2d08e500-3e31-11ec-aad0-5958422550ca</id>
+		<updated>2021-11-05'T'12:08:37+00:00</updated>
+		<summary>Plug changes like HTMLInputElement.value into MutationObservers in 766 bytes. Framework agnostic!.</summary>
+	</entry>
+
+	<entry>
+		<title>Highlighter-JS</title>
+		<link href="https://github.com/anonyco/Highlighter-JS" />
+		<id>urn:uuid:2d1763f0-3e31-11ec-aad0-5958422550ca</id>
+		<updated>2021-11-05'T'12:08:37+00:00</updated>
+		<summary>Simple, small, fast, multilingual text highlighter in javascript.</summary>
+	</entry>
+
+	<entry>
+		<title>FAT</title>
+		<link href="https://github.com/nextapps-de/fat" />
+		<id>urn:uuid:2d178b00-3e31-11ec-aad0-5958422550ca</id>
+		<updated>2021-11-05'T'12:08:37+00:00</updated>
+		<summary>Web&apos;s fastest and most lightweight animation tool. This is a compact version including: Animation, Easing, Bezier, Transform, Colors.</summary>
+	</entry>
+
+	<entry>
+		<title>Browser Storage JS</title>
+		<link href="https://github.com/lcavadas/browser-storage-js" />
+		<id>urn:uuid:30066d90-3e31-11ec-aad0-5958422550ca</id>
+		<updated>2021-11-05'T'12:08:37+00:00</updated>
+		<summary>JavaScript Library for Cross Browser Persistence using WebStorage (LocalStorage, SessionStorage, WebSQL and IndexedDB) for all browsers.</summary>
+	</entry>
+
+	<entry>
+		<title>Spck-Embed</title>
+		<link href="https://github.com/spckio/spck-embed" />
+		<id>urn:uuid:30ba2d30-3e31-11ec-aad0-5958422550ca</id>
+		<updated>2021-11-05'T'12:08:37+00:00</updated>
+		<summary>Small embeddable online code editor for demos.</summary>
+	</entry>
+
+	<entry>
+		<title>easyrouter</title>
+		<link href="https://github.com/aMarCruz/easyrouter" />
+		<id>urn:uuid:30df1a50-3e31-11ec-aad0-5958422550ca</id>
+		<updated>2021-11-05'T'12:08:37+00:00</updated>
+		<summary>Tiny, fast, easy, yet powerful hash router in JavaScript</summary>
+	</entry>
+
+	<entry>
+		<title>gradstop</title>
+		<link href="https://github.com/Siddharth11/gradstop" />
+		<id>urn:uuid:30df4160-3e31-11ec-aad0-5958422550ca</id>
+		<updated>2021-11-05'T'12:08:37+00:00</updated>
+		<summary>JavaScript micro library to generate gradient color stops</summary>
+	</entry>
+
+	<entry>
+		<title>JS-Entity-Component-System</title>
+		<link href="https://github.com/Stuhl/javascript-entity-component-system" />
+		<id>urn:uuid:30df4161-3e31-11ec-aad0-5958422550ca</id>
+		<updated>2021-11-05'T'12:08:37+00:00</updated>
+		<summary>A small entity-component-system library written in JS</summary>
+	</entry>
+
+	<entry>
+		<title>Excellent.js</title>
+		<link href="https://github.com/vitaly-t/excellent" />
+		<id>urn:uuid:30df6870-3e31-11ec-aad0-5958422550ca</id>
+		<updated>2021-11-05'T'12:08:37+00:00</updated>
+		<summary>DOM-Manipulation Framework</summary>
+	</entry>
+
+	<entry>
+		<title>Beedle</title>
+		<link href="https://github.com/hankchizljaw/beedle" />
+		<id>urn:uuid:30df8f80-3e31-11ec-aad0-5958422550ca</id>
+		<updated>2021-11-05'T'12:08:37+00:00</updated>
+		<summary>A tiny library inspired by Redux &amp; Vuex to help you manage state in your JavaScript apps</summary>
+	</entry>
+
 
 </feed>
