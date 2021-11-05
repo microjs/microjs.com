@@ -837,6 +837,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/SimonWaldherr/cryptofoo/master/cryptofoo.js"
   },
   {
+    name: "samd",
+    github: "morris/samd",
+    tags: ["amd", "umd", "javascript", "typescript", "web", "loader", "bundler", "webpack", "rollup"],
+    description: "A tiny, static AMD API implementation. Combine with TypeScript to replace Webpack.",
+    url: "https://github.com/morris/samd",
+    source: "https://raw.githubusercontent.com/morris/samd/master/dist/samd.js"
+  },
+  {
     name: "guard",
     github: "iofjuupasli/guard",
     tags: ["access", "control", "acl", "guard", "auth", "authorized", "unauthorized"],
