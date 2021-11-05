@@ -8,6 +8,14 @@
 // See examples below.
 module.exports = [
   {
+    name: "HashParser",
+    github: "rvanbaalen/hashparser",
+    tags: ["library","fast", "frontend", "javascript"],
+    description: "Super tiny library to set and get (encoded/decoded) parameters in the hash of your URL.",
+    url: "https://github.com/rvanbaalen/hashparser",
+    source: "https://raw.githubusercontent.com/rvanbaalen/hashparser/master/src/hashparser.js"
+  },
+  {
     name: "Wirup",
     github: "razaibi/Wirup",
     tags: ["nano-framework", "single-page-application","fast", "routing", "wirup", "frontend", "javascript"],
@@ -24,6 +32,15 @@ module.exports = [
     source: "https://raw.githubusercontent.com/razaibi/WirupExpress/master/js/WirupExpress.js"
   },
   {
+    name: "dom99",
+    github: "GrosSacASac/DOM99",
+    tags: ["html", "javascript", "dom", "declarative", "custom", "elements", "web",
+    "component", "framework", "library", "reactive", "data-attributes", "light", "browser"],
+    description: "Extend html with directives",
+    url: "https://dom99.now.sh/",
+    source: "https://unpkg.com/dom99/built/dom99.es.js"
+  },
+  {
     name: "sprites.js",
     github: "wisniewski94/sprites.js",
     tags: ["sprite", "canvas", "sprites.js", "requestAnimationFrame", "raf", "front-end", "frontend", "javascript"],
@@ -32,12 +49,28 @@ module.exports = [
     source: "https://raw.githubusercontent.com/wisniewski94/sprites.js/master/sprites.js"
   },
   {
+    name: "apt.js",
+    github: "frqnck/apt.js",
+    tags: ["browser", "embeddable", "loader", "base", "dom", "micro", "framework", "require"],
+    description: "Minimalist, fast, rather-slim and pretty concise framework/library. Provides the flavour of both jQuery and RequireJS without the payload. Small enough to be embedded in any first-byte.",
+    url: "https://github.com/frqnck/apt.js",
+    source: "https://github.com/frqnck/apt.js/blob/master/src/apt-core.js"
+  },
+  {
     name: "ShadowQuery",
     github: "schrotie/shadow-query",
     tags: ["web-components"],
     description: "Micro-library for writing vanilla web components",
     url: "https://github.com/schrotie/shadow-query",
     source: "https://raw.githubusercontent.com/schrotie/shadow-query/master/shadowQuery.mjs"
+  },
+  {
+    name: "Fun Hooks",
+    github: "snapwich/fun-hooks",
+    tags: ["hooks", "before", "after", "pre", "post", "wrapper", "plugins"],
+    description: "A generalized and simple hooking API for adding extensibility to your applications",
+    url: "https://github.com/snapwich/fun-hooks",
+    source: "http://unpkg.com/fun-hooks@latest/index.js"
   },
   {
     name: "VP PubSub",
@@ -99,6 +132,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/krisk/Fuse/master/src/fuse.js"
   },
   {
+    name: "JShorthand",
+    tags: ["chaining", "object", "syntax", "shorthand", "wrapper"],
+    description: "Perform an aggregate of method calls upon an object in only one statement",
+    url: "https://github.com/skarukas/JShorthand",
+    source: "https://raw.githubusercontent.com/skarukas/JShorthand/master/jshorthand.js"
+  },
+  {
     name: "Tiny Browser Framework",
     github: "thedumbterminal/TinyBrowserFramework",
     tags: ["framework", "web", "websocket", "browser"],
@@ -113,6 +153,14 @@ module.exports = [
     description: "A tiny pub/sub jQuery micro-framework for distant component interaction",
     url: "https://github.com/ahmed-musallam/syrupjs",
     source: ["https://raw.githubusercontent.com/ahmed-musallam/syrupjs/master/vendor/tiny-pub-sub.js","https://raw.githubusercontent.com/ahmed-musallam/syrupjs/master/index.js"]
+  },
+  {
+    name: "subscript",
+    github: "spectjs/subscript",
+    tags: ["dsl", "language", "expression", "evaluator", "calculator", "arithmetic", "math", "justin"],
+    description: "Microlanguage with common syntax subset of JS/C++/Python/Rust/Go, for custom DSL/expression evaluations/templates etc. Also provides justin lang - JSON with expressions.",
+    url: "https://github.com/spectjs/subscript",
+    source: ["https://unpkg.com/subscript@1.0.5/subscript.js"]
   },
   {
     name: "blobcounter.js",
@@ -247,6 +295,14 @@ module.exports = [
     description: "Simple route callbacks",
     url: "https://github.com/tbleckert/location-init",
     source: "https://raw.githubusercontent.com/tbleckert/location-init/master/index.js"
+  },
+  {
+    name: "event-e3",
+    github: "GrosSacASac/event-e3",
+    tags: ["browser", "node.js", "universal", "publish", "subscribe", "listen", "message", "sender", "receiver", "observer", "push", "distribution", "event", "emitter", "3"],
+    description: "Universal light Event Emitter",
+    url: "https://github.com/GrosSacASac/event-e3",
+    source: "https://raw.githubusercontent.com/GrosSacASac/event-e3/master/event-e3.js"
   },
   {
     name: "indent.js",
@@ -430,6 +486,14 @@ module.exports = [
     description: "Visualize your data with Timesheet.js",
     url: "https://github.com/sbstjn/timesheet.js",
     source: "https://raw.githubusercontent.com/sbstjn/timesheet.js/master/source/javascripts/timesheet.js"
+  },
+  {
+    name: "Zed.js",
+    github: "Paul-Browne/Zed-framework",
+    tags: ["micro", "micro framework", "single-page-application", "spa", "fast", "zed", "zedjs", "frontend", "javascript", "mvc", "mvc framework", "component"],
+    description: "Zed.js is a templateless micro frontend framework. It handles the rendering, updating and state management of your html components in only 854 bytes",
+    url: "https://zed.js.org",
+    source: "https://raw.githubusercontent.com/Paul-Browne/Zed-framework/master/Z.js"
   },
   {
     name: "dual-emitter",
@@ -771,6 +835,14 @@ module.exports = [
     description: "A good compromise between speed and validity to hash strings",
     url: "https://github.com/SimonWaldherr/cryptofoo",
     source: "https://raw.githubusercontent.com/SimonWaldherr/cryptofoo/master/cryptofoo.js"
+  },
+  {
+    name: "samd",
+    github: "morris/samd",
+    tags: ["amd", "umd", "javascript", "typescript", "web", "loader", "bundler", "webpack", "rollup"],
+    description: "A tiny, static AMD API implementation. Combine with TypeScript to replace Webpack.",
+    url: "https://github.com/morris/samd",
+    source: "https://raw.githubusercontent.com/morris/samd/master/dist/samd.js"
   },
   {
     name: "guard",
@@ -1176,6 +1248,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/erf/imageflip/master/imageflip.js"
   },
   {
+    name: "z-data",
+    github: "funlang/z-data",
+    tags: ["lightweight", "framework", "embedded", "template-engine", "js", "frontend", "minimal", "zero-dependency", "zero-configuration"],
+    description: "Z-data is an extremely lightweight zero configuration embedded front-end js framework.",
+    url: "https://github.com/Funlang/z-data",
+    source: "https://raw.githubusercontent.com/Funlang/z-data/main/src/z-data.js"
+  },
+  {
     name: "safemap.js",
     github: "philbooth/safemap.js",
     tags: ["map", "dictionary", "associative array", "data structure"],
@@ -1238,6 +1318,13 @@ module.exports = [
     description: "The best async rate limiter for Node and the browser",
     url: "https://github.com/SGrondin/bottleneck",
     source: "https://raw.githubusercontent.com/SGrondin/bottleneck/master/bottleneck.js"
+  },
+  {
+    name: "sqroll",
+    tags: ["scroll", "scrolling", "trigger", "parallax"],
+    description: "A scrolling library with a simple api and a small overhead",
+    url: "https://github.com/ezakto/sqroll",
+    source: "https://raw.githubusercontent.com/ezakto/sqroll/master/dist/sqroll.js"
   },
   {
     name: "accounting.js",
@@ -1390,6 +1477,14 @@ module.exports = [
     description: "A small library for checking types and throwing exceptions.",
     url: "https://github.com/philbooth/check-types.js",
     source: "https://raw.githubusercontent.com/philbooth/check-types.js/master/src/check-types.js"
+  },
+  {
+    name: "ColonJs",
+    github: "nesovera/colonjs",
+    tags: ["frontend","front","dom", "diff", "templating", "framework", "components"],
+    description: "ColonJs Front End Micro Framework",
+    url: "https://colonjs.org",
+    source: "https://raw.githubusercontent.com/nesovera/colonjs/master/dist/colon.js"
   },
   {
     name: "augment",
@@ -1551,6 +1646,14 @@ module.exports = [
     description: "Cross-platform & cross-browser classical inheritance in JavaScript",
     url: "https://github.com/gigafied/minion",
     source: "https://raw.githubusercontent.com/gigafied/minion/master/dist/minion-latest.js"
+  },
+  {
+    name: "websheet.js",
+    github: "pierreavn/websheetjs",
+    tags: ["spreadsheet", "fast", "dom", "templating", "website"],
+    description: "Render website sections with data from Google Spreadsheets",
+    url: "https://websheet.js.org",
+    source: "https://raw.githubusercontent.com/pierreavn/websheetjs/master/dist/websheet.js"
   },
   {
     name: "Panzer",
@@ -2410,6 +2513,14 @@ module.exports = [
     description: "Custom Event/Messaging system for JavaScript.",
     url: "http://millermedeiros.github.io/js-signals/",
     source: "https://raw.githubusercontent.com/millermedeiros/js-signals/master/dist/signals.js"
+  },
+  {
+    name: "Dragonbinder",
+    github: "Masquerade-Circus/dragonbinder",
+    tags: ["store", "state", "state management", "reactive", "vuex", "redux", "flux", "manager"],
+    description: "1kb progressive state management library inspired by Vuex.",
+    url: "https://github.com/Masquerade-Circus/dragonbinder",
+    source: "https://raw.githubusercontent.com/Masquerade-Circus/dragonbinder/master/lib/index.js"
   },
   {
     name: "Crossroads.js",
@@ -3285,6 +3396,13 @@ module.exports = [
     url: "https://github.com/sandeepjain/fayer",
     source: "https://raw.githubusercontent.com/sandeepjain/fayer/master/src/fayer.js"
   },
+  {
+    name: "pqm",
+    tags: ["units", "physics", "quantities", "dimensions"],
+    description: "Physical Quantities and Measures (PQM) is a Node and browser package for dealing with numbers with units",
+    url: "https://github.com/GhostWrench/pqm",
+    source: "https://raw.githubusercontent.com/GhostWrench/pqm/master/build/cjs/pqm.cjs"
+  },
   /* versioned releases, removed
   {
     name: "Supplement.js",
@@ -3689,6 +3807,22 @@ module.exports = [
   },
   */
   {
+    name: "Day.js",
+    github: "iamkun/dayjs",
+    tags: ["date", "time", "moment", "dayjs", "immutable", "parse", "format", "fromnow"],
+    description: "parses, validates, manipulates, and displays dates, 2KB immutable alternative to Moment.js",
+    url: "https://github.com/iamkun/dayjs",
+    source: "https://raw.githubusercontent.com/iamkun/dayjs/master/src/index.js"
+  },
+  {
+    name: "Minidenticons",
+    github: "laurentpayot/minidenticons",
+    tags: ["identicon", "generator", "svg", "avatar", "icon", "webcomponent", "component", "browser", "nodejs", "html", "image", "picture", "username"],
+    description: "Super lightweight svg identicon (avatar) generator for your site. Try the online demo 😃",
+    url: "https://github.com/laurentpayot/minidenticons",
+    source: "https://raw.githubusercontent.com/laurentpayot/minidenticons/main/minidenticons.js"
+  },
+  {
     name: "swiftcore.js",
     tags: ["IOC", "dependency injection", "microkernel"],
     description: "A lightweight and flexible microkernel/IOC container which helps to build testable decoupled systems",
@@ -3834,6 +3968,13 @@ module.exports = [
     tags: ["dependency injection", "IOC"],
     description: "A micro dependency injection framework inspired by Spring. Simple and to the point.",
     source: "https://raw.githubusercontent.com/shiftyp/hypo/master/dist/hypo.src.js"
+  },
+  {
+    name: "Spotlight",
+    tags: ["image", "images", "responsive", "photo", "slideshow", "carousel", "gallery", "slider", "lightbox"],
+    description: "A cross-browser responsive image gallery without dependencies.",
+    url: "https://github.com/nextapps-de/spotlight",
+    source: "https://raw.githubusercontent.com/nextapps-de/spotlight/0.6.3/dist/spotlight.micro.js"
   },
   {
     name: "pubsub.js",
@@ -4071,6 +4212,86 @@ module.exports = [
     source: "https://cdn.jsdelivr.net/npm/domtastic@latest/dist/domtastic.js"
   },
   {
+    name: "FastestSmallestTextEncoderDecoder",
+    github: "anonyco/FastestSmallestTextEncoderDecoder",
+    tags: ["utf-8", "encoding", "decoding", "browser", "node-js", "polyfill"],
+    description: "The fastest smallest Javascript polyfill for the encode of TextEncoder and decode of TextDecoder for UTF-8 only",
+    url: "https://anonyco.github.io/FastestSmallestTextEncoderDecoder/gh-pages/",
+    source: "https://raw.githubusercontent.com/anonyco/FastestSmallestTextEncoderDecoder/master/EncoderDecoderTogether.src.js"
+  },
+  {
+    name: "BestBase64EncoderDecoder",
+    github: "anonyco/BestBase64EncoderDecoder",
+    tags: ["btoa", "atob", "utf-8", "browser", "node-js"],
+    description: "The most standard, most cross-browser, most compact, and fastest possible btoa and atob solution for unicode strings with high code points",
+    url: "https://anonyco.github.io/BestBase64EncoderDecoder/demo.html",
+    source: "https://raw.githubusercontent.com/anonyco/BestBase64EncoderDecoder/master/atobAndBtoaTogether.src.js"
+  },
+  {
+    name: "Fast Map, WeakMap, Set, and WeakSet Polyfill",
+    github: "anonyco/Javascript-Fast-Light-Map-WeakMap-Set-And-WeakSet-JS-Polyfill",
+    tags: ["polyfill", "map", "weakmap-polyfill", "map-polyfill", "weakset-polyfill", "set-polyfill", "es6", "browser"],
+    description: "A fast, lightweight, Javascript Map and WeakMap polyfill",
+    url: "https://github.com/anonyco/Javascript-Fast-Light-Map-WeakMap-Set-And-WeakSet-JS-Polyfill",
+    source: "https://raw.githubusercontent.com/anonyco/Javascript-Fast-Light-Map-WeakMap-Set-And-WeakSet-JS-Polyfill/master/mapPolyfill.src.js"
+  },
+  {
+    name: "SuperSimpleExtensibleSmallXMLHttpRequestWrapper",
+    github: "anonyco/SuperSimpleExtensibleSmallXMLHttpRequestWrapper",
+    tags: ["xmlhttprequest", "http", "xmlhttprequest-wrapper", "browser"],
+    description: "A 338-byte super small, simple, light, fast, XMLHttpRequest wrapper",
+    url: "https://github.com/anonyco/SuperSimpleExtensibleSmallXMLHttpRequestWrapper",
+    source: "https://raw.githubusercontent.com/anonyco/SuperSimpleExtensibleSmallXMLHttpRequestWrapper/master/superxhr.src.js"
+  },
+  {
+    name: "Force DOM reflow JS",
+    github: "anonyco/Force-DOM-reflow-JS",
+    tags: ["dom-reflow", "css-transitions", "browser"],
+    description: "The cross-browser force DOM reflow library that will work in all current and future browsers",
+    url: "https://github.com/anonyco/Force-DOM-reflow-JS",
+    source: "https://anonyco.github.io/Force-DOM-reflow-JS/forceReflow.src.js"
+  },
+  {
+    name: "DeferStackJS",
+    github: "anonyco/DeferStackJS",
+    tags: ["deferred-tasks", "trampoline", "node-js", "browser"],
+    description: "A small fast library that solves the 'Maximum Stack Call Exceeded' error",
+    url: "https://github.com/anonyco/DeferStackJS",
+    source: "https://anonyco.github.io/DeferStackJS/DeferStack.src.js"
+  },
+  {
+    name: "AsyncGlobalEvalFunction",
+    github: "anonyco/AsynchronousEvalFunction",
+    tags: ["eval", "asynchronous", "global", "node-js", "browser"],
+    description: "A simple way to asynchronously defer execution of code stored in a string to prevent execution thread blockage",
+    url: "https://github.com/anonyco/AsynchronousEvalFunction",
+    source: "https://raw.githubusercontent.com/anonyco/AsynchronousEvalFunction/master/AsyncGlobalEvalFunction.src.js"
+  },
+  {
+    name: "SPromiseMeSpeed",
+    github: "anonyco/SPromiseMeSpeedJS",
+    tags: ["speed-polyfill", "polyfill", "promise", "Promises/A+", "asynchronous", "es6", "node-js", "browser"],
+    description: "The javascript library that promises you the fastest ES6 promises",
+    url: "https://github.com/anonyco/SPromiseMeSpeedJS",
+    source: "https://anonyco.github.io/SPromiseMeSpeedJS/SPromiseMeSpeed.src.js"
+  },
+  {
+    name: "Highlighter-JS",
+    github: "anonyco/Highlighter-JS",
+    tags: ["functional", "es6", "node-js", "browser"],
+    description: "Simple, small, fast, multilingual text highlighter in javascript.",
+    url: "https://github.com/anonyco/Highlighter-JS",
+    source: "https://raw.githubusercontent.com/anonyco/Highlighter-JS/master/highlighter.src.js"
+  },
+  {
+    name: "IDL-Property-Observer",
+    github: "anonyco/IDL-Property-Observer",
+    tags: ["mutation-observer", "evil", "es6", "browser"],
+    description: "Plug changes like HTMLInputElement.value into MutationObservers in 766 bytes. Framework agnostic!.",
+    url: "https://github.com/anonyco/IDL-Property-Observer",
+    source: "https://raw.githubusercontent.com/anonyco/IDL-Property-Observer/master/IDLPropertyObserver.src.js"
+  },
+  {
     name: "Timer.js",
     tags: ["interval", "timeout", "timer", "periodic"],
     description: "Timer.js is a periodic timer for Node.js and the browser.",
@@ -4120,6 +4341,14 @@ module.exports = [
     description: "A small, fast, easy-to-use library for arbitrary-precision decimal arithmetic.",
     url: "https://github.com/MikeMcl/big.js/",
     source: "https://raw.githubusercontent.com/MikeMcl/big.js/master/big.js"
+  },
+  {
+    name: "FAT",
+    github: "nextapps-de/fat",
+    tags: ["fast", "animation", "tool", "tween", "transform", "transition", "filter", "effect", "slide", "animate"],
+    description: "Web's fastest and most lightweight animation tool. This is a compact version including: Animation, Easing, Bezier, Transform, Colors.",
+    url: "https://github.com/nextapps-de/fat",
+    source: "https://raw.githubusercontent.com/nextapps-de/fat/0.6.71/dist/microjs/fat.compact.js"
   },
   {
     name: "PicoModal",
@@ -5732,5 +5961,13 @@ module.exports = [
     description: "A tiny library inspired by Redux & Vuex to help you manage state in your JavaScript apps",
     url: "https://github.com/hankchizljaw/beedle",
     source: "https://raw.githubusercontent.com/hankchizljaw/beedle/master/src/beedle.js"
+  },
+  {
+    name: "JS-Entity-Component-System",
+    github: "Stuhl/javascript-entity-component-system",
+    tags: ["simple", "games", "entity", "component", "system"],
+    description: "A small entity-component-system library written in JS",
+    url: "https://github.com/Stuhl/javascript-entity-component-system",
+    source: "https://raw.githubusercontent.com/Stuhl/javascript-entity-component-system/master/src/index.js"
   }
 ];
