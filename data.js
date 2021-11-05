@@ -160,7 +160,7 @@ module.exports = [
     tags: ["dsl", "language", "expression", "evaluator", "calculator", "arithmetic", "math", "justin"],
     description: "Microlanguage with common syntax subset of JS/C++/Python/Rust/Go, for custom DSL/expression evaluations/templates etc. Also provides justin lang - JSON with expressions.",
     url: "https://github.com/spectjs/subscript",
-    source: ["https://unpkg.com/subscript@1.0.3/subscript.js"]
+    source: ["https://unpkg.com/subscript@1.0.4/subscript.js"]
   },
   {
     name: "blobcounter.js",
