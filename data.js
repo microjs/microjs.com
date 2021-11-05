@@ -3388,6 +3388,13 @@ module.exports = [
     url: "https://github.com/sandeepjain/fayer",
     source: "https://raw.githubusercontent.com/sandeepjain/fayer/master/src/fayer.js"
   },
+  {
+    name: "pqm",
+    tags: ["units", "physics", "quantities", "dimensions"],
+    description: "Physical Quantities and Measures (PQM) is a Node and browser package for dealing with numbers with units",
+    url: "https://github.com/GhostWrench/pqm",
+    source: "https://raw.githubusercontent.com/GhostWrench/pqm/master/build/cjs/pqm.cjs"
+  },
   /* versioned releases, removed
   {
     name: "Supplement.js",
