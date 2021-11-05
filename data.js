@@ -3815,6 +3815,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/iamkun/dayjs/master/src/index.js"
   },
   {
+    name: "Minidenticons",
+    github: "laurentpayot/minidenticons",
+    tags: ["identicon", "generator", "svg", "avatar", "icon", "webcomponent", "component", "browser", "nodejs", "html", "image", "picture", "username"],
+    description: "Super lightweight svg identicon (avatar) generator for your site. Try the online demo 😃",
+    url: "https://github.com/laurentpayot/minidenticons",
+    source: "https://raw.githubusercontent.com/laurentpayot/minidenticons/main/minidenticons.js"
+  },
+  {
     name: "swiftcore.js",
     tags: ["IOC", "dependency injection", "microkernel"],
     description: "A lightweight and flexible microkernel/IOC container which helps to build testable decoupled systems",
