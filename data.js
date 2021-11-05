@@ -155,6 +155,14 @@ module.exports = [
     source: ["https://raw.githubusercontent.com/ahmed-musallam/syrupjs/master/vendor/tiny-pub-sub.js","https://raw.githubusercontent.com/ahmed-musallam/syrupjs/master/index.js"]
   },
   {
+    name: "subscript",
+    github: "spectjs/subscript",
+    tags: ["dsl", "language", "expression", "evaluator", "calculator", "arithmetic", "math", "justin"],
+    description: "Microlanguage with common syntax subset of JS/C++/Python/Rust/Go, for custom DSL/expression evaluations/templates etc. Also provides justin lang - JSON with expressions.",
+    url: "https://github.com/spectjs/subscript",
+    source: ["https://unpkg.com/subscript@1.0.5/subscript.js"]
+  },
+  {
     name: "blobcounter.js",
     github: "satrobit/blobcounter.js",
     tags: ["blob", "image", "canvas", "processing", "2D", "blobcounter"],
