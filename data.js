@@ -5977,5 +5977,13 @@ module.exports = [
     description: "A small entity-component-system library written in JS",
     url: "https://github.com/Stuhl/javascript-entity-component-system",
     source: "https://raw.githubusercontent.com/Stuhl/javascript-entity-component-system/master/src/index.js"
+  },
+  {
+    name: "FicusJS router",
+    github: "ficusjs/ficusjs-router",
+    tags: ["html5", "router", "routes", "browser", "location", "history", "hash", "component"],
+    description: "Lightweight standalone client-side router that supports history and hash routing plus web components",
+    url: "https://github.com/ficusjs/ficusjs-router",
+    source: "https://raw.githubusercontent.com/ficusjs/ficusjs-router/main/src/router.mjs"
   }
 ];
