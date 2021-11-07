@@ -21,7 +21,7 @@ module.exports = [
     tags: ["dom", "qsa", "jquery", "frontend", "javascript", "typescript"],
     description: "One kilobyte library for easy manipulation of the DOM.",
     url: "https://github.com/edwinm/carbonium",
-    source: "https://raw.githubusercontent.com/edwinm/carbonium/master/src/carbonium.ts"
+    source: "https://cdn.jsdelivr.net/gh/edwinm/carbonium@1.1.0/dist/bundle.js"
   },
   {
     name: "Wirup",
