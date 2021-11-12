@@ -155,6 +155,14 @@ module.exports = [
     source: ["https://raw.githubusercontent.com/ahmed-musallam/syrupjs/master/vendor/tiny-pub-sub.js","https://raw.githubusercontent.com/ahmed-musallam/syrupjs/master/index.js"]
   },
   {
+    name: "subscript",
+    github: "spectjs/subscript",
+    tags: ["dsl", "language", "expression", "evaluator", "calculator", "arithmetic", "math", "justin"],
+    description: "Microlanguage with common syntax subset of JS/C++/Python/Rust/Go, for custom DSL/expression evaluations/templates etc. Also provides justin lang - JSON with expressions.",
+    url: "https://github.com/spectjs/subscript",
+    source: ["https://unpkg.com/subscript@1.0.5/subscript.js"]
+  },
+  {
     name: "blobcounter.js",
     github: "satrobit/blobcounter.js",
     tags: ["blob", "image", "canvas", "processing", "2D", "blobcounter"],
@@ -377,6 +385,14 @@ module.exports = [
     description: "Create pretty scrollbars",
     url: "https://github.com/wieringen/tinyscrollbar",
     source: "https://raw.githubusercontent.com/wieringen/tinyscrollbar/master/lib/tinyscrollbar.js"
+  },
+  {
+    name: "HollyDates",
+    github: "eko3alpha/hollydates",
+    tags: ["holiday", "holidays", "date", "dates", "date checker", "holiday parser", "holiday checker"],
+    description: "Determine if a date is a holiday or falls on custom dates. Add custom and recurring dates",
+    url: "https://github.com/eko3alpha/hollydates",
+    source: "https://raw.githubusercontent.com/eko3alpha/hollydates/master/hollydates.js"
   },
   {
     name: "ba.js",
@@ -829,6 +845,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/SimonWaldherr/cryptofoo/master/cryptofoo.js"
   },
   {
+    name: "samd",
+    github: "morris/samd",
+    tags: ["amd", "umd", "javascript", "typescript", "web", "loader", "bundler", "webpack", "rollup"],
+    description: "A tiny, static AMD API implementation. Combine with TypeScript to replace Webpack.",
+    url: "https://github.com/morris/samd",
+    source: "https://raw.githubusercontent.com/morris/samd/master/dist/samd.js"
+  },
+  {
     name: "guard",
     github: "iofjuupasli/guard",
     tags: ["access", "control", "acl", "guard", "auth", "authorized", "unauthorized"],
@@ -1240,6 +1264,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/erf/imageflip/master/imageflip.js"
   },
   {
+    name: "z-data",
+    github: "funlang/z-data",
+    tags: ["lightweight", "framework", "embedded", "template-engine", "js", "frontend", "minimal", "zero-dependency", "zero-configuration"],
+    description: "Z-data is an extremely lightweight zero configuration embedded front-end js framework.",
+    url: "https://github.com/Funlang/z-data",
+    source: "https://raw.githubusercontent.com/Funlang/z-data/main/src/z-data.js"
+  },
+  {
     name: "safemap.js",
     github: "philbooth/safemap.js",
     tags: ["map", "dictionary", "associative array", "data structure"],
@@ -1630,6 +1662,14 @@ module.exports = [
     description: "Cross-platform & cross-browser classical inheritance in JavaScript",
     url: "https://github.com/gigafied/minion",
     source: "https://raw.githubusercontent.com/gigafied/minion/master/dist/minion-latest.js"
+  },
+  {
+    name: "websheet.js",
+    github: "pierreavn/websheetjs",
+    tags: ["spreadsheet", "fast", "dom", "templating", "website"],
+    description: "Render website sections with data from Google Spreadsheets",
+    url: "https://websheet.js.org",
+    source: "https://raw.githubusercontent.com/pierreavn/websheetjs/master/dist/websheet.js"
   },
   {
     name: "Panzer",
@@ -3372,6 +3412,13 @@ module.exports = [
     url: "https://github.com/sandeepjain/fayer",
     source: "https://raw.githubusercontent.com/sandeepjain/fayer/master/src/fayer.js"
   },
+  {
+    name: "pqm",
+    tags: ["units", "physics", "quantities", "dimensions"],
+    description: "Physical Quantities and Measures (PQM) is a Node and browser package for dealing with numbers with units",
+    url: "https://github.com/GhostWrench/pqm",
+    source: "https://raw.githubusercontent.com/GhostWrench/pqm/master/build/cjs/pqm.cjs"
+  },
   /* versioned releases, removed
   {
     name: "Supplement.js",
@@ -3782,6 +3829,14 @@ module.exports = [
     description: "parses, validates, manipulates, and displays dates, 2KB immutable alternative to Moment.js",
     url: "https://github.com/iamkun/dayjs",
     source: "https://raw.githubusercontent.com/iamkun/dayjs/master/src/index.js"
+  },
+  {
+    name: "Minidenticons",
+    github: "laurentpayot/minidenticons",
+    tags: ["identicon", "generator", "svg", "avatar", "icon", "webcomponent", "component", "browser", "nodejs", "html", "image", "picture", "username"],
+    description: "Super lightweight svg identicon (avatar) generator for your site. Try the online demo 😃",
+    url: "https://github.com/laurentpayot/minidenticons",
+    source: "https://raw.githubusercontent.com/laurentpayot/minidenticons/main/minidenticons.js"
   },
   {
     name: "swiftcore.js",
