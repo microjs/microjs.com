@@ -3728,7 +3728,7 @@ module.exports = [
      "https://raw.githubusercontent.com/paulsmithkc/bassoon/master/src/bassoon.mjs",
      "https://raw.githubusercontent.com/paulsmithkc/bassoon/master/src/Emitter.mjs",
      "https://raw.githubusercontent.com/paulsmithkc/bassoon/master/src/Parser.mjs",
-     "https://raw.githubusercontent.com/paulsmithkc/bassoon/master/src/bassoon-worker.js"
+     "https://raw.githubusercontent.com/paulsmithkc/bassoon/master/src/bassoon-worker.mjs"
     ]
   },
   {
