@@ -8,6 +8,14 @@
 // See examples below.
 module.exports = [
   {
+    name: "iter-ops",
+    github: "vitaly-t/iter-ops",
+    tags: ["typescript", "synchronous", "asynchronous", "sequence", "iterators", "iterables", "collections", "map", "filter", "reduce"],
+    description: "Basic operations on iterables",
+    url: "https://github.com/vitaly-t/iter-ops",
+    source: "https://github.com/vitaly-t/iter-ops/tree/main/src"
+  },  
+  {
     name: "HashParser",
     github: "rvanbaalen/hashparser",
     tags: ["library","fast", "frontend", "javascript"],
