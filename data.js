@@ -2358,6 +2358,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/wessman/defer.js/master/src/defer.js"
   },
   {
+    name: "defer.js",
+    tags: ["lazy", "loader", "lazyloader", "lazy-load", "async", "defer"],
+    description: "A super small, super efficient library that helps you lazy load (almost) anything. Core Web Vitals friendly.",
+    url: "https://github.com/shinsenter/defer.js",
+    source: "https://raw.githubusercontent.com/shinsenter/defer.js/master/src/defer.js"
+  },
+  {
     name: "BottleJS",
     tags: ["dependency injection", "dependency", "injection", "ioc", "di", "provider"],
     description: "A powerful, extensible dependency injection micro container.",
