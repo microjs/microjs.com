@@ -5984,5 +5984,13 @@ module.exports = [
     description: "A small entity-component-system library written in JS",
     url: "https://github.com/Stuhl/javascript-entity-component-system",
     source: "https://raw.githubusercontent.com/Stuhl/javascript-entity-component-system/master/src/index.js"
-  }
+  },
+  {
+    name: "spect",
+    github: "spectjs/spect",
+    tags: ["aspect", "aop", "frp", "observable", "selector-observer", "hyperscript", "htm"],
+    description: "Aspect-oriented reactive DOM framework",
+    url: "https://github.com/spectjs/spect",
+    source: "https://unpkg.com/browse/spect@22.0.0/dist/spect.min.js"
+  },
 ];
