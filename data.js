@@ -5874,14 +5874,6 @@ module.exports = [
     source: "https://raw.githubusercontent.com/gibbok/animatelo/master/dist/animatelo.min.js"
   },
   {
-    name: "Picodom",
-    github: "picodom/picodom",
-    tags: ["virtual", "dom", "templating"],
-    description: "1kb JavaScript Virtual DOM builder and patch algorithm.",
-    url: "https://github.com/picodom/picodom",
-    source: "https://unpkg.com/picodom"
-  },
-  {
     name: "xPrototype",
     github: "reduardo7/xPrototype",
     tags: ["javascript", "prototype", "extend", "object", "quick", "simple", "nojquery", "loop", "browser", "chrome", "firefox"],
@@ -5991,6 +5983,6 @@ module.exports = [
     tags: ["aspect", "aop", "frp", "observable", "selector-observer", "hyperscript", "htm"],
     description: "Aspect-oriented reactive DOM framework",
     url: "https://github.com/spectjs/spect",
-    source: "https://unpkg.com/browse/spect@22.0.0/dist/spect.min.js"
+    source: "https://raw.githubusercontent.com/spectjs/spect/master/spect.js"
   },
 ];
