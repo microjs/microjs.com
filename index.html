@@ -114,7 +114,7 @@
             tags = '<span>'+results[i].tags.join('</span> <span>')+'</span>';
             r.stat =
                 '<div class="stat">'
-              + (r.ghwatchers ? t('<span class="w icon">{ghwatchers}</span><span class="f icon">{ghforks}</span>', r) : '')
+              + (r.ghwatchers ? t('<a href="{ghurl}/stargazers" style="display: inline;"><span class="w icon">{ghwatchers}</span></a><a href="{ghurl}/network/members" style="display: inline;"><span class="f icon">{ghforks}</span></a>', r) : '')
               + (r.tweets ? t('<span class="t icon">{tweets}</span>', r) : '')
               + '</div>'
             r.heading = r.name.length < 16 ? 3 : 4;

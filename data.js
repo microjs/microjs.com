@@ -387,6 +387,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/wieringen/tinyscrollbar/master/lib/tinyscrollbar.js"
   },
   {
+    name: "HollyDates",
+    github: "eko3alpha/hollydates",
+    tags: ["holiday", "holidays", "date", "dates", "date checker", "holiday parser", "holiday checker"],
+    description: "Determine if a date is a holiday or falls on custom dates. Add custom and recurring dates",
+    url: "https://github.com/eko3alpha/hollydates",
+    source: "https://raw.githubusercontent.com/eko3alpha/hollydates/master/hollydates.js"
+  },
+  {
     name: "ba.js",
     github: "Arood/bajs",
     tags: ["animation", "animations", "css", "css3"],
@@ -2348,6 +2356,13 @@ module.exports = [
     description: "Predicate-based JS execution engine, for in-page and external scripts. Loads itself asynchronously.",
     url: "https://github.com/wessman/defer.js",
     source: "https://raw.githubusercontent.com/wessman/defer.js/master/src/defer.js"
+  },
+  {
+    name: "defer.js",
+    tags: ["lazy", "loader", "lazyloader", "lazy-load", "async", "defer"],
+    description: "A super small, super efficient library that helps you lazy load (almost) anything. Core Web Vitals friendly.",
+    url: "https://github.com/shinsenter/defer.js",
+    source: "https://raw.githubusercontent.com/shinsenter/defer.js/master/src/defer.js"
   },
   {
     name: "BottleJS",
@@ -5859,14 +5874,6 @@ module.exports = [
     source: "https://raw.githubusercontent.com/gibbok/animatelo/master/dist/animatelo.min.js"
   },
   {
-    name: "Picodom",
-    github: "picodom/picodom",
-    tags: ["virtual", "dom", "templating"],
-    description: "1kb JavaScript Virtual DOM builder and patch algorithm.",
-    url: "https://github.com/picodom/picodom",
-    source: "https://unpkg.com/picodom"
-  },
-  {
     name: "xPrototype",
     github: "reduardo7/xPrototype",
     tags: ["javascript", "prototype", "extend", "object", "quick", "simple", "nojquery", "loop", "browser", "chrome", "firefox"],
@@ -5969,5 +5976,13 @@ module.exports = [
     description: "A small entity-component-system library written in JS",
     url: "https://github.com/Stuhl/javascript-entity-component-system",
     source: "https://raw.githubusercontent.com/Stuhl/javascript-entity-component-system/master/src/index.js"
-  }
+  },
+  {
+    name: "spect",
+    github: "spectjs/spect",
+    tags: ["aspect", "aop", "frp", "observable", "selector-observer", "hyperscript", "htm"],
+    description: "Aspect-oriented reactive DOM framework",
+    url: "https://github.com/spectjs/spect",
+    source: "https://raw.githubusercontent.com/spectjs/spect/master/spect.js"
+  },
 ];
