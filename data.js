@@ -160,7 +160,23 @@ module.exports = [
     tags: ["dsl", "language", "expression", "evaluator", "calculator", "arithmetic", "math", "justin"],
     description: "Microlanguage with common syntax subset of JS/C++/Python/Rust/Go, for custom DSL/expression evaluations/templates etc. Also provides justin lang - JSON with expressions.",
     url: "https://github.com/spectjs/subscript",
-    source: ["https://unpkg.com/subscript@1.0.5/subscript.js"]
+    source: ["https://unpkg.com/subscript@6.3.0/subscript.js"]
+  },
+  {
+    name: "spect",
+    github: "spectjs/spect",
+    tags: ["aspect", "aop", "selector-observer", "custom-elements", "animation-event"],
+    description: "DOM aspects: pieces of logic defined with CSS rules.",
+    url: "https://github.com/spectjs/spect",
+    source: ["https://unpkg.com/spect@24.1.3/spect.js"]
+  },
+  {
+    name: "templize",
+    github: "spectjs/templize",
+    tags: ["template-instantiation", "template-parts", "dom-parts", "template"],
+    description: "Template Parts for any DOM elements with expressions and reactivity",
+    url: "https://github.com/spectjs/templize",
+    source: ["https://unpkg.com/templize@1.4.2/templize.js"]
   },
   {
     name: "blobcounter.js",
