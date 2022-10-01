@@ -54,7 +54,7 @@ module.exports = [
     tags: ["browser", "embeddable", "loader", "base", "dom", "micro", "framework", "require"],
     description: "Minimalist, fast, rather-slim and pretty concise framework/library. Provides the flavour of both jQuery and RequireJS without the payload. Small enough to be embedded in any first-byte.",
     url: "https://github.com/frqnck/apt.js",
-    source: "https://github.com/frqnck/apt.js/blob/master/src/apt-core.js"
+    source: "https://raw.githubusercontent.com/frqnck/apt.js/master/dist/apt.js"
   },
   {
     name: "ShadowQuery",
@@ -2110,7 +2110,7 @@ module.exports = [
     tags: ["regex", "regular expression", "generator"],
     description: "RegexGen.js is a JavaScript regular expression generator that helps to construct complex regular expressions.",
     url: "http://amobiz.github.io/regexgen.js/",
-    source: "https://raw.githubusercontent.com/amobiz/regexgen.js/master/dist/regexgen.js"
+    source: "https://raw.githubusercontent.com/amobiz/regexgen.js/master/index.js"
   },
   {
     name: "Firmin",
@@ -2356,6 +2356,13 @@ module.exports = [
     description: "Predicate-based JS execution engine, for in-page and external scripts. Loads itself asynchronously.",
     url: "https://github.com/wessman/defer.js",
     source: "https://raw.githubusercontent.com/wessman/defer.js/master/src/defer.js"
+  },
+  {
+    name: "defer.js",
+    tags: ["lazy", "loader", "lazyloader", "lazy-load", "async", "defer"],
+    description: "A super small, super efficient library that helps you lazy load (almost) anything. Core Web Vitals friendly.",
+    url: "https://github.com/shinsenter/defer.js",
+    source: "https://raw.githubusercontent.com/shinsenter/defer.js/master/src/defer.js"
   },
   {
     name: "BottleJS",
@@ -5396,8 +5403,7 @@ module.exports = [
     description: "The best step-by-step feature introduction for your web sites, that's a promise!",
     url: "https://github.com/xxxmatko/tutorial.js",
     source: [
-      "https://github.com/xxxmatko/tutorial.js/blob/master/wwwroot/js/tutorial.js",
-      "https://github.com/xxxmatko/tutorial.js/blob/master/wwwroot/css/tutorial.css"
+      "https://github.com/xxxmatko/tutorial.js/blob/master/wwwroot/js/tutorial.js"
     ]
   },
   {
@@ -5578,7 +5584,7 @@ module.exports = [
     tags: ["html5", "router", "routes", "tree", "framework-agnostic", "functional", "reactive", "spa"],
     description: "Simple, framework-agnostic, powerful and functional HTML5 routing solution.",
     url: "http://router5.github.io",
-    source: "https://raw.githubusercontent.com/router5/router5/master/dist/browser/router5.js"
+    source: "https://raw.githubusercontent.com/router5/router5/master/dist/router5.js"
   },
   {
     name: "type-ahead.js",
@@ -5586,7 +5592,7 @@ module.exports = [
     tags: ["typeahead", "autocomplete", "autosuggest", "complete", "suggest"],
     description: "A lightweight and extensible type ahead library",
     url: "https://github.com/marcojetson/type-ahead.js",
-    source: "https://raw.githubusercontent.com/marcojetson/type-ahead.js/master/type-ahead.js"
+    source: "https://raw.githubusercontent.com/marcojetson/type-ahead.js/master/src/type-ahead.js"
   },
   {
     name: "dont-go",
@@ -5701,10 +5707,10 @@ module.exports = [
   },
   {
     name: "preact",
-    github: "developit/preact",
+    github: "preactjs/preact",
     tags: ["dom", "diff", "templating", "react", "components"],
     description: "Preact is a fast, 3kB alternative to React, with the same ES2015 API",
-    url: "https://github.com/developit/preact",
+    url: "https://github.com/preactjs/preact",
     source: "https://raw.githubusercontent.com/developit/preact/master/src/preact.js"
   },
   {
@@ -5817,7 +5823,7 @@ module.exports = [
     tags: ["DOM", "manipulation", "events", "css", "query selection", "data", "traversal", "es2015", "js:next", "functional"],
     description: "A lightweight DOM manipulation library",
     url: "https://github.com/enzyme/qoob",
-    source: "https://raw.githubusercontent.com/enzyme/qoob/master/src/qoob.js"
+    source: "https://raw.githubusercontent.com/enzyme/qoob/master/dist/qoob.js"
   },
   {
     name: "Prophet.js",
@@ -5867,14 +5873,6 @@ module.exports = [
     source: "https://raw.githubusercontent.com/gibbok/animatelo/master/dist/animatelo.min.js"
   },
   {
-    name: "Picodom",
-    github: "picodom/picodom",
-    tags: ["virtual", "dom", "templating"],
-    description: "1kb JavaScript Virtual DOM builder and patch algorithm.",
-    url: "https://github.com/picodom/picodom",
-    source: "https://unpkg.com/picodom"
-  },
-  {
     name: "xPrototype",
     github: "reduardo7/xPrototype",
     tags: ["javascript", "prototype", "extend", "object", "quick", "simple", "nojquery", "loop", "browser", "chrome", "firefox"],
@@ -5912,7 +5910,7 @@ module.exports = [
     tags: ["javascript", "search engine", "full-text search", "elastic search"],
     description: "Next-Generation full text search library with zero dependencies.",
     url: "https://github.com/nextapps-de/flexsearch",
-    source: "https://cdn.rawgit.com/nextapps-de/flexsearch/master/flexsearch.compact.js"
+    source: "https://raw.githubusercontent.com/nextapps-de/flexsearch/master/dist/flexsearch.debug.js"
   },
   {
     name: "tiv",
@@ -5920,7 +5918,7 @@ module.exports = [
     tags: ["javascript", "Validation"],
     description: "1kb JavaScript Identify Number Validater.",
     url: "https://github.com/kucukharf/tiv",
-    source: "https://raw.githubusercontent.com/kucukharf/tiv/master/tiv.min.js"
+    source: "https://raw.githubusercontent.com/kucukharf/tiv/master/tiv.js"
   },
   {
     name: "classies",
@@ -5977,6 +5975,14 @@ module.exports = [
     description: "A small entity-component-system library written in JS",
     url: "https://github.com/Stuhl/javascript-entity-component-system",
     source: "https://raw.githubusercontent.com/Stuhl/javascript-entity-component-system/master/src/index.js"
+  },
+  {
+    name: "spect",
+    github: "spectjs/spect",
+    tags: ["aspect", "aop", "frp", "observable", "selector-observer", "hyperscript", "htm"],
+    description: "Aspect-oriented reactive DOM framework",
+    url: "https://github.com/spectjs/spect",
+    source: "https://raw.githubusercontent.com/spectjs/spect/master/spect.js"
   },
   {
     name: "FicusJS router",

@@ -6120,5 +6120,37 @@
 		<summary>A tiny library inspired by Redux &amp; Vuex to help you manage state in your JavaScript apps</summary>
 	</entry>
 
+	<entry>
+		<title>HollyDates</title>
+		<link href="https://github.com/eko3alpha/hollydates" />
+		<id>urn:uuid:bd64d6a0-1cc9-11ed-a2cf-972cc1794153</id>
+		<updated>2022-08-15'T'18:40:27+00:00</updated>
+		<summary>Determine if a date is a holiday or falls on custom dates. Add custom and recurring dates</summary>
+	</entry>
+
+	<entry>
+		<title>apt.js</title>
+		<link href="https://github.com/frqnck/apt.js" />
+		<id>urn:uuid:fc7f9840-1ccc-11ed-9742-95bd0244169a</id>
+		<updated>2022-08-15'T'19:03:44+00:00</updated>
+		<summary>Minimalist, fast, rather-slim and pretty concise framework/library. Provides the flavour of both jQuery and RequireJS without the payload. Small enough to be embedded in any first-byte.</summary>
+	</entry>
+
+	<entry>
+		<title>Qoob</title>
+		<link href="https://github.com/enzyme/qoob" />
+		<id>urn:uuid:13812ea0-1ccd-11ed-9742-95bd0244169a</id>
+		<updated>2022-08-15'T'19:03:44+00:00</updated>
+		<summary>A lightweight DOM manipulation library</summary>
+	</entry>
+
+	<entry>
+		<title>tiv</title>
+		<link href="https://github.com/kucukharf/tiv" />
+		<id>urn:uuid:13fb1990-1ccd-11ed-9742-95bd0244169a</id>
+		<updated>2022-08-15'T'19:03:44+00:00</updated>
+		<summary>1kb JavaScript Identify Number Validater.</summary>
+	</entry>
+
 
 </feed>
