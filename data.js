@@ -5983,5 +5983,12 @@ module.exports = [
     description: "Aspect-oriented reactive DOM framework",
     url: "https://github.com/spectjs/spect",
     source: "https://raw.githubusercontent.com/spectjs/spect/master/spect.js"
+  },  {
+    name: "tint",
+    github: " marcodpt/tint",
+    tags: ["html", "template", "virtual-dom", "vuejs", "spa", "template-engine", "thymeleaf", "dom", "xml", "mustache", "template-language", "handlebars", "html-template", "rivets", "transparency", "dom-templating", "natural", "hyperapp", "xml-template", "logic-less"],
+    description: "A browser-based template engine that compiles all template tags into hyperscript functions. It works with all frameworks that use hyperscript. ",
+    url: "https://github.com/marcodpt/tint",
+    source: "https://raw.githubusercontent.com/marcodpt/tint/main/index.js"
   },
 ];
