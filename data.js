@@ -5984,4 +5984,12 @@ module.exports = [
     url: "https://github.com/spectjs/spect",
     source: "https://raw.githubusercontent.com/spectjs/spect/master/spect.js"
   },
+  {
+    name: "query js",
+    github: "marcodpt/query",
+    tags: ["javascript", "url", "parser", "json", "library", "query", "js", "es6", "uri", "encode", "decode", "querystring", "query-parser", "esm", "microjs", "query-params", "query-string", "es6-module", "esmodule"],
+    description: "A really small query string parser and builder, that converts from and to JSON, written as a js es6 module.",
+    url: "https://github.com/marcodpt/query",
+    source: "https://raw.githubusercontent.com/marcodpt/query/main/index.js"
+  },
 ];
