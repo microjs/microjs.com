@@ -2336,6 +2336,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/azer/observer/master/lib/observer.js"
   },
   {
+    name: "ColorColor",
+    github: "metaloha/color2color",
+    tags: ["color", "color manipulation", "color conversion", "rgb", "rgba", "hex", "hexa", "hsl", "hsb", "hsv", ],
+    description: "Converts Hex/HexA/RGB/RGBA/HSL/HSLA/HSV/HSB color strings to Hex/HexA/RGB/RGBA/HSL/HSLA/HSV/HSB color strings.",
+    url: "https://github.com/metaloha/color2color",
+    source: "https://raw.githubusercontent.com/metaloha/color2color/main/dist/colorcolor.js"
+  },
+  {
     name: "almy.js",
     github: "tomas2387/almy",
     tags: ["state", "state-management", "centralized", "management"],

@@ -6152,5 +6152,13 @@
 		<summary>1kb JavaScript Identify Number Validater.</summary>
 	</entry>
 
+	<entry>
+		<title>ColorColor</title>
+		<link href="https://github.com/metaloha/color2color" />
+		<id>urn:uuid:05a81ab0-5d3b-11ed-8465-5dfdb8d3dae7</id>
+		<updated>2022-11-05'T'18:52:09+00:00</updated>
+		<summary>Converts Hex/HexA/RGB/RGBA/HSL/HSLA/HSV/HSB color strings to Hex/HexA/RGB/RGBA/HSL/HSLA/HSV/HSB color strings.</summary>
+	</entry>
+
 
 </feed>
