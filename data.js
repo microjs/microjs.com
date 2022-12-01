@@ -10,10 +10,10 @@ module.exports = [
   {
     name: "HashParser",
     github: "rvanbaalen/hashparser",
-    tags: ["library","fast", "frontend", "javascript"],
-    description: "Super tiny library to set and get (encoded/decoded) parameters in the hash of your URL.",
+    tags: ["library","fast", "frontend", "javascript", "hash", "parameters"],
+    description: "Super tiny library to set and get any value (string/object/array) in the hash of the url, with optional encoding.",
     url: "https://github.com/rvanbaalen/hashparser",
-    source: "https://raw.githubusercontent.com/rvanbaalen/hashparser/master/src/hashparser.js"
+    source: "https://raw.githubusercontent.com/rvanbaalen/hashparser/main/src/hashparser.js"
   },
   {
     name: "Wirup",
