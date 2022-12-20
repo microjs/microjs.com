@@ -5984,4 +5984,12 @@ module.exports = [
     url: "https://github.com/spectjs/spect",
     source: "https://raw.githubusercontent.com/spectjs/spect/master/spect.js"
   },
+  {
+    name: "MicroSPA",
+    github: "marcodpt/microspa",
+    tags: ["javascript", "spa", "router", "micro-framework", "microframework", "microjs", "hash-router", "hash-routing", "micro-frontends", "microfrontends", "hashrouter", "micro-frontend", "microfrontend", "es6modules"],
+    description: "A router for micro-frontends",
+    url: "https://github.com/marcodpt/microspa",
+    source: "https://raw.githubusercontent.com/marcodpt/microspa/main/index.js"
+  },
 ];
