@@ -3781,6 +3781,19 @@ module.exports = [
     source: "https://raw.githubusercontent.com/avoidwork/csv.js/master/lib/csv.js"
   },
   {
+    name: "bassoon.js",
+    tags: ["oboe", "clarinet", "sax", "ajax", "xhr", "fetch", "stream", "json", "array", "object", "front-end"],
+    description: "Library for progressive parsing of ajax responses. Provides notification of objects found without waiting for the request to complete.",
+    url: "https://github.com/paulsmithkc/bassoon#readme",
+    github: "paulsmithkc/bassoon",
+    source: [
+     "https://raw.githubusercontent.com/paulsmithkc/bassoon/master/src/bassoon.mjs",
+     "https://raw.githubusercontent.com/paulsmithkc/bassoon/master/src/Emitter.mjs",
+     "https://raw.githubusercontent.com/paulsmithkc/bassoon/master/src/Parser.mjs",
+     "https://raw.githubusercontent.com/paulsmithkc/bassoon/master/src/bassoon-worker.mjs"
+    ]
+  },
+  {
     name: "tiny-lru.js",
     tags: ["LRU", "cache"],
     description: "Least Recently Used cache",
