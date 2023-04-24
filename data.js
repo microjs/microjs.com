@@ -694,6 +694,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/PoeHaH/devicedetector/master/devicedetector-production.js"
   },
   {
+    name: "svelte-device-info",
+    github: "rozek/svelte-device-info",
+    tags: ["mobile", "phone","tablet","form-factor","resolution-touch"],
+    description: "informs about a device's form factor and pointing accuracy (not only in Svelte)",
+    url: "https://github.com/rozek/svelte-device-info",
+    source: "https://raw.githubusercontent.com/rozek/svelte-device-info/main/src/svelte-device-info.ts"
+  },
+  {
     name: "MicroLib-Tabs",
     tags: ["dom", "tabs", "tabbed content"],
     description: "A small library for easily creating tabbed content. Small markup and a single function.",
