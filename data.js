@@ -5610,6 +5610,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/tiaanduplessis/dont-go/master/lib/dont-go.js"
   },
   {
+    name: "scalar",
+    github: "mirdware/scalar",
+    tags: ["webcomponent", "data-binding", "template", "component", "dom", "events", "two way"],
+    description: "Javascript scalable and not intrusive",
+    url: "https://github.com/mirdware/scalar",
+    source: "https://unpkg.com/scalar"
+  },
+  {
     name: "Browser Storage JS",
     github: "lcavadas/browser-storage-js",
     tags: ["IndexedDB", "WebSQL", "localStorage", "sessionStorage", "localStorage", "storage", "database", "object", "store"],
@@ -5632,6 +5640,14 @@ module.exports = [
     description: "A very small Markdown to HTML converter",
     url: "https://github.com/Holixus/nano-markdown",
     source: "https://raw.githubusercontent.com/Holixus/nano-markdown/master/index.js"
+  },
+  {
+    name: "spawm/resource",
+    github: "mirdware/resource",
+    tags: ["ajax", "promise", "json", "xhr", "rest", "webworker"],
+    description: "Async resources with webworkers",
+    url: "https://github.com/mirdware/resource",
+    source: "https://unpkg.com/@spawm/resource"
   },
   {
     name: "SimpleScrollbar",

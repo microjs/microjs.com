@@ -6152,5 +6152,21 @@
 		<summary>1kb JavaScript Identify Number Validater.</summary>
 	</entry>
 
+	<entry>
+		<title>spawm/resource</title>
+		<link href="https://github.com/mirdware/resource" />
+		<id>urn:uuid:e768cb60-6de0-11ed-ba2c-73838a323d7f</id>
+		<updated>2022-11-26'T'23:19:19+00:00</updated>
+		<summary>Async resources with webworkers</summary>
+	</entry>
+
+	<entry>
+		<title>scalar</title>
+		<link href="https://github.com/mirdware/scalar" />
+		<id>urn:uuid:69727a60-6de2-11ed-a01c-1bc80891dcba</id>
+		<updated>2022-11-26'T'23:30:06+00:00</updated>
+		<summary>Javascript scalable and not intrusive</summary>
+	</entry>
+
 
 </feed>
