@@ -845,6 +845,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/aravindbaskaran/simple-async/master/asynciterator.js"
   },
   {
+    name: "svelte-viewport-info",
+    github: "rozek/svelte-viewport-info",
+    tags: ["device-orientation","viewport-size"],
+    description: "informs about viewport size and orientation (not only in Svelte)",
+    url: "https://github.com/rozek/svelte-viewport-info",
+    source: "https://raw.githubusercontent.com/rozek/svelte-viewport-info/main/src/svelte-viewport-info.ts"
+  },
+  {
     name: "cryptofoo",
     github: "SimonWaldherr/cryptofoo",
     tags: ["hash", "hashing", "md5", "whirlpool"],
