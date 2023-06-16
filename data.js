@@ -8,6 +8,14 @@
 // See examples below.
 module.exports = [
   {
+    name: "fullscr",
+    github: "Axorax/fullscr.js",
+    tags: ["library", "javascript", "web", "fullscreen"],
+    description: "Go fullscreen on any browser with one line of code",
+    url: "https://github.com/Axorax/fullscr.js",
+    source: "https://raw.githubusercontent.com/Axorax/fullscr.js/main/fullscr.js"
+  },
+  {
     name: "HashParser",
     github: "rvanbaalen/hashparser",
     tags: ["library","fast", "frontend", "javascript", "hash", "parameters"],
