@@ -2367,7 +2367,7 @@ module.exports = [
   },
   {
     name: "Defer.js",
-    tags: ["lazy", "loader", "lazyload", "lazy-load", "async", "defer"],
+    tags: ["loader", "vanilla-js", "lazy-loading", "lazy-load", "frontend", "dependency-free", "website-optimization", "intersection-observer"],
     description: "A JavaScript micro-library that helps you lazy load (almost) anything. Defer.js is zero-dependency, super-efficient, and Web Vitals friendly.",
     url: "https://github.com/shinsenter/defer.js",
     source: "https://raw.githubusercontent.com/shinsenter/defer.js/master/src/defer.js"
