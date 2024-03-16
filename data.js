@@ -8,6 +8,14 @@
 // See examples below.
 module.exports = [
   {
+    name: "fast-ease",
+    github: "caracal7/fast-ease",
+    tags: ["library", "javascript", "animation", "easing"],
+    description: "Fast and minimalistic javascript animation library",
+    url: "https://github.com/caracal7/fast-ease",
+    source: "https://raw.githubusercontent.com/caracal7/fast-ease/master/src/index.js"
+  },
+  {
     name: "fullscr",
     github: "Axorax/fullscr.js",
     tags: ["library", "javascript", "web", "fullscreen"],
