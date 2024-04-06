@@ -8,6 +8,14 @@
 // See examples below.
 module.exports = [
   {
+    name: "Lemonadejs",
+    github: "lemonadejs/lemonadejs",
+    tags: ["library", "javascript", "Web"],
+    description: "LemonadeJS is a compact, reactive JavaScript micro-library, weighing in at just 4KB when compressed.",
+    url: "https://github.com/lemonadejs/lemonadejs.git",
+    source: "https://github.com/lemonadejs/lemonadejs/blob/main/packages/template/template/src/App.js"
+  },
+  {
     name: "fullscr",
     github: "Axorax/fullscr.js",
     tags: ["library", "javascript", "web", "fullscreen"],
