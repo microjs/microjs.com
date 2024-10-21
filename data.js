@@ -16,6 +16,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/Axorax/fullscr.js/main/fullscr.js"
   },
   {
+    name: "microlite",
+    github: "matt08/microlite.js",
+    tags: ["lightbox", "images", "image", "modal", "gallery"],
+    description: "Ultra lightweight, minimalistic plain JS lightbox script.",
+    url: "https://github.com/matt08/microlite.js",
+    source: "https://raw.github.com/matt08/microlite.js/main/microlite.js"
+  },
+  {
     name: "HashParser",
     github: "rvanbaalen/hashparser",
     tags: ["library","fast", "frontend", "javascript", "hash", "parameters"],
