@@ -6152,5 +6152,37 @@
 		<summary>1kb JavaScript Identify Number Validater.</summary>
 	</entry>
 
+	<entry>
+		<title>Carbonium</title>
+		<link href="https://github.com/edwinm/carbonium" />
+		<id>urn:uuid:42f050e0-96b4-11ef-8cb1-45c75509ceb7</id>
+		<updated>2024-10-30'T'11:43:48+00:00</updated>
+		<summary>One kilobyte library for easy manipulation of the DOM.</summary>
+	</entry>
+
+	<entry>
+		<title>fast-ease</title>
+		<link href="https://github.com/caracal7/fast-ease" />
+		<id>urn:uuid:43022b30-96b4-11ef-8cb1-45c75509ceb7</id>
+		<updated>2024-10-30'T'11:43:48+00:00</updated>
+		<summary>Fast and minimalistic javascript animation library</summary>
+	</entry>
+
+	<entry>
+		<title>fullscr</title>
+		<link href="https://github.com/Axorax/fullscr.js" />
+		<id>urn:uuid:43025240-96b4-11ef-8cb1-45c75509ceb7</id>
+		<updated>2024-10-30'T'11:43:48+00:00</updated>
+		<summary>Go fullscreen on any browser with one line of code</summary>
+	</entry>
+
+	<entry>
+		<title>microlite</title>
+		<link href="https://github.com/matt08/microlite.js" />
+		<id>urn:uuid:45e12f40-96b4-11ef-8cb1-45c75509ceb7</id>
+		<updated>2024-10-30'T'11:43:48+00:00</updated>
+		<summary>Ultra lightweight, minimalistic plain JS lightbox script.</summary>
+	</entry>
+
 
 </feed>
