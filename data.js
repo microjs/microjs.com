@@ -1101,6 +1101,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/Temoto-kun/avtomat/master/src/avtomat.js"
   },
   {
+    name: "svelte-coordinate-conversion",
+    github: "rozek/svelte-coordinate-conversion",
+    tags: ["coordinate-conversions","local-coordinates","viewport-coordinates","document-coordinates"],
+    description: "converts coordinates between viewport, document and element coordinate systems (not only in Svelte)",
+    url: "https://github.com/rozek/svelte-coordinate-conversion",
+    source: "https://raw.githubusercontent.com/rozek/svelte-coordinate-conversion/main/src/svelte-coordinate-conversion.ts"
+  },
+  {
     name: "store",
     github: "nbubna/store",
     tags: ["localStorage", "sessionStorage", "JSON", "namespace", "API", "extensible"],
