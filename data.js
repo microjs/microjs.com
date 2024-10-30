@@ -180,10 +180,10 @@ module.exports = [
   },
   {
     name: "subscript",
-    github: "spectjs/subscript",
+    github: "dy/subscript",
     tags: ["dsl", "language", "expression", "evaluator", "calculator", "arithmetic", "math", "justin"],
-    description: "Microlanguage with common syntax subset of JS/C++/Python/Rust/Go, for custom DSL/expression evaluations/templates etc. Also provides justin lang - JSON with expressions.",
-    url: "https://github.com/spectjs/subscript",
+    description: "Subscript is expression evaluator / microlanguage with common syntax, useful for DSL, like JSON with expressions.",
+    url: "https://github.com/dy/subscript",
     source: ["https://unpkg.com/subscript@1.0.5/subscript.js"]
   },
   {
